@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Ancient  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "path:\"Lore/Flora and Fauna\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000018,
+  "scale": 0.6554983534946931,
   "close": true
 }
