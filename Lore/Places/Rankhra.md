@@ -1,4 +1,8 @@
 #Ancient
+
+## Origin Mythos
+ It is said that this temple was a gift from the heavens from one of the many deities residing in this plane and they inspired the ancient civillisation of [[Ancients]]. 
+ 
 Mysterious temple protected by a magical force field that prevents anyone from entering it. Located at the centre of [[Zal'Aata]]. This temple is built by the [[Ancients]]
 
 In the centuries after the city was founded, several research groups have attempted to breach the magical barriers of Rankhra with limited success. Instead, they focused on studying the architecture and construction of Rankhra, as well as researching its past and examining the nature of its magic. Religious groups have also claimed the temple to be built by an ancient civilisation worshipping either a singular God or several deities, and spread their respective gospel.
