@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidian gruvbox",
-  "monospaceFontFamily": "Monocraft"
+  "monospaceFontFamily": "Monocraft",
+  "baseFontSize": 15
 }

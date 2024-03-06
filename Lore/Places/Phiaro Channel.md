@@ -1,1 +1,1 @@
-A large river leading through the desert towards the ocean, acting as a safe path through the desert and allowing for ea trading to happen.
+A large river leading through the desert towards the ocean, acting as a safe path through the desert and allowing for sea trading to happen.

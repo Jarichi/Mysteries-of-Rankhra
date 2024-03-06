@@ -1,1 +1,0 @@
-[[Rankhra]] is located within
