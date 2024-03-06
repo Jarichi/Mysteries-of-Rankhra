@@ -1,0 +1,1 @@
+starts out good but as more lore is dicovered they slowly turn BBEG and will do something that causes the collapse of society or smthn

@@ -12,6 +12,6 @@ The name Rankhra is a derivation of the words 'Ankh' and 'Ra', signifying Life a
 
 In the centuries after the city was founded, several research groups have attempted to breach the magical barriers of Rankhra with limited success. Instead, they focused on studying the architecture and construction of Rankhra, as well as researching its past and examining the nature of its magic. Religious groups have also claimed the temple to be built by an ancient civilisation worshipping either a singular God or several deities, and spread their respective gospel.
 
-Within the temple barriers, mysterious spells have been weaved which slow down the flow of time by a large factor, preventing the temple from decaying. While most of the magic is lept inside by its powerful barriers, a small amount of it leaks directly outside the barriers, causing the civilians living near it to age at a slower rate.
+Within the temple barriers, mysterious magic has been observed which slows down the flow of time by a large factor, preventing the temple from decaying. While most of the magic is kept inside by its powerful barriers, a small amount of it leaks directly outside the barriers, causing the civilians living near it to age at a slower rate.
 
-Within the temple, several activatable portals are located leading to different planes of existence. The temple also contains a fast travel way to the [[Side Temple]].
+Within the temple, several toggle-able portals are located leading to different planes of existence (possibly) (gate spell 5e). The temple also contains a fast travel way to the [[Side Temple]].

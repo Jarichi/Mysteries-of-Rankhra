@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 6073814
       }
+    },
+    {
+      "query": "path:Deities  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 1,
   "linkDistance": 123,
-  "scale": 0.4505081176757822,
+  "scale": 0.6872757426070798,
   "close": true
 }
