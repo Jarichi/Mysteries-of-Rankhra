@@ -1,4 +1,4 @@
-#timeline
+#timeline #hidden 
 ```timeline-vis
 tags=test
 startDate=0

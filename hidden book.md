@@ -1,3 +1,4 @@
+#hidden
 containing true lore because all of the lore that the party found during the exploration does not tell the whole story, matter of fcat, tells a completely wrong story.
 the more the book is actively studied, the more the language is ingrained into the beings of the readers.
 ever-changing script but the meaning is constant. (combination of all of the concepts by the god of creation)

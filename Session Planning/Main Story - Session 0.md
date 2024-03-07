@@ -1,4 +1,4 @@
-
+#hidden 
 ## Planned Action
 
 The players find themselves in the brimming nightlife of the city, wandering around all depending on their backstory and will run into each other by coincidence
