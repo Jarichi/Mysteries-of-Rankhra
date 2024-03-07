@@ -2,10 +2,12 @@
 ### Etymology
 The name Rankhra is a derivation of the words 'Ankh' and 'Ra', signifying Life and Sun/Beginning
 ## Origin Mythos
- It is said that this temple was a gift from the heavens from one of the many deities residing in this plane and they inspired the ancient civillisation of [[Ancients]], who built the temple in their name. Legends speak of residents of this ancient civilisation still dwelling inside of the temple. However, this tale cannot be confirmed due to a powerful magical barrier preventing anyone from accessing the temple.
+ It is said that this temple was a gift from the heavens from one of the many deities residing in this plane and they inspired the ancient civilisation of [[Ancients]], who built the temple in their name. Legends speak of residents of this ancient civilisation still dwelling inside of the temple. However, this tale cannot be confirmed due to a powerful magical barrier preventing anyone from accessing the temple.
  Mysteriously, this temple seems to infinitely dispel water directly from inside, flowing outward and into the cardinal directions of the temple base, and as such became the center point of [[Zal'Aata]].
+The temple has been built on one of the sites where the [[God of Creation]] dispelled themselves, and the [[Concept of Flow]] lies. This causes the infinite flow of water, but also te altered flow of time 
 
-## History
+## Layout
+The temple 
 
 ## Properties
 

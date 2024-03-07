@@ -3,3 +3,6 @@ Splits their souls and body nto multiple segements, the soul segments create oth
 otehr parts include the concept of Consistency, (safety, protection, conservatives, no changes, constant ruler since beginning, etc)
 
 parts are concepts and they alter reality, basically.
+
+
+[[Concepts]]
