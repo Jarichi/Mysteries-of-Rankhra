@@ -29,6 +29,7 @@ concept of exploration
 - this concept also has a physical form and can be stored and touched
 - the tribe that holds this concept currently is a nomad tribe that lets itself be leaded by the movement of the concept
 - this concept is "curious" to unexplored areas and will never be at the same place twice
+- (can be the tribe of daan)
 
 concept of reflection
 - (stolen from honkai :3 )
