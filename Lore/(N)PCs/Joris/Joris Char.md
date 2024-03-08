@@ -1,1 +1,1 @@
-part of [[Criminals]] and is a [[Pisco or something]]
+part of [[Criminals]] and is a [[Simic]]
