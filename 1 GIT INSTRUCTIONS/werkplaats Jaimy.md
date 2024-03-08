@@ -36,6 +36,7 @@ concept of reflection
 - when looking at this concept it appears as a mirror
 - when close to the concept you are compelled to reflect on your deeds
 - it also helps you find answers you were (or didnt know you were) looking for
+- this concept stores the memories of all living creatures
 
 concept of Whimsy
 - this concept is inherently magical and has no physical form
