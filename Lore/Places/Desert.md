@@ -1,1 +1,0 @@
-Vasst sandscape which is mainly empty, but contains the [[HunterGroup]]

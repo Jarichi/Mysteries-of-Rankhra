@@ -1,4 +1,4 @@
-[[Hikari]]
+[[Aki]]
 ## Summary
 The Kitsune are a revered race that dwells within the mystical realm of the Feywild, known for their cunning intellect, mystical abilities, and affinity for nature. These enigmatic beings are shapeshifters, capable of assuming the form of a fox at will, and are often revered as guardians of the natural world.
 ## Appearance

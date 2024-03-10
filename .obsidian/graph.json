@@ -4,8 +4,8 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Ancient  ",
@@ -74,6 +74,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 1,
   "linkDistance": 123,
-  "scale": 0.34786094641954224,
+  "scale": 0.48580468782320657,
   "close": true
 }
