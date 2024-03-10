@@ -4,9 +4,6 @@ Chris kopieert deze veranderingen naar de goede file
 dit is ook een goede manier om de veranderingen te screenen om te zien of ze passen in de wereld
 
 
-[[Concepts]]
-
-
 
 
 

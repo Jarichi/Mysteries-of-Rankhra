@@ -1,1 +1,1 @@
-Base of operations for the [[HunterGroup]]. Provides food to [[Zal'Aata]]. One of the main providers for the meat supply, besides cattle and general imports. 
+Base of operations for the [[HunterGroup]]. Provides food to [[Zal'Aata]]. One of the main providers for the meat supply, besides cattle and general imports. Possesses the [[concept of exploration]]. mainly hunt [[Animal]]
