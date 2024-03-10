@@ -3,13 +3,16 @@ Vasst sandscape which is mainly empty, but contains the [[HunterGroup]]
 # Description
 The Makhshar Desert Is a gigantic, seemingly infinitely stretching plain of sand and dunes, but can be separated into several specific landmarks.
 ## Landmark 1 - Grand Desert Plains
-The largest portion of the desert is divided into the Grand Desert Plains, consisting mostly of sandy dunes and large swats of sand. The plains also serve as the space between the more diverse landmarks and act as filler. There is not a lot of vegetation or life in these parts, most animals live underground and most plants resemble cacti species.
+The largest portion of the desert is divided into the Grand Desert Plains, consisting mostly of sandy dunes and large swats of sand. The plains also serve as the space between the more diverse landmarks and act as a canvas on which the desert painted its features. The harsh conditions forced creatures and flora to adapt to a more subsurface level and cactus-like appearance.
 ## Landmark 2 - Phiaro Basin
 The Phiaro Basin is a specific portion of the desert near the [[Phiaro Channel]] (as the name suggests), caused by a collapse into the underground portion of the desert. The Phiaro Basin originally formed Phiaro Lake, which served as the original source of the Phiaro Channel. The basin is quite hard and rocky, with a crater in the centre.
 ## Landmark 3 - Makhshar Caves
-The Makhshar caves are a ginormous cave complex
+The Makhshar caves are a ginormous cave complex spanning a wide portion of the desert and possessing many mysteries. The cooler temperature allowed for critters and vegetation to take on more mesmerising and -quite literally- radiant forms by means of bio-luminescence. 
 ## Landmark 4 - Cornucopia Streak
-The Cornucopia Streak is where the [[Zal'Aata]] is located. Due to the presence of the Concept of Growth and the Concept of Flow, this area contains loads of vegetation and life, and as such is a prime living location for [[Animal]].
+Assisted by the Concept of Growth and the Concept of Flow, the Cornucopia Streak is the home of [[Zal'Aata]]. This oasis contains many different species and provides a diverse and unique area in the desert. Most importantly, [[Animal]] have found their home here.
+## Landmark 5 - Shifting Plains
+The ever-changing dunescape of the SHifting PLains contains a mysterious city rumoured ot modify its appearance every single day (hint: see graph view) [[City of Change]]
+
 ## More landmarks are WIP
 
 # History
