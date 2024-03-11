@@ -1,7 +1,7 @@
 Vast sandscape which is mainly empty, but contains the [[HunterGroup]]
 
 # Description
-The Makhshar Desert Is a gigantic, seemingly infinitely stretching plain of sand and dunes, but can be separated into several specific landmarks.
+The Makhshar Desert is a gigantic, seemingly infinitely stretching plain of sand and dunes, but can be separated into several specific landmarks.
 ## Landmark 1 - Grand Desert Plains
 The largest portion of the desert is divided into the Grand Desert Plains, consisting mostly of sandy dunes and large swats of sand. The plains also serve as the space between the more diverse landmarks and act as a canvas on which the desert painted its features. The harsh conditions forced creatures and flora to adapt to a more subsurface level and cactus-like appearance.
 ## Landmark 2 - Phiaro Basin
