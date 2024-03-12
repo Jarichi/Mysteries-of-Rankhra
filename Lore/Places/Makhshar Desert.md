@@ -17,4 +17,4 @@ The ever-changing dunescape of the Shifting Plains contains a mysterious city ru
 ## More landmarks are WIP
 
 # History
-The Makhshar desert makes up a significant portion of [CountryName] and is seen as both the cradle and coffin of the Gods. Due to this, the Makhshar desert is home to various magical influences, expressed in the form of [[Concepts of Creation]]. Due to the spiritual and magical nature of this desert, the various communities in this place all have a strong connection with these Concepts.
+The Makhshar desert makes up a significant portion of [CountryName] and is seen as both the cradle and coffin of the Gods. Due to this, the Makhshar desert is home to various magical influences. Due to the spiritual and magical nature of this desert, the various communities in this place all have a strong connection with these Concepts.
