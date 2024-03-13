@@ -18,7 +18,7 @@ Gentle death
 
 Misschien voor combat een d6? rollen op een table als iemand dood gaat? 
 1. Small natural occurrence
-2. Send support
+2. Send support (gives uneasy feeling,  roll WIS check if they send backup)
 3. Say goodbye to loved ones
 4. give party a buff/debuff depending on alignment of the dead
 5. 5 Temporary hitpoints for the enemy/party
