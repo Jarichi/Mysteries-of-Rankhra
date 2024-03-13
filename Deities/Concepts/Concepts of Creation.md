@@ -1,0 +1,12 @@
+# Description
+Metaphysical manifestation
+
+## List of Concepts
+[[Concept of Flow]]
+[[Concept of Consistency]]
+[[concept of Whimsy]]
+[[concept of reflection]]
+[[concept of exploration]]
+[[concept of transformation]]
+[[Concept of connection]]
+[[Concept of Growth]]
