@@ -11,8 +11,6 @@ The temple area is divided into 2 main sections. The outside premises are a open
 The inside of the temple appears as a something space with stuff.
 
 ## Properties
-
-
 In the centuries after the city was founded, several research groups have attempted to breach the magical barriers of Rankhra with limited success. Instead, they focused on studying the architecture and construction of Rankhra, as well as researching its past and examining the nature of its magic. Religious groups have also claimed the temple to be built by an ancient civilisation worshipping either a singular God or several deities, and spread their respective gospel.
 
 Within the temple barriers, mysterious magic has been observed which slows down the flow of time by a large factor, preventing the temple from decaying. While most of the magic is kept inside by its powerful barriers, a small amount of it leaks directly outside the barriers, causing the civilians living near it to age at a slower rate.

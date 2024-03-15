@@ -14,7 +14,7 @@ When more discoveries were made, the village shifted its focus on developing sui
 The strategic proximity near the [[Phiaro Channel]] allows for maritime trade routes, furthering Zal'Aata's influence on the world. 
 ## Structure
 
-Zal'Aata is a city divided into distinct domains, each reflecting the social and economic stratification of its populace, as depicted in [[zal'aata.jpg]]. These domains encompass dedicated neighbourhoods, catering to specific races and trades, contributing to the city's diverse tapestry.
+Zal'Aata is a city divided into distinct domains, each reflecting the social and economic stratification of its populace.![[zal'aata.jpg]]These domains encompass dedicated neighbourhoods, catering to specific races and trades, contributing to the city's diverse tapestry.
 ### [[Centroscopia]] - Temple area
 At the heart of Zal'Aata lies Centroscopia, the temple area, where the ruling and elite classes reside. Cloaked in the magical aura of Rankhra, this region benefits from a slowed passage of time, extending the lifespans of its fortunate denizens. The central square serves as a melting pot of races, and it houses the city's governing body. Exclusive places of worship for various religious groups surround the temple, adding to the spiritual aura.
 ### [[First Domain]] - Circle around temple area
