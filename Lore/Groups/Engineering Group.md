@@ -1,0 +1,7 @@
+This group is mainly responsible for the developelemts of the steampunk equipment that is used in the world. It is a laboratory and breeding ground for innovation, striving to be at the top of the tech tree at all times.
+
+They provide the majority of technological advancements that Zal'Aata contains. They are no only responsible for steampunky stuff, but also craft magical artifacts that are used in important spaces. THey crafted the [[Sky Dome]] and are a sponsor of the [[ResearchGroup]]. They also are the main distributers of the Scientific Journal and determine what information gets spread. They have ties with the government that is also using them as a sort of propaganda machine, controlling what inventions get spread to the public. The government has access to a more freely approved journal edition that contains meaningful discoveries that the public doesn't have to know about. The center is called the [[Distribution Center]]
+
+Members are obliged to have a high-level scholarship and must have written a paper beforehand. As a result, only prominent artificers, wizards, scientists etc are part of this exclusive group. Generally speaking, all races are welcome, but due to systematic classicism, certain races are viewed as less intelligent or worthy and their papers are more swiftly rejected.
+
+Their main quarters are in the [[First Domain]], the distribution center is in the [[Second Domain]].
