@@ -2,5 +2,5 @@
 https://nl.pinterest.com/jarichionline/centroscopia/
 
 ## Overview
-Centroscopia is a living space fir the welathy citizens and contains the more governmental structures, like the courthouse and the bank etc. It also has loads of security guards.
+Centroscopia is a living space fir the wealthy citizens and contains the more governmental structures, like the courthouse and the bank etc. It also has loads of security guards.
 

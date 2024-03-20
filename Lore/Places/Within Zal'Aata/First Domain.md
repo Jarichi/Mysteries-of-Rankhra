@@ -1,1 +1,2 @@
 [[Bazaar]] 
+Middle class

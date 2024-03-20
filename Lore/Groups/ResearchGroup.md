@@ -15,5 +15,5 @@ Members of the group are entitled to a variable pay based on mission difficulty,
 # Goals
 wants ot improve and solve the information and such that is available about Rankhra, and wants to go where no group has gone before.
 # Political landscape
-Since Rankhradventurers is a relatively new group, but with a relatively influential leader, they have a solid footing with regards to the rest of Zal'Aata. However, due to their leader, they are also discreetly being investaigated by the [[IntelligenceAgency]]. 
+Since Rankhradventurers is a relatively new group, but with a relatively influential leader, they have a solid footing with regards to the rest of Zal'Aata. However, due to their leader, they are also discreetly being investigated by the [[IntelligenceAgency]]. 
 ## Rivals
