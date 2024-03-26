@@ -1,9 +1,9 @@
 starts out good but as more lore is dicovered they slowly turn BBEG and will do something that causes the collapse of society or smthn
 
-Founded not long ago, [[ResearchGroup]] was created by [[Nameless Slaydeathworth]], in the hops of going beyond what other groups have achieved.
+Founded not long ago, [[ResearchGroup]] was created by [[Verdant Slaydeathworth]], in the hops of going beyond what other groups have achieved.
 
 # Description
-Not long ago, Rankhradventurers was founded by [[Nameless Slaydeathworth]], in the hopes of continuing on the foundational work of older research groups by using the recent developments in technology and utilising the diverse skillset of its leader. Members are assigned missions to either retrieve more information on business related to Rankhra, or control information on Rankhra.
+Not long ago, Rankhradventurers was founded by [[Verdant Slaydeathworth]], in the hopes of continuing on the foundational work of older research groups by using the recent developments in technology and utilising the diverse skillset of its leader. Members are assigned missions to either retrieve more information on business related to Rankhra, or control information on Rankhra.
 
 # Organisation and Management
 ## Management
