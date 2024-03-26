@@ -2,3 +2,4 @@ Leader of the [[ResearchGroup]]. Either has ties to the underworld or has lots o
 
 have nolt decided on a gender for now, hence the use of they/them.
 
+Verdant [Elven] is an Eladrin who, due to having some sort of personal connection to 

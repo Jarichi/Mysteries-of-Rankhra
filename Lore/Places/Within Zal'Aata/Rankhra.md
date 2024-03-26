@@ -9,12 +9,13 @@ The temple has been built on one of the sites where the God of Creation dispelle
 Note: temple was made by [this](http://dnd5e.wikidot.com/spell:temple-of-the-gods) spell.
 
 ## Layout
-The temple area is divided into 2 main sections. The outside premises are a open space with a beautiful garden containing rare flowers from a time long past, shielded by a huge wall that prevents people on the outside from seeing the garden.
-The inside of the temple appears as a something space with stuff.
+Outside of the temple is a regular temple ground with some channels with water and generic temple stuff
+Inside of the temple contains an ancient garden containing odd [[flowers]] from a time long forgotten. It also contains an altar assigned to the God of Creation, it contains an ancient library containing information on old things, (which might be used in character lore) and contains a hallway towards the main temple room.
+The main temple room is a giant altar that contains a strange object, representing the Concept of Flow, and a strangely dead-ended hallway, leading to a secret room containing a mysterious [[hidden book|book]] and an unusable ancient scroll of the spell used to create the temple. The main temple room also contains a fast-travel portal to [[Janib'Rankhra]].
 
 ## Properties
 In the centuries after the city was founded, several research groups have attempted to breach the magical barriers of Rankhra with limited success. Instead, they focused on studying the architecture and construction of Rankhra, as well as researching its past and examining the nature of its magic. Religious groups have also claimed the temple to be built by an ancient civilisation worshipping either a singular God or several deities, and spread their respective gospel.
 
 Within the temple barriers, mysterious magic slows down the flow of time by a large factor, preventing the temple from decaying. While most of the magic is kept inside by its powerful barriers, a small amount of it leaks directly outside the barriers, causing the civilians living near it to age at a slower rate.
 
-Within the temple, several toggle-able portals are located leading to different planes of existence ([possibly](https://roll20.net/compendium/dnd5e/Gate#content)). The temple also contains a fast travel way to [[Janib'Rankhra]].
+Further properties are determined by that spell.

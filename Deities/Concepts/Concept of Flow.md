@@ -1,1 +1,1 @@
-The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[Rankhra]]. 
+The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[Rankhra]]. It imoacts the flow of water, but also the flow of time, the flow state, flow of life, people idk

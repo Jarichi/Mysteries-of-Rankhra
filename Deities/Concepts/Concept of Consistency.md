@@ -1,0 +1,3 @@
+- consistent stories
+- consistent metrics
+- no lying 

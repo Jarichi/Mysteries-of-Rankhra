@@ -1,3 +1,5 @@
+### Etymology
+Sheikah :3
 # Description
 Located within the center of Zal'Aata, they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[ResearchGroup]]
 # Goals
@@ -8,7 +10,7 @@ They are responsible for allowing the Phiaro Channel to form by cleverly routing
 They have also designed machinery that makes it easier for citizens to travel within the city and the desert by crafting automatic cars, public transport and a sort of desert gliding boat, powered by magical energy or regular energy, depending on the needs of the users.
 ## Infrastructure
 The organisation has crafted simple things like streetlights and neon signage, to complex structures like the [[Aether Firmament]], made possible by a combination of artificers and wizards, constructing what might be the largest magical artifact in the direct area.
-They also are the main distributors of the Scientific Journal and determine what information gets spread, educating the public and ensuring plenty of sponsorship to keep the organisation afloat. They also have ties with the government that is also using them as a sort of propaganda machine, controlling what inventions get spread to the public. The government has access to a more freely approved journal edition that contains meaningful discoveries that the public doesn't have to know about. The center is called the [[Distribution Center]]
+They also are the main distributors of the Scientific Journal and determine what information gets spread, educating the public and ensuring plenty of sponsorship to keep the organisation afloat. They also have ties with the government that is also using them as a sort of propaganda machine, controlling what inventions get spread to the public. The government has access to a more freely approved journal edition that contains meaningful discoveries that the public doesn't have to know about. The center is called the [[Distribution Center]].
 
 # Membership
 Members are obliged to have a high-level scholarship and must have written a paper beforehand. As a result, only prominent artificers, wizards, scientists etc are part of this exclusive group. Generally speaking, all races are welcome, but due to systematic classicism, certain races are viewed as less intelligent or worthy and their papers are more swiftly rejected.

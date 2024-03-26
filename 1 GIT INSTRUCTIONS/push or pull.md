@@ -5,6 +5,7 @@ als je klaar bent met bewerken durk je op "backup" dan worden de veranderingen g
 
 message: vault backup jaimy: {{date}} of vault backup chris: {{date}}
 
+wanneer er in hetzelfde document tegelijk veranderingen worden gemaakt (op ongeveer dezelfde plek in het document) komt er een merge conflict die je handmatig moet resolven. Laat dat aan Chris over :3
 i wanna change grr >:(
 
 oki
