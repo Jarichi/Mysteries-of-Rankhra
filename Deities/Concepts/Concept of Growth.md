@@ -6,3 +6,6 @@ Concept of Growth:
 - gwowing population
 - but also growing expenses
 - growing ideas -> city of developement -> lots of creaatively minded people who want to grow
+
+
+plotpoint: needs to be kept in control since evergrowing city is obviously not good for the city -> mission for the party.

@@ -1,4 +1,4 @@
-starts out good but as more lore is dicovered they slowly turn BBEG and will do something that causes the collapse of society or smthn
+starts out good but as more lore is discovered they slowly turn BBEG and will do something that causes the collapse of society or smthn
 
 Founded not long ago, [[ResearchGroup]] was created by [[Verdant Slaydeathworth]], in the hops of going beyond what other groups have achieved.
 
