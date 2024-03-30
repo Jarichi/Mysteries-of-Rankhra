@@ -1,3 +1,5 @@
 - consistent stories
 - consistent metrics
 - no lying 
+- forbiddance spell permacasted in the city preventing teleportation
+- 
