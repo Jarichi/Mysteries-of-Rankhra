@@ -1,7 +1,7 @@
 ### Etymology
 Sheikah :3
 # Description
-Located within the center of Zal'Aata, they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[ResearchGroup]]
+Located within the center of Zal'Aata and lead by [[Everon Lunares]], they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[ResearchGroup]]
 # Goals
 The Shoka Engineering Collective stands as a beacon of innovation and a breeding ground for advanced technologies. Its primary goal is to propel Zal'Aata to the top of technological discoveries, ensuring that the city remains a beacon of progress and prosperity. Through exhaustive research and experimentation, the organisation continuously develops new technologies.
 # Notable contributions
