@@ -1,0 +1,1 @@
+Current Principal of the [[WizardingSchool]] and lives in the [[First Domain]]. Very old but certainly doesn't look his age.

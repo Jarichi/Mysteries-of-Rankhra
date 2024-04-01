@@ -1,0 +1,1 @@
+Leader of the [[IntelligenceAgency]] and partner of [[Verdant Slaydeathworth]]. He is a human wizard and resides in the [[Third Domain]].
