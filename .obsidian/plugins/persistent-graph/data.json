@@ -1,0 +1,300 @@
+{
+  "nodePositions": [
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Bazaar.md",
+      "x": -349.3966979980469,
+      "y": 806.7361450195312
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Centroscopia.md",
+      "x": 337.473388671875,
+      "y": 111.5886001586914
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Distribution Center.md",
+      "x": -535.1018676757812,
+      "y": 1004.390869140625
+    },
+    {
+      "id": "Scientific Journal",
+      "x": -767.6594848632812,
+      "y": 1039.7862548828125
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/First Domain.md",
+      "x": -235.77391052246094,
+      "y": 636.9927368164062
+    },
+    {
+      "id": "WizardingSchool",
+      "x": -419.9373779296875,
+      "y": 479.9437255859375
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Hotel.md",
+      "x": -627.0733642578125,
+      "y": 58.917991638183594
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Rankhra.md",
+      "x": 350.8804626464844,
+      "y": -189.3881072998047
+    },
+    {
+      "id": "flowers",
+      "x": 553.1553344726562,
+      "y": -241.7279510498047
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Second Domain.md",
+      "x": -320.0677490234375,
+      "y": 388.40863037109375
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Third Domain.md",
+      "x": 161.58851623535156,
+      "y": 173.26763916015625
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Zal'Aata/Zal'Aata.md",
+      "x": 118.69476318359375,
+      "y": 387.11236572265625
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Phiaro Channel.md",
+      "x": 77.5215835571289,
+      "y": 570.1692504882812
+    },
+    {
+      "id": "CafeName.md",
+      "x": -608.4699096679688,
+      "y": 224.3853302001953
+    },
+    {
+      "id": "Deities/Concepts/Concept of Consistency.md",
+      "x": -305.36358642578125,
+      "y": -901.4618530273438
+    },
+    {
+      "id": "Deities/Concepts/Concept of Flow.md",
+      "x": 226.1080322265625,
+      "y": -572.580322265625
+    },
+    {
+      "id": "Artefact",
+      "x": 340.5478820800781,
+      "y": -774.3968505859375
+    },
+    {
+      "id": "Deities/Concepts/Concept of Growth.md",
+      "x": -466.30889892578125,
+      "y": -705.6306762695312
+    },
+    {
+      "id": "Deities/Concepts/Concept of connection.md",
+      "x": -153.20523071289062,
+      "y": -743.3617553710938
+    },
+    {
+      "id": "Deities/Concepts/Concepts of Creation.md",
+      "x": -311.4345397949219,
+      "y": -672.3240966796875
+    },
+    {
+      "id": "Deities/Concepts/concept of Whimsy.md",
+      "x": -412.787841796875,
+      "y": -848.0135498046875
+    },
+    {
+      "id": "Deities/Concepts/concept of exploration.md",
+      "x": -310.28375244140625,
+      "y": -112.73652648925781
+    },
+    {
+      "id": "Deities/Concepts/concept of reflection.md",
+      "x": -194.28663635253906,
+      "y": -856.1015625
+    },
+    {
+      "id": "Deities/Concepts/concept of transformation.md",
+      "x": -492.92822265625,
+      "y": -431.12237548828125
+    },
+    {
+      "id": "Deities/Crafted Life.md",
+      "x": -819.3126831054688,
+      "y": -728.554931640625
+    },
+    {
+      "id": "Deities/Gentle Death.md",
+      "x": -913.6537475585938,
+      "y": -852.9385986328125
+    },
+    {
+      "id": "Deities/God of Creation.md",
+      "x": -625.9335327148438,
+      "y": -762.562744140625
+    },
+    {
+      "id": "Lore/(N)PCs/Daan/Daan Char.md",
+      "x": -824.7776489257812,
+      "y": 700.5872802734375
+    },
+    {
+      "id": "Lore/(N)PCs/Everon Lunares.md",
+      "x": -539.9098510742188,
+      "y": 482.0255126953125
+    },
+    {
+      "id": "Lore/(N)PCs/Joris/Joris Char.md",
+      "x": 629.9682006835938,
+      "y": 705.3814086914062
+    },
+    {
+      "id": "Lore/(N)PCs/Robin/Aki.md",
+      "x": 796.0466918945312,
+      "y": -519.92919921875
+    },
+    {
+      "id": "Father",
+      "x": 933.3582153320312,
+      "y": -677.2866821289062
+    },
+    {
+      "id": "Mother",
+      "x": 715.671630859375,
+      "y": -681.5992431640625
+    },
+    {
+      "id": "Sibling",
+      "x": 825.5157470703125,
+      "y": -729.8987426757812
+    },
+    {
+      "id": "Lore/(N)PCs/Robin/founder 1.md",
+      "x": 1072.0953369140625,
+      "y": -148.75357055664062
+    },
+    {
+      "id": "Lore/(N)PCs/Robin/founder 2.md",
+      "x": 1253.020263671875,
+      "y": -259.3309020996094
+    },
+    {
+      "id": "Lore/(N)PCs/Semyon Voltaire.md",
+      "x": -153.3679962158203,
+      "y": -84.5531997680664
+    },
+    {
+      "id": "Lore/(N)PCs/Verdant Slaydeathworth.md",
+      "x": -401.69573974609375,
+      "y": -30.327112197875977
+    },
+    {
+      "id": "Village",
+      "x": -254.77337646484375,
+      "y": 13.227669715881348
+    },
+    {
+      "id": "Lore/Flora and Fauna/Animal.md",
+      "x": -468.92364501953125,
+      "y": 817.3045043945312
+    },
+    {
+      "id": "Lore/Flora and Fauna/Foxglove.md",
+      "x": 1192.0701904296875,
+      "y": -151.1778106689453
+    },
+    {
+      "id": "Lore/Groups/Ancients.md",
+      "x": 44.53470993041992,
+      "y": -379.5129089355469
+    },
+    {
+      "id": "Lore/Groups/Criminals.md",
+      "x": 437.4287109375,
+      "y": 401.989501953125
+    },
+    {
+      "id": "Lore/Groups/Feywild Merchants.md",
+      "x": 204.47244262695312,
+      "y": -306.4986267089844
+    },
+    {
+      "id": "Lore/Groups/HunterGroup.md",
+      "x": -624.3317260742188,
+      "y": 732.3009643554688
+    },
+    {
+      "id": "Lore/Groups/IntelligenceAgency.md",
+      "x": -424.9659729003906,
+      "y": -148.04270935058594
+    },
+    {
+      "id": "Lore/Groups/Nomadic Feywild Collective.md",
+      "x": -365.8193664550781,
+      "y": 114.69448852539062
+    },
+    {
+      "id": "Lore/Groups/ResearchGroup.md",
+      "x": -723.8564453125,
+      "y": 158.40260314941406
+    },
+    {
+      "id": "Lore/Groups/Shoka Engineering Collective.md",
+      "x": -229.48622131347656,
+      "y": 811.1616821289062
+    },
+    {
+      "id": "Lore/Magical Objects/Aether Firmament.md",
+      "x": 52.19655990600586,
+      "y": 854.1494750976562
+    },
+    {
+      "id": "Lore/Magical Objects/Starcaster.md",
+      "x": 23.783214569091797,
+      "y": 1036.10205078125
+    },
+    {
+      "id": "Lore/Magical Objects/The Book of Life.md",
+      "x": -812.575439453125,
+      "y": -953.34423828125
+    },
+    {
+      "id": "Lore/Places/Feywild/Foxglove Grove.md",
+      "x": 1083.52197265625,
+      "y": -326.0213317871094
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/City of Change.md",
+      "x": -476.05682373046875,
+      "y": 67.3180923461914
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Hunter Settlement.md",
+      "x": -379.87445068359375,
+      "y": 593.0391845703125
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Janib'Rankhra.md",
+      "x": 395.9205322265625,
+      "y": -424.5276794433594
+    },
+    {
+      "id": "Lore/Places/Makhshar Desert/Makhshar Desert.md",
+      "x": -196.46279907226562,
+      "y": 517.5231323242188
+    },
+    {
+      "id": "Lore/Races/Kitsune.md",
+      "x": 1015.4161376953125,
+      "y": -520.1276245117188
+    },
+    {
+      "id": "Lore/Races/Simic.md",
+      "x": 691.9915771484375,
+      "y": 904.8057250976562
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}
