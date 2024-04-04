@@ -9,7 +9,7 @@ This lead him to the city's Third Domain, where (as far as he knew) the poor and
 
 Realising that this information was only worth so much, he made the beginnings of his own personal growth plan and attempted to land a job at the [[IntelligenceAgency]]. (lack of inspiration so drafting stuff atm). He used his skills as a changeling (masters of disguise) and divinity magic to gather information and work his way up in the ranks of the agency. Eventually, his employer died under suspicious sircumstances and he assumed this role, making him the leader of the agency.
 
-This is when he found out about Verdant and observed them, and interlinks with their backstory.
+This is when he found out about Verdant and observed them, and interlinks with their backstory. Kinda want him to be in love with Verdant as well, and might let the party decide if they wanna romance them hmm
 
 I dont want him to be of high descent, so He did not enter the first or second domain, and I think I want him to kind of enter the third domain where he learned what he knows now. I don't really know how I want to write him further tho. Might need to look into this later... He is a changeling tho, who took on the form of a human and ascended to leader of the agency. He obv came from the ciry of change which he fled for reasons, and ended up in zal aata. He probably wasnt as successful in his career which caused him to go to the 3rd domain. here, he was more successful due to what the 3rd means. (in the sense that information has avlue and money doesnt exist). He mightve been an elusive criminal once, who eventually got caught by the former leader of the agency and got enlisted.
 

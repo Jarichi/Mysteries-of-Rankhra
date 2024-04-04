@@ -8,7 +8,7 @@ Born into the quaint settlement of Foxglove Grove within the Feywild, the female
 
 ## Desire
 
-[[Aki]] always harbored a profound desire to explore the mysteries of the unknown. Even as a young kit, she could often be found gazing out the window, her mind drifting beyond the confines of the grove, yearning for adventure. Upon reaching the age of 18, [[Aki]] eagerly seized the opportunity to join a small merchant group known as the [[Feywild Merchants]], venturing forth to scour the surrounding lands for trinkets to trade. Through years of dedicated service within a scouting team, she honed her skills and expertise, eventually earning the privilege to embark on solo expeditions beyond the village's borders. This allowed her to immerse herself in the wonders of the Feywild, swiftly becoming acquainted with its secrets and learning to navigate its perils with ease.
+[[Aki]] always harbored a profound desire to explore the mysteries of the unknown. Even as a young kit, she could often be found gazing out the window, her mind drifting beyond the confines of the grove, yearning for adventure. Upon reaching the age of 18, [[Aki]] eagerly seized the opportunity to join a small merchant groupwn  knoas the [[Feywild Merchants]], venturing forth to scour the surrounding lands for trinkets to trade. Through years of dedicated service within a scouting team, she honed her skills and expertise, eventually earning the privilege to embark on solo expeditions beyond the village's borders. This allowed her to immerse herself in the wonders of the Feywild, swiftly becoming acquainted with its secrets and learning to navigate its perils with ease.
 
 ## Desert
 
