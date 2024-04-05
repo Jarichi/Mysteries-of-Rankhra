@@ -5,7 +5,12 @@ Growing up in the [[City of Change]], it was not to be expected to have any form
 Wandering the desert eventually brought him to Zal'Aata. Hoping that this city would give him a chance to become his own person, he attempted to enter the city, but was rejected at the gate due to his appearance as a changeling. Semyon was perplexed but saw this as an opportunity to finally assume a more definite form, and decided to assume the form of an ordinary human, and as such made his way into the city.
 ### Arrival in the City
 Semyon, however, hadn't planned for the fact that you needed to have credentials and despite his intrinsic ability for magic was not allowed to work any entry-level jobs that would allow him to make a living. This forced him into poverty and made him look for a better way of living.
-This lead him to the city's Third Domain, where (as far as he knew) the poor and homeless reside. He decided to take a shot and entered the Third Domain. Luckily, money was of no use here and since he was from the City of Change, this information allowed him to get a simple home and food and stuff.
+This lead him to the city's Third Domain, where (as far as he knew) the poor and homeless reside. Luckily, money was of no use here and since he was from the City of Change, this information allowed him to get a simple home.
+
+He realised that while the information he has was fresh and valuable for now, this would surely not remain forever. Thus, he decided to look for ways to use his history as a means to perhaps gather more intelligence and lead himself to the [[IntelligenceAgency]], which he infiltrated to get the attention of the higher-ups. This lead them to offer Semyon a starter job as a spy which allowed him to use his changeling features and arcane potential, mainly divination.
+
+Verdant amassed reputation and statue, and climbed through the ranks, eventually becoming the head of the agency. This is when he became aware of a curious eladrin, who seemed to amass their own network. INtrigued by the parallel between them, Semyon decided to open up a means of communication and invite this eladrin to his favourite cafe where he routinely started his day drinking a singular cappuccino. The rest is history.
+
 
 Realising that this information was only worth so much, he made the beginnings of his own personal growth plan and attempted to land a job at the [[IntelligenceAgency]]. (lack of inspiration so drafting stuff atm). He used his skills as a changeling (masters of disguise) and divinity magic to gather information and work his way up in the ranks of the agency. Eventually, his employer died under suspicious sircumstances and he assumed this role, making him the leader of the agency.
 
