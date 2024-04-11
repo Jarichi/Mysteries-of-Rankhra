@@ -1,1 +1,0 @@
-Base of operations for the [[HunterGroup]]. Provides food to [[Zal'Aata]]. One of the main providers for the meat supply, besides cattle and general imports. Possesses the [[concept of exploration]]. mainly hunt [[Animal]] Most of this lore is either up to Daan or if he cannot come up withh anything up to me.

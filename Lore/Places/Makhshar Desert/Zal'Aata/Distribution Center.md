@@ -1,1 +1,0 @@
-Spreadss the [[Scientific Journal]].

@@ -8,56 +8,49 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Ancient  ",
-      "color": {
-        "a": 1,
-        "rgb": 15859252
-      }
-    },
-    {
-      "query": "path:Lore/Places  ",
+      "query": "tag:#location  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:Lore/Groups  ",
+      "query": "tag:#group  ",
       "color": {
         "a": 1,
         "rgb": 11523676
       }
     },
     {
-      "query": "path:\"Lore/(N)PCs\"  ",
+      "query": "tag:#npc tag:#pc ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:\"Lore/Flora and Fauna\"  ",
+      "query": "tag:#biologics  ",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "path:Lore/Races",
+      "query": "tag:#races  ",
       "color": {
         "a": 1,
         "rgb": 6073814
       }
     },
     {
-      "query": "path:Deities  ",
+      "query": "path:\"World Notes/Deities\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:Deities/Concepts  ",
+      "query": "path:\"World Notes/Deities/Concepts\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
@@ -74,6 +67,6 @@
   "repelStrength": 8.33679833679834,
   "linkStrength": 0.757796257796258,
   "linkDistance": 128,
-  "scale": 0.2816990191895339,
+  "scale": 0.4159979812034954,
   "close": true
 }
