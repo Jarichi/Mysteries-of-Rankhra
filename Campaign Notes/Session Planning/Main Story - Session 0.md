@@ -1,4 +1,16 @@
 #hidden 
+## Story Hooks
+- meeting the party
+- Visiting research group
+- Receiving Mission
+- Meeting person 1
+- Meeting Person 2
+- Meeting Person 3
+- Meeting Person 4
+- Returning to research group
+- Receiving reward
+- New missio
+
 ## Planned Action
 
 The players find themselves in the brimming nightlife of the city, wandering around all depending on their backstory and will run into each other by coincidence (15 min)
