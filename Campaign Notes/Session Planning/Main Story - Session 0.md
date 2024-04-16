@@ -9,7 +9,7 @@
 - Meeting Person 4
 - Returning to research group
 - Receiving reward
-- New missio
+- New mission
 
 ## Planned Action
 

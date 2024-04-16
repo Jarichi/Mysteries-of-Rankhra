@@ -1,5 +1,5 @@
 #npc 
-Semyon Voltaire is a human (?) wizard who specialises in the school of divination. He is the current leader of [[IntelligenceAgency]] and mostly operates outside of the public view. Despite not orignially being from the city, he possesses a large amount of knowledge on everything going on within the city, going as far back as its beginnings. He is [[Verdant Slaydeathworth]]'s partner in both senses of the word, and currently lives within the [[Third Domain]].
+Semyon Voltaire is a human (?) wizard who specialises in the school of divination. He is the current leader of [[IntelligenceAgency]] and mostly operates outside of the public view. Despite not orignially being from the city, he possesses a large amount of knowledge on everything going on within the city, going as far back as its beginnings. He is [[Verdant Selemno]]'s partner in both senses of the word, and currently lives within the [[Third Domain]].
 ## History
 ### Birth and Childhood
 Growing up in the [[City of Change]], it was not to be expected to have any form of constant identity. The ever-changing inhabitants and the ever-shifting city encouraged change, but Semyon never felt fully at ease amidst the chaos. He yearned for a more constant self-image, a more constant identity. This was not helped due to his father leaving the city shortly after his birth, and his mother - in true changeling spirit - also constantly changed her partner. These factors ultimately lead Semyon to leave the city in search of a better place, on a journey of self-discovery.
@@ -12,10 +12,10 @@ He realised that while the information he has was fresh and valuable for now, th
 
 Verdant amassed reputation and statue, and climbed through the ranks. However, due to his rapidly rising status he became a threat to the mysterious leader of the agency, who resentfully ordered a hit on Semyon. However, working among the highest rankin officers, he was able to discover this in advance, prevented this hit and found out who ordered this; [[Thilian Voltaire]]. Semyon decided to go after him and killed him to usurp power. However, to his shock, [Thilian] ended up being a changeling, and his father. 
 
-This is when he became aware of a curious eladrin, who seemed to amass their own network. INtrigued by the parallel between them, Semyon decided to open up a means of communication and invite this eladrin to his favourite cafe where he routinely started his day drinking a singular cappuccino. The rest is history.
+This is when he became aware of a curious Eladrin, who seemed to amass their own network. Intrigued by the parallel between them, Semyon decided to open up a means of communication and invite this Eladrin to his favourite cafe where he routinely started his day drinking a singular cappuccino. The rest is history.
 
-
-Realising that this information was only worth so much, he made the beginnings of his own personal growth plan and attempted to land a job at the [[IntelligenceAgency]]. (lack of inspiration so drafting stuff atm). He used his skills as a changeling (masters of disguise) and divinity magic to gather information and work his way up in the ranks of the agency. Eventually, his employer died under suspicious sircumstances and he assumed this role, making him the leader of the agency.
+### Drafting
+Realising that this information was only worth so much, he made the beginnings of his own personal growth plan and attempted to land a job at the [[IntelligenceAgency]]. (lack of inspiration so drafting stuff atm). He used his skills as a changeling (masters of disguise) and divinity magic to gather information and work his way up in the ranks of the agency. Eventually, his employer died under suspicious circumstances and he assumed this role, making him the leader of the agency.
 
 This is when he found out about Verdant and observed them, and interlinks with their backstory. Kinda want him to be in love with Verdant as well, and might let the party decide if they wanna romance them hmm
 
