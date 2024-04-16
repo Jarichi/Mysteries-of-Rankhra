@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup Jaimy: {{date}}",
+  "commitMessage": "vault backup {{hostname}}: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
