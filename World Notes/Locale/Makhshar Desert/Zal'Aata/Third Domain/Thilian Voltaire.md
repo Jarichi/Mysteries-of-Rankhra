@@ -1,3 +1,4 @@
+#npc 
 cannot remember his name but ok
 
-[name] is the father of [[Semyon Voltaire]] and former leader of [[IntelligenceAgency]]. He left [[City of Change]] shortly after Semyon was born and created the intelligence agency after assuming a new identity. He unknowingly employed Semyon and, after seeing how he climbed the ranks, became extremely resentful and ordered a hit on his own son. This hit did not succeed and was discovered by Semyon, which lead to his death on the hands of Semyon.
+[name] is the father of [[Semyon Voltaire]] and former leader of [[FIZ]]. He left [[City of Change]] shortly after Semyon was born and created the intelligence agency after assuming a new identity. He unknowingly employed Semyon and, after seeing how he climbed the ranks, became extremely resentful and ordered a hit on his own son. This hit did not succeed and was discovered by Semyon, which lead to his death on the hands of Semyon.
