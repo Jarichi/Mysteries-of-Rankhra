@@ -1,6 +1,8 @@
 #exclude workspace cache
 .obsidian/workspace.json
 .obsidian/appearance.json
+.obsidian/workspace-mobile.json
+
 
 
 # Add below lines to exclude OS settings and caches
