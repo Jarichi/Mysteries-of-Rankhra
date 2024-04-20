@@ -4,6 +4,7 @@
 - Visiting research group
 - Receiving Mission
 - Meeting person 1
+- might split this by inserting a return mission
 - Meeting Person 2
 - Meeting Person 3
 - Meeting Person 4
