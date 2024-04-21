@@ -1,3 +1,4 @@
+#hidden 
 Someone sabotaging the temple research group (planting the seed of evil)
 Good character that is trustworthy but has a sort of hidden agenda
 
