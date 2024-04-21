@@ -1,2 +1,2 @@
 #location 
-Spreadss the [[Scientific Journal]].
+Spreadss the [[Scientific Journal]]. 

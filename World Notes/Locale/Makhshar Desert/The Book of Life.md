@@ -1,7 +1,7 @@
 #object 
 Magical book that, every minute while reading, it deals 1d10(?) necro damage.
 
-*- Cool flavour text*
+*- This isn't what I meant with "a life's work"!*
 
 
 # description

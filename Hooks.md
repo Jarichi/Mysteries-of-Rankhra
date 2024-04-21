@@ -3,3 +3,5 @@ Good character that is trustworthy but has a sort of hidden agenda
 
 Think about symbols and imagery, and a main theme for divinity
 
+Add stuff that I like as well 
+
