@@ -23,11 +23,11 @@ When they look at the counter they see a fox sleeping in a basket and the shopke
 after this Aki joins the party because something happens outside the shop and the party and Aki go investigate
 
 # npc
-- Water genasi bartender: Martin Isle ("Martini" get it?)
+- Water genasi bartender: [[Martin Isla]]("Martini" get it?)
 	- measures exact ounces in the drinks and stirs drinks perfectly due to their water abilities
 	- Sometimes experiments with drinks so you don't always get what you order
 	- Flaw: very messy, their bar station is always full of glasses, ingrediënts and colorful straws
-- Oath of the sea paladin (Salazar Coldwind (real name: reggi buer))
+- Oath of the sea paladin ([[Reggi Buer|Salazar Coldwindt]] (real name: reggi buer))
 	- Always in the café with a glas of water/other light beverage
 	- when talked to he speaks of his adventures at the great sea but he exxagerates these stories
 		- i once defeated a kraken (it was a small squid)
@@ -35,5 +35,9 @@ after this Aki joins the party because something happens outside the shop and th
 		- My trading routes are famous because i'm the best (he isn't, and he doesn't have a trading route. He just smuggled a crate with fish over the border.)
 - 
 
-
+Changeling who constantly shifts their form: Sasha Regis
+- Keeps their.name but changes their appearance comtinuously every time the party meets them.
+- Drinks heavy stuff yet doesn't seem tipsy
+- When spoken to, likes to be silly idk
+- 
 
