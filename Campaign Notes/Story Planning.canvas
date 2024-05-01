@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3c9ee45036d82dec","x":-400,"y":-220,"width":250,"height":60,"type":"text","text":"Introduction"},
+		{"id":"01726b0f5e7213da","x":-120,"y":-220,"width":250,"height":60,"type":"text","text":"Research Group join"}
+	],
+	"edges":[]
+}
