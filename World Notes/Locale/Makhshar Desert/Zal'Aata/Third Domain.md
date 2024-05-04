@@ -1,5 +1,4 @@
 #location 
-[[Criminals]] are lcoted here.
 https://nl.pinterest.com/jarichionline/third-domain/
 
 The Third Domain is an overlooked part of Zal'Aata that houses may diverse groups and, while being a place where evrybody may belong, very muxh includes criminals in this description.
@@ -12,11 +11,9 @@ Realising that information held value, they detached themselves from the economy
 
 Certain businesses traded information for real money and as such allowed for materials to still be bought and used in construction, leading to a prominent neon signage and cyberpunk-y style.
 
+### Culture
+Generally, inhabitans of the Third DOmain keep to themselves, unless affiliated with each other by means of gang activity or trusted groups. Due to the value of information, the inhabitants are careful not to reveal personal details about themselves, oftentimes going by different names and different appearances. THis enabled criminal activity to become widespread and more-or-less the norm.
+There is no clear day-night cycle or rhythm since there is no widespread access to natural daylight, except at the entry points. 
 # Appearance
 The Third Domain is a literal subcity with sewer lines for streets and slum-like houses.![[sewer'aata.jpeg]]
-## Housing style
-Bricks and lots of neon signage
-## Lifestyle
-Inhabitants of the Third Domain are generally poor but can make a living within the Third Domain. Most people don't tend to travel outwards but stay within here.
 
-dfd
