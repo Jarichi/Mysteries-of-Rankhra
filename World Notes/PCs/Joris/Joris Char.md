@@ -1,1 +1,1 @@
-part of [[Large Criminal Organisation]] and is a [[Simic]]
+part of [[Mycelio]] and is a [[Simic]]
