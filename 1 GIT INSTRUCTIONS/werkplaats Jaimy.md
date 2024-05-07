@@ -28,7 +28,12 @@ after this Aki joins the party because something happens outside the shop and th
 	- Sometimes experiments with drinks so you don't always get what you order
 	- Flaw: very messy, their bar station is always full of glasses, ingrediënts and colorful straws
 
-- 
+- Collage of the siren bard: Telas Muses 
+	- A compelling creature dedicated to singing in the café
+	- Also a close friend of Verdant and a part of the research group
+	- When not singing in the café, she is on missions to get information
+	- has a special skill to "record" sounds and conversations. She can perfectly recreate these conversations
+	- ([Bardic College: College of the Siren | GM Binder](https://www.gmbinder.com/share/-N5i-V0mIcZSQmZEbIHr))
 
 
 
