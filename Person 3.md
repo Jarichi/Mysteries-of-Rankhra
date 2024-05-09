@@ -1,0 +1,1 @@
+Sacrificial lamb
