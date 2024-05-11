@@ -4,6 +4,6 @@ Mycelio is the main criminal cartel in the THird DOmain, and is responsible for 
 
 The group is currently lead by [[Mob boss]]. 
 
-The ultimate goal of the Mycelio is to control the flow of information within the city. They want to be able to adjust or limit this flow and suppress bia censorship and misinformation to ensure control.
+The ultimate goal of the Mycelio is to control the flow of information within the city. They want to be able to adjust or limit this flow and spread censorship and misinformation to ensure control.
 
-Note,  while the [[Small Bandits]] (called the Hyphaedo) are not directly connected to the Mycelio, they do take on commands and requests for the Mycelio.
+Note,  while the [[The Hyphaedo]]  are not directly connected to the Mycelio, they do take on commissions and requests for the Mycelio.
