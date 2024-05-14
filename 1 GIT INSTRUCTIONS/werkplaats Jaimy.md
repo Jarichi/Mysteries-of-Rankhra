@@ -28,7 +28,7 @@ after this Aki joins the party because something happens outside the shop and th
 	- Sometimes experiments with drinks so you don't always get what you order
 	- Flaw: very messy, their bar station is always full of glasses, ingrediënts and colorful straws
 
-- Collage of the siren bard: Telas Muses 
+- Collage of the siren bard: Telas Muses (Teles is een van de sirenen die voorkomen in de odyssey)
 	- A compelling creature dedicated to singing in the café
 	- Also a close friend of Verdant and a part of the research group
 	- When not singing in the café, she is on missions to get information
