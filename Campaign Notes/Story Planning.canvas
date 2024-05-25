@@ -1,7 +1,16 @@
 {
 	"nodes":[
-		{"id":"3c9ee45036d82dec","x":-400,"y":-220,"width":250,"height":60,"type":"text","text":"Introduction"},
-		{"id":"01726b0f5e7213da","x":-120,"y":-220,"width":250,"height":60,"type":"text","text":"Research Group join"}
+		{"id":"3c9ee45036d82dec","type":"text","text":"Introduction","x":-640,"y":-220,"width":250,"height":60},
+		{"id":"01726b0f5e7213da","type":"text","text":"Research Group","x":-360,"y":-220,"width":250,"height":60},
+		{"id":"656e0eae2467143b","x":-80,"y":-220,"width":250,"height":60,"type":"text","text":"Mission step 1  - hide and seek"},
+		{"id":"5acaf8668d836d8d","x":-80,"y":-140,"width":250,"height":60,"type":"text","text":"Mission step 2 - marcus"},
+		{"id":"9c5bb514b7274ec1","x":-80,"y":-60,"width":250,"height":60,"type":"text","text":"Mission step 3 - rubae"},
+		{"id":"34c7fe7dd6104d08","x":-80,"y":120,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cd713b3d0e01dcda","fromNode":"3c9ee45036d82dec","fromSide":"right","toNode":"01726b0f5e7213da","toSide":"left"},
+		{"id":"4c18b55697aa6c93","fromNode":"01726b0f5e7213da","fromSide":"right","toNode":"656e0eae2467143b","toSide":"left"},
+		{"id":"a59f90abf134e001","fromNode":"656e0eae2467143b","fromSide":"bottom","toNode":"5acaf8668d836d8d","toSide":"top"},
+		{"id":"804bc7604dc3171e","fromNode":"5acaf8668d836d8d","fromSide":"bottom","toNode":"9c5bb514b7274ec1","toSide":"top"}
+	]
 }
