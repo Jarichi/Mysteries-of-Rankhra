@@ -22,3 +22,8 @@ A celestial, fey, or similar creature gave me a blessing or revealed my secret o
 
 
 
+Wild Shape: 
+Giant eagle
+https://roll20.net/compendium/dnd5e/Giant%20Eagle
+Brown Bear
+https://roll20.net/compendium/dnd5e/Brown%20Bear#content

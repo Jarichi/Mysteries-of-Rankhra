@@ -5,6 +5,3 @@ Located in [[Second Domain]], contains [[ResearchGroup]].
 [[Reggi Buer|Salazar Coldwindt]]: arrogant oath of the sea paladin
 [[Sasha Regis]]: everchanging changeling
 [[Martin Isla]]: experimenting bartender
-
-
-
