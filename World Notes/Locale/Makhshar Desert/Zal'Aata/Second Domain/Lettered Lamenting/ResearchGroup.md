@@ -1,17 +1,17 @@
 #group 
 starts out good but as more lore is discovered they slowly turn BBEG and will do something that causes the collapse of society or smthn
 
-Founded not long ago, [[ResearchGroup]] was created by [[Verdant Sacco]], in the hops of going beyond what other groups have achieved. They are localised in the cafe [[World Notes/Locale/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting|"Lettered Lamenting]]".
+Founded not long ago, [[ResearchGroup]] was created by [[Verdant Selemno]], in the hops of going beyond what other groups have achieved. They are localised in the cafe [[World Notes/Locale/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting|"Lettered Lamenting]]".
 
 # Description
-ResearchGRoup was founded by [[Verdant Sacco]] to attemtp to uncover the mysteries of the mysterious temple at the centre of Zal'Aata, and to honour their ancestors. Using the recent developements in technology and the large information network of [[Semyon Voltaire]], the research group is well-equipped for this task.
+ResearchGRoup was founded by [[Verdant Selemno]] to attemtp to uncover the mysteries of the mysterious temple at the centre of Zal'Aata, and to honour their ancestors. Using the recent developements in technology and the large information network of [[Semyon Voltaire]], the research group is well-equipped for this task.
 
 
 
 
 
 
-Not long ago, Rankhradventurers was founded by [[Verdant Sacco]], in the hopes of continuing on the foundational work of older research groups by using the recent developments in technology and utilising the diverse skillset of its leader. Members are assigned missions to either retrieve more information on business related to Rankhra, or control information on Rankhra.
+Not long ago, Rankhradventurers was founded by [[Verdant Selemno]], in the hopes of continuing on the foundational work of older research groups by using the recent developments in technology and utilising the diverse skillset of its leader. Members are assigned missions to either retrieve more information on business related to Rankhra, or control information on Rankhra.
 
 # Organisation and Management
 ## Management

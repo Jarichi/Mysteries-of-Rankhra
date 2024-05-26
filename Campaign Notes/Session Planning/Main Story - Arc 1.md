@@ -3,18 +3,23 @@
 - meeting the party
 	- Aki is in a store as an assistent, character introduction
 		- possibly works at Daan's shop
+		- they are already familiar with each other
+	- Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way.
+	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
+		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
+		- preceprtion roll for seeing the hole in the roof
 
 - Joining research group
 	- Verdant introduces themselves and answers the most of their questions
 	- They are allowed to speak with the NPCs in the area/
 	- After introductions, Verdant asks them to join the research group, and immediately gives them a mission that lets the party go into the 3rd domain.
 - Receiving Mission
-	- Mission entails a search-and-resque(?) of a number of former members of the research group, who left the research group without disclosing crucial information
+	- Mission entails a search-and-rescue(?) of a number of former members of the research group, who left the research group without disclosing crucial information
 		- This also immediately sets the stakes for deserting the group.
 	- They are also lead to the handy sewers near the cafe, and are notably not told about the fact that money is useless in the 3rd domain, either by way of Verdant saying they needn't worry about that.
-		- Note: they are not obliged to enter the sewers immediately, and are of couse allowed to wander the city, or even go to the temple.
+		- Note: they are not obliged to enter the sewers immediately, and are of course allowed to wander the city, or even go to the temple.
 - Meeting person 1
-	- Upon arriving in the 3rd domain, they are allowed to read the message Verdant gave them, that contaIns instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dhynamically.
+	- Upon arriving in the 3rd domain, they are allowed to read the message Verdant gave them, that contaIns instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
 	- Following directions of course leads them to a sort of ambush of a small criminal gang, who attacks the party and lets them have some combat fun.
 	- 
 - might split this by inserting a return mission

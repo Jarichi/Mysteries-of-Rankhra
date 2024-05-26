@@ -14,6 +14,8 @@ mountains, snow, albino.
 
 [[Circle of the Moon]]
 
+is also a member of the [[ResearchGroup]] and gets sent on scxouting missions mostly. 
+
 equipment
 wooden shield, scimitar, spell focus (staff idk), artisans tools, 
 
