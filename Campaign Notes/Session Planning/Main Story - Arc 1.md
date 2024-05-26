@@ -4,10 +4,11 @@
 	- Aki is in a store as an assistent, character introduction
 		- possibly works at Daan's shop
 		- they are already familiar with each other
-	- Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way.
+		- However, why would they need to join the research group if they already are settled?
+	- Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
 	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
 		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
-		- preceprtion roll for seeing the hole in the roof
+		- preceprtion roll for seeing the hole in the roof.
 
 - Joining research group
 	- Verdant introduces themselves and answers the most of their questions
@@ -16,16 +17,24 @@
 - Receiving Mission
 	- Mission entails a search-and-rescue(?) of a number of former members of the research group, who left the research group without disclosing crucial information
 		- This also immediately sets the stakes for deserting the group.
-	- They are also lead to the handy sewers near the cafe, and are notably not told about the fact that money is useless in the 3rd domain, either by way of Verdant saying they needn't worry about that.
+	- They are also lead to the sewers near the cafe, and are notably not told about the fact that money is useless in the 3rd domain, either by way of Verdant saying they needn't worry about that.
 		- Note: they are not obliged to enter the sewers immediately, and are of course allowed to wander the city, or even go to the temple.
-- Meeting person 1
-	- Upon arriving in the 3rd domain, they are allowed to read the message Verdant gave them, that contaIns instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
+
+
+
+- Meeting person 1 - Salina
+	- Upon arriving in the 3rd domain, they are allowed to read the message Verdant gave them, that contains instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
+	- This section will be very roleplay and insight heavy and lets the party exeplore the Third Domain. They eill need to go through several areas to get to Salina and gives them a chance to explore the world and for me to see how they play when they are given limited instructions and implications.
+		- This will need to be properly thought out by means of some sort of map containing severalpoints of interest.
+		- I am expecting this to take time.
 	- Following directions of course leads them to a sort of ambush of a small criminal gang, who attacks the party and lets them have some combat fun.
-	- 
-- might split this by inserting a return mission
-- Meeting Person 2
-- Meeting Person 3
-- Meeting Person 4
+	- Salina will join the party and is a level 5 cleric who can help with the combat.
+- might split this by inserting a return mission.
+- Meeting Person 2 - Marcus
+	- Marcus is currently an Overlord and is also hostile against the party. This will be the main combat event.
+	- Wether Marcus lives or dies, they need to bring him to the research group.
+- Meeting Person 3 - Iridaiasba
+	- This person gets killed by Rubae after which the party I suppose may use an action to do something i guess, and gets fucking k.o'd by Rubae.
 - Returning to research group
 - Receiving reward
 
