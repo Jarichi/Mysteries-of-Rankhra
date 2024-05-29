@@ -18,3 +18,7 @@ After a century of scouting and the prestigious achievement of gaining her secon
 ## Devotion
 
 In her darkest hour, the Fey answered [[Aki]]'s call for aid, imbuing her with newfound energy and warmth to fend off her assailants. Moved by their intervention and humbled by their grace, [[Aki]] came to realize the depth of her bond with the Fey. In a moment of clarity, she pledged to safeguard the Feywild and vowed to one day return to Foxglove Grove, her heart filled with unwavering devotion to her beloved homeland.
+
+
+## The price
+Fey don;t help for free and demand payment. Aki's payment is that the fey appears in her dreams at random intervals and kinda just trolls her and gives her advide sometimes, until she is back in the feywild.
