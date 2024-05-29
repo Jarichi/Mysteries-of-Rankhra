@@ -18,3 +18,4 @@ Per level up, players are allowed to choose whether they want to get the average
 - Proficiencies and Expertise
 If you have 2 proficiencies for the same ability, you get expertise.
 
+
