@@ -2,9 +2,10 @@
 ## Story Hooks
 - meeting the party
 	- Aki is in a store as an assistent, character introduction
-		- possibly works at Daan's shop
+		- Works at Daan's Garage shop.
 		- they are already familiar with each other
 		- However, why would they need to join the research group if they already are settled?
+	- After escaping from his backstory significant event, he left the Third Domain and enters the First Domain, still in shock from what happened. He will haphazardly run into a store and will interact with Daan and Aki this way. I'll first spend some time describing the setting for him and start the introduction afterwards.
 	- Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
 	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
 		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
