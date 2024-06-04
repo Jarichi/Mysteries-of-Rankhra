@@ -25,12 +25,15 @@
 
 - Meeting person 1 - Salina
 	- Upon arriving in the 3rd domain, they are allowed to read the message Verdant gave them, that contains instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
-	- This section will be very roleplay and insight heavy and lets the party exeplore the Third Domain. They eill need to go through several areas to get to Salina and gives them a chance to explore the world and for me to see how they play when they are given limited instructions and implications.
-		- This will need to be properly thought out by means of some sort of map containing severalpoints of interest.
+	- This section will be very roleplay and insight heavy and lets the party exeplore the Third Domain. They will need to go through several areas to get to Salina and gives them a chance to explore the world and for me to see how they play when they are given limited instructions and implications.
+		- This will need to be properly thought out by means of some sort of map containing several points of interest.
 		- I am expecting this to take time.
+
+	- Layout of the third domain will be linked in a file.
 	- Following directions of course leads them to a sort of ambush of a small criminal gang, who attacks the party and lets them have some combat fun.
 	- Salina will join the party and is a level 5 cleric who can help with the combat.
 - might split this by inserting a return mission.
+
 - Meeting Person 2 - Marcus
 	- Marcus is currently an Overlord and is also hostile against the party. This will be the main combat event.
 	- Wether Marcus lives or dies, they need to bring him to the research group.
