@@ -22,3 +22,6 @@ In her darkest hour, the Fey answered [[Aki]]'s call for aid, imbuing her with n
 
 ## The price
 Fey don;t help for free and demand payment. Aki's payment is that the fey appears in her dreams at random intervals and kinda just trolls her and gives her advide sometimes, until she is back in the feywild.
+
+# cooperation with Hunter
+Aki si the administrative worker for Hunter's garage.
