@@ -36,4 +36,3 @@ after this Aki joins the party because something happens outside the shop and th
 	- ([Bardic College: College of the Siren | GM Binder](https://www.gmbinder.com/share/-N5i-V0mIcZSQmZEbIHr))
 
 
-
