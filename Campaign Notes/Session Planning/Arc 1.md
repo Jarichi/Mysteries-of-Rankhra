@@ -5,7 +5,9 @@
 		- Works at Daan's Garage shop.
 		- they are already familiar with each other
 		- They find a letter on their doorstep containing a notificatio that if they don't look for ways to enter the temple their sponsorship money gets retracted.
-	- After escaping from his backstory significant event, he left the Third Domain and enters the First Domain, still in shock from what happened. He will haphazardly run into a store and will interact with Daan and Aki this way. I'll first spend some time describing the setting for him and start the introduction afterwards.
+		- THE PARTY DOES NOT KNONW AT THIS POINT AKI IS A KITSUNE
+		- AKI sits on Hunter's shoulder and they head out
+	- Ratronus, escaping from his backstory significant event, he left the Third Domain and enters the First Domain, still in shock from what happened. He will haphazardly run into a store and will interact with Daan and Aki this way. I'll first spend some time describing the setting for him and start the introduction afterwards.
 	- Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
 	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
 		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
