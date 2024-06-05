@@ -2,6 +2,8 @@ The first runaway informant of Verdant and former support character of Verdant's
 
 ## Appearance and Personality.
 Salina is a peaceful but sharp moon elf cleric who is aware of her surroundings. She is on good terms with Verdant and notably enjoys their company. Due to the information she posesses, she knows not to immediately trust people, especially in the Third Domain.
+Also she whoreships [[Rhonas]] one of the deities under [[Gentle Death]]. He is the deity of strength
+Salina believes that deeds are more valuable than words
 ## Character Sheet
 Level 5 Cleric, mainly support character.
 
