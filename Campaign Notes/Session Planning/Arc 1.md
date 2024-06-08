@@ -44,6 +44,7 @@
 
 - Meeting Person 2 - Marcus
 	- Marcus is currently an Overlord and is also hostile against the party. This will be the main combat event.
+	- [[Marcus vs. Party]]
 	- Wether Marcus lives or dies, they need to bring him to the research group.
 - Meeting Person 3 - Iridaiasba
 	- This person gets killed by Rubae after which the party I suppose may use an action to do something i guess, and gets fucking k.o'd by Rubae.
