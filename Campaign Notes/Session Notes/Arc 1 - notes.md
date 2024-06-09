@@ -110,3 +110,17 @@ salina is getting pinned against the wall and gets slapped by ratronus.
 marcus must die
 
 ratronus tells them not in lots of detail that marcus might get a position of power and decides to ensnare Salina, in order to bring her back to Verdant.
+
+before this, they get shot with an arrow by the healer npc
+
+get shot with an arrow
+
+marcus init 8, wiz 13, healer 19
+aki 14, chron 15, hunter 10, rat 7
+
+--combat
+(healer shot the arrow cliumsily)
+
+chron casts summon beast: summons a brown bear near the wiz and healer
+
+bear attacks the healer for 1d8+4+2 for 13
