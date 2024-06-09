@@ -21,7 +21,12 @@ Daan rereads the letter and shows daan the symbol
 
 Joris introduces himself as ratronus and shows a faked id. The name is barteljaap.
 
-Daan distrusts joris and introduces himself as Hunter. He grabs his warhammer to intimidate. They decide to le
+Daan distrusts joris and introduces himself as Hunter. He grabs his warhammer to intimidate. They decide to leave the garage
 
 while they leave the garage they see a billbord. Hunter doesnt know what the posters mean and Aki junps off the shoulder and changes into her human form
 
+Aki tells hunter about the posters. Ratronus wanted to remember i fhe saw a human change into an animal. He heard about this being a thing but never saw a fox change into a human before.
+
+Ratronus is hesitant but shakes Aki's hand. She asks him about his rat form.
+
+they head towards the tavern and don't notice the alleyway shenanigans/
