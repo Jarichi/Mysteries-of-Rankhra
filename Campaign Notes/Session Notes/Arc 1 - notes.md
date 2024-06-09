@@ -17,4 +17,11 @@ jpris pulls his rapier in response to daan who was read the letter. and says dam
 joris quietly opens the door and sees daan. He decides to drop a wrench and interacts with daan.
 
 joris goves him 5 gold to kind of haggle to overnacht with him.
-Daan rereads the letter and 
+Daan rereads the letter and shows daan the symbol
+
+Joris introduces himself as ratronus and shows a faked id. The name is barteljaap.
+
+Daan distrusts joris and introduces himself as Hunter. He grabs his warhammer to intimidate. They decide to le
+
+while they leave the garage they see a billbord. Hunter doesnt know what the posters mean and Aki junps off the shoulder and changes into her human form
+
