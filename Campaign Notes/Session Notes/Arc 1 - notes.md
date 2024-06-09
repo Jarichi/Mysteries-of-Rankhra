@@ -45,3 +45,14 @@ aki spends 11gp and goes to Sasha and Martin.
 
 Verdant (he/him) gets recognised and ratronus calls aki a pet
 
+chrone enters the building
+
+Chron climbs the bar and changes into his druid form.
+
+ratronus notes the impostance of the spideer'
+
+Chrone uses is full govenment legal name and verdant is happy to see him. Makes a funny remark for the session.
+
+ratronus gets the most escapable chair.
+
+verdant asks them.
