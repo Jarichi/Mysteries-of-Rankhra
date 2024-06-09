@@ -95,3 +95,10 @@ marcus, fredric
 
 marcus took fredrick with him and slaina could hide.
 
+salina doesnt get trusted and offers to walk towards
+
+the same letter symbol of the letter is on the symbol.
+
+aki sneaks into the house and opens the locked door
+
+and aki also rolls investigation in the drawer
