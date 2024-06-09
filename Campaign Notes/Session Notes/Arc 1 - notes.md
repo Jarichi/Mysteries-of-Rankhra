@@ -102,3 +102,11 @@ the same letter symbol of the letter is on the symbol.
 aki sneaks into the house and opens the locked door
 
 and aki also rolls investigation in the drawer
+
+ratronus is panicking and looking around, since he learned about an overlord. He walsk out of the building
+
+salina is getting pinned against the wall and gets slapped by ratronus.
+
+marcus must die
+
+ratronus tells them not in lots of detail that marcus might get a position of power and decides to ensnare Salina, in order to bring her back to Verdant.
