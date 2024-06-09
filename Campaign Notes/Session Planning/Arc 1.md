@@ -16,7 +16,7 @@
 - they head out and go towards the research group.
 	- noteably walk through an alleyway, and I will pause. You go through an alleyway... ... ... And you arrive at a tavern.   
 	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
-		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
+		- Chrone arrives in his wild shape (spooder) coincidentally at the same time.
 		- preceprtion roll for seeing the hole in the roof.
 
 - Joining research group [[Lettered Lamenting]]
@@ -50,6 +50,19 @@
 
 --end session 1:
 [[Arc 1 - notes]]
+
+###### Session comclusions
+Party:
+- Verdant is not to be trusted
+- Salina is not to be trusted but maybe
+- Marcus must die
+- Chrone is not to be trusted
+- Semyon got namedropped
+- They may or may not trust anything with connections to the research group.
+DM:
+- Should keep stories consistent to avoid trust
+- Try to show off character's strenght more (e.g. melee combat with Aki for her paladin abilities)
+- 
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish
 	- the filler combat NPC's death will be remembered by some house i the impromptu village DC 20+.
