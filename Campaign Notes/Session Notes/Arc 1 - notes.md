@@ -128,6 +128,14 @@ also goes into wild shape
 
 wizard teleports away casts mage arrow for 12dmg on twan bear wild shape
 
-hunter shoots with musket on the wizard. 
+hunter shoots with musket on the wizard for 13 dmg. 
 
-marcus shoots 7dmg
+marcus shoots 7dmg on Hunter
+
+rat uses silvery barbs to attack the wizard.
+
+chron uses multi attack (bite of claws) on marcus for 12+9+7 = 28dmg
+marcus has 40dmg
+fails con check
+
+
