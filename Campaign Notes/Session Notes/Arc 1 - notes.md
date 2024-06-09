@@ -152,4 +152,19 @@ chron attacks for 10+7 = 17 dmg
 
 wiz burning hands, 15 dmg for chron and 7 for marcus
 
-aki 
+aki casts divine favour (1d6 extra radiant), and divine smite for 17 dmg.
+marcus dies
+
+hunter: 10 dmg on wizard
+wizard dies.
+
+
+aki collects his ashes into a bag
+
+-end combat
+
+Chrone heals aki for 2+5 = 7 hp and aki heals herself for 6 hp
+aki heals 7 for hunter, has 2 lay-on-hands remaining
+
+--end session
+
