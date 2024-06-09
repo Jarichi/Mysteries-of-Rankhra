@@ -13,7 +13,7 @@
 	- Hunter receives a letter via his Comet. Aki has the comet in her mouth and gives this to Hunter. The Comet materialises a [[Shoka to Hunter - Letter|letter]] from the Shoka Engineering Collective.
 	- the Shoka letter writes about that the sponsorship money gets relinquished unless they figure out a way to investigate the temple for certain goals. It also writes about there being more information on the Billboard. Billboards contains a poster about some clothing store, a potion shop and a research group that provides protection and safe housing for new members who would like to research the temple.
 	- This is the reason for Ratronus and Hunter to join the group.
-- theey head out and go towards the research group.
+- they head out and go towards the research group.
 	- noteably walk through an alleyway, and I will pause. You go through an alleyway... ... ... And you arrive at a tavern.   
 	- Chrone is already a member of the research group and has already gathered some esteem, and is the reason why the party even gets the mission in the first place.
 		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
