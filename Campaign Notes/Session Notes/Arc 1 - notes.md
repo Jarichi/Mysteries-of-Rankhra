@@ -36,7 +36,7 @@ only hunter hesitates before entering the tavern.
 they enter the tavern and decide to roll perception
 
 Aki heads towards the barkeeper and pays 10 gp for the strongest drink.
-hunter orders 2 beer for himself and ratronus.
+hunter orders 2 beer for himself and ratronus. (5gp)
 
 they ask him about his personal details: martin comes from outside of the city. 
 Aki is tipsy (-2 on charisma saves)
