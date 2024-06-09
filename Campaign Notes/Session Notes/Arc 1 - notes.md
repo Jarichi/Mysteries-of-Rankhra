@@ -69,3 +69,10 @@ verdant apologises for the letter and sends them towards the sewers
 
 Hunter gets dragged out of the room and they need to go to the sewers.
 
+might write verdant as an unknowing owner who is being manipulated by Semyon.
+
+- going to the sewers
+
+aki opens the manhole cover and casts fox fire.
+
+ratronus follows hesitantly and as the last person in the group
