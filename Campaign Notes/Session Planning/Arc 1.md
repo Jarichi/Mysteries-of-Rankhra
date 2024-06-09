@@ -51,7 +51,12 @@
 --end session 1:
 [[Arc 1 - notes]]
 
-- Meeting Person 3 - Iridaiasba
+- after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish
+	- the filler combat NPC's death will be remembered by some house i the impromptu village DC 20+.
+
+- Meeting Person 3 - Frederic
 	- This person gets killed by Rubae after which the party I suppose may use an action to do something i guess, and gets fucking k.o'd by Rubae.
+	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
+		- "Those dead creatures always do someting like this, pathetic souls"
 - Returning to research group
 - Receiving reward
