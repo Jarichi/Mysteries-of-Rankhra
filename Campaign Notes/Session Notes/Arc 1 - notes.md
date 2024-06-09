@@ -115,12 +115,19 @@ before this, they get shot with an arrow by the healer npc
 
 get shot with an arrow
 
-marcus init 8, wiz 13, healer 19
-aki 14, chron 15, hunter 10, rat 7
+combat order:
+healer, chron, wizard, aki, hunter, marcus, rat
 
---combat
-(healer shot the arrow cliumsily)
+
+(healer shot the arrow cliumsily) and misses
 
 chron casts summon beast: summons a brown bear near the wiz and healer
 
-bear attacks the healer for 1d8+4+2 for 13
+bear attacks the healer for 1d8+4+2 for 13 (non lethal)
+also goes into wild shape
+
+wizard teleports away casts mage arrow for 12dmg on twan bear wild shape
+
+hunter shoots with musket on the wizard. 
+
+marcus shoots 7dmg
