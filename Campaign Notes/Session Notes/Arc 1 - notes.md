@@ -101,11 +101,11 @@ the same letter symbol of the letter is on the symbol.
 
 aki sneaks into the house and opens the locked door
 
-and aki also rolls investigation in the drawer
+and aki also rolls investigation in the drawer. drawer contains a diary entry of Marcus which has the information he has.
 
 ratronus is panicking and looking around, since he learned about an overlord. He walsk out of the building
 
-salina is getting pinned against the wall and gets slapped by ratronus.
+salina is getting pinned against the wall and gets slapped by ratronus who walked into the building again.
 
 marcus must die
 
@@ -113,7 +113,7 @@ ratronus tells them not in lots of detail that marcus might get a position of po
 
 before this, they get shot with an arrow by the healer npc
 
-get shot with an arrow
+get shot with an arrow which misses Salina.
 
 combat order:
 healer, chron, wizard, aki, hunter, marcus, rat
@@ -159,7 +159,7 @@ hunter: 10 dmg on wizard
 wizard dies.
 
 
-aki collects his ashes into a bag
+aki collects his ashes into a bag (might rework this to leaving a singular head.)
 
 -end combat
 
