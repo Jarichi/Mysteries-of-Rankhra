@@ -76,3 +76,9 @@ might write verdant as an unknowing owner who is being manipulated by Semyon.
 aki opens the manhole cover and casts fox fire.
 
 ratronus follows hesitantly and as the last person in the group
+
+aki opens the door and the humanoid female has a dirty face (mary)
+
+they move on and get at some combat area. there is a symbol
+
+aki enters fox form and rolls steal
