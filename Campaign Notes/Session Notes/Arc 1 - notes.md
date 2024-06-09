@@ -39,3 +39,9 @@ Aki heads towards the barkeeper and pays 10 gp for the strongest drink.
 hunter orders 2 beer for himself and ratronus.
 
 they ask him about his personal details: martin comes from outside of the city. 
+Aki is tipsy (-2 on charisma saves)
+
+aki spends 11gp and goes to Sasha and Martin.
+
+Verdant (he/him) gets recognised and ratronus calls aki a pet
+
