@@ -81,4 +81,17 @@ aki opens the door and the humanoid female has a dirty face (mary)
 
 they move on and get at some combat area. there is a symbol
 
-aki enters fox form and rolls steal
+aki enters fox form and rolls stealth
+Chron walks towards Salina (hidden) and notices her ears
+
+- meeting salina
+she crawls out of the hiding place and trusts them.
+
+she tells them where marcus and other went
+and talks to the group
+nootes that verdant is extremely chaotic
+
+marcus, fredric
+
+marcus took fredrick with him and slaina could hide.
+
