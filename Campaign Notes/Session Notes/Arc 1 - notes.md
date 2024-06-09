@@ -55,4 +55,5 @@ Chrone uses is full govenment legal name and verdant is happy to see him. Makes 
 
 ratronus gets the most escapable chair.
 
-verdant asks them.
+verdant asks them to describe their abilities
+
