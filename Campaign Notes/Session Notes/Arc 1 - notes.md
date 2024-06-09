@@ -29,4 +29,13 @@ Aki tells hunter about the posters. Ratronus wanted to remember i fhe saw a huma
 
 Ratronus is hesitant but shakes Aki's hand. She asks him about his rat form.
 
-they head towards the tavern and don't notice the alleyway shenanigans/
+they head towards the tavern and don't notice the alleyway shenanigans
+
+only hunter hesitates before entering the tavern.
+
+they enter the tavern and decide to roll perception
+
+Aki heads towards the barkeeper and pays 10 gp for the strongest drink.
+hunter orders 2 beer for himself and ratronus.
+
+they ask him about his personal details: martin comes from outside of the city. 
