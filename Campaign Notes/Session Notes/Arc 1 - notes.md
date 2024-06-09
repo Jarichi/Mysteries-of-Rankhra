@@ -56,4 +56,16 @@ Chrone uses is full govenment legal name and verdant is happy to see him. Makes 
 ratronus gets the most escapable chair.
 
 verdant asks them to describe their abilities
+he also asks them abput the invitation
+
+the giant eagle steals the letter and verdant is shocked at reading the letter 
+(the party doesnt trust verdant which is understandable)
+
+aki and hunters get 300gp and the rest 200gp.
+
+verdant apologises for the letter and sends them towards the sewers
+
+(went a totally different direction than I intended.)
+
+Hunter gets dragged out of the room and they need to go to the sewers.
 

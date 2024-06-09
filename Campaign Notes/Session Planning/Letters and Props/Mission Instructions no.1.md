@@ -8,4 +8,5 @@ Not that we *don't* trust you can handle yourselves, we juuuuust wanna be sure! 
 
 Be safe and take care! S. V.
 
-[also contains a small trinket that allows Semyon to track the party tee hee]s
+[also contains a small trinket that allows Semyon to track the party tee hee]
+
