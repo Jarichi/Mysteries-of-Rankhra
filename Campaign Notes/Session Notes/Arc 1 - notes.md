@@ -166,5 +166,8 @@ aki collects his ashes into a bag (might rework this to leaving a singular head.
 Chrone heals aki for 2+5 = 7 hp and aki heals herself for 6 hp
 aki heals 7 for hunter, has 2 lay-on-hands remaining
 
---end session
+--end session 1
+
+---
+
 

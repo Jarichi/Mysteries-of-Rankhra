@@ -1,5 +1,5 @@
 #hidden 
-## Story Hooks
+## Session 1
 - meeting the party
 - Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
 - Ratronus, escaping from his backstory significant event, he left the Third Domain and enters the First Domain, still in shock from what happened. He will haphazardly run into a store and will interact with Hunter and Aki this way. I'll first spend some time describing the setting for him and start the introduction afterwards.
@@ -62,7 +62,11 @@ Party:
 DM:
 - Should keep stories consistent to avoid trust
 - Try to show off character's strenght more (e.g. melee combat with Aki for her paladin abilities)
-- 
+- make characters that can definitely be trusted
+- may need to rewrite most of my planning and define plot points.
+- ---
+## Session 2
+
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish
 	- the filler combat NPC's death will be remembered by some house i the impromptu village DC 20+.
