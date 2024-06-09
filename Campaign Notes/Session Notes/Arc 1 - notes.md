@@ -138,4 +138,18 @@ chron uses multi attack (bite of claws) on marcus for 12+9+7 = 28dmg
 marcus has 40dmg
 fails con check
 
+wizard casts mage armor
 
+aki does melee atk with divine smite FOR 3+2+6 = 11
+
+hunter misses his shot
+
+marcus attacks aki for 13 dmg uses sneak atk
+
+rat misses short
+
+chron attacks for 10+7 = 17 dmg
+
+wiz burning hands, 15 dmg for chron and 7 for marcus
+
+aki 

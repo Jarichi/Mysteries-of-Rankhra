@@ -30,7 +30,7 @@ CR 1/2 mage.
 | 8 (-1) | 13 (+1) | 9 (-1) | 15 (+2) | 12 (+1) | 10 (+0) |
 **[Saving Throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws")** [Int](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") +4
 HP: 3d8 (15)
-AC: 10
+AC: 14
 ### Abilities
 _**Spellcasting.**_ The apprentice mage is a 3rd-level spellcaster. Its spellcasting ability is [Intelligence](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") (spell save DC 12, +4 to hit with spell attacks). The apprentice mage has the following [wizard](https://www.dandwiki.com/wiki/5e_SRD:Wizard "5e SRD:Wizard") spells prepared.
 
