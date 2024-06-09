@@ -19,7 +19,7 @@
 		- Chrone arrives in his wild shape (birb) coincidentally at the same time.
 		- preceprtion roll for seeing the hole in the roof.
 
-- Joining research group
+- Joining research group [[Lettered Lamenting]]
 	- Verdant introduces themselves and answers the most of their questions
 	- They are allowed to speak with the NPCs in the area/
 	- After introductions, Verdant asks them to join the research group, and immediately gives them a mission that lets the party go into the 3rd domain.
