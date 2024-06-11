@@ -1,4 +1,4 @@
-#hidden 
+[#hidden 
 ## Session 1
 - meeting the party
 - Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
@@ -51,17 +51,17 @@
 --end session 1:
 [[Arc 1 - notes]]
 
-###### Session comclusions
+###### Session conclusions
 Party:
 - Verdant is not to be trusted
 - Salina is not to be trusted but maybe
-- Marcus must die
-- Chrone is not to be trusted
+- Marcus must die (he died)
+- Chrone may not entirely be trusted.
 - Semyon got namedropped
 - They may or may not trust anything with connections to the research group.
 DM:
-- Should keep stories consistent to avoid trust
-- Try to show off character's strenght more (e.g. melee combat with Aki for her paladin abilities)
+- Should keep stories consistent.
+- Try to show off character's strength more (e.g. melee combat with Aki for her paladin abilities)
 - make characters that can definitely be trusted
 - may need to rewrite most of my planning and define plot points.
 - ---

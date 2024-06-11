@@ -1,20 +1,11 @@
 {
 	"nodes":[
-		{"id":"119cff1c95d6114b","x":-243,"y":-105,"width":250,"height":60,"type":"text","text":"intro"},
-		{"id":"9b4f1ecc609947a8","x":200,"y":-105,"width":250,"height":60,"type":"text","text":"Semyon appears"},
-		{"id":"0d9ebe2a334f9e6f","x":640,"y":-105,"width":250,"height":60,"type":"text","text":"Temple shenanigans"},
-		{"id":"8fcf672eaef23947","x":1080,"y":-105,"width":250,"height":60,"type":"text","text":"Rubae makes second appearance "},
-		{"id":"dc9fe3f5e0c83329","x":515,"y":-360,"width":250,"height":60,"type":"text","text":"Example"}
+		{"id":"119cff1c95d6114b","type":"text","text":"intro","x":-243,"y":-105,"width":250,"height":60},
+		{"id":"9b4f1ecc609947a8","type":"text","text":"Rubae Appears","x":80,"y":-105,"width":250,"height":60},
+		{"id":"0d9ebe2a334f9e6f","type":"text","text":"Going to Janib'Rankhra","x":400,"y":-105,"width":250,"height":60},
+		{"id":"7fc1ee429aedea67","type":"text","text":"Going to Concept of Exploration","x":720,"y":-105,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"44aba83f48cae107","fromNode":"119cff1c95d6114b","fromSide":"right","toNode":"9b4f1ecc609947a8","toSide":"left"},
-		{"id":"019c36c42727f289","fromNode":"9b4f1ecc609947a8","fromSide":"right","toNode":"0d9ebe2a334f9e6f","toSide":"left"},
-		{"id":"e84c65526ef4f8c8","fromNode":"0d9ebe2a334f9e6f","fromSide":"right","toNode":"8fcf672eaef23947","toSide":"left"},
-		{"id":"879c57bdb7632c07","fromNode":"9b4f1ecc609947a8","fromSide":"bottom","toNode":"0d9ebe2a334f9e6f","toSide":"bottom"},
-		{"id":"9782c133baebd013","fromNode":"9b4f1ecc609947a8","fromSide":"bottom","toNode":"0d9ebe2a334f9e6f","toSide":"left"},
-		{"id":"ad5a81f55a3eafe9","fromNode":"9b4f1ecc609947a8","fromSide":"top","toNode":"0d9ebe2a334f9e6f","toSide":"top"},
-		{"id":"cb33c9ed4be5bc27","fromNode":"9b4f1ecc609947a8","fromSide":"top","toNode":"0d9ebe2a334f9e6f","toSide":"left"},
-		{"id":"30f56856ba00b1ea","fromNode":"9b4f1ecc609947a8","fromSide":"right","toNode":"0d9ebe2a334f9e6f","toSide":"bottom"},
-		{"id":"64f9c6a53e29d079","fromNode":"9b4f1ecc609947a8","fromSide":"right","toNode":"0d9ebe2a334f9e6f","toSide":"top"}
+		{"id":"44aba83f48cae107","fromNode":"119cff1c95d6114b","fromSide":"right","toNode":"9b4f1ecc609947a8","toSide":"left"}
 	]
 }
