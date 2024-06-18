@@ -87,4 +87,10 @@ So go towards some sort of temple that may contain information about the fact th
 	if that doesnt work this may need to be something elske
 		and if they decide to directly investigate the Concepts, they may go to someplace else
 		but this leads to more freedom and mayy lead to more seperation regarding the mission structure that may feel railroady.
-			I do need to figure out Twan in this considering he has loyal
+			I do need to figure out Twan in this considering he has loyalty to the research group/
+
+
+In the case that Verdant doesnt het accepted by the party, there may be a split because Twan might split off.
+
+
+anyway combat should then be some less personal thing like bandits or such or animals
