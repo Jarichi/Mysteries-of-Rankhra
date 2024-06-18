@@ -68,7 +68,8 @@ DM:
 ## Session 2
 
 
-- after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish
+- after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
+	- I sure hoppe they kept notes
 	- the filler combat NPC's death will be remembered by some house i the impromptu village DC 20+.
 
 - Meeting Person 3 - Frederic
@@ -77,3 +78,13 @@ DM:
 		- "Those dead creatures always do someting like this, pathetic souls"
 - Returning to research group
 - Receiving reward
+
+	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
+
+Because Verdant sees that the first mission was WAYY to dangerous, he wants to send the party on an easier mission that will just be some reporting and researching
+
+So go towards some sort of temple that may contain information about the fact that janib rankhra exists
+	if that doesnt work this may need to be something elske
+		and if they decide to directly investigate the Concepts, they may go to someplace else
+		but this leads to more freedom and mayy lead to more seperation regarding the mission structure that may feel railroady.
+			I do need to figure out Twan in this considering he has loyal
