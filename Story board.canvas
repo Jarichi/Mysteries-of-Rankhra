@@ -4,8 +4,8 @@
 		{"id":"9b4f1ecc609947a8","type":"text","text":"Rubae Appears","x":80,"y":-105,"width":250,"height":60},
 		{"id":"7fc1ee429aedea67","type":"text","text":"Going to Concept of Exploration","x":720,"y":-105,"width":250,"height":60},
 		{"id":"0d9ebe2a334f9e6f","type":"text","text":"Going to Janib'Rankhra","x":400,"y":-105,"width":250,"height":60},
-		{"id":"0feae60cd0cd0b0b","x":190,"y":-281,"width":250,"height":60,"type":"text","text":"Conflict with Verdant"},
-		{"id":"f06b2742fe69bd36","x":190,"y":60,"width":250,"height":60,"type":"text","text":"No questions"}
+		{"id":"0feae60cd0cd0b0b","type":"text","text":"No conflict","x":190,"y":-281,"width":250,"height":60},
+		{"id":"f06b2742fe69bd36","type":"text","text":"Conflict","x":190,"y":60,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"44aba83f48cae107","fromNode":"119cff1c95d6114b","fromSide":"right","toNode":"9b4f1ecc609947a8","toSide":"left"},
