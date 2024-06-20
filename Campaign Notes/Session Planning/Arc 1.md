@@ -80,7 +80,9 @@ DM:
 		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
 - Returning to research group
-	- After completing the mission, the party returns to the research group and 
+	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that he does need to oblige with the demands of the Shoka Engineering Collective, but that the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
+	- He learned from his missions, and from the information that Salina provided, that everybody in this party has some sort of connection with the temple in one way or another.
+	- 
 - Receiving reward
 
 	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
