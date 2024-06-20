@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"119cff1c95d6114b","type":"text","text":"intro","x":-243,"y":-105,"width":250,"height":60},
 		{"id":"9b4f1ecc609947a8","type":"text","text":"Rubae Appears","x":80,"y":-105,"width":250,"height":60},
-		{"id":"7fc1ee429aedea67","type":"text","text":"Going to Concept of Exploration","x":720,"y":-105,"width":250,"height":60},
-		{"id":"0d9ebe2a334f9e6f","type":"text","text":"Going to Janib'Rankhra","x":400,"y":-105,"width":250,"height":60},
 		{"id":"0feae60cd0cd0b0b","type":"text","text":"No conflict","x":190,"y":-281,"width":250,"height":60},
-		{"id":"f06b2742fe69bd36","type":"text","text":"Conflict","x":190,"y":60,"width":250,"height":60}
+		{"id":"f06b2742fe69bd36","type":"text","text":"Conflict","x":190,"y":60,"width":250,"height":60},
+		{"id":"7fc1ee429aedea67","type":"text","text":"Going to Concept of Exploration","x":1340,"y":-105,"width":250,"height":60},
+		{"id":"0d9ebe2a334f9e6f","type":"text","text":"Going to Janib'Rankhra","x":880,"y":-105,"width":250,"height":60},
+		{"id":"32997a69972d4825","x":540,"y":-105,"width":250,"height":60,"type":"text","text":"Going to Rankhra"}
 	],
 	"edges":[
 		{"id":"44aba83f48cae107","fromNode":"119cff1c95d6114b","fromSide":"right","toNode":"9b4f1ecc609947a8","toSide":"left"},
 		{"id":"89906aceed17ac04","fromNode":"9b4f1ecc609947a8","fromSide":"top","toNode":"0feae60cd0cd0b0b","toSide":"bottom"},
-		{"id":"7a77ccf4daa7b360","fromNode":"9b4f1ecc609947a8","fromSide":"bottom","toNode":"f06b2742fe69bd36","toSide":"top"}
+		{"id":"7a77ccf4daa7b360","fromNode":"9b4f1ecc609947a8","fromSide":"bottom","toNode":"f06b2742fe69bd36","toSide":"top"},
+		{"id":"e57ed9616c717202","fromNode":"32997a69972d4825","fromSide":"right","toNode":"0d9ebe2a334f9e6f","toSide":"left"}
 	]
 }
