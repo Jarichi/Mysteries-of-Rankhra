@@ -69,14 +69,18 @@ DM:
 
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
-	- I sure hoppe they kept notes
-	- the filler combat NPC's death will be remembered by some house i the impromptu village DC 20+.
+	- I sure hoppe they kept notes >:3
+	- the filler combat NPC's death will be remembered by some house in the impromptu village DC 20+. Probably at the same house that that one Anna woman lived in.
 
 - Meeting Person 3 - Frederic
-	- This person gets killed by Rubae after which the party I suppose may use an action to do something i guess, and gets fucking k.o'd by Rubae.
+	- The party will continue looking for Frederic and will probably just find some sort of trail towards him, OR EVEN BETTER, he will simply run into the party panicking because he needs to get back to Verdant.
+		- Hopefully, the accounts of people trusting Verdant will lead to an increase in trust for the party. ANYWAY,
+	- Before frederic can finish his sentence he gets killed by Rubae after which the party I suppose may use an action to do something i guess. RUbae immediately tries to teleport away, but 
 	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
-		- "Those dead creatures always do someting like this, pathetic souls"
+		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
+			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
 - Returning to research group
+	- After completing the mission, the party returns to the research group and 
 - Receiving reward
 
 	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
