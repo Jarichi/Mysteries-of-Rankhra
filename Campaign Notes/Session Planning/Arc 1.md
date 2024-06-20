@@ -80,15 +80,23 @@ DM:
 		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
 - Returning to research group
+- Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
 	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that he does need to oblige with the demands of the Shoka Engineering Collective, but that the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
-	- He learned from his missions, and from the information that Salina provided, that everybody in this party has some sort of connection with the temple in one way or another.
-	- Also
+	- He learned from his missions, and from the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another.
+		- Come up with a reason for why exactly they need to stick together.
+	- Leave some room for Cynthia's introduction.
 - Receiving reward
+	- After receiving their reward, Verdant will give them a 
 
 	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
 
-Because Verdant sees that the first mission was WAYY to dangerous, he wants to send the party on an easier mission that will just be some reporting and researching
+Because Verdant sees that the first mission was WAYY to dangerous, he wants to send the party on an easier mission that will just be some reporting and researching.
+	The party might ask about Semyon, and Verdant might be honest about his relation to Semyon, OR he might not hide it since I am anticipating Ratronus to ask a question about betrayal.
+Verdant will also inform the party that since they have most definitely proven themselves, they are idk
 
+
+Initial pointers will be towards Rankhra, and the party may try to enter the temple which will prove to be impossible.
+	TODO: make a simple 
 So go towards some sort of temple that may contain information about the fact that janib rankhra exists
 	if that doesnt work this may need to be something elske
 		and if they decide to directly investigate the Concepts, they may go to someplace else
