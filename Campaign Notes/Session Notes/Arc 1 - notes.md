@@ -1,3 +1,4 @@
+## Session 1
 joris roll perception
 20 - describe tunnel
 
@@ -169,5 +170,10 @@ aki heals 7 for hunter, has 2 lay-on-hands remaining
 --end session 1
 
 ---
+## Session 2
+### Quick access
+[player sheets]
+[significant NPCs]
+[significant areas]
 
 
