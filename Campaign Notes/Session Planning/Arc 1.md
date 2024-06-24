@@ -88,7 +88,10 @@ DM:
 		- Hunter is in direct connection with the Concept of Exploration by means of the hunter group
 		- Chron was sent to the temple by the prophecy
 		- Come up with a reason for why exactly they need to stick together.
-	- as such, Verdant is willing to semi-permanently enlist them, pay for housing and expenses and take care of maintaining the shop. -> allude to the fact that he, as an Eladrin and Fey, cannot lie. IF they are willing to help him on researching ways to get into the temple, earlier than this Rubae person
+	- as such, Verdant offers to contract the party and give them a safer mission, in return for protection, housing, shop maintenance and pocket money -> allude to the fact that he, as an Eladrin and Fey, cannot lie.
+		- Verdant will also offer to answer questions, either public or private.
+		- If they refuse and choose to abandon Verdant, I will be very sad but I need to plan accordingly.
+			- Perhaps, Verdant will send them away and 
 	- Leave some room for Cynthia's introduction.
 
 	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
