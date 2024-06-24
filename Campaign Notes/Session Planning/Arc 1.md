@@ -75,18 +75,21 @@ DM:
 - Meeting Person 3 - Frederic
 	- The party will continue looking for Frederic and will probably just find some sort of trail towards him, OR EVEN BETTER, he will simply run into the party panicking because he needs to get back to Verdant.
 		- Hopefully, the accounts of people trusting Verdant will lead to an increase in trust for the party. ANYWAY,
-	- Before frederic can finish his sentence he gets killed by Rubae after which the party I suppose may use an action to do something i guess. RUbae immediately tries to teleport away, but 
+	- Before frederic can finish his sentence he gets killed by Rubae after which the party I suppose may use an action to do something i guess. Rubae immediately tries to teleport away, but 
 	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
 		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
-- Returning to research group
+- ###### Returning to research group
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
-	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that he does need to oblige with the demands of the Shoka Engineering Collective, but that the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
-	- He learned from his missions, and from the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another.
+	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that while he does need to oblige with the demands of the Shoka Engineering Collective, the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
+	- He learned from his missions, and from the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another. Either they were born in the city near the temple or led to the temple one way or another.
+		- Aki was lead by the fey
+		- Ratronus was born underneath the temple and dealt with 'divine' influences
+		- Hunter is in direct connection with the Concept of Exploration by means of the hunter group
+		- Chron was sent to the temple by the prophecy
 		- Come up with a reason for why exactly they need to stick together.
+	- as such, Verdant is willing to semi-permanently enlist them, pay for housing and expenses and take care of maintaining the shop. -> allude to the fact that he, as an Eladrin and Fey, cannot lie. IF they are willing to help him on researching ways to get into the temple, earlier than this Rubae person
 	- Leave some room for Cynthia's introduction.
-- Receiving reward
-	- After receiving their reward, Verdant will give them a 
 
 	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
 
