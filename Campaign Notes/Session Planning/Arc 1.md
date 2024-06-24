@@ -108,11 +108,12 @@ So go towards some sort of temple that may contain information about the fact th
 	if that doesnt work this may need to be something elske
 		and if they decide to directly investigate the Concepts, they may go to someplace else
 		but this leads to more freedom and mayy lead to more seperation regarding the mission structure that may feel railroady.
-			I do need to figure out Twan in this considering he has loyalty to the research group/
 
 Rankra will somehow give them pointers towards Janib'rankhra, which is a significant place for Aki.
 	TODO: more lore about Janib'rankhra
 This temple will have some sort of closed door which contains a puzzle. that can only be solved usnig knowledge about the Feywild
+
+	cynthia's character will probaby play a role in leading them towards janib rankhra
 
 
 Within the temple the concepts are explained in very high-levl terms and will also give them a rough list of the known concepts and their whereabouts.
