@@ -67,7 +67,8 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-
+### Important documents
+[[Gentle Death]], 
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
 	- I sure hoppe they kept notes >:3
@@ -113,18 +114,18 @@ DM:
 - Some puzzle to excavate the temple, Or some puzzle to enter the temple
 	- I think excavation is cooler
 - temple contains lore about the concepts and some information about needing to be blessed by the GOd of Creation or something
-- 
-Rankra will somehow give them pointers towards Janib'rankhra, which is a significant place for Aki.
-	TODO: more lore about Janib'rankhra
-This temple will have some sort of closed door which contains a puzzle. that can only be solved usnig knowledge about the Feywild
+- they might be being scryed upon by someone.
 
-	cynthia's character will probaby play a role in leading them towards janib rankhra
+
+###### Hunter TRibe
+- Hunter will lead them to the nomad outpost
+- Will use his familiarity with the environment to get closer to the animal creature thingy
+- loads of opportunities to talk with NPCs here
+- The goal of visiting the tribe will be to gete in contact wiht the Concept of Exploration.
+	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
+- since the concept is a literal animal, only people wiht speak with animals or who are being spoken to are allowed to hear the conversation (which I need to prep)
 
 
 Within the temple the concepts are explained in very high-levl terms and will also give them a rough list of the known concepts and their whereabouts.
 	Hunter will need to roll a history check if he remembers wvweything about the hunter greoup that is lead by the concept of ecploration, of if he simply has a feeling that he is forgetting something.
 
-
-
-
-anyway combat should then be some less personal thing like bandits or such or animals
