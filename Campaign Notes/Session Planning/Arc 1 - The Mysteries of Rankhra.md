@@ -68,7 +68,7 @@ DM:
 - ---
 ## Session 2
 ### Important documents
-[[Gentle Death]], 
+[[Gentle Death]], [[Rubae]], [[Salina]]
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
 	- I sure hoppe they kept notes >:3
@@ -79,9 +79,10 @@ DM:
 		- Hopefully, the accounts of people trusting Verdant will lead to an increase in trust for the party. ANYWAY,
 	- Before frederic can finish his sentence he gets killed by Rubae after which the party I suppose may use an action to do something i guess. Rubae immediately tries to teleport away, but 
 	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
-		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
+		- "Hm, that creature actually used its Parting Gift to do this? How... disappointing." (with disbelief)
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
-	
+
+[[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]]
 - ###### Returning to research group
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
 - Also, DO NOT give the party the choice to reject Verdant as their missiongiver.
@@ -99,6 +100,7 @@ DM:
 			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers.
 	- Leave some room for Cynthia's introduction.
 
+[[Badawi Hunter Tribe]], [[Janib'Rankhra]], [[Rankhra]], [[Centroscopia]], 
 ###### To Rankhra
 - The mission explanation will be worded in order to give the party a strong hint that they need to go to Rankhra. Also proved a map of the First Domain and Centroscopia for shopping and perhaps for some closed stores that I may expand upon later.
 - Upon arriving at Rankhra, the party may snoop around the temple and find information about 2 specific locations; Janib'Rankhra, A temple located to the west of the city, where Aki initially entered the Mortal Plane; The Badawi Hunter Tribe, a nomadic tribe that continuously moves along the desert, driven by a strong sense of exploration.
@@ -109,15 +111,17 @@ DM:
 - To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the Bahath animal and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
 - The party may choose where to go first.
 
-###### Janib'Rankhra
+[[Puzzle no.1]], [[God of Creation]]
+###### [[Janib'Rankhra]]
 - Aki will recognise the environment
 - Some puzzle to excavate the temple, Or some puzzle to enter the temple
 	- I think excavation is cooler
 - temple contains lore about the concepts and some information about needing to be blessed by the GOd of Creation or something
 - they might be being scryed upon by someone.
 
+[[concept of exploration]], [[Animal Guide]]
 
-###### Hunter TRibe
+###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
 - Will use his familiarity with the environment to get closer to the animal creature thingy
 - loads of opportunities to talk with NPCs here
