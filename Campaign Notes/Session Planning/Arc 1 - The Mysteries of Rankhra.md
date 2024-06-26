@@ -119,7 +119,7 @@ DM:
 - temple contains lore about the concepts and some information about needing to be blessed by the GOd of Creation or something
 - they might be being scryed upon by someone.
 
-[[concept of exploration]], [[Animal Guide]]
+[[concept of exploration]], [[Bahath Animal Guide]]
 
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
