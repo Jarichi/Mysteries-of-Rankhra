@@ -104,7 +104,8 @@ DM:
 	- Aki rolls a COnstitution save, telling her that there is some foxglove nearby and giving flavourtext that the rest of the party smells a pungent, sour smell.
 	- The foxglove is, unfortunately, located within the temple boundaries itself. This will serve as an in-game guide that the temple cannot be accessed by normal means.
 
-
+- To find Janib'Rankhra, the party may notice that the setting sun provides a direct guide to where Janib'Rankhra is located. This temple is slightly burrowed underground which explains why nobody's found it yet.
+- To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the Bahath animal and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
 So go towards some sort of temple that may contain information about the fact that janib rankhra exists
 	if that doesnt work this may need to be something elske
 		and if they decide to directly investigate the Concepts, they may go to someplace else
