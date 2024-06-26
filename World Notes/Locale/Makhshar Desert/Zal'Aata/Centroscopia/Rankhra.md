@@ -10,8 +10,12 @@ The temple has been built on one of the sites where the God of Creation dispelle
 Note: temple was made by [this](http://dnd5e.wikidot.com/spell:temple-of-the-gods) spell.
 
 ## Layout
+### Outside
 Outside of the temple is a regular temple ground with some channels with water and generic temple stuff
-Inside of the temple contains an ancient garden containing odd [[flowers]] from a time long forgotten. It also contains an altar assigned to the God of Creation, it contains an ancient library containing information on old things, (which might be used in character lore) and contains a hallway towards the main temple room.
+Inside of the temple contains an ancient garden containing odd [[flowers]] from a time long forgotten. One of these flowers is [[Foxglove]], a drug origination from the feywild.
+
+It also contains an altar assigned to the God of Creation, it contains an ancient library containing information on old things, (which might be used in character lore) and contains a hallway towards the main temple room.
+### Inside
 The main temple room is a giant altar that contains a strange object, representing the Concept of Flow, and a strangely dead-ended hallway, leading to a secret room containing a mysterious [[hidden book|book]] and an unusable ancient scroll of the spell used to create the temple. The main temple room also contains a fast-travel portal to [[Janib'Rankhra]].
 
 ## Properties

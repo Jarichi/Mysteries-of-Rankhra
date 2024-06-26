@@ -6,3 +6,5 @@ This flower is very rarely sold by merchants in Zal'Aata. These merchants get th
 They cultivate these seeds by supplying them with a constant surge of magic to create similar conditions as in the Feywild. Flowers grown in the Mortal Plane wither much faster than flowers grown in the Feywild.
 
 maybe some hidden potion effect that only happens in the feywild
+
+Fogglove grown near Rankhra and Janib'Rankhra seem to have the same properties as foxglove grown in the Feywild, but this influence returns to normal if they are removed from the area.

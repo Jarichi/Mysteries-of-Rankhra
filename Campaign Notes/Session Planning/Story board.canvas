@@ -4,14 +4,16 @@
 		{"id":"9b4f1ecc609947a8","type":"text","text":"Rubae Appears","x":80,"y":-105,"width":250,"height":60},
 		{"id":"0feae60cd0cd0b0b","type":"text","text":"No conflict","x":190,"y":-281,"width":250,"height":60},
 		{"id":"f06b2742fe69bd36","type":"text","text":"Conflict","x":190,"y":60,"width":250,"height":60},
-		{"id":"0f1928df25440fc8","x":510,"y":-105,"width":250,"height":60,"type":"text","text":"Rubae TP's away"},
+		{"id":"0f1928df25440fc8","type":"text","text":"Rubae TP's away","x":510,"y":-105,"width":250,"height":60},
 		{"id":"32997a69972d4825","type":"text","text":"Going to Rankhra","x":840,"y":-105,"width":250,"height":60},
 		{"id":"7fc1ee429aedea67","type":"text","text":"Going to Concept of Exploration","x":1160,"y":-311,"width":250,"height":60},
 		{"id":"0d9ebe2a334f9e6f","type":"text","text":"Going to Janib'Rankhra","x":1160,"y":60,"width":250,"height":60},
-		{"id":"c654264548ba4c3e","x":1483,"y":-311,"width":250,"height":60,"type":"text","text":"Hunter Backstory"},
-		{"id":"8c369214e49cfc3e","x":1483,"y":60,"width":250,"height":60,"type":"text","text":"Aki backstory"},
-		{"id":"5c9a802db2979cf5","x":840,"y":-217,"width":250,"height":60,"type":"text","text":"Chron Backstory"},
-		{"id":"ee119f06f07be4fd","x":1733,"y":-135,"width":250,"height":60,"type":"text","text":"Lore about Concepts"}
+		{"id":"c654264548ba4c3e","type":"text","text":"Hunter Backstory","x":1483,"y":-311,"width":250,"height":60},
+		{"id":"8c369214e49cfc3e","type":"text","text":"Aki backstory","x":1483,"y":60,"width":250,"height":60},
+		{"id":"5c9a802db2979cf5","type":"text","text":"Chron Backstory","x":840,"y":-217,"width":250,"height":60},
+		{"id":"ee119f06f07be4fd","type":"text","text":"Lore about Concepts","x":1733,"y":-135,"width":250,"height":60},
+		{"id":"471b764d8fe3242c","x":840,"y":0,"width":250,"height":60,"type":"text","text":"Foxglove"},
+		{"id":"1f38e389f78bd3bc","x":648,"y":175,"width":250,"height":60,"type":"text","text":"R"}
 	],
 	"edges":[
 		{"id":"44aba83f48cae107","fromNode":"119cff1c95d6114b","fromSide":"right","toNode":"9b4f1ecc609947a8","toSide":"left"},
@@ -26,6 +28,7 @@
 		{"id":"fa69d726ee05bed0","fromNode":"0d9ebe2a334f9e6f","fromSide":"right","toNode":"8c369214e49cfc3e","toSide":"left"},
 		{"id":"1507b7a7e11137db","fromNode":"32997a69972d4825","fromSide":"top","toNode":"5c9a802db2979cf5","toSide":"bottom"},
 		{"id":"d529d8679e7f1fd4","fromNode":"c654264548ba4c3e","fromSide":"bottom","toNode":"ee119f06f07be4fd","toSide":"left"},
-		{"id":"08ad7513680ed276","fromNode":"8c369214e49cfc3e","fromSide":"top","toNode":"ee119f06f07be4fd","toSide":"left"}
+		{"id":"08ad7513680ed276","fromNode":"8c369214e49cfc3e","fromSide":"top","toNode":"ee119f06f07be4fd","toSide":"left"},
+		{"id":"5b841a1ebdc1f0e7","fromNode":"32997a69972d4825","fromSide":"bottom","toNode":"471b764d8fe3242c","toSide":"top"}
 	]
 }

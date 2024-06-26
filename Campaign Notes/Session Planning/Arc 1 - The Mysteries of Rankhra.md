@@ -1,4 +1,5 @@
-[#hidden 
+[#hidden
+This document will contain details and summaries of the planned action happening in the first arc.
 ## Session 1
 - meeting the party
 - Ratronus was running from a 3rd domain goon group that was chasing him and meets Aki and Daan this way. Most likely will start from his perspective
@@ -79,22 +80,22 @@ DM:
 	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
 		- "Ahh, that human really *had* to interfere after its death." before teleporting away.
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
+	
 - ###### Returning to research group
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
+- Also, DO NOT give the party the choice to reject Verdant as their missiongiver.
 	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that while he does need to oblige with the demands of the Shoka Engineering Collective, the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
 	- He learned from his missions, and from the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another. Either they were born in the city near the temple or led to the temple one way or another.
 		- Aki was lead by the fey
 		- Ratronus was born underneath the temple and dealt with 'divine' influences
 		- Hunter is in direct connection with the Concept of Exploration by means of the hunter group
 		- Chron was sent to the temple by the prophecy
-		- Come up with a reason for why exactly they need to stick together.
+			- Verdant will offer his help in reaching the indiviual goals of the partymembers, hopefully ensuring their cooperation.
 	- as such, Verdant offers to contract the party and give them a safer mission, in return for protection, housing, shop maintenance and pocket money -> allude to the fact that he, as an Eladrin and Fey, cannot lie.
 		- Verdant will also offer to answer questions, either public or private.
-		- If they refuse and choose to abandon Verdant, I will be very sad but I need to plan accordingly.
-			- Perhaps, Verdant will send them away and 
+			- Questions regarding Semyon will be met with Verdant stating no reasons to believe that Semyon may be manipulating him.
+		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and 
 	- Leave some room for Cynthia's introduction.
-
-	There is a non-zero chance that the party will not enter any more missions with Verdant, however I need to consider what happens to Twan
 
 Because Verdant sees that the first mission was WAYY to dangerous, he wants to send the party on an easier mission that will just be some reporting and researching.
 	The party might ask about Semyon, and Verdant might be honest about his relation to Semyon, OR he might not hide it since I am anticipating Ratronus to ask a question about betrayal.
