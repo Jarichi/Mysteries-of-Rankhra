@@ -94,17 +94,17 @@ DM:
 	- as such, Verdant offers to contract the party and give them a safer mission, in return for protection, housing, shop maintenance and pocket money -> allude to the fact that he, as an Eladrin and Fey, cannot lie.
 		- Verdant will also offer to answer questions, either public or private.
 			- Questions regarding Semyon will be met with Verdant stating no reasons to believe that Semyon may be manipulating him.
-		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and 
+		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and what could be a way into the temple. This mission will mainly be gathering information and reporting.
+			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers.
 	- Leave some room for Cynthia's introduction.
 
-Because Verdant sees that the first mission was WAYY to dangerous, he wants to send the party on an easier mission that will just be some reporting and researching.
-	The party might ask about Semyon, and Verdant might be honest about his relation to Semyon, OR he might not hide it since I am anticipating Ratronus to ask a question about betrayal.
-Verdant will also inform the party that since they have most definitely proven themselves, they are idk
+###### To Rankhra
+- The mission explanation will be worded in order to give the party a strong hint that they need to go to Rankhra. Also proved a map of the First Domain and Centroscopia for shopping and perhaps for some closed stores that I may expand upon later.
+- Upon arriving at Rankhra, the party may snoop around the temple and find information about 2 specific locations; Janib'Rankhra, A temple located to the west of the city, where Aki initially entered the Mortal Plane; The Badawi Hunter Tribe, a nomadic tribe that continuously moves along the desert, driven by a strong sense of exploration.
+	- Aki rolls a COnstitution save, telling her that there is some foxglove nearby and giving flavourtext that the rest of the party smells a pungent, sour smell.
+	- The foxglove is, unfortunately, located within the temple boundaries itself. This will serve as an in-game guide that the temple cannot be accessed by normal means.
 
 
-Initial pointers will be towards Rankhra, and the party may try to enter the temple which will prove to be impossible.
-	TODO: make a simple map of Centroscopia, and even a simple map of the entire city.
-	
 So go towards some sort of temple that may contain information about the fact that janib rankhra exists
 	if that doesnt work this may need to be something elske
 		and if they decide to directly investigate the Concepts, they may go to someplace else

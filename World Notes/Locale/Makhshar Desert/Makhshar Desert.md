@@ -1,5 +1,5 @@
 #location 
-Vast sandscape which is mainly empty, but contains the [[HunterGroup]]
+Vast sandscape which is mainly empty, but contains the [[Badawi Hunter Tribe]]
 
 # Description
 The Makhshar Desert is a gigantic, seemingly infinitely stretching plain of sand and dunes, but can be separated into several specific landmarks.
