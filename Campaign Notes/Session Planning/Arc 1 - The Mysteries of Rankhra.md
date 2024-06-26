@@ -106,11 +106,14 @@ DM:
 
 - To find Janib'Rankhra, the party may notice that the setting sun provides a direct guide to where Janib'Rankhra is located. This temple is slightly burrowed underground which explains why nobody's found it yet.
 - To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the Bahath animal and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
-So go towards some sort of temple that may contain information about the fact that janib rankhra exists
-	if that doesnt work this may need to be something elske
-		and if they decide to directly investigate the Concepts, they may go to someplace else
-		but this leads to more freedom and mayy lead to more seperation regarding the mission structure that may feel railroady.
+- The party may choose where to go first.
 
+###### Janib'Rankhra
+- Aki will recognise the environment
+- Some puzzle to excavate the temple, Or some puzzle to enter the temple
+	- I think excavation is cooler
+- temple contains lore about the concepts and some information about needing to be blessed by the GOd of Creation or something
+- 
 Rankra will somehow give them pointers towards Janib'rankhra, which is a significant place for Aki.
 	TODO: more lore about Janib'rankhra
 This temple will have some sort of closed door which contains a puzzle. that can only be solved usnig knowledge about the Feywild
