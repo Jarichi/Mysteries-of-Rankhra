@@ -86,10 +86,10 @@ DM:
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
 - Also, DO NOT give the party the choice to reject Verdant as their missiongiver.
 	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that while he does need to oblige with the demands of the Shoka Engineering Collective, the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
-	- He learned from his missions, and from the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another. Either they were born in the city near the temple or led to the temple one way or another.
+	- He learned from his missions via Parting Gift, and confirmed by the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another. Either they were born in the city near the temple or led to the temple one way or another.
 		- Aki was lead by the fey
-		- Ratronus was born underneath the temple and dealt with 'divine' influences
-		- Hunter is in direct connection with the Concept of Exploration by means of the hunter group
+		- Ratronus was born underneath the temple and dealt with 'divine' influences (foxglove causes highness and hallicunations, causing a trip and new voices flowing in your mind or smthn)
+		- Hunter is in direct connection with the Concept of Exploration by means of the hunter group (some sort of mole that moves whenever the concept of exploration moves. Hunter initially doesnt know he is part of this group and initially gets a cold welcome, but one of the members suddenly sees this mole (one of us. one of us))
 		- Chron was sent to the temple by the prophecy
 			- Verdant will offer his help in reaching the indiviual goals of the partymembers, hopefully ensuring their cooperation.
 	- as such, Verdant offers to contract the party and give them a safer mission, in return for protection, housing, shop maintenance and pocket money -> allude to the fact that he, as an Eladrin and Fey, cannot lie.
