@@ -106,7 +106,14 @@ SESSION RECAP
 Make a map of the entire map
 
 POIs
--
+- Postal office to activate the Comet that they have received from Verdant
+	- They meet the owner of the postal office and this guy is a very introverted type of guy
+		- Head of communications, but very introverted
+	- His name is something either very extravagant or extremely default
+- Some shops
+- MAgic School
+- Shoka Engineering Collective
+- 
 
 
 
