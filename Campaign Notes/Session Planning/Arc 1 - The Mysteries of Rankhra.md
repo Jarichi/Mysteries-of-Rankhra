@@ -69,6 +69,8 @@ DM:
 ## Session 2
 [[Gentle Death]], [[Rubae]], [[Salina]]
 
+SESSION RECAP
+
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
 	- I sure hoppe they kept notes >:3
 	- the filler combat NPC's death will be remembered by some house in the impromptu village DC 20+. Probably at the same house that that one Anna woman lived in.
@@ -100,6 +102,16 @@ DM:
 	- Leave some room for Cynthia's introduction.
 
 [[Badawi Hunter Tribe]], [[Janib'Rankhra]], [[Rankhra]], [[Centroscopia]], 
+###### The filler
+Make a map of the entire map
+
+POIs
+-
+
+
+
+
+
 ###### To Rankhra
 - The mission explanation will be worded in order to give the party a strong hint that they need to go to Rankhra. Also proved a map of the First Domain and Centroscopia for shopping and perhaps for some closed stores that I may expand upon later.
 - Upon arriving at Rankhra, the party may snoop around the temple and find information about 2 specific locations; Janib'Rankhra, A temple located to the west of the city, where Aki initially entered the Mortal Plane; The Badawi Hunter Tribe, a nomadic tribe that continuously moves along the desert, driven by a strong sense of exploration.
