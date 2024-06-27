@@ -1,4 +1,4 @@
-[#hidden
+#hidden
 This document will contain details and summaries of the planned action happening in the first arc.
 ## Session 1
 - meeting the party
@@ -67,7 +67,6 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-### Important documents
 [[Gentle Death]], [[Rubae]], [[Salina]]
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
