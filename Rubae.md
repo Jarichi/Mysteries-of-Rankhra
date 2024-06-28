@@ -9,4 +9,12 @@ warlock vampire
 
 
 on her appearance, Rubae is cxompletely unrecognisable and will be represented as a "strong magical force" or somethign. She blows up Frederic and attempts to leave, yadda yadda the rest of the session planning.
+She tortured Frederic to get the information out of him, before killing
+vampires have a bad rep
+
+maybe on low health, she turns into a vampire-like creature again and needs to find blood or something to return to "normal"
+throne of Glass, iron witch
+
+### as moon elf
+Trusted member of the research group, some sort of adversary, need to make her not suspicious
 
