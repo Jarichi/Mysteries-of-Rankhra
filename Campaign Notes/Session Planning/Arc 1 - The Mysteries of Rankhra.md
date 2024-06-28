@@ -110,9 +110,11 @@ POIs
 	- They meet the owner of the postal office and this guy is a very introverted type of guy
 		- Head of communications, but very introverted
 	- His name is something either very extravagant or extremely default
-- Some shops
-- MAgic School
-- Shoka Engineering Collective
+- Some shops (potion shop, clothing shop)
+	- Potion shop merchant is a perpetually drunk girl who can be seen drinking her own potions
+	- clothing shop merchant is a fashionista type person
+- MAgic School (closed and empty)
+- Shoka Engineering Collective (no admission/not allowed to enter)
 - 
 
 
