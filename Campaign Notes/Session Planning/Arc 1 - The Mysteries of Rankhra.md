@@ -149,6 +149,7 @@ POIs
 - Hunter will lead them to the nomad outpost
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
+		- NPC names are not their true name, since names have power.
 	- The eventual goal is to get infomration about the Concept of Exploration
 		- Since there is no leadership, everyone knows bits and pieces.
 			- 3+ main NPCs can provide information
