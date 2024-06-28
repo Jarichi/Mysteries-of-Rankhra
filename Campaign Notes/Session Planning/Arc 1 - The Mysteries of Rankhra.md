@@ -143,6 +143,12 @@ POIs
 
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
+- Roleplaying-heavy
+	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
+	- The eventual goal is to get infomration about the Concept of Exploration
+		- The tribe 
+		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
+		- 
 - Will use his familiarity with the environment to get closer to the animal creature thingy
 - loads of opportunities to talk with NPCs here
 - The goal of visiting the tribe will be to gete in contact wiht the Concept of Exploration.
