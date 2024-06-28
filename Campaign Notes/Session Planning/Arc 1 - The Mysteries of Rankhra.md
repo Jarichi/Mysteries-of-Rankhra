@@ -164,6 +164,7 @@ POIs
 - The goal of visiting the tribe will be to gete in contact wiht the Concept of Exploration.
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
 - since the concept is a literal animal, only people wiht speak with animals or who are being spoken to are allowed to hear the conversation (which I need to prep)
+	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
 
 
 Within the temple the concepts are explained in very high-levl terms and will also give them a rough list of the known concepts and their whereabouts.
