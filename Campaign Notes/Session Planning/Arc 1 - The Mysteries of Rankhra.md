@@ -133,11 +133,14 @@ POIs
 
 [[Puzzle no.1]], [[God of Creation]]
 ###### [[Janib'Rankhra]]
-- Aki will recognise the environment. This is where she netered the material plane
+- Aki will recognise the environment. This is where she entered the material plane
 - The goal is to solve a puzzle in order to excavate the temple.
 	- The puzzle requires them to speak 4 words of a topic that only they are familiar with. Each spoken word will give them a key, which they will keep of course for future mission stuff tee hee.
 	- After 4 words, the temple will rise up and they are allowed to enter it.
 - In the centre of the temple, a booklet lies. All its pages have been ripped out, except the first and the last pages. These pages contain the lore of the God of Creation.
+- Upon touching the book, the temple will start to sink again. The top of the temple has a hole in it, and the party will be given about 2-4 turns to escape.
+	- If they don't escape, they are just a little fucked.
+	- 
 - If they somehow have a reason to ask if they are being scryed upon, they are :3
 - After completing this mission, they will receive a message from Verdant asking if they have made progress with the exploration mission.
 
@@ -149,10 +152,14 @@ POIs
 	- The eventual goal is to get infomration about the Concept of Exploration
 		- Since there is no leadership, everyone knows bits and pieces.
 			- 3+ main NPCs can provide information
-				- Nomad 1 knows information about the origins of the hunter tribe. He also has a place with the City Library
-				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city.
-				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency.
+				- Nomad 1 knows information about the origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
+					- Name: 
+				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city. -> Shifty, secretive, mysterious
+					- Name: Thinker (bro you not the THINKER?!?!?)
+				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency. -> positive, nihilistic, happy-go-lucky
+					- Name: 
 				- Nomad 4 knows information about myths and legends of the tribe
+					- Name:
 				Other NPCs will refer the party to other nomads
 		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
 	- There are also some unique stores that sell (very expensive) magical artifacts gathered in exploration
