@@ -9,7 +9,7 @@ The tribe also contains a travelling merchant who sells potions at an increased 
 
 Basically, this tribe is very closed-off and not at all used to visitors. It's also kinda xenophobic hehehe
 
-if you stay near the tribe as a member, your memories are intact but if you leave the tribe your memories of this tribe get wiped since you are no longer exploring the path of exploration but your own path
+The memories you make while staying in the tribe will not leave the tribe. As such, nomads that leave the tribe are not able to talk about their experiences here and are also not allowed to write down their thoughts. As such, if you need a way to actually remember things you go through within, you'd need a way to secretly send or write the information elsewhere.
 	in-lore explanation for the fact that Hunter doesnt remember anything about this area and also an in-lore explanation that there is no knowledge about this tribe ojutsifdde of the tribe itself.
 
 owlcat
