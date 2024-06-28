@@ -133,14 +133,15 @@ POIs
 
 [[Puzzle no.1]], [[God of Creation]]
 ###### [[Janib'Rankhra]]
-- Aki will recognise the environment
-- Some puzzle to excavate the temple, Or some puzzle to enter the temple
-	- I think excavation is cooler
-- temple contains lore about the concepts and some information about needing to be blessed by the GOd of Creation or something
-- they might be being scryed upon by someone.
+- Aki will recognise the environment. This is where she netered the material plane
+- The goal is to solve a puzzle in order to excavate the temple.
+	- The puzzle requires them to speak 4 words of a topic that only they are familiar with. Each spoken word will give them a key, which they will keep of course for future mission stuff tee hee.
+	- After 4 words, the temple will rise up and they are allowed to enter it.
+- In the centre of the temple, a booklet lies. All its pages have been ripped out, except the first and the last pages. These pages contain the lore of the God of Creation.
+- If they somehow have a reason to ask if they are being scryed upon, they are :3
+- After completing this mission, they will receive a message from Verdant asking if they have made progress with the exploration mission.
 
 [[concept of exploration]], [[Bahath Animal Guide]]
-
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
 - Roleplaying-heavy
@@ -152,7 +153,7 @@ POIs
 				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city.
 				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency.
 				- Nomad 4 knows information about myths and legends of the tribe
-				The rest of the NPCs will refer them to the nomads that know stuff.
+				Other NPCs will refer the party to other nomads
 		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
 	- There are also some unique stores that sell (very expensive) magical artifacts gathered in exploration
 - Will use his familiarity with the environment to get closer to the animal creature thingy
