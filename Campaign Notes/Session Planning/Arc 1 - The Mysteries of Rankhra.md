@@ -146,9 +146,14 @@ POIs
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 	- The eventual goal is to get infomration about the Concept of Exploration
-		- The tribe 
+		- Since there is no leadership, everyone knows bits and pieces.
+			- 3+ main NPCs can provide information
+				- Nomad 1 knows information about the origins of the hunter tribe
+				- Nomad 2 knows information about the current status opf the tribe
+				- Nomad 3 knows infomration about prodictions for the future of the tribe
+				- Nomad 4 knows information about myths and legends of the tribe
 		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
-		- 
+	- There are also some unique stores that sell (very expensive) magical artifacts gathered in exploration
 - Will use his familiarity with the environment to get closer to the animal creature thingy
 - loads of opportunities to talk with NPCs here
 - The goal of visiting the tribe will be to gete in contact wiht the Concept of Exploration.
