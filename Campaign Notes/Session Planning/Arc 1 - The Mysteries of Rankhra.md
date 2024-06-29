@@ -78,7 +78,8 @@ SESSION RECAP
 - Meeting Person 3 - Frederic
 	- The party will continue looking for Frederic and will probably just find some sort of trail towards him, OR EVEN BETTER, he will simply run into the party panicking because he needs to get back to Verdant.
 		- Hopefully, the accounts of people trusting Verdant will lead to an increase in trust for the party. ANYWAY,
-	- Before frederic can finish his sentence he gets killed by Rubae after which the party I suppose may use an action to do something i guess. Rubae immediately tries to teleport away, but 
+	- Fredrick will be sitting on the ground and looking dazed, mumbling unintelligibly, while aa strong magical force and a shade is looming over him.
+	- Upon seeing the party, Rubae - this shadow - will stop interrogating Frederic and get ready to kill him instant
 	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
 		- "Hm, that creature actually used its Parting Gift to do this? How... disappointing." (with disbelief)
 			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
