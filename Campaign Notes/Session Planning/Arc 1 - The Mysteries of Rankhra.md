@@ -146,6 +146,8 @@ POIs
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
+- They are initially not allowed to enter the nomad outpost.
+	- Just when the party wants to leave, a second NPC comes up to them and addresses HU
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
