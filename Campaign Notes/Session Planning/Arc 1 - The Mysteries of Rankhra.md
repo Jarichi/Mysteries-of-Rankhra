@@ -78,16 +78,19 @@ SESSION RECAP
 - Meeting Person 3 - Frederic
 	- The party will continue looking for Frederic and will probably just find some sort of trail towards him, OR EVEN BETTER, he will simply run into the party panicking because he needs to get back to Verdant.
 		- Hopefully, the accounts of people trusting Verdant will lead to an increase in trust for the party. ANYWAY,
-	- Fredrick will be sitting on the ground and looking dazed, mumbling unintelligibly, while aa strong magical force and a shade is looming over him.
-	- Upon seeing the party, Rubae - this shadow - will stop interrogating Frederic and get ready to kill him instant
-	- Frederic dies and wishes for Rubae to remain in place: teleport fails momentarily
-		- "Hm, that creature actually used its Parting Gift to do this? How... disappointing." (with disbelief)
-			- If the party ask Salina about Gentle Death, she will reveal some information about this since she's a member of the Sanctum of Death.
+	- Fredrick will be sitting on the ground and looking dazed, mumbling unintelligibly, while a strong magical force and a shade is looming over him.
+		- Upon seeing the party, Rubae - this shadow - will stop interrogating Frederic and get ready to kill him instantly.
+			- If the party intervenes by neutralising magic or hitting rubae (AC 18, to DMs discretion), Rubae will instead gravely injure fredric and teleport away.
+			- If the party does not intervene, Frederic dies and Rubae's teleport will fail.
+			- "Hm, that creature actually used its Parting Gift to do this? How... disappointing." (with disbelief)
+		- If the party ask Salina about Gentle Death or Parting Gifts, she will reveal some information about this since she's a member of the Sanctum of Death.
+	- The party will most likely take Frederic with them. Frederic will simply mumble "The water must not stop" or something along these lines
 
 [[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]]
-- ###### Returning to research group
+###### Returning to research group
+- All previous
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
-- Also, DO NOT give the party the choice to reject Verdant as their missiongiver.
+- Also, DO NOT give the party the choice to reject Verdant as their mission-giver.
 	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that while he does need to oblige with the demands of the Shoka Engineering Collective, the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
 	- He learned from his missions via Parting Gift, and confirmed by the information that Salina provided, that everybody in this research group has some sort of connection with the temple in one way or another. Either they were born in the city near the temple or led to the temple one way or another.
 		- Aki was lead by the fey
@@ -99,8 +102,8 @@ SESSION RECAP
 		- Verdant will also offer to answer questions, either public or private.
 			- Questions regarding Semyon will be met with Verdant stating no reasons to believe that Semyon may be manipulating him.
 		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and what could be a way into the temple. This mission will mainly be gathering information and reporting.
-			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers.
-	- Leave some room for Cynthia's introduction.
+			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers. This Comet needs to be activated, however.
+				- Chron already has a comet, and as such doesn't need to activate his.
 
 [[Badawi Hunter Tribe]], [[Janib'Rankhra]], [[Rankhra]], [[Centroscopia]], 
 ###### The filler
