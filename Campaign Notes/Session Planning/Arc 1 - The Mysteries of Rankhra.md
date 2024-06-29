@@ -86,9 +86,9 @@ SESSION RECAP
 		- If the party ask Salina about Gentle Death or Parting Gifts, she will reveal some information about this since she's a member of the Sanctum of Death.
 	- The party will most likely take Frederic with them. Frederic will simply mumble "The water must not stop" or something along these lines
 
-[[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]]
+[[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]], [[Telas Muses.pdf]]
 ###### Returning to research group
-- All previous
+- All previously present NPCs are still there. Telas is still singing, Reggi is now at the bar chatting up Martin, and Sasha is just walking out of the kitchen, curerntly taking the shape of a female halfling with short, blonde hair.
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
 - Also, DO NOT give the party the choice to reject Verdant as their mission-giver.
 	- After completing the mission, the party returns to the research group and will most likely confront Verdant about the mission danger. He will give the party their reward and will tell Hunter that while he does need to oblige with the demands of the Shoka Engineering Collective, the letter was intercepted and edited by the Intelligence Agency to ensure the participation of the Simic.
@@ -101,7 +101,7 @@ SESSION RECAP
 	- as such, Verdant offers to contract the party and give them a safer mission, in return for protection, housing, shop maintenance and pocket money -> allude to the fact that he, as an Eladrin and Fey, cannot lie.
 		- Verdant will also offer to answer questions, either public or private.
 			- Questions regarding Semyon will be met with Verdant stating no reasons to believe that Semyon may be manipulating him.
-		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and what could be a way into the temple. This mission will mainly be gathering information and reporting.
+		- This mission will consist of exploring the city and, mainly, Rankhra to get more insight in why the temple was constructed and what could be a way into the temple. This mission will mainly be gathering information and reporting. Verdant will send them to the First Domain again, but directs them to the postal office to activate the Comet.
 			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers. This Comet needs to be activated, however.
 				- Chron already has a comet, and as such doesn't need to activate his.
 
@@ -126,7 +126,7 @@ POIs
 	- Aki rolls nature check, telling her that there is some foxglove nearby and giving flavourtext that the rest of the party smells a pungent, sour smell.
 	- The foxglove is, unfortunately, located within the temple boundaries itself. This will serve as an in-game guide that the temple cannot be accessed by normal means.
 
-- To find Janib'Rankhra, the party may notice that the setting sun provides a direct guide to where Janib'Rankhra is located. This temple is slightly burrowed underground which explains why nobody's found it yet.
+- Janib'Rankhra can be found when speaking to a merchant NPC who heard that there are four weird pillars to the west of the city.
 - To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the [[Bahath Animal Guide]] and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
 - The party may choose where to go first.
 
