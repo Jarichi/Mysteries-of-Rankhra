@@ -147,7 +147,7 @@ POIs
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
 - They are initially not allowed to enter the nomad outpost.
-	- Just when the party wants to leave, a second NPC comes up to them and addresses HU
+	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning oletters.
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
@@ -171,8 +171,4 @@ POIs
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
 - since the concept is a literal animal, only people wiht speak with animals or who are being spoken to are allowed to hear the conversation (which I need to prep)
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
-
-
-Within the temple the concepts are explained in very high-levl terms and will also give them a rough list of the known concepts and their whereabouts.
-	Hunter will need to roll a history check if he remembers wvweything about the hunter greoup that is lead by the concept of ecploration, of if he simply has a feeling that he is forgetting something.
-
+	- Its name is the Concept of Exploration, but it is better known as Bahath.
