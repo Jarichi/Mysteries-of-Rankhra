@@ -220,3 +220,16 @@ rat also gets +20 gp
 --prepping to return to the research group
 
 perception bonuis
+
++20 dc
+	thieves cant states that somebidy died
+	thieves cant isn now flemish
+
+- In research group
+
+aki trpips and treats the entire bar
+
+Chron immediately walks towards Verdant
+
+Hunter comments on the story
+	it is completely wrong lmao
