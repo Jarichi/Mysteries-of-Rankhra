@@ -247,4 +247,9 @@ Verdant asks how the mission wdent
 	shows marcus, cerdant reacts quite calmly
 Aki tells about marcus
 	Ratronus is very angry, so is Hunter
+
+Reward is upped to 40o gp
+Verdant used a Comet to send Telas to the dite to retrieve 
+
+Verdant tells the party about their connectionss to the temple
 	
