@@ -327,9 +327,8 @@ eratronus rolls investigation DC 15
 	foxfire is being cast for the people without darkvision
 
 they read the book and absorb the lore.
-
 	bad at giving a summary so they read it on their owrn
 
 divine sense was cast
-	
+	hallow spell on book, no undeads and fiends, 
 
