@@ -295,4 +295,14 @@ Hunter enters the clothing store and throqs the door closed
 Aki wants to buy foxglove for 200gp
 	Ski wnts to bribe the merchant with information
 	100gp
-	
+	free  flower
+		Foxglove
+
+Aki steals the plant tee hee and lies to the group about stealing the plant hehe
+
+rat wins the stealth check and the party doesnt see the manhole cover
+	Investigation failt
+
+
+
+the person that was looking at the temple is walking towards
