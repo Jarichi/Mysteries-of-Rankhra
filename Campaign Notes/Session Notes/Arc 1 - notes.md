@@ -203,4 +203,20 @@ Aki gets advantage and hits the shade
 	4 slashing dmg
 
 DC is 17 btw
-	
+	Hunter misses a bird and eplodes the bird
+
+They saved Frederic
+	Aki wake slap but chrine pulls him back
+
+
+
+aki shows marcus' ashes
+frederic responds kinda like wtf
+
+
+rat offers fredrick a drink
+rat also gets +20 gp
+
+--prepping to return to the research group
+
+perception bonuis
