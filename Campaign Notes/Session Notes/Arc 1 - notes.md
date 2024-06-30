@@ -270,5 +270,21 @@ ratronus leaves the room
 	semyon added the letter cont4ents 
 	The paper of the lettter is quite generic and might have been used in a newspaper
 
+- filler
+they go to the alley and arrive in the ciry
 
-they go to the alley
+Aki goes towards the ceontroscopia looking for a botanist
+
+Ratronus RUNS towards the temple looking for maholes
+	Manhole is near the magic school
+
+Chrone makes a round around the temple
+
+Hunter goes towards the armory
+
+Ratronus attempes to open thyhe manhole
+	Magic lock on manhole so unopened
+
+Chron perception 23
+	History check on insctiption
+	recognises oulcat
