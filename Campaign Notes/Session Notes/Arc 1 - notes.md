@@ -174,3 +174,4 @@ aki heals 7 for hunter, has 2 lay-on-hands remaining
 [[Hunter Back.pdf]], [[Ratronus Front.pdf]], [[Aki Front.pdf]], [[Chrone Front.pdf]]
 
 Session Recap
+-kinda accurate except that Joris thinks that Marcus has brought Salina along to serve as bait or osmething (which is kinda wrong)
