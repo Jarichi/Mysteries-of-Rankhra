@@ -322,4 +322,14 @@ Rat knows the organisation by name
 
 rat assimilates the party towards the pillar and they instantly solve the puzzle
 
-eratronus rolls investigation 
+eratronus rolls investigation DC 15
+	9, 5, 10, 9
+	foxfire is being cast for the people without darkvision
+
+they read the book and absorb the lore.
+
+	bad at giving a summary so they read it on their owrn
+
+divine sense was cast
+	
+
