@@ -233,3 +233,18 @@ Chron immediately walks towards Verdant
 
 Hunter comments on the story
 	it is completely wrong lmao
+
+aki pays 13.5gp for beer
+
+- to verdant
+
+Hunter stands in the corner
+
+everyone else sits down
+
+Verdant asks how the mission wdent
+	Aki explains the mission
+	shows marcus, cerdant reacts quite calmly
+Aki tells about marcus
+	Ratronus is very angry, so is Hunter
+	
