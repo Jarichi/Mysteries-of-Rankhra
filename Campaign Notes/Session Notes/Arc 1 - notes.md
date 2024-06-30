@@ -252,4 +252,14 @@ Reward is upped to 40o gp
 Verdant used a Comet to send Telas to the dite to retrieve 
 
 Verdant tells the party about their connectionss to the temple
-	
+
+verdant explains the mission
+	chees esupply line
+
+
+
+rat and hunter ask about semyon
+	verdant kknows smeyon for 200 yrs
+	they t4ell them thay semyon might betray verdant
+	semyon has a different job perhaps
+	the letter paper is given to evrdant
