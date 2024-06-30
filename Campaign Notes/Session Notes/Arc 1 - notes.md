@@ -310,3 +310,16 @@ the person that was looking at the temple is walking towards
 
 ratronus knows about the pillars and the temple
 
+
+they arrive at the temple
+	perception,
+
+aki and rat recognise the temple
+
+hunter succeeds his history check and knows the name Bahat
+
+Rat knows the organisation by name
+
+rat assimilates the party towards the pillar and they instantly solve the puzzle
+
+eratronus rolls investigation 
