@@ -200,7 +200,7 @@ entangle misses
 	Ratronus silvery barbs but I roll higher
 
 Aki gets advantage and hits the shade
-	4 slashing dmg
+	4 slashing dmg, HITS THE SHADE AS A GOOEY MESS BUT DOES DAMAGE THE SHADE.
 
 DC is 17 btw
 	Hunter misses a bird and eplodes the bird
@@ -263,3 +263,9 @@ rat and hunter ask about semyon
 	they t4ell them thay semyon might betray verdant
 	semyon has a different job perhaps
 	the letter paper is given to evrdant
+
+rat implies overlord as marus
+
+ratronus leaves the room
+	semyon added the letter cont4ents 
+
