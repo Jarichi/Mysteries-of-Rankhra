@@ -184,4 +184,23 @@ aki shows ashes to salina and she says good riddance
 
 rat asks chron about Semyon but he doesn't know the name
 	correction that Semyons  name has never been dropped
+they encounter the shade
+
+chron arcana roll 14, sees no school but knows a con spell is being cast
+	rat and aki also roll too low
+
+
+chron wants to communicate and asks what they are doing
+
+
+aki sees the attacks spell and stands next to the person who is being enchanted.
+
+Rubae prepares the teleport spell since she doesnt want to engage with
+entangle misses
+	Ratronus silvery barbs but I roll higher
+
+Aki gets advantage and hits the shade
+	4 slashing dmg
+
+DC is 17 btw
 	
