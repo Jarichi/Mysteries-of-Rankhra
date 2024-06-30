@@ -164,11 +164,11 @@ POIs
 					- Name: Teller
 				Other NPCs will refer the party to other nomads
 		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
-	- There are also some unique stores that sell (very expensive) magical artifacts gathered in exploration
-- Will use his familiarity with the environment to get closer to the animal creature thingy
-- loads of opportunities to talk with NPCs here
-- The goal of visiting the tribe will be to gete in contact wiht the Concept of Exploration.
+	- One unique store that sells rare items
+		- Splint: increases armor AC by 2, can be applied. 5000 gp
+		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
+		- Uncommon whip: 1d4+1+1, finesse weapon with 10ft reach., 500gp
+		- 
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
-- since the concept is a literal animal, only people wiht speak with animals or who are being spoken to are allowed to hear the conversation (which I need to prep)
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
 	- Its name is the Concept of Exploration, but it is better known as Bahath.
