@@ -268,4 +268,7 @@ rat implies overlord as marus
 
 ratronus leaves the room
 	semyon added the letter cont4ents 
+	The paper of the lettter is quite generic and might have been used in a newspaper
 
+
+they go to the alley
