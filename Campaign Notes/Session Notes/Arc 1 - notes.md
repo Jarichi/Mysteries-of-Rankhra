@@ -264,7 +264,7 @@ rat and hunter ask about semyon
 	semyon has a different job perhaps
 	the letter paper is given to evrdant
 
-rat implies overlord as marus
+rat implies overlord as marcus
 
 ratronus leaves the room
 	semyon added the letter cont4ents 

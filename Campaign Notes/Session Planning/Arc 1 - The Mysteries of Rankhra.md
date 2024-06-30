@@ -143,6 +143,26 @@ POIs
 - If they somehow have a reason to ask if they are being scryed upon, they are :3
 - After completing this mission, they will receive a message from Verdant asking if they have made progress with the exploration mission.
 
+--End session 2
+[[Arc 1 - notes]]
+
+###### session conclusions
+- Chron likes to do his own thing, the party doesn't really trust each other fully yet
+- Aki slightly seems to trust Verdant, Ratronus and Hunter at least trust Verdant enough to warn him about possible manipulation by Semyon.
+- Salina most likely will not be a recurring character
+- They don't know about Comet letter materialisation. They probably need a letter delivered to them for show don't tell.
+- The party realises that killing people is not without consequence. They have not questioned how the village inhabitant knew her son died.
+- Aki is honest and cheeky
+- Ratronus checks manhole covers nearby, most likely looking for criminals and entryways
+- The party will literally follow missions and complete them efficiently. THis means that they need encouragement in order to actually explore
+	- This either indicates that I am not giving them enough interest in other things, or the party doesn't realise that they are allowed to deviate from missions.
+- They enjoy combat more that loredumps, so ideally I need to mix combat with loredumps.
+- 
+
+----
+
+## Session 3
+
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
 - Hunter will lead them to the nomad outpost
