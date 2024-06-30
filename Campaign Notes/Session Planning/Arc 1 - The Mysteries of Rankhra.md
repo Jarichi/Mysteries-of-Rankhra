@@ -157,11 +157,15 @@ POIs
 - The party will literally follow missions and complete them efficiently. THis means that they need encouragement in order to actually explore
 	- This either indicates that I am not giving them enough interest in other things, or the party doesn't realise that they are allowed to deviate from missions.
 - They enjoy combat more that loredumps, so ideally I need to mix combat with loredumps.
-- 
+- Chron noticed that I indicated that time flows more slowly near the temple.
 
 ----
 
 ## Session 3
+- After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
+
+
+
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
