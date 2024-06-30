@@ -288,3 +288,11 @@ Ratronus attempes to open thyhe manhole
 Chron perception 23
 	History check on insctiption
 	recognises oulcat
+
+
+Hunter enters the clothing store and throqs the door closed
+
+Aki wants to buy foxglove for 200gp
+	Ski wnts to bribe the merchant with information
+	100gp
+	
