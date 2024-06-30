@@ -13,7 +13,7 @@ joris decides to be a bit more quiet.
 
 daan receives the letter from aki in fox shape
 
-jpris pulls his rapier in response to daan who was read the letter. and says dammit in the 
+joris pulls his rapier in response to daan who was read the letter. and says dammit in the 
 
 joris quietly opens the door and sees daan. He decides to drop a wrench and interacts with daan.
 
@@ -175,3 +175,13 @@ aki heals 7 for hunter, has 2 lay-on-hands remaining
 
 Session Recap
 -kinda accurate except that Joris thinks that Marcus has brought Salina along to serve as bait or osmething (which is kinda wrong)
+
+letter caches on fire
+
+aki teases ratronus
+
+aki shows ashes to salina and she says good riddance
+
+rat asks chron about Semyon but he doesn't know the name
+	correction that Semyons  name has never been dropped
+	
