@@ -171,9 +171,6 @@ aki heals 7 for hunter, has 2 lay-on-hands remaining
 
 ---
 ## Session 2
-### Quick access
-[player sheets]
-[significant NPCs]
-[significant areas]
+[[Hunter Back.pdf]], [[Ratronus Front.pdf]], [[Aki Front.pdf]], [[Chrone Front.pdf]]
 
-
+Session Recap

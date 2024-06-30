@@ -72,7 +72,7 @@ DM:
 SESSION RECAP
 
 - after marcus' death, the letter by marcus will be incinerated due to Gentle Death death wish.
-	- I sure hoppe they kept notes >:3
+	- I sure hope they kept notes >:3
 	- the filler combat NPC's death will be remembered by some house in the impromptu village DC 20+. Probably at the same house that that one Anna woman lived in.
 
 - Meeting Person 3 - Frederic
