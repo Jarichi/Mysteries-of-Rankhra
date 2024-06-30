@@ -304,5 +304,9 @@ rat wins the stealth check and the party doesnt see the manhole cover
 	Investigation failt
 
 
-
 the person that was looking at the temple is walking towards
+	he went into the desert and saw some pillars
+	about an hour walking 
+
+ratronus knows about the pillars and the temple
+
