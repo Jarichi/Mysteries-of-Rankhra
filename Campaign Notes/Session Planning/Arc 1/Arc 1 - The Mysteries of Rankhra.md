@@ -162,6 +162,7 @@ POIs
 ----
 
 ## Session 3
+		might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
 
 
@@ -172,6 +173,7 @@ POIs
 - Hunter will lead them to the nomad outpost
 - They are initially not allowed to enter the nomad outpost.
 	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters.
+		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
