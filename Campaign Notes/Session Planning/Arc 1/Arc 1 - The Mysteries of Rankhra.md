@@ -164,6 +164,19 @@ POIs
 ## Session 3
 		might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
+	- or, cunthia's character gets introduced immediately
+	- she could serve as some sort of knowledgeable person on concept lore, and since we endede the session on the party getting the book, cool stuff can happen
+			maybe some sort of divine message, or collective vision or something upon leaving the alter where the book was positioned.
+
+
+- this vision could give them a reasson for wanting to also enter the temple and gives me an opportunity to see just how much they are willing to share with verdant.
+- this vision might also talk about how the divine vision giver sent a sentinel towards the party to help them in their quest and this character might be Rubae.
+	- could eventually ,lead to a sort of story where the party will end up in a story with an infulencial god that will do good and bad things, kind of like Harmony in Mistborne tee hee
+	- in any case, this might be a noce opportunity to introduce Cynthia to the party.
+		- parhaps I'll make it so that she needs to spy on Verdant without hin knowing about her or something, if I want to make stuff more complex..
+	- when the vision concludes, the party receives a message from Verdant directing them to the hunter tribe, and giving them a nice opportunity to explore other places as well if they so wish.
+
+
 
 
 
@@ -173,7 +186,9 @@ POIs
 - Hunter will lead them to the nomad outpost
 - They are initially not allowed to enter the nomad outpost.
 	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters.
-		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties
+		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties (big fan of this idea)
+
+
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
@@ -194,7 +209,9 @@ POIs
 		- Splint: increases armor AC by 2, can be applied. 5000 gp
 		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
 		- Uncommon whip: 1d4+1+1, finesse weapon with 10ft reach., 500gp
-		- 
+
+
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
 	- Its name is the Concept of Exploration, but it is better known as Bahath.
+	- bahath will speak about how the concepts are conne
