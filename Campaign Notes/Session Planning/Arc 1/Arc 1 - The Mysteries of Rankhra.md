@@ -214,4 +214,8 @@ POIs
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
 	- Its name is the Concept of Exploration, but it is better known as Bahath.
-	- bahath will speak about how the concepts are conne
+	- bahath will speak about how the concepts are connected to the entire area and are more influencial than they seem. Everytrhing is based around the concepts. Rankhra is also based around the concepts (chron knows about this btw), however the concept of flow is special enough that in order to access it, you must have visited other concepts or have been blessed by the God of Creation  or something.
+		- the story might build up towards a sort of journey. The concept of exploration mught speak about how the concept of flow needs something done to it or somthingm, to cause some better motibation to actually enter the temple in the context of the entire story.
+		- idk maybe the concept of flow seems to be mysteriously increasing in power and something must be done to balance it out, or the concept of flow is corrupting or changing in power and it needs to be destroyed, checked on, or sealed or whatever
+			- I do feel like it might be time for some more long term goals to be entered into the campaign, and might end the arc after this setup. I also need to make sure this is worded in a way that I can terminate it earlier just in case the campaign will not last several years or something.
+	- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens.
