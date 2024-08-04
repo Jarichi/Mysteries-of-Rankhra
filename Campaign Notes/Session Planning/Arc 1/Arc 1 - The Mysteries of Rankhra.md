@@ -164,7 +164,9 @@ POIs
 ## Session 3
 		might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
-	- or, cunthia's character gets introduced immediately
+	-  cynthia's character gets introduced immediately
+	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
+	- After the party picks up the book of life, something divine happens, causing the party to gain information on the Hunter tribe and possibly giving Hunter some of his memories back. This vision will need to be abstract and foretelling, and Twan's character will recognise the natuee.of this vision as being an act of one.of the concepts.
 	- she could serve as some sort of knowledgeable person on concept lore, and since we endede the session on the party getting the book, cool stuff can happen
 			maybe some sort of divine message, or collective vision or something upon leaving the alter where the book was positioned.
 
@@ -174,7 +176,8 @@ POIs
 	- could eventually ,lead to a sort of story where the party will end up in a story with an infulencial god that will do good and bad things, kind of like Harmony in Mistborne tee hee
 	- in any case, this might be a noce opportunity to introduce Cynthia to the party.
 		- parhaps I'll make it so that she needs to spy on Verdant without hin knowing about her or something, if I want to make stuff more complex..
-	- when the vision concludes, the party receives a message from Verdant directing them to the hunter tribe, and giving them a nice opportunity to explore other places as well if they so wish.
+	- when the vision concludes, the party receives a message from Verdant asking for them to stop by for an update, and the vision of the party will hopefully ptompt them to ask about the.hunter tribe. Verdant doesn't know about this tho and refers them to other people who may know.
+	- hopefully incentivisws them to explore the city for once.
 
 
 
