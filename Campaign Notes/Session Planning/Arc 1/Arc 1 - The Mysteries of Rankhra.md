@@ -177,18 +177,17 @@ POIs
 	- in any case, this might be a noce opportunity to introduce Cynthia to the party.
 		- parhaps I'll make it so that she needs to spy on Verdant without hin knowing about her or something, if I want to make stuff more complex..
 	- when the vision concludes, the party receives a message from Verdant asking for them to stop by for an update, and the vision of the party will hopefully ptompt them to ask about the.hunter tribe. Verdant doesn't know about this tho and refers them to other people who may know.
-	- hopefully incentivisws them to explore the city for once.
+	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
+		- Small side quest for some bandits that pickpocket people.
+		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
 
-
-
-
-
+After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
-- Hunter will lead them to the nomad outpost
+- Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost.
-	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters.
+	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters. However, the party must prove themselves in a feat of NON-LETHAL combat against these people.
 		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties (big fan of this idea)
 
 
