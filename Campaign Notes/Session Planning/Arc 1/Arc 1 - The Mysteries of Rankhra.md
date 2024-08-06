@@ -177,6 +177,10 @@ POIs
 	- in any case, this might be a noce opportunity to introduce Cynthia to the party.
 		- parhaps I'll make it so that she needs to spy on Verdant without hin knowing about her or something, if I want to make stuff more complex..
 	- when the vision concludes, the party receives a message from Verdant asking for them to stop by for an update, and the vision of the party will hopefully ptompt them to ask about the.hunter tribe. Verdant doesn't know about this tho and refers them to other people who may know.
+		- The Second Domain contains a hobbyist store who sells strange idols and objects they found in the desert and traded with traders. They sell some cool figures and relics relating to the Ancients and relating to concepts. They don't know what these objects stand for.
+		- The Second Domain also contains a group of random NPCs who are talking about legends of a Hunter tribe residing in the desert, as well as a strange area that seems to be an evershifting wasteland (Comtsining the City of Change)
+
+		- The First Domain contains the 
 	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
