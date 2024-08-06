@@ -181,6 +181,8 @@ POIs
 		- The Second Domain also contains a group of random NPCs who are talking about legends of a Hunter tribe residing in the desert, as well as a strange area that seems to be an evershifting wasteland (Comtsining the City of Change)
 
 		- The First Domain contains the newspaper agency who coincidentally published a piece about rising interests in research
+		- also contains a guild connected to the Feywild traders, that know about.nomad tribes
+		- 
 	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
