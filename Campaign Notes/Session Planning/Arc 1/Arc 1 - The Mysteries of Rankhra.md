@@ -162,11 +162,13 @@ POIs
 ----
 
 ## Session 3
-		might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
+		
+might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
+
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
-	-  cynthia's character gets introduced immediately
+	-  cynthia's character gets introduced asap
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
-	- After the party picks up the book of life, something divine happens, causing the party to gain information on the Hunter tribe and possibly giving Hunter some of his memories back. This vision will need to be abstract and foretelling, and Twan's character will recognise the natuee.of this vision as being an act of one.of the concepts.
+	- After the party picks up the book of life, something happens, the party gains information on the Hunter tribe and possibly gives Hunter some of his memories back (?). This vision will need to be abstract and foretelling, and Twan's character will recognise the natuee.of this vision as being an act of one.of the concepts.
 	- she could serve as some sort of knowledgeable person on concept lore, and since we endede the session on the party getting the book, cool stuff can happen
 			maybe some sort of divine message, or collective vision or something upon leaving the alter where the book was positioned.
 
