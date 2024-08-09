@@ -8,7 +8,8 @@ roll athletics
 
 joris runs into the garage and daan rolss perception
 
-daan notices him but continues wroking
+daan notices him but continues working
+
 joris decides to be a bit more quiet.
 
 daan receives the letter from aki in fox shape
@@ -96,13 +97,13 @@ marcus, fredric
 
 marcus took fredrick with him and slaina could hide.
 
-salina doesnt get trusted and offers to walk towards
+salina doesnt get trusted and offers to walk towards marcus' lair
 
-the same letter symbol of the letter is on the symbol.
+the same symbol of the letter is on the door of marcus' lair.
 
 aki sneaks into the house and opens the locked door
 
-and aki also rolls investigation in the drawer. drawer contains a diary entry of Marcus which has the information he has.
+and aki also rolls investigation in the drawer. drawer contains a diary entry of Marcus which has the information about semyon, and verdant possibly.being manipulated by him.
 
 ratronus is panicking and looking around, since he learned about an overlord. He walsk out of the building
 
@@ -124,12 +125,12 @@ healer, chron, wizard, aki, hunter, marcus, rat
 
 chron casts summon beast: summons a brown bear near the wiz and healer
 
-bear attacks the healer for 1d8+4+2 for 13 (non lethal)
+bear attacks the healer for 1d8+4+2 for 13 (non lethal). Healer gets knocked out
 also goes into wild shape
 
 wizard teleports away casts mage arrow for 12dmg on twan bear wild shape
 
-hunter shoots with musket on the wizard for 13 dmg. 
+hunter shoots with musket on the wizard for 13 dmg. Wizard dies 
 
 marcus shoots 7dmg on Hunter
 
@@ -176,38 +177,38 @@ End session 1
 Session Recap
 -kinda accurate except that Joris thinks that Marcus has brought Salina along to serve as bait or osmething (which is kinda wrong)
 
-letter caches on fire
+letter caches on fire due to Parting Gift
 
 aki teases ratronus
 
 aki shows ashes to salina and she says good riddance
 
 rat asks chron about Semyon but he doesn't know the name
-	correction that Semyons  name has never been dropped
-they encounter the shade
+	correction that Semyons  name has never been dropped except in the letter. Only rat knows about that name
+they encounter the shade (Manifeststion of Rubae)
 
-chron arcana roll 14, sees no school but knows a con spell is being cast
+chron arcana roll 14, sees no school but knows a concentration spell is being cast
 	rat and aki also roll too low
 
 
-chron wants to communicate and asks what they are doing
+chron wants to communicate and asks what they are doing. No response
 
 
-aki sees the attacks spell and stands next to the person who is being enchanted.
+aki sees the attacks spell and stands next to the person (fredrick) who is being enchanted.
 
 Rubae prepares the teleport spell since she doesnt want to engage with
 entangle misses
-	Ratronus silvery barbs but I roll higher
+	Ratronus silvery barbs but I roll higher. Results in no entangle
 
 Aki gets advantage and hits the shade
 	4 slashing dmg, HITS THE SHADE AS A GOOEY MESS BUT DOES DAMAGE THE SHADE.
 
 DC is 17 btw
-	Hunter misses a bird and eplodes the bird
+	Hunter misses and hits a bird and eplodes the bird
 
+Rubae teleports away without saying much
 They saved Frederic
-	Aki wake slap but chrine pulls him back
-
+	Aki wake slap but chrone pulls him back
 
 
 aki shows marcus' ashes
@@ -221,20 +222,20 @@ rat also gets +20 gp
 
 perception bonuis
 
-+20 dc
-	thieves cant states that somebidy died
+perception check +20 dc. Ratronus makes it
+	thieves cant on the previously visited house states that somebidy died. Functions as a memorial.
 	thieves cant isn now flemish
 
 - In research group
 
-aki trpips and treats the entire bar
+aki trips, and treats the entire bar
 
 Chron immediately walks towards Verdant
 
-Hunter comments on the story
-	it is completely wrong lmao
+Hunter comments on the story a bar guest was telling
+	"It is completely wrong lmao"
 
-aki pays 13.5gp for beer
+aki pays 13.5gp for all beer
 
 - to verdant
 
@@ -244,11 +245,12 @@ everyone else sits down
 
 Verdant asks how the mission wdent
 	Aki explains the mission
-	shows marcus, cerdant reacts quite calmly
+	shows marcus, verdant reacts quite calmly
 Aki tells about marcus
-	Ratronus is very angry, so is Hunter
+	Ratronus is very angry with this,  so is Hunter
 
-Reward is upped to 40o gp
+Verdant did not expect this and apologises.
+Reward is upped to 400 gp/p
 Verdant used a Comet to send Telas to the dite to retrieve 
 
 Verdant tells the party about their connectionss to the temple
