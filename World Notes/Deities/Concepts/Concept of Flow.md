@@ -5,4 +5,6 @@ The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[Rank
 - flow state (focus)
 - flow of water and possibly air perventing sandstorms in the city
 - flow of trade
-- 
+
+
+The concept is water coming out of the temple, and the key is the water inside a magical orb which creates water.

@@ -37,3 +37,9 @@ Daan: Exploration
 Cynthia: reflection
 ???: change (semyon?)
 ???: connection 
+
+
+
+HOOK: after the party visits janib rankhra, the bandits are now visiting the temple after they went there. The party discovers this if they go back with Cynthia to janib rankhra.
+
+

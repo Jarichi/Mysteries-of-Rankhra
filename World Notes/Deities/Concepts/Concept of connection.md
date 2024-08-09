@@ -6,4 +6,4 @@
 - they made all the pathways connecting other cities.
 
 
-The key is a string of words or some specific language
+The key is a string of words or some specific language. The Concept is the original, very first, universal language Pre-Common. In every language is a single word that has not changed (or changed a little). This word is the key!

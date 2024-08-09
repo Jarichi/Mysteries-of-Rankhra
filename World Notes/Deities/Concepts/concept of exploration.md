@@ -5,4 +5,4 @@
 - this concept is "curious" to unexplored areas and will never be at the same place twice
 - (can be the tribe of daan).
 
-The concept is an owlcat
+The concept is an owlcat. Thevkey is some.artifact akin to a compass perhaps, always pointing to the concept of exploration. They won't get this easily 
