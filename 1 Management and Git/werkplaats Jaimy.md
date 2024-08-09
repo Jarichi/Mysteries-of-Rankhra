@@ -19,3 +19,11 @@ Cactus species
 
 
 Research Group might not be the sole provided of the missions
+
+
+
+Story:
+All party members are connected to concepts of creation. Janib'rankhra has a mural with gemstones and symbols representing the concept. The gems light up when someone in connecting with the concepts gets close.
+Twan: Growth
+Joris: Flow
+Robin: Whimsy

@@ -5,3 +5,6 @@
 - when close to the concept you are compelled to reflect on your deeds
 - it also helps you find answers you were (or didnt know you were) looking for
 - this concept stores the memories of all living creatures
+
+
+The concepts of reflection is a lake near thr mountains with a 
