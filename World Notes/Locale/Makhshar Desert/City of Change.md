@@ -1,3 +1,3 @@
 #location 
-[[concept of transformation]]
+[[concept of change]]
 tee hee shifter sity.

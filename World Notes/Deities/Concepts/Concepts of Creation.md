@@ -7,6 +7,6 @@ The Concepts are the pieces of the body of the [[God of Creation]], which each r
 [[concept of Whimsy]]
 [[concept of reflection]]
 [[concept of exploration]]
-[[concept of transformation]]
+[[concept of change]]
 [[Concept of connection]]
 [[Concept of Growth]]
