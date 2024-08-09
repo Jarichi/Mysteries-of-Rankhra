@@ -24,7 +24,7 @@ Research Group might not be the sole provided of the missions
 
 Story:
 All party members are connected to concepts of creation. Janib'rankhra has a mural with gemstones and symbols representing the concept. The gems light up when someone in connecting with the concepts gets close.
-The symbol lights up when a key is present (some artifact, or object,, memory, or whatever) Which embodies the concept.
+The symbol lights up when a key is presented (some artifact, or object,,memory, or whatever) Which embodies the concept.
 
 Cynthia's character has been affected by the concept of reflection. She has a memory that she can't access, making the symbol flicker or smthn. She needs to visit the concept to get this back.
 

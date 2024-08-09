@@ -3,7 +3,6 @@ The Concepts are the pieces of the body of the [[God of Creation]], which each r
 
 ## List of Concepts
 [[Concept of Flow]]
-[[Concept of Consistency]]
 [[concept of Whimsy]]
 [[concept of reflection]]
 [[concept of exploration]]
