@@ -191,6 +191,10 @@ might experiment with letting some events happen in the background and rolling s
 
 After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
 
+
+
+
+
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
