@@ -180,12 +180,16 @@ might experiment with letting some events happen in the background and rolling s
 
 After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
 
+**Travel**
+When the party leaves the city and heads to a direction, they run into a.pack of 10 wild desert swines. Ensue combat.
+
+If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
-- They are initially not allowed to enter the nomad outpost.
+- They are initially not allowed to enter the nomad outpost beyond the external resting tent
 	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters. However, the party must prove themselves in a feat of NON-LETHAL combat against these people.
 		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties (big fan of this idea)
 
