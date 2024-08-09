@@ -175,11 +175,10 @@ might experiment with letting some events happen in the background and rolling s
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
 
-- in the city, they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it
+- in the city (second Domain) , they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and cool things, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
+- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
 After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
-
-
 
 
 
