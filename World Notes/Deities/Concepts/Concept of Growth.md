@@ -10,3 +10,7 @@ Concept of Growth:
 
 
 plotpoint: needs to be kept in control since evergrowing city is obviously not good for the city -> mission for the party.
+
+
+The concept is a gigantic tree and the key is a seed fractal! Twan already has this but the seed hasn't grown yet because twan hasnt grown as a person.
+Everyone received some.recognising feature and twan's will turn into a fractal

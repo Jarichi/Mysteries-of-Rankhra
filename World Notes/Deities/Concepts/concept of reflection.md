@@ -7,4 +7,4 @@
 - this concept stores the memories of all living creatures
 
 
-The concepts of reflection is a lake near thr mountains with a 
+The concepts of reflection *is* a lake near thr mountains with a plaque "remember your first step". To get the key (which is a memory, Rubae has this already but cannot access it) you need to think about where you started being who you are now and walk into the lake. Under the cave is a mirror of the mirror. Looming into the mirror gives you the memory 

@@ -8,3 +8,5 @@ The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[Rank
 
 
 The concept is water coming out of the temple, and the key is the water inside a magical orb which creates water.
+
+Verdant knows about this and wants to break this orb. Everybody else believes that thsi orb IS the concepts and panics maybe fights conflict
