@@ -250,83 +250,90 @@ Aki tells about marcus
 	Ratronus is very angry with this,  so is Hunter
 
 Verdant did not expect this and apologises.
-Reward is upped to 400 gp/p
-Verdant used a Comet to send Telas to the dite to retrieve 
+Reward is upped to 400 gp/person
 
-Verdant tells the party about their connectionss to the temple
+Verdant used a Comet to send Telas to the site to retrieve bodies and evidence
 
-verdant explains the mission
-	chees esupply line
+Verdant tells the party about his hypothesis that everyone has some connections to the temple.
 
+verdant explains the new mission
+	Gather info about Rankhra 
 
 
 rat and hunter ask about semyon
-	verdant kknows smeyon for 200 yrs
-	they t4ell them thay semyon might betray verdant
+	verdant has known smeyon for 200 yrs
+	they tell them thay semyon might betray verdant. Verdant will keep it in mind but doesn't really seem convinced 
 	semyon has a different job perhaps
-	the letter paper is given to evrdant
+	the letter paper ashes is given to verdant
 
 rat implies overlord as marcus
 
-ratronus leaves the room
-	semyon added the letter cont4ents 
-	The paper of the lettter is quite generic and might have been used in a newspaper
+ratronus leaves the room to allow private convo with Hunter
+	semyon added the letter contents to the letter sent to Hunter 
+	The paper of the letter is quite generic and might have been used in a newspaper. Therefore not retractable to anyone
 
 - filler
 they go to the alley and arrive in the ciry
 
-Aki goes towards the ceontroscopia looking for a botanist
+Aki immediately goes towards the centroscopia looking for a botanist
 
-Ratronus RUNS towards the temple looking for maholes
+Ratronus RUNS towards the temple looking for manholes
 	Manhole is near the magic school
 
 Chrone makes a round around the temple
 
 Hunter goes towards the armory
 
-Ratronus attempes to open thyhe manhole
-	Magic lock on manhole so unopened
+Ratronus attempes to open the manhole
+	Magic lock on manhole so unopenable
 
 Chron perception 23
-	History check on insctiption
-	recognises oulcat
+	History check on inscription on Rankhra
+	recognises owlcat but doesn't know the meaning. This only has meaning for Hunter
 
 
-Hunter enters the clothing store and throqs the door closed
+Hunter enters the clothing store armory and throws the door closed
 
-Aki wants to buy foxglove for 200gp
-	Ski wnts to bribe the merchant with information
+Aki wants to buy foxglove for 200gp from a botanist
+	Aki wnts to bribe the merchant with information about where to get it
 	100gp
-	free  flower
-		Foxglove
+	she receives a free  flower which is...
+		Foxglove :3
 
-Aki steals the plant tee hee and lies to the group about stealing the plant hehe
+Aki steals the flower tee hee and lies to the group about stealing it hehe
 
-rat wins the stealth check and the party doesnt see the manhole cover
-	Investigation failt
+rat wins the stealth check to prevent embarrasment about not being able to open the cover. and the party doesnt see the manhole cover
+	Investigation failure
 
 
-the person that was looking at the temple is walking towards
+the person that was initially  looking at the temple is walking towards the party. He's a random human who is not significant for now
 	he went into the desert and saw some pillars
-	about an hour walking 
+	about an hour walking distance from Zal'Aata
+	
 
-ratronus knows about the pillars and the temple
+ratronus knows about the pillars and the temple. Heard about it from his backstory. So does Chron
 
+they fast travel and arrive at the temple
 
-they arrive at the temple
-	perception,
+aki and rat recognise the temple.
 
-aki and rat recognise the temple
+The pillars depict 4 significant things for each party member backstory.
 
-hunter succeeds his history check and knows the name Bahat
+hunter succeeds his history check and knows the name of the owlcat; Bahath
 
 Rat knows the organisation by name
+(Mycelio)
 
-rat assimilates the party towards the pillar and they instantly solve the puzzle
+Aki knows foxglove
 
-eratronus rolls investigation DC 15
-	9, 5, 10, 9
-	foxfire is being cast for the people without darkvision
+Chron knows birch elf
+
+rat organises the party towards the pillar and they instantly solve the puzzle
+
+eratronus rolls investigation if they are being followed DC 15
+	9, 5, 10, 9. Uncertain if they are or aren't followed. (Spoiler: they are not being followed I just like giving them anxiety)
+	foxfire is being cast for the people without darkvision.
+Temple contains a Book of Life and Death (posted in dnd channel)
 
 they read the book and absorb the lore.
 	bad at giving a summary so they read it on their owrn
