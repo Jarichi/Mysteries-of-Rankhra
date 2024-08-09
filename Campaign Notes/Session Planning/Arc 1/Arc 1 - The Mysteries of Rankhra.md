@@ -168,26 +168,14 @@ might experiment with letting some events happen in the background and rolling s
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
 	-  cynthia's character gets introduced asap
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
-	- After the party picks up the book of life, something happens, the party gains information on the Hunter tribe and possibly gives Hunter some of his memories back (?). This vision will need to be abstract and foretelling, and Twan's character will recognise the natuee.of this vision as being an act of one.of the concepts.
-	- she could serve as some sort of knowledgeable person on concept lore, and since we endede the session on the party getting the book, cool stuff can happen
-			maybe some sort of divine message, or collective vision or something upon leaving the alter where the book was positioned.
+	- After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "You are all looking for something, which will be revealedupon presenting the keys.". After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 
-
-- this vision could give them a reasson for wanting to also enter the temple and gives me an opportunity to see just how much they are willing to share with verdant.
-- this vision might also talk about how the divine vision giver sent a sentinel towards the party to help them in their quest and this character might be Rubae.
-	- could eventually ,lead to a sort of story where the party will end up in a story with an infulencial god that will do good and bad things, kind of like Harmony in Mistborne tee hee
-	- in any case, this might be a noce opportunity to introduce Cynthia to the party.
-		- parhaps I'll make it so that she needs to spy on Verdant without hin knowing about her or something, if I want to make stuff more complex..
-	- when the vision concludes, the party receives a message from Verdant asking for them to stop by for an update, and the vision of the party will hopefully ptompt them to ask about the.hunter tribe. Verdant doesn't know about this tho and refers them to other people who may know.
-		- The Second Domain contains a hobbyist store who sells strange idols and objects they found in the desert and traded with traders. They sell some cool figures and relics relating to the Ancients and relating to concepts. They don't know what these objects stand for.
-		- The Second Domain also contains a group of random NPCs who are talking about legends of a Hunter tribe residing in the desert, as well as a strange area that seems to be an evershifting wasteland (Comtsining the City of Change)
-
-		- The First Domain contains the newspaper agency who coincidentally published a piece about rising interests in research
-		- also contains a guild connected to the Feywild traders, that know about.nomad tribes
-		- 
+	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
+
+- in the city, they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it
 
 After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
 
