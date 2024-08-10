@@ -168,9 +168,11 @@ might experiment with letting some events happen in the background and rolling s
 - After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
 	-  cynthia's character gets introduced asap
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
-	- After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "You are all looking for something, which will be revealedupon presenting the keys.". After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
+	- After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "Your goals, while far away, can be achieved. Present the keys and your dreams are yours."
+	- After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
+		- Cook with her in VC what she thinks is most appropriate 
 	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))

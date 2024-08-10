@@ -15,7 +15,7 @@ Chron
 Hunter
 - 29 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg
-- Advantage/bonus against certain beasts (rule 0)
+- Attack Roll adv and +3 (?) dmg bonus against cattle beasts (rule 0)
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
@@ -25,3 +25,6 @@ Ratronus
 - Cunning action
 
 Rubae
+
+
+AVERAGE AC: 55/4 ≈ 13
