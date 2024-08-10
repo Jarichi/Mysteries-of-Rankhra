@@ -174,12 +174,16 @@ might experiment with letting some events happen in the background and rolling s
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 		- Cook with her in VC what she thinks is most appropriate 
 	- hopefully incentivises them to explore the city for once. (DRAW A MAP). They are each given a small preview sample of a newspaper distributing the following stories:
-		- BREAKING: Temple suddenly appeared in Makhshar Desert! Marketing or Mystery?
+		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
-		- Population of Aurochs has increased after months of decline. Biologist Xavier Zendikar talks about it at their
-		- Small side quest for some bandits that pickpocket people.
-		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
+			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants.
+		- Biologist Cedar Zendikar: "After a period of lower births, the auroch population is rising at last." (Wip)
+			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
+		- 
 
+Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
+- City POIs are
+- 
 - in the city (second Domain) , they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and cool things, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
 - Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
