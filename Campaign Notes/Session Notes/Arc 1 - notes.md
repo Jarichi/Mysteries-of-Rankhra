@@ -47,11 +47,11 @@ aki spends 11gp and goes to Sasha and Martin.
 
 Verdant (he/him) gets recognised and ratronus calls aki a pet
 
-chrone enters the building
+chrone enters the building in spider form
 
 Chron climbs the bar and changes into his druid form.
 
-ratronus notes the impostance of the spideer'
+ratronus notes the impostance of the spider hole
 
 Chrone uses is full govenment legal name and verdant is happy to see him. Makes a funny remark for the session.
 
@@ -232,7 +232,7 @@ aki trips, and treats the entire bar
 
 Chron immediately walks towards Verdant
 
-Hunter comments on the story a bar guest was telling
+Hunter comments on the story Martin Isla was telling
 	"It is completely wrong lmao"
 
 aki pays 13.5gp for all beer
@@ -333,7 +333,7 @@ rat organises the party towards the pillar and they instantly solve the puzzle
 eratronus rolls investigation if they are being followed DC 15
 	9, 5, 10, 9. Uncertain if they are or aren't followed. (Spoiler: they are not being followed I just like giving them anxiety)
 	foxfire is being cast for the people without darkvision.
-Temple contains a Book of Life and Death (posted in dnd channel)
+Temple contains a Book of Life and Death (posted in dnd channel).
 
 they read the book and absorb the lore.
 	bad at giving a summary so they read it on their owrn
@@ -341,9 +341,14 @@ they read the book and absorb the lore.
 divine sense was cast
 	hallow spell on book, no undeads and fiends, 
 
+The book is picked up and read...
+
 END OF SESSION
 
-
-Session notes, 
+Notes for next session:
+Book is a trigger for the opening of a hidden door.
+Cynthia's character will be introduced upon arrival in the city.
+Beginning of next session will be mainly exploration of the city and speaking with NPCs to get more info.
+Also introduces a different way of getting missions by means of the city billboard and newspaper, so the party is ultimately reporting to Verdant but not dependent on him to get missions.
 
 ---
