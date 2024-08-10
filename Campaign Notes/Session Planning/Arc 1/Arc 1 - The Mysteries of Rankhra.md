@@ -173,7 +173,10 @@ might experiment with letting some events happen in the background and rolling s
 
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 		- Cook with her in VC what she thinks is most appropriate 
-	- hopefully incentivises them to explore the city for once. (DRAW A MAP)
+	- hopefully incentivises them to explore the city for once. (DRAW A MAP). They are each given a small preview sample of a newspaper distributing the following stories:
+		- BREAKING: Temple suddenly appeared in Makhshar Desert! Marketing or Mystery?
+		- Criminal activity on the rise. Correlation with influx of merchants?
+		- Population of Aurochs has increased after months of decline. Biologist Xavier Zendikar talks about it at their
 		- Small side quest for some bandits that pickpocket people.
 		- quest might also contain them looking into the wares of the shopkeepers and possible smuggling activity or something (at least, a different threat that is not supernatural. Also gives.me.an excuse.to introduce a newspaper talking about a rise of suspicious shipments that the local police is investigating. (Totally didn't steal from Mistborne))
 
