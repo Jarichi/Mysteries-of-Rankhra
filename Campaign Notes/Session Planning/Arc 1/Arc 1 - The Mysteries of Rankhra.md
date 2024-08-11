@@ -164,12 +164,11 @@ POIs
 ## Session 3
 		
 might experiment with letting some events happen in the background and rolling steaalthily for these, just as Elise does.
-
-- After completing the temple lore, they receive a message from Verdant in the form of a letter, and hopefully realise that the comet may be used for the letter
+- 
 	-  cynthia's character gets introduced asap
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
-	- After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "Your goals, while far away, can be achieved. Present the keys and your dreams are yours."
-	- After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
+- After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "Your goals, while far away, can be achieved. Present the keys and your dreams are yours."
+- After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 		- Cook with her in VC what she thinks is most appropriate 
@@ -187,6 +186,7 @@ Free choice whether they visit Verdant to inform them on the current situation o
 	- newspaper agency (can tell them about the Comets (ahh forgot what we talked about...))
 	- questgiver for bandit mission (second)
 	- story questgiver for Hunter tribe (first)
+		- 
 	- shops and stores
 	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days).
 - in the city (second Domain), they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and Concepts, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
