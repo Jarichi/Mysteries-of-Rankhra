@@ -28,3 +28,4 @@ Rubae
 
 
 AVERAGE AC: 55/4 ≈ 13
+AVERAGE HP: 
