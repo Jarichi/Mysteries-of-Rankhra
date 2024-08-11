@@ -169,6 +169,7 @@ might experiment with letting some events happen in the background and rolling s
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
 - After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "Your goals, while far away, can be achieved. Present the keys and your dreams are yours."
 - After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
+- Roll history and reveal that one of the symbols is reminiscent of the
 
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 		- Cook with her in VC what she thinks is most appropriate 
