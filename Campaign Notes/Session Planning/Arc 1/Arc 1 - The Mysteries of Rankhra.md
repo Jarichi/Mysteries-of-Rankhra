@@ -183,7 +183,12 @@ might experiment with letting some events happen in the background and rolling s
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
 - City POIs are
-- 
+	- Magic school (inaccessible due to lessons)
+	- newspaper agency 
+	- questgiver for bandit mission (second)
+	- story questgiver for Hunter tribe (first)
+	- shops and stores
+	- 
 - in the city (second Domain) , they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and cool things, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
 - Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
