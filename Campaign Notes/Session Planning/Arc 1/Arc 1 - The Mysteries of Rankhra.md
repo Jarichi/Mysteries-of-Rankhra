@@ -169,14 +169,14 @@ might experiment with letting some events happen in the background and rolling s
 	- depending on what she envisions, she either gets introduced as being sent by Verdant to simply sccompany them on their missions, or is a sort of messenger from the God of Death.
 - After the party picks up the book of life, something happens, revealing the mural. the mural has a text in pre-common. "Your goals, while far away, can be achieved. Present the keys and your dreams are yours."
 - After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
-- Roll history and reveal that one of the symbols is reminiscent of the
+- Roll history and reveal that one of the symbols was seen on the temple walls.
 
 	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
 		- Cook with her in VC what she thinks is most appropriate 
-	- hopefully incentivises them to explore the city for once. (DRAW A MAP). They are each given a small preview sample of a newspaper distributing the following stories:
+	- In the city, they are given a small preview sample of a newspaper distributing the following stories:
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
-			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants.
+			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
 		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 		- 
@@ -203,10 +203,9 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
-	- Just when the party wants to leave, a second NPC comes up to them and addresses Hunter, recognising the small mole, whispering in the ear of the other NPC and allowing the party to enter. He also tells them that there is no danger in allowing the forigners to enter, since the knowledge will be removed from their memory anyway, unless they have a way to somehow write down their information. hinting to the Comet usage of spawning letters. However, the party must prove themselves in a feat of NON-LETHAL combat against these people.
-		- Some other idea might be tht visitors need to prove themselves in a feat of non-lethal combat without casualties (big fan of this idea)
-
-
+- After resting, they are offered to either leave immediately or prove themselves to be worthy to enter
+- ensue combat
+	
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
@@ -216,7 +215,7 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 				- Nomad 1 knows information about the origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
 					- Name: Knower
 				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city. -> Shifty, secretive, mysterious
-					- Name: Thinker (bro you not the THINKER?!?!?)
+					- Name: Bleeder
 				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
 					- Name: Diviner
 				- Nomad 4 knows information about myths and legends of the tribe
