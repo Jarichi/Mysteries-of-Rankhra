@@ -177,25 +177,23 @@ might experiment with letting some events happen in the background and rolling s
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants.
-		- Biologist Cedar Zendikar: "After a period of lower births, the auroch population is rising at last." (Wip)
+		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 		- 
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
 - City POIs are
 	- Magic school (inaccessible due to lessons)
-	- newspaper agency 
+	- newspaper agency (can tell them about the Comets (ahh forgot what we talked about...))
 	- questgiver for bandit mission (second)
 	- story questgiver for Hunter tribe (first)
 	- shops and stores
-	- 
-- in the city (second Domain) , they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and cool things, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
+	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days).
+- in the city (second Domain), they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and Concepts, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
 - Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
-After city shenanigans, they are directed towards the Hunter.tribe by means.of a three-path exploration with directions given by people that they talk to. Wrong turns may lead to other areas and sites, or dead ends/combat/exhaustion
-
 **Travel**
-When the party leaves the city and heads to a direction, they run into a.pack of 10 wild desert Aurochs. Ensue combat.
+When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat.
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
@@ -218,7 +216,7 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 					- Name: Knower
 				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city. -> Shifty, secretive, mysterious
 					- Name: Thinker (bro you not the THINKER?!?!?)
-				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency. -> positive, nihilistic, happy-go-lucky
+				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
 					- Name: Diviner
 				- Nomad 4 knows information about myths and legends of the tribe
 					- Name: Teller
