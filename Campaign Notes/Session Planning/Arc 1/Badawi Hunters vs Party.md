@@ -1,27 +1,24 @@
 # "Bleeder"
 CR +- 3
-Level 6 Blood Hunter. As a Blood Hunter, Bleeder is responsible for tracking and 
+Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. 
+As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 
 ---
 ### Statblock
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 15 (+2) | 16 (+3) | 12 (+1) | 11 (+0) | 12 (+1) | 13 (+1) |
+| STR | DEX | CON | INT | WIS | CHA     |
+| --- | --- | --- | --- | --- | ------- |
+|     |     |     |     |     | 13 (+1) |
 
-Prof: Sleight of Hand dex, Stealth dex, History int , Insight wis , Deceoption (ex) cha, Intimdation (ex) cha
+Prof: 
 prof bonus +3
-AC: 14
+AC: 
 +3 initiative
-HP: 68
+HP: 
 ### Abilities
-Sneak attack 3d6 dmg, enemy rolls Deception against my insight, on fail receive sneak attack dmg
-Fire resistance
-Tenser's floating disk (soft flight)
-Arcane Lock
-UNCANNY DODGE
-Cunning action: dash, disengage, hide.
-# Apprentice Mage
-CR 1/2 mage.
+
+# Diviner
+CR 1 Support
+
 
 ---
 ### Statblock
