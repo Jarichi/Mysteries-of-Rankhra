@@ -190,16 +190,19 @@ Free choice whether they visit Verdant to inform them on the current situation o
 		- Populated by Raphaella Sophronia Galani
 			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
 	- Potion Store in first domain, selling an array of standard potions and such
-		- questgiver for bandit mission (second)
+		- questgiver for bandit mission (SIDEQUEST)
+			- The owner, Benson is a slightly unhinged, bitter shopkeeper with a disdain for the change of population that has recently entered the city.
+			- He will note that since the increase of traders and merchants, visitors of the city have been robbed by an aggressive group of bandits when they leave the city. This group is making use of the nocturnal lifestyle of the city and the non-nocturnal lifestyle of visitors to commit crime.
+			- Will ask if the party helps him and rewards the party for their efforts. [[A1 SQ1 - In Plain Daylight]] for further notes.
 	- Artifact and relic store in second domain
-		- story questgiver for Hunter tribe (first)
+		- questgiver for Hunter tribe (STORY QUEST)
 		- ran by former Badawi tribe member, Benson.
 			- Same guy as the one who was at the temple and who teld the party about Janib'Rankhra
 			- Explores sites of interest and the general area around the desert and around Cornucopia streak together with his assistant, looking for ancient relics
 			- Sells relics of varying degrees of importance. He sells a Badawi statue, a finely decorated mirror which shows a slightly warped reflection of oneself, and other concept-related artifacts.
 			- Knows mostly about the background information of the Badawi statue (ehich gets recognised by the party btw)
 			- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
-	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days). They will not be allowed entry into the building.
+	- Shoka Engineering Collective in Centroscopia (allowed in the waiting room but seeing NPCs who have been waiting for literal days). They will not be allowed entry into the building.
 
 
 **Travel**

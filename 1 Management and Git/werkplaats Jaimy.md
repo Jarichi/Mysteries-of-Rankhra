@@ -43,3 +43,7 @@ Cynthia: reflection
 HOOK: after the party visits janib rankhra, the bandits are now visiting the temple after they went there. The party discovers this if they go back with Cynthia to janib rankhra.
 
 
+### File Naming
+Ax = Arc x, where x is the arc number
+Sx = sidequest x, where x is sideqiest number
+Planning files are named after where they are in the story to allow them to be dynamically inserted whenever, and judged on age.
