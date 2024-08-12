@@ -177,6 +177,7 @@ might experiment with letting some events happen in the background and rolling s
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
+			- article commissioned by an old potion shop owner who sells generic potions for some value.
 		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 		- 
@@ -184,7 +185,9 @@ might experiment with letting some events happen in the background and rolling s
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
 - City POIs are
 	- Magic school (inaccessible due to lessons)
+		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
 	- newspaper agency (can tell them about the Comets (ahh forgot what we talked about...))
+		- 
 	- questgiver for bandit mission (second)
 	- story questgiver for Hunter tribe (first)
 		- 
@@ -198,6 +201,7 @@ When the party leaves the city and heads to a direction, they run into a.pack of
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
+If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]

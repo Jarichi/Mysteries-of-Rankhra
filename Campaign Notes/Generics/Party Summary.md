@@ -6,6 +6,8 @@ Aki
 - Support Spellcaster
 - Heals 15 HP
 
+- 425gp
+
 Chron
 - 21 HP, 13 AC (base)
 - 34 HP, 11 AC (bear)
@@ -14,6 +16,8 @@ Chron
 - Bear DPS multiattack really high
 - OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
 
+- 325gp
+
 Hunter
 - 29 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg
@@ -21,12 +25,18 @@ Hunter
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
+- 425gp
+
 Ratronus
 - 23 HP, 12 AC
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
+- 325gp
+
 Rubae
+
+- 375gp
 
 
 AVERAGE AC: 55/4 ≈ 13, median 13
