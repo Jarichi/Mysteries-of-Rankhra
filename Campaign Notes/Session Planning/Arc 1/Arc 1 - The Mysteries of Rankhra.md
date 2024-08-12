@@ -184,11 +184,14 @@ might experiment with letting some events happen in the background and rolling s
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
 - City POIs are
-	- Magic school (inaccessible due to lessons)
+	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
 		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
-	- newspaper agency (can tell them about the Comets (ahh forgot what we talked about...))
-		- 
-	- questgiver for bandit mission (second)
+	- newspaper agency (2nd domain)
+		- Populated by Sophronia Galani DeLonghi idfk some long name
+			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
+	- Potion Store in first domain, selling an array of standard potions and such
+		- questgiver for bandit mission (second)
+	- Artifact and relic store in second domain
 	- story questgiver for Hunter tribe (first)
 		- 
 	- shops and stores

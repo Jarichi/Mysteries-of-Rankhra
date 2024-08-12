@@ -352,3 +352,4 @@ Beginning of next session will be mainly exploration of the city and speaking wi
 Also introduces a different way of getting missions by means of the city billboard and newspaper, so the party is ultimately reporting to Verdant but not dependent on him to get missions.
 
 ---
+## Session 3

@@ -6,7 +6,7 @@ Aki
 - Support Spellcaster
 - Heals 15 HP
 
-- 425gp
+- 509gp, 5sp
 
 Chron
 - 21 HP, 13 AC (base)
