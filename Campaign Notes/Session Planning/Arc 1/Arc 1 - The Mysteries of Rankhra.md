@@ -186,18 +186,21 @@ Free choice whether they visit Verdant to inform them on the current situation o
 - City POIs are
 	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
 		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
-	- newspaper agency (2nd domain)
-		- Populated by Sophronia Galani DeLonghi idfk some long name
+	- [[Distribution Center|newspaper agency]] (2nd domain)
+		- Populated by Raphaella Sophronia Galani
 			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
 	- Potion Store in first domain, selling an array of standard potions and such
 		- questgiver for bandit mission (second)
 	- Artifact and relic store in second domain
-	- story questgiver for Hunter tribe (first)
-		- 
-	- shops and stores
-	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days).
-- in the city (second Domain), they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and Concepts, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
-- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
+		- story questgiver for Hunter tribe (first)
+		- ran by former Badawi tribe member, Benson.
+			- Same guy as the one who was at the temple and who teld the party about Janib'Rankhra
+			- Explores sites of interest and the general area around the desert and around Cornucopia streak together with his assistant, looking for ancient relics
+			- Sells relics of varying degrees of importance. He sells a Badawi statue, a finely decorated mirror which shows a slightly warped reflection of oneself, and other concept-related artifacts.
+			- Knows mostly about the background information of the Badawi statue (ehich gets recognised by the party btw)
+			- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
+	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days). They will not be allowed entry into the building.
+
 
 **Travel**
 When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat. [[Party vs Monsters]]
