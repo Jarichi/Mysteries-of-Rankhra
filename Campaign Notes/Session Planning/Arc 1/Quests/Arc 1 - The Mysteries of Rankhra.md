@@ -182,7 +182,8 @@ might experiment with letting some events happen in the background and rolling s
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 		- 
 
-Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
+Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each
+
 - City POIs are
 	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
 		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
@@ -217,7 +218,7 @@ If the party ends up not attacking the creatures and an animal handling commence
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
 - After resting, they are offered to either leave immediately or prove themselves to be worthy to enter
-- ensue combat
+- ensue combat [[Badawi Hunters vs Party]]
 	
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
