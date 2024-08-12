@@ -4,6 +4,7 @@ Aki
 - Close-range Paladin avg 6 dmg
 - Support Interception, reduce incoming dmg with 1d10+prof (2)
 - Support Spellcaster
+- Heals 15 HP
 
 Chron
 - 21 HP, 13 AC (base)
@@ -11,6 +12,7 @@ Chron
 - Close-range Moondruid avg 4 dmg (base)
 - Melee Brown Bear avg 19 dmg withmultiattack
 - Bear DPS multiattack really high
+- OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
 
 Hunter
 - 29 HP, 14 AC
@@ -29,4 +31,4 @@ Rubae
 
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
-Average party dmg: 
+Average optimal party dmg per turn: 46
