@@ -194,7 +194,7 @@ Free choice whether they visit Verdant to inform them on the current situation o
 - Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
 **Travel**
-When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat.
+When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat. [[Party vs Monsters]]
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 

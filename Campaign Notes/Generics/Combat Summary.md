@@ -9,7 +9,7 @@ Chron
 - 21 HP, 13 AC (base)
 - 34 HP, 11 AC (bear)
 - Close-range Moondruid avg 4 dmg (base)
-- Melee Brown Bear avg 19 dmg
+- Melee Brown Bear avg 19 dmg withmultiattack
 - Bear DPS multiattack really high
 
 Hunter
@@ -27,5 +27,6 @@ Ratronus
 Rubae
 
 
-AVERAGE AC: 55/4 ≈ 13
-AVERAGE HP: 109/4 ≈ 27
+AVERAGE AC: 55/4 ≈ 13, median 13
+AVERAGE HP: 109/4 ≈ 27, median 25
+Average party dmg: 
