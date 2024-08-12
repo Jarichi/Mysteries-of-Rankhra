@@ -189,14 +189,14 @@ Free choice whether they visit Verdant to inform them on the current situation o
 	- [[Distribution Center|newspaper agency]] (2nd domain)
 		- Populated by Raphaella Sophronia Galani
 			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
-	- Potion Store in first domain, selling an array of standard potions and such
+	- [[Potion Merchant|Potion Store]] in first domain, selling an array of standard potions and such
 		- questgiver for bandit mission (SIDEQUEST)
-			- The owner, Benson is a slightly unhinged, bitter shopkeeper with a disdain for the change of population that has recently entered the city.
+			- The owner, Benson is a slightly unhinged, bitter shopkeeper with a disdain for the change of population that has recently entered the city. He runs *'Benson's Brews'.* and is a Halfling.
 			- He will note that since the increase of traders and merchants, visitors of the city have been robbed by an aggressive group of bandits when they leave the city. This group is making use of the nocturnal lifestyle of the city and the non-nocturnal lifestyle of visitors to commit crime.
-			- Will ask if the party helps him and rewards the party for their efforts. [[A1 SQ1 - In Plain Daylight]] for further notes.
-	- Artifact and relic store in second domain
+			- Will ask if the party helps him and rewards the party for their efforts. [[A1 SQ1 - In 'Brewed' Daylight]] for further notes.
+	- [[Relic Merchant|Artifact and relic store]] in second domain
 		- questgiver for Hunter tribe (STORY QUEST)
-		- ran by former Badawi tribe member, Benson.
+		- ran by former Badawi tribe member, Shiv, full name Parshiv. He is a regular ahh human
 			- Same guy as the one who was at the temple and who teld the party about Janib'Rankhra
 			- Explores sites of interest and the general area around the desert and around Cornucopia streak together with his assistant, looking for ancient relics
 			- Sells relics of varying degrees of importance. He sells a Badawi statue, a finely decorated mirror which shows a slightly warped reflection of oneself, and other concept-related artifacts.
