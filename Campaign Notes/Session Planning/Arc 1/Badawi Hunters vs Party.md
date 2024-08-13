@@ -1,4 +1,4 @@
-# "Bleeder"
+# Bleeder
 CR +- 3
 Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. half orc
 
@@ -13,12 +13,14 @@ As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of
 Prof: intimidation
 prof +3 initiative +2
 AC: 12
-10+9+4+4+1+4 = 32 + challenge bonus 8 = 40
-HP: 
+
+HP: 45
 ### Abilities
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
-
+ #### Attacks
+ some strikes and such idk
+ 
 # Diviner
 CR 1 Support
 Diviner is responsible for 

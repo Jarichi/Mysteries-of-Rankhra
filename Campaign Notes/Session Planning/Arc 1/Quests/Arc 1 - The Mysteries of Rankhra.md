@@ -184,7 +184,7 @@ might experiment with letting some events happen in the background and rolling s
 		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 
-Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each
+Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.
 
 - City POIs are
 	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
