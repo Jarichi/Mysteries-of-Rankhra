@@ -33,6 +33,7 @@ level 5 Lore bard, halfling
 | 8   | 14  | 12  | 11  | 15  | 15  |
 
 ### Abilities
+
 # Healer
 CR 1/2 healer
 
