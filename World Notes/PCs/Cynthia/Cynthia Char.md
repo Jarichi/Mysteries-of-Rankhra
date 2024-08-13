@@ -1,4 +1,10 @@
-An extremely [[Ancients]] figure that has amnesia about past, and has been directed by [[Gentle Death]] (or [[Crafted Life]]) to destroy the [[Concepts of Creation]] and use the energy or residuals to create something new.
+An extremely [[Ancients]] figure that has amnesia about past, and has been directed by [[Gentle Death]] (or [[Crafted Life]]) to guard the Concept of Reflection during her amnesic period.
+
+Chaotig neutral, nearing chativ evil
+
+mostly self centered and self-importance.
+
+
 
 Was present during the construction of rankhra
 
@@ -9,7 +15,7 @@ Guardian of concept of reflection. Tasked with protecting the concepts. Possesse
 
 ## Summary of cynthia's backstory
 Helena taught her everything she knows
-she was sold to a vampire who was going to use her for a ritual
+has kept herself hidden from society and as such has experience with 
 
 she went to a city and learnt about a vampire meeting, and needs to kill a girl (miraeilah) who is going to be used in a ritual (love interest)
 
@@ -27,11 +33,14 @@ party will get a quest to go to the reflection pond and such, and
 
 statblock for marilyn herself as vampire 
 
+3 sheets, one with actual power, one with the fake persona and cynthia has one with her scaled down power level, even tho 
+
 
 ## Stats
 #### Marilyn
 [Ixalan Vampire](http://dnd5e.wikidot.com/lineage:vampire)
-
+level 14 warlock, raveb wueen patron
+might be scaled down if it proves to be too powerful
 #### Marilyn (fake persona)
 [Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
 
