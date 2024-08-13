@@ -37,10 +37,17 @@ statblock for marilyn herself as vampire
 
 
 ## Stats
+considering her health pool is extremely high comparred to the rest, we can say that when she reaches the average party hp, she pretends to be dead.
+	some sort of bs story that tells that she gets revived by her patron as a punishment for her deeds, eternal suffering idk
+		we need to come up with a better idea eventually...
+
+
 #### Marilyn
 [Ixalan Vampire](http://dnd5e.wikidot.com/lineage:vampire)
 level 14 warlock, raveb wueen patron
 might be scaled down if it proves to be too powerful
+
+
 #### Marilyn (fake persona)
 [Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
-
+HP: 
