@@ -6,14 +6,14 @@ As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of
 
 ---
 ### Statblock
-| STR   | DEX | CON | INT | WIS | CHA |
-| ----- | --- | --- | --- | --- | --- |
-| 16 +3 | 15  | 9   | 15  | 10  | 8   |
+| STR   | DEX   | CON  | INT   | WIS   | CHA  |
+| ----- | ----- | ---- | ----- | ----- | ---- |
+| 16 +3 | 15 +2 | 9 -1 | 15 +2 | 10 +0 | 8 -1 |
 
 Prof: intimidation
-prof bonus +3
-AC: 
-+3 initiative
+prof +3 initiative +2
+AC: 12
+10+9+4+4+1+4 = 32 + challenge bonus 8 = 40
 HP: 
 ### Abilities
 Relentless endurance: Sturdy for DnD
