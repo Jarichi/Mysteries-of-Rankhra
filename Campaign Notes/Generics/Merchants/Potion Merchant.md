@@ -1,7 +1,10 @@
 https://drive.google.com/file/d/1r1aQtgq7BiS_7Uir2qDAzgEZbKEdhYsz/view
 Roll 3-5d10 for inventory
 
-Table
+
+Potion shop merchant is a perpetually drunk girl who can be seen drinking her own potions. 
+
+
 
 | Value | Name                          | Text                                                           | Price (gp) |
 | ----- | ----------------------------- | -------------------------------------------------------------- | ---------- |
