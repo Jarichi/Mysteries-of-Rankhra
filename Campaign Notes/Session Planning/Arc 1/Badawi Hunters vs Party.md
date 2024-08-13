@@ -17,12 +17,12 @@ HP: 45
 ### Abilities
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
- #### Attacks
+#### Attacks
  some strikes and such idk
  
 -----
 # Diviner
-Diviner will support Bleeder in her combat
+Diviner supports the main damage dealers in their combat endeavours. They won't be doing any attacking themselves.
 
 level 5 Lore bard, halfling
 ### [Statblock](https://chicken-dinner.com/5e/5e-point-buy.html#halfling&dragonmarkofhealing&8&12&12&11&14&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)
@@ -36,12 +36,13 @@ proficiencies: deception, insight, history, religion
 
 HP: 40
 ### Abilities
-Cutting words: subtract bardic inspiration roll from d20 roll
+Cutting words: subtract bardic inspiration (d8) roll from d20 roll
+
+#### Attacks
 CANTRIPS: vicious mockery, true strike
 1st lvl: Cure Wounds, Healing Word, 
 2nd lvl: CLoud of Daggers, Enhance Ability, 
-3rd lvl:
-Healing word
+3rd lvl: dispel magic
 
 spell slots: I(4), II(3), III(2)
 
