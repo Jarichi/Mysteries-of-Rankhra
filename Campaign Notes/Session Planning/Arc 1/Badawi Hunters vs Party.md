@@ -15,10 +15,16 @@ AC: 12
 
 HP: 45
 ### Abilities
+Dueling: +2 in damage rolls when one-handed
+Rite of the Flame: when activated, deal 1d6 extra fire damage
+extra attack: 2 attacks per turn
+
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
- some strikes and such idk
+ Rapier
+Longbow
+
  
 -----
 # Diviner
