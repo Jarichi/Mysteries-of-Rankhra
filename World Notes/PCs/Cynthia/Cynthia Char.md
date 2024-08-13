@@ -47,7 +47,7 @@ we will rule that the stats and abilities and such are the base level 3 stats th
 level 14 warlock, raveb wueen patron
 might be scaled down if it proves to be too powerful
 
-
+10 12 14 12 14 20
 #### Marilyn (fake persona)
 [Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
 HP: 27 ish
