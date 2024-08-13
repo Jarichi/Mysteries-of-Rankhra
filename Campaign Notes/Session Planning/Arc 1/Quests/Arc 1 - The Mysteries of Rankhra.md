@@ -172,7 +172,9 @@ might experiment with letting some events happen in the background and rolling s
 - Roll history and reveal that one of the symbols was seen on the temple walls.
 
 - The party travels back to the city and receive a message from Verdant telling them to stop by the research group because he wants to add another trusted companion.
-	- Twan recognises her as being a part of the research group, even before he joined. also gives 
+	- Twan recognises her as being a part of the research group, even before he joined. also gives the party an immediate reason to trust her.
+		- the party may share their current progress with Verdant if they so choose, or not lmao
+	- verdanty might suggest the party to go explore the city and visit some shops to probe for more information
 	- In the city, they are given a small preview sample of a newspaper distributing the following stories:
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
