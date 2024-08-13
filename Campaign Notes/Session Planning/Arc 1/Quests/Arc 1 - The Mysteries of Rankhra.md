@@ -1,4 +1,5 @@
-#hidden
+#story
+
 This document will contain details and summaries of the planned action happening in the first arc.
 ## Session 1
 - meeting the party
@@ -176,12 +177,12 @@ might experiment with letting some events happen in the background and rolling s
 		- the party may share their current progress with Verdant if they so choose, or not lmao
 	- verdant might suggest the party to go explore the city and visit some shops to probe for more information.
 	
-	- In the city, they are given a small preview sample of a newspaper distributing the following stories:
+	- when they enter the city, they are given a small preview sample of a newspaper distributing the following stories:
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
 			- article commissioned by an old potion shop owner who sells generic potions for some value.
-		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
+		- Biologist [[Cedar Zendikar]]: "Although there are certainly some issues, the Auroch population is finally on the rise." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.

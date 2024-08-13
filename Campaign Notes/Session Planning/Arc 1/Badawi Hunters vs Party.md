@@ -22,8 +22,8 @@ extra attack: 2 attacks per turn
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
- Rapier (1d8 piercing)
-Longbow (1d8 piercing)
+ Rapier (1d8 piercing), +2
+Longbow (1d8 piercing), +2
 
  
 -----
@@ -56,7 +56,7 @@ spell slots: I(4), II(3), III(2)
 # [Spellcaster](https://www.aidedd.org/dnd/monstres.php?vo=mage)
 generic cr2 spellcaster, but nerfed to keep it fun
 
-HP: 40
+HP: 30
 AC: 13/16
 
 ### Statblock
