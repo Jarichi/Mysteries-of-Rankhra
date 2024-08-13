@@ -67,7 +67,7 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-[[Gentle Death]], [[Rubae OR m]], [[Salina]]
+[[Gentle Death]], [[Marilyne]], [[Salina]]
 
 SESSION RECAP
 

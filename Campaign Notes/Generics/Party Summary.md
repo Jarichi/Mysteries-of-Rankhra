@@ -34,7 +34,7 @@ Ratronus
 
 - 325gp
 
-Rubae
+Madelyne
 
 - 375gp
 

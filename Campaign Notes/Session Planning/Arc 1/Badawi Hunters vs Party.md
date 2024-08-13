@@ -22,8 +22,8 @@ extra attack: 2 attacks per turn
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
- Rapier
-Longbow
+ Rapier (1d8 piercing)
+Longbow (1d8 piercing)
 
  
 -----
@@ -52,13 +52,22 @@ CANTRIPS: vicious mockery, true strike
 
 spell slots: I(4), II(3), III(2)
 
-# Healer
-CR 1/2 healer
-
 ---
+# [Spellcaster](https://www.aidedd.org/dnd/monstres.php?vo=mage)
+generic cr2 spellcaster, but nerfed to keep it fun
+
+HP: 40
+AC: 13/16
+
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-|                                                                        |                                                                          |                                                                                |                                                                                |                                                                    |                                                                        |
-.
+| 9 (-1)                                                                 | 14 (+2)                                                                  | 11                                                                             | 17 (+3)                                                                        | 12 (+1)                                                            | 11                                                                     |
+saving throws int +6 wis +3
++6 to hit with spells
+spell save dc is 14
 
+
+cantrips: fire bolt
+1st level: magic missile, mage armor
+2nd level: misty step
