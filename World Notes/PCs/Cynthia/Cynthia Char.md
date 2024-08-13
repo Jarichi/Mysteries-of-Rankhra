@@ -41,7 +41,7 @@ considering her health pool is extremely high comparred to the rest, we can say 
 	some sort of bs story that tells that she gets revived by her patron as a punishment for her deeds, eternal suffering idk
 		we need to come up with a better idea eventually...
 
-
+we will rule that the stats and abilities and such are the base level 3 stats that scale with the party, and only when cynthia activates her max level for some reason, the stats 
 #### Marilyn
 [Ixalan Vampire](http://dnd5e.wikidot.com/lineage:vampire)
 level 14 warlock, raveb wueen patron
@@ -50,4 +50,4 @@ might be scaled down if it proves to be too powerful
 
 #### Marilyn (fake persona)
 [Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
-HP: 
+HP: 27 ish
