@@ -37,7 +37,14 @@ proficiencies: deception, insight, history, religion
 HP: 40
 ### Abilities
 Cutting words: subtract bardic inspiration roll from d20 roll
+CANTRIPS: vicious mockery, true strike
+1st lvl: Cure Wounds, Healing Word, 
+2nd lvl: CLoud of Daggers, Enhance Ability, 
+3rd lvl:
 Healing word
+
+spell slots: I(4), II(3), III(2)
+
 # Healer
 CR 1/2 healer
 
