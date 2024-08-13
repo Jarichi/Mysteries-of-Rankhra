@@ -171,8 +171,8 @@ might experiment with letting some events happen in the background and rolling s
 - After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 - Roll history and reveal that one of the symbols was seen on the temple walls.
 
-	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
-		- Cook with her in VC what she thinks is most appropriate 
+- The party travels back to the city and receive a message from Verdant telling them to stop by the research group because he wants to add another trusted companion.
+	- Twan recognises her as being a part of the research group, even before he joined. also gives 
 	- In the city, they are given a small preview sample of a newspaper distributing the following stories:
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
