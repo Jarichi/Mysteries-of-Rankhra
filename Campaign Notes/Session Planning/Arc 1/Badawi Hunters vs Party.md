@@ -31,9 +31,13 @@ level 5 Lore bard, halfling
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8   | 14  | 12  | 11  | 15  | 15  |
+prof +3 initiative +2
+proficiencies: deception, insight, history, religion
 
+HP: 40
 ### Abilities
-
+Cutting words: subtract bardic inspiration roll from d20 roll
+Healing word
 # Healer
 CR 1/2 healer
 
