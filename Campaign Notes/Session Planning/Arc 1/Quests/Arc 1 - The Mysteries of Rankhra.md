@@ -182,7 +182,7 @@ might experiment with letting some events happen in the background and rolling s
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
 			- article commissioned by an old potion shop owner who sells generic potions for some value.
-		- Biologist [[Cedar Zendikar]]: "Although there are certainly some issues, the Auroch population is finally on the rise." (Wip)
+		- Biologist [[Cedar Zendikar]]: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.
