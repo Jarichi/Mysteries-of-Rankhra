@@ -15,4 +15,10 @@ she went to a city and learnt about a vampire meeting, and needs to kill a girl 
 
 Elena (mother) instructed her as a vampre to kill the vampre lord and the maiden
 
-the girl is an elf and love each other, but she needed ot be killed by 
+the girl is an elf and love each other, but she needed ot be killed by Marilyne.
+her mom only said to kill her but Mari also drank her blood and took her virginity (concentual), and her mother removed her memory.
+After the amnesia ended, she faked her own death and started living as a moon elf fae thing
+
+marilyn has lived decades with the original concept of reflection guardian quest (redemption arc quest by the gods, to forgive her of what she had done and got punished for by her mother).
+
+party will get a quest to go to the reflection pond and such, and 
