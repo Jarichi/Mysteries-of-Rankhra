@@ -22,3 +22,16 @@ After the amnesia ended, she faked her own death and started living as a moon el
 marilyn has lived decades with the original concept of reflection guardian quest (redemption arc quest by the gods, to forgive her of what she had done and got punished for by her mother).
 
 party will get a quest to go to the reflection pond and such, and 
+
+
+
+statblock for marilyn herself as vampire 
+
+
+## Stats
+#### Marilyn
+[Ixalan Vampire](http://dnd5e.wikidot.com/lineage:vampire)
+
+#### Marilyn (fake persona)
+[Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
+
