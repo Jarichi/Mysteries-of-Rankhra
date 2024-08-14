@@ -497,5 +497,11 @@ thug2: 3
 
 5 dmg thug 1 = 30 hp
 **start**
+chron
 summon beast bear 1:
-
+wild shape
+beast hits thug 1 for 11 dmg = 19 hp
+bandit 3 misses
+thug 1 rolls 9 dmg on chron = 25
+aki longsword thug 1 8+7=15 = 4 hp (now overruled as +5 hp) so 9 hp
+hunter musket 
