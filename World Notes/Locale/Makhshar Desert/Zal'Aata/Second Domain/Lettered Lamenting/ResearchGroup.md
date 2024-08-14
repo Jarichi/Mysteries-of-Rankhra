@@ -22,3 +22,4 @@ Members of the group are entitled to a variable pay based on mission difficulty,
 
 # Political landscape
 Since Rankhradventurers is a relatively new group, but with a relatively influential leader, they have a solid footing with regards to the rest of Zal'Aata. However, due to their leader, they are also discreetly being investigated by the [[F.I.Z.]]. 
+## Rivals

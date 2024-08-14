@@ -2,7 +2,7 @@
 wood elf druid circle of the moon
 he is albino, white skin and green eyes, copper hair colour. has the texture of a tree though (birch tree)
 the thing that differss hiom is hid colour
-180, 65kg, age: 480-500 years old
+180, 65kg, age: somethinh
 
 
 backstory:

@@ -258,7 +258,6 @@ Verdant tells the party about his hypothesis that everyone has some connections 
 
 verdant explains the new mission
 	Gather info about Rankhra 
-	(I did not specify a gold pieces amount for some reason and I forgot...)
 
 
 rat and hunter ask about semyon
@@ -353,4 +352,3 @@ Beginning of next session will be mainly exploration of the city and speaking wi
 Also introduces a different way of getting missions by means of the city billboard and newspaper, so the party is ultimately reporting to Verdant but not dependent on him to get missions.
 
 ---
-## Session 3

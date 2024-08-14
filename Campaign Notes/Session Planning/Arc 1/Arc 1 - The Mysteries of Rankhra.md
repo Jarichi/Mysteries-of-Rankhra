@@ -1,5 +1,4 @@
-#story
-
+#hidden
 This document will contain details and summaries of the planned action happening in the first arc.
 ## Session 1
 - meeting the party
@@ -68,7 +67,7 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-[[Gentle Death]], [[Marilyne]], [[Salina]]
+[[Gentle Death]], [[Rubae]], [[Salina]]
 
 SESSION RECAP
 
@@ -172,56 +171,41 @@ might experiment with letting some events happen in the background and rolling s
 - After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 - Roll history and reveal that one of the symbols was seen on the temple walls.
 
-- The party travels back to the city and receive a message from Verdant telling them to stop by the research group because he wants to add another trusted companion.
-	- Twan recognises her as being a part of the research group, even before he joined. also gives the party an immediate reason to trust her.
-		- the party may share their current progress with Verdant if they so choose, or not lmao
-	- verdant might suggest the party to go explore the city and visit some shops to probe for more information.
-	
-	- when they enter the city, they are given a small preview sample of a newspaper distributing the following stories:
+	- when this concludes, they return to the city and meet Cynthia, who will lead them to the city and travels with the party.
+		- Cook with her in VC what she thinks is most appropriate 
+	- In the city, they are given a small preview sample of a newspaper distributing the following stories:
 		- BREAKING: Temple allegedly appeared in Makhshar Desert. Here are the facts.
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
-			- article commissioned by an old potion shop owner who sells generic potions for some value.
-		- Biologist [[Cedar Zendikar]]: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
+		- Biologist [[Cedar Zendikar]]: "After a period of lower births, the auroch population is rising at last." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
+		- 
 
-Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.
-
+Free choice whether they visit Verdant to inform them on the current situation or explore more of the city
 - City POIs are
-	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
-		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
-	- [[Distribution Center|newspaper agency]] (2nd domain)
-		- Populated by Raphaella Sophronia Galani
-			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
-	- [[Potion Merchant|Potion Store]] in first domain, selling an array of standard potions and such
-		- questgiver for bandit mission (SIDEQUEST)
-			- The owner, Benson is a slightly unhinged, bitter shopkeeper with a disdain for the change of population that has recently entered the city. He runs *'Benson's Brews'.* and is a Halfling.
-			- He will note that since the increase of traders and merchants, visitors of the city have been robbed by an aggressive group of bandits when they leave the city. This group is making use of the nocturnal lifestyle of the city and the non-nocturnal lifestyle of visitors to commit crime.
-			- Will ask if the party helps him and rewards the party for their efforts. [[A1 SQ1 - In 'Brewed' Daylight]] for further notes.
-	- [[Relic Merchant|Artifact and relic store]] in second domain
-		- questgiver for Hunter tribe (STORY QUEST)
-		- ran by former Badawi tribe member, Shiv, full name Parshiv. He is a regular ahh human
-			- Same guy as the one who was at the temple and who teld the party about Janib'Rankhra
-			- Explores sites of interest and the general area around the desert and around Cornucopia streak together with his assistant, looking for ancient relics
-			- Sells relics of varying degrees of importance. He sells a Badawi statue, a finely decorated mirror which shows a slightly warped reflection of oneself, and other concept-related artifacts.
-			- Knows mostly about the background information of the Badawi statue (ehich gets recognised by the party btw)
-			- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
-	- Shoka Engineering Collective in Centroscopia (allowed in the waiting room but seeing NPCs who have been waiting for literal days). They will not be allowed entry into the building.
-
+	- Magic school (inaccessible due to lessons)
+	- newspaper agency (can tell them about the Comets (ahh forgot what we talked about...))
+	- questgiver for bandit mission (second)
+	- story questgiver for Hunter tribe (first)
+		- 
+	- shops and stores
+	- Shoka Engineering Collective (allowed in the waiting room but seeing NPCs who have been waiting for literal days).
+- in the city (second Domain), they will eventually meet up with a certain vendor (who may have been a member of the hunter tribe, doesn't remember it tho). This vendor has artifacts relating to the Hunter tribe and Concepts, and will tell the party about a legend of a Hunter tribe wandering around the desert and foreshadow the concept of exploration.
+- Hunter rolls for insight, gets a VERY strong feeling that the party must go there.
 
 **Travel**
-When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat. [[Party vs Monsters]]
+When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat.
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
-If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]
+The goal of this part is to deepen Hunter's lore and introducing a Concept of Creation. 
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
 - After resting, they are offered to either leave immediately or prove themselves to be worthy to enter
-- ensue combat [[Badawi Hunters vs Party]]
+- ensue combat
 	
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
