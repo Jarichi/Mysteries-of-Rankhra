@@ -16,7 +16,7 @@ Chron
 - Bear DPS multiattack really high
 - OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
 
-- 225gp
+- 525gp
 
 Hunter
 - 29 HP, 14 AC
@@ -25,7 +25,7 @@ Hunter
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 425gp
+- 525gp
 
 Ratronus
 - 23 HP, 12 AC
@@ -35,6 +35,8 @@ Ratronus
 - 520gp
 
 Madelyne
+21hp 13 AC
+warlock with fuckery
 
 - 500gp
 

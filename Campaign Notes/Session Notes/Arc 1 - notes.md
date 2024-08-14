@@ -354,3 +354,4 @@ Also introduces a different way of getting missions by means of the city billboa
 
 ---
 ## Session 3
+description was not accurately provided but ok
