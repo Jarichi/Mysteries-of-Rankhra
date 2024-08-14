@@ -521,3 +521,17 @@ ratronus puppet on bandit 1, aki opportunity bandit 15 - 7, mari kills his ass
 thug 2: want sot walk away and gets hold person'ed by mari
 
 chrone: walks away gets hit thug 2 does 8 dmg = 4hp
+	readies for grappling on escape
+
+bandit 3: hits chrone for 10 dmg, wild shape gone, 15 hp remainnig
+thug misses completely lmaoo
+aki melee attack on almost dead thug for 6, dies
+hunter hits and kills him (to end combat lmao)
+
+--end session
+
+---
+### Session notes
+- quite happy!!
+- cynthia roleplays well and everyone is getting into it
+- combat is preferred
