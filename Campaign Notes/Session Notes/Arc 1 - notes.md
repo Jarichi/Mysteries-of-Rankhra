@@ -504,4 +504,8 @@ beast hits thug 1 for 11 dmg = 19 hp
 bandit 3 misses
 thug 1 rolls 9 dmg on chron = 25
 aki longsword thug 1 8+7=15 = 4 hp (now overruled as +5 hp) so 9 hp
-hunter musket 
+hunter musket bandit 2 for 6 dmg = 19 hp
+mari toll the dead thug 1 6 necro = 3 hp :3
+ andid takes shopkeeper hostage
+ 
+
