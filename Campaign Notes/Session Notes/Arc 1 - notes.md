@@ -380,3 +380,11 @@ aki buys beer
 ratcasts message to aki and orders 2 beer
 
 aki taps beer, 5 beer
+
+aki gets 1 inspiration
+
+rat sits next to marilyne and introduces himself as ratronus
+	no fake id
+
+long rest
+
