@@ -368,3 +368,15 @@ hading back to the city
 
 they get the message and only chron sees the falling starts
 
+verdant heads out of his office afdter the party gets back into the tavern, and cyhtia is introduced by him
+
+chron recognises her and interaction
+	chron has not directly worked woith her
+
+aki buys beer
+	no barkeeper so she decidedc to climb across the bar and make herself a beer
+
+
+ratcasts message to aki and orders 2 beer
+
+aki taps beer, 5 beer
