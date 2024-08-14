@@ -460,3 +460,15 @@ they flee the artifact store
 
 they are lucky, shiv won't call the guards but he will be more hesitant to help them
 
+go to the potion store
+
+possible ambush warning
+
+they arrive at the potion store
+
+i will now be improvising some combat scenery
+	potion store will be ambushed and kinda fucked up, benson is unconscious outside of the counter
+	if the party inspects the shop further, they are lead into an ambush and impromptu combat
+	if the party instantly leaves they are ambused outside of the store.
+
+consists of 3 bandits and 1 thug
