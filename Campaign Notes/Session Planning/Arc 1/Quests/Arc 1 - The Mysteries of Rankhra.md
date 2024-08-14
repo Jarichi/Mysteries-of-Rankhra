@@ -172,6 +172,7 @@ might experiment with letting some events happen in the background and rolling s
 - After reading the sentence, the symbols and gems  flicker once. When certain people het close, their corresponding gem lights up.
 - Roll history and reveal that one of the symbols was seen on the temple walls.
 
+
 - The party travels back to the city and receive a message from Verdant telling them to stop by the research group because he wants to add another trusted companion.
 	- Twan recognises her as being a part of the research group, even before he joined. also gives the party an immediate reason to trust her.
 		- the party may share their current progress with Verdant if they so choose, or not lmao

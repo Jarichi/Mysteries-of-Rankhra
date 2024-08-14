@@ -360,3 +360,11 @@ the door opens and everyone rolls perceipton
 mural
 
 the specific symbol for Chrone and Rat are recognised, both by chrone. Chrone thinks the symbols are liked to the gemstones.
+1st = exploration, 2nd = growth, 3rd = flow, 7th = whimsy
+
+they try to claw out the gems but ofc nothing happens
+
+hading back to the city
+
+they get the message and only chron sees the falling starts
+
