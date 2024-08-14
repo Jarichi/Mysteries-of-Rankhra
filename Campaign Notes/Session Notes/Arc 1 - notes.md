@@ -507,5 +507,10 @@ aki longsword thug 1 8+7=15 = 4 hp (now overruled as +5 hp) so 9 hp
 hunter musket bandit 2 for 6 dmg = 19 hp
 mari toll the dead thug 1 6 necro = 3 hp :3
  andid takes shopkeeper hostage
- 
+ thug 2 hits but gets intercepted by ai >:(
+
+chron waks aways: opportunity atk 11 dmh on chron = 14 hp
+	walks to thug 2 and attacks for 9*2=18* dmg = 17hp
+bandid 3 is now thug 3: hits chron for 2 dmg = 12 hp
+thug 1: 
 
