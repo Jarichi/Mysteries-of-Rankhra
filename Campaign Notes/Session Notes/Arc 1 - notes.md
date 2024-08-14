@@ -452,3 +452,11 @@ rat steals theives tools
 	he leaves btw
 chron asks aboty the thieves tools amount
 
+spell save dc = 15
+
+minor illusion to distract shiv
+	works!!!!! they get away 
+they flee the artifact store
+
+they are lucky, shiv won't call the guards but he will be more hesitant to help them
+
