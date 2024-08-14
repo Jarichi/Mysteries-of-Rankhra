@@ -393,3 +393,22 @@ aki fell asleep on the bar, marylin snuck away unseen (perception 4 by me :/), h
 salazar yapps, aki sees thrugh it
 
 they are bullying salazar
+
+	salazar will think of a funny story that also contains the party members
+
+salazar gets called out but telas is in on it
+
+they receive a news pamphlet
+
+benson R - racist
+	potion store
+
+shiv
+	artifact shop
+
+comet courier
+
+aki spills the beans
+	rat calls her stupid
+
+locations are revealed
