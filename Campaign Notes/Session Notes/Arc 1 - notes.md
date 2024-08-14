@@ -512,5 +512,8 @@ mari toll the dead thug 1 6 necro = 3 hp :3
 chron waks aways: opportunity atk 11 dmh on chron = 14 hp
 	walks to thug 2 and attacks for 9*2=18* dmg = 17hp
 bandid 3 is now thug 3: hits chron for 2 dmg = 12 hp
-thug 1: 
-
+thug 1: misses chrone and hides under table 3/4 cover
+aki: snactuary on hostage, hostage now has 
+hunter shoots at bandit, 12dmg = 7 hp, action surge misses SILVERY BARBS hits 4 dmg = 3 hp
+mari: toll dead misses
+ratronus puppet on bandit 1, aki opportunity bandit 25-7
