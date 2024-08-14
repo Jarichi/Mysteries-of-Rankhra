@@ -433,3 +433,9 @@ slight forshadowing for concept of reflection
 has to do wirh her hazy backstory
 divine magic
 
+marilyn buys the mirror -200 gp
+
+hunter buys the owlcat -100 gp
+
+tells legend of the owlcat
+
