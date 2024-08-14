@@ -472,3 +472,17 @@ i will now be improvising some combat scenery
 	if the party instantly leaves they are ambused outside of the store.
 
 consists of 3 bandits and 1 thug
+
+ratronus gets a healing potion
+hunter also gets one
+
+combat ensues
+
+thug gets shot by daan, 2+3 dmg
+
+chrone 18
+aki: 15
+hunter 10
+mari: 9
+rat 6
+
