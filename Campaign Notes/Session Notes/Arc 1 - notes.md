@@ -490,7 +490,6 @@ aki: 15
 hunter 10
 mari 9
 rat 6
-bandit 1 6
 thug2: 3
 
 #### Combat
@@ -516,4 +515,9 @@ thug 1: misses chrone and hides under table 3/4 cover
 aki: snactuary on hostage, hostage now has 
 hunter shoots at bandit, 12dmg = 7 hp, action surge misses SILVERY BARBS hits 4 dmg = 3 hp
 mari: toll dead misses
-ratronus puppet on bandit 1, aki opportunity bandit 25-7
+ratronus puppet on bandit 1, aki opportunity bandit 15 - 7, mari kills his ass
+	kills: unsheat rapier and slashes his guts out, he fucking diesssss
+
+thug 2: want sot walk away and gets hold person'ed by mari
+
+chrone: walks away gets hit thug 2 does 8 dmg = 4hp
