@@ -478,11 +478,24 @@ hunter also gets one
 
 combat ensues
 
-thug gets shot by daan, 2+3 dmg
+thug 1 gets shot by daan, 2+3 dmg has 30 dmg
+
+initiative combat
 
 chrone 18
+chron beast 18
+bandit 3 18
+thug 1: 16
 aki: 15
 hunter 10
-mari: 9
+mari 9
 rat 6
+bandit 1 6
+thug2: 3
+
+#### Combat
+
+5 dmg thug 1 = 30 hp
+**start**
+summon beast bear 1:
 
