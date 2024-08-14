@@ -355,3 +355,8 @@ Also introduces a different way of getting missions by means of the city billboa
 ---
 ## Session 3
 description was not accurately provided but ok
+
+the door opens and everyone rolls perceipton
+mural
+
+the specific symbol for Chrone and Rat are recognised, both by chrone. Chrone thinks the symbols are liked to the gemstones.
