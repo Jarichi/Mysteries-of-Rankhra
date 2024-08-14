@@ -16,7 +16,7 @@ Chron
 - Bear DPS multiattack really high
 - OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
 
-- 325gp
+- 225gp
 
 Hunter
 - 29 HP, 14 AC
@@ -32,11 +32,11 @@ Ratronus
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-- 325gp
+- 520gp
 
 Madelyne
 
-- 375gp
+- 500gp
 
 
 AVERAGE AC: 55/4 ≈ 13, median 13
