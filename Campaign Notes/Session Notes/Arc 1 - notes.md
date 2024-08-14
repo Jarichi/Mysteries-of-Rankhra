@@ -419,4 +419,17 @@ thye head towards the artifact ship
 ratronus decides to swin into the river
 	mari casst presti to dty nher shoes
 
-enter the artifact s
+enter the artifact store, perception rolls are very high
+
+hunter knows that shiv is back there
+
+maryline introduces herself
+
+rat introduces himself as jonathan
+
+marilyn nat 20 arcana for the mirror of perspective
+
+slight forshadowing for concept of reflection
+has to do wirh her hazy backstory
+divine magic
+
