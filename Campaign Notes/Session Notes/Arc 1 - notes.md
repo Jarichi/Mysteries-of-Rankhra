@@ -401,10 +401,10 @@ salazar gets called out but telas is in on it
 they receive a news pamphlet
 
 benson R - racist
-	potion store
+	potion store (gravely voice)
 
 shiv
-	artifact shop
+	artifact shop (silly high voice)
 
 comet courier
 
@@ -442,4 +442,6 @@ tells legend of the owlcat
 hsiv promises a magic item and 300gp if the party gives information about this hunter group.
 
 FOR CLARIFICATION: Verdant's main story quest (find infoo about the temple) can give more rewards even when this is partially completed
+
+ratronus buys thieves tools -24gp
 
