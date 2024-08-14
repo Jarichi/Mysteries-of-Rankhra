@@ -445,3 +445,10 @@ FOR CLARIFICATION: Verdant's main story quest (find infoo about the temple) can 
 
 ratronus buys thieves tools -24gp
 
+shiv talks about aurochs
+	hunter and marylin confirm
+
+rat steals theives tools
+	he leaves btw
+chron asks aboty the thieves tools amount
+
