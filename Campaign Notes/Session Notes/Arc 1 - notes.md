@@ -386,5 +386,10 @@ aki gets 1 inspiration
 rat sits next to marilyne and introduces himself as ratronus
 	no fake id
 
-long rest
+drinking party and long rest
 
+aki fell asleep on the bar, marylin snuck away unseen (perception 4 by me :/), hunter rat and chron to their room
+
+salazar yapps, aki sees thrugh it
+
+they are bullying salazar
