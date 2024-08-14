@@ -411,4 +411,12 @@ comet courier
 aki spills the beans
 	rat calls her stupid
 
-locations are revealed
+locations are revealed and they may head to the temple
+	drew a quick mqp
+
+thye head towards the artifact ship
+
+ratronus decides to swin into the river
+	mari casst presti to dty nher shoes
+
+enter the artifact s
