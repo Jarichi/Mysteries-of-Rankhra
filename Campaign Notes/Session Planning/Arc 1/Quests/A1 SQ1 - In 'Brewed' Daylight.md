@@ -8,3 +8,7 @@ Benson blames the crimes on the recent socioeconomic developments within the cit
 - Benson points the party to a last-seen location and recommends them to go there during the day. where they will see some merchants get ambushed and attacked by a group of simple bandits. Ensue either combat or letting them flee and follow them to their hideout.
 	- If combat, kill kill kill and when the bandit sees all of his friends die, he will plead and offer the party to the hideout.
 	- if no combat, the party follows the bandits to their hideout.
+
+
+
+shopkeeper was ambushed and he will now tell the party about the stuff
