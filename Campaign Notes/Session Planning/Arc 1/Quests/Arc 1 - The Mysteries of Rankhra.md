@@ -211,11 +211,11 @@ Free choice whether they visit Verdant to inform them on the current situation o
 
 
 **Travel**
-When the party leaves the city and heads to a direction, they run into a.pack of 5 wild desert Aurochs. Ensue combat. [[Party vs Monsters]]
+When the party leaves the city and heads to a direction, they run into a pack of 9 wild desert Aurochs, split in groups of 3. Ensue combat. [[Party vs Monsters]]
 
-If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining swines and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
+If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining Aurochs and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
-If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether
+If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether.
 
 [[concept of exploration]], [[Bahath Animal Guide]]
 ###### [[Badawi Hunter Tribe]]

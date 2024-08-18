@@ -4,11 +4,10 @@ Recently, more organised crime appeared to be developing in and around the city.
 Benson blames the crimes on the recent socioeconomic developments within the city, but is this the real reason...?
 
 ## Planning
-- After explaining what is going on, Benson offers the party 500gp if they solve the bandit robberies.
-- Benson points the party to a last-seen location and recommends them to go there during the day. where they will see some merchants get ambushed and attacked by a group of simple bandits. Ensue either combat or letting them flee and follow them to their hideout.
-	- If combat, kill kill kill and when the bandit sees all of his friends die, he will plead and offer the party to the hideout.
-	- if no combat, the party follows the bandits to their hideout.
+- Benson's store got ambushed by a group of bandits. As far as the bandits know, they have been directed by someone else in the shadows to attack the party. This could either be Semyon, a powerful person, or an attempt of a different city to undermine the trading stance of Zal'Aata...
+	- Maybe some sort of smuggling ring to an unknown place that got found out by Benson, or simply an aggravated attack for no reason.
+- After combat encounter, Benson got rescued and will tell the party that he didn't mean to publish the news article to instigate hate (probably gets called out on it tho).
+- Benson will offer the party 500gp if they solve the robberies.
+- Benson informs the party that the best time is during the day, since the general public is asleep and merchants from other kingdoms arrive.
 
-
-
-shopkeeper was ambushed and he will now tell the party about the stuff
+- during the day, the party may choose to engage combat or simply spy on the ambushers.

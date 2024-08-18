@@ -54,7 +54,6 @@ spell slots: I(4), II(3), III(2)
 
 ---
 # [Spellcaster](https://www.aidedd.org/dnd/monstres.php?vo=mage)
-generic cr2 spellcaster, but nerfed to keep it fun
 
 HP: 30
 AC: 13/16
@@ -69,5 +68,9 @@ spell save dc is 14
 
 
 cantrips: fire bolt
-1st level: magic missile, mage armor
-2nd level: misty step
+1st level: magic missile, mage armor X X X X
+2nd level: misty step X X
+3rd level:  X
+
+---
+# Druid
