@@ -210,6 +210,9 @@ Free choice whether they visit Verdant to inform them on the current situation o
 	- Shoka Engineering Collective in Centroscopia (allowed in the waiting room but seeing NPCs who have been waiting for literal days). They will not be allowed entry into the building.
 
 
+---
+## Session 4
+
 **Travel**
 When the party leaves the city and heads to a direction, they run into a pack of 9 wild desert Aurochs, split in groups of 3. Ensue combat. [[Party vs Monsters]]
 
@@ -221,7 +224,9 @@ If the party ends up not attacking the creatures and an animal handling commence
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
+	- The party may decide wether they want to rest during the day and fight the tribe during the night (moonbeam and star form are active), or immediately fight them during the day (no moonbeam or star form)
 - After resting, they are offered to either leave immediately or prove themselves to be worthy to enter
+- 
 - ensue combat [[Badawi Hunters vs Party]]
 	
 - Roleplaying-heavy
@@ -232,9 +237,9 @@ If the party ends up not attacking the creatures and an animal handling commence
 			- 3+ main NPCs can provide information
 				- Nomad 1 knows information about the origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
 					- Name: Knower
-				- Nomad 2 knows information about the current status of the tribe. They never leave the tribe at all and don't have any connections with the city. -> Shifty, secretive, mysterious
+				- Nomad 2 knows information about the current status of the tribe. She never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
 					- Name: Bleeder
-				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
+				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
 					- Name: Diviner
 				- Nomad 4 knows information about myths and legends of the tribe
 					- Name: Teller
@@ -243,8 +248,15 @@ If the party ends up not attacking the creatures and an animal handling commence
 	- One unique store that sells rare items
 		- Splint: increases armor AC by 2, can be applied. 5000 gp
 		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
-		- Uncommon whip: 1d4+1+1, finesse weapon with 10ft reach., 500gp
+		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
+		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
 
+
+- when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
+- Speaking to the Badawi without speak with animals just yields adorable owlcat noises.
+- Eventually, the Badawi decides to make mental contact with someone in the party and accesses their memory (might do this with cynthia muhehehe). Also goves them an opportunity to access Badawi's memory.
+	- Badawi speaks like that one owl from avatar
+- 
 
 	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.

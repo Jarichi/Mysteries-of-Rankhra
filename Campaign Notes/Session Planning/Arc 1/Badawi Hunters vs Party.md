@@ -4,16 +4,17 @@ Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. half orc
 
 As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 
-### Statblock
+Frontliner
+### [Statblock](https://chicken-dinner.com/5e/5e-point-buy.html#halforc&disabled&14&15&8&10&15&8&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)
+
 | STR   | DEX   | CON  | INT   | WIS   | CHA  |
 | ----- | ----- | ---- | ----- | ----- | ---- |
-| 16 +3 | 15 +2 | 9 -1 | 15 +2 | 10 +0 | 8 -1 |
+| 16 +3 | 15 +2 | 9 -1 | 10 +0 | 15 +2 | 8 -1 |
 
 Prof: intimidation
 prof +3 initiative +2
 AC: 12
-
-HP: 45
+HP: 60
 ### Abilities
 Dueling: +2 in damage rolls when one-handed
 Rite of the Flame: when activated, deal 1d6 extra fire damage
@@ -22,7 +23,7 @@ extra attack: 2 attacks per turn
 Relentless endurance: Sturdy for DnD
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
- Rapier (1d8 piercing), +2
+Rapier (1d8 piercing), +2
 Longbow (1d8 piercing), +2
 
  
@@ -31,46 +32,87 @@ Longbow (1d8 piercing), +2
 Diviner supports the main damage dealers in their combat endeavours. They won't be doing any attacking themselves.
 
 level 5 Lore bard, halfling
+
+support
 ### [Statblock](https://chicken-dinner.com/5e/5e-point-buy.html#halfling&dragonmarkofhealing&8&12&12&11&14&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)
 
-
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-| 8   | 14  | 12  | 11  | 15  | 15  |
+| STR  | DEX   | CON  | INT   | WIS   | CHA   |
+| ---- | ----- | ---- | ----- | ----- | ----- |
+| 8 -1 | 14 +2 | 12+1 | 11 +0 | 15 +2 | 15 +2 |
 prof +3 initiative +2
+saving throws: dex +5 cha +5
 proficiencies: deception, insight, history, religion
 
-HP: 40
+HP: 45
+AC: 13
 ### Abilities
-Cutting words: subtract bardic inspiration (d8) roll from d20 roll
+Cutting words: subtract bardic inspiration (d8) roll from any d20 roll
 
 #### Attacks
 CANTRIPS: vicious mockery, true strike
 1st lvl: Cure Wounds, Healing Word, 
 2nd lvl: CLoud of Daggers, Enhance Ability, 
-3rd lvl: dispel magic
+3rd lvl: dispel magic, unearthly chorus
 
-spell slots: I(4), II(3), III(2)
+spell slots: 4-3-2
 
 ---
 # [Spellcaster](https://www.aidedd.org/dnd/monstres.php?vo=mage)
 
-HP: 30
+HP: 35
 AC: 13/16
 
+dps
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | 9 (-1)                                                                 | 14 (+2)                                                                  | 11                                                                             | 17 (+3)                                                                        | 12 (+1)                                                            | 11                                                                     |
+proficiency bonus +3 initiative +2
 saving throws int +6 wis +3
-+6 to hit with spells
-spell save dc is 14
+spell atk +6
+spell save 14
 
-
+### Abilities
+#### Attacks
 cantrips: fire bolt
-1st level: magic missile, mage armor X X X X
-2nd level: misty step X X
-3rd level:  X
+1st level: magic missile, mage armor
+2nd level: misty step
+3rd level:  none
+
+Spell slots: 4-3-3
 
 ---
 # Druid
+Literally a counter against Hunter to avoid him carrying the totality of combat.
+
+She is a moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she wound up by the Badawi Hunter tribe and joined them.
+Level 5 Stars druid, [owlin](https://dnd5e.wikidot.com/lineage:owlin), flex dps/support
+
+
+### [Statblock](https://chicken-dinner.com/5e/5e-point-buy.html#customrace&NA&8&14&14&10&15&10&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&5&4&4&6&4)
+
+| [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 8 -1                                                                   | 15 +2                                                                    | 14 +2                                                                          | 10 +0                                                                          | 17 +3                                                              | 10 +0                                                                  |
+HP: 50
+AC: 13
+
+proficiency bonus +3 initiative +2
+saving throws int +6 wis, +3 int
+spell atk +6
+spell save 14
+
+### Abilities
+**Starry form: archer:** game stats remain, as a bonus action I can make a ranged attack (dex+prof) and deals 1d8+3 damage. Lasts for 10 turns.
+**Flight:** If not wearing armor, I have a flying speed equal to my walking speed.
+Darkvision
+#### Attacks
+Quarterstaff 1d8. Attack bonus is wisdom+prof when casting shilleagh.
+
+cantrips: mending, shillelagh, 
+1st: Fog cloud
+2nd: moonbeam, summon beast (owl), 
+3rd: Revivify (if NPCs accidentally die)
+
+prepped spells: 8
+spell slots: 4-3-2
