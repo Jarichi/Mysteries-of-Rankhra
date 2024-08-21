@@ -528,6 +528,7 @@ thug misses completely lmaoo
 aki melee attack on almost dead thug for 6, dies
 hunter hits and kills him (to end combat lmao)
 
+session ends with the shopkeeper rescued and bandit captured
 --end session
 
 ---
@@ -535,3 +536,118 @@ hunter hits and kills him (to end combat lmao)
 - quite happy!!
 - cynthia roleplays well and everyone is getting into it
 - combat is preferred
+## Session 4
+levleing
+Rat: Str is 12 (+1)
+	extra spell, distort value
+	extra lvl1 spell slot
+	extra HP: +10
+Aki:
+	CHA is 18(+4)
+	Thunderous sminte => Searing smite
+	Shield of Faith
+	HP: +10
+Chrone:
+	Wild shape improvement: water shapes
+	WIS is 18(+4)
+	Cantrip: ??? cantrip, wants to keep it a surprise but it's probably the cool one
+	extra lvl 2 spell slot
+	lvl 2 spell: Beastsense (see thru beast)
+
+Hunter;
+	ST = 16 and CHA = 10
+	HP: +2 
+
+---
+short summary by twan
+
+aki goes to shopkeeper
+
+ratronus loots bandits and offers 80gp to all 
+mari gets +40, rest gets +20gp
+
+
+ask abouth the news article
+
+bandit is half tanned
+
+mari threatens the bandit
+	everything broken
+	mari rolled a dirty20 
+	bandits tell tnat they have been assigned by some 3rd partyty
+	ratronus wants to mark the bandit
+	we are now playing that Semyon can do memory altering magic and wiped the memory of who sent the letter
+they wanna hand the bandit to the authorities
+
+benson promises free potions
+
+eveyone leaves the shop
+
+the bandit follows cynthia as a dog
+
+arrive at polce station
+
+police officer is a clerk
+	elvish
+they hand in the bandit to the constables
+
+feywild traders sold a trinket to the poor constable
+
+bandit suddenly collapses due to marilyne
+
+they head out to the desert
+
+police station sends a message
+-1 hp to ratronus
+
+raven familiar, marilyne remembers that she has a raven familiar
+	corvus
+
+Aki goes to clothing store
+the rest goes to Hunter's Garage
+
+sells cloak of invisibility 
+
+party calls ratronus to maybe steal the cloak of invisibility 
+
+ratronus -125gp
+
+aki swaps chainmail armor and now has splint
+
+in the garage, shenanigans happen
+
+KAREN THE MANAGER responds
+
+enters the building in an overly dramatic fasion
+	she is a tiefling
+
+
+//long rest
+
+finally to the desert
+
+hunter sees the beasts heading towards the group and warns 
+
+shoots at one of the auroch
+
+2 aurochs
+auroch 1 (45-14=31hp)
+
+5 cows
+
+marilyne looks through the ravens and sees the aurochs but another dustcloud as well
+
+auroch keep sprinting on them
+
+31-7=24 by Ratronus
+
+AKI stops
+hunter gets double damage 
+KILLS ONE AUROCH
+
+-- end session
+
+---
+### Session Conclusion
+- I don;t really like improvising
+- didnt really think this was a succes and am slightly hating myself atm but thatll pass hopefully

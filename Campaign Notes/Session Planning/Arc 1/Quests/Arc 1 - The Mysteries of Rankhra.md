@@ -247,6 +247,10 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether.
 
 [[concept of exploration]], [[Bahath Animal Guide]]
+
+---
+
+## Session 5
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
