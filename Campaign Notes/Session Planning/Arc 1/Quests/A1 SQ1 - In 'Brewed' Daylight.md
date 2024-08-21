@@ -9,5 +9,9 @@ Benson blames the crimes on the recent socioeconomic developments within the cit
 - After combat encounter, Benson got rescued and will tell the party that he didn't mean to publish the news article to instigate hate (probably gets called out on it tho).
 - Benson will offer the party 500gp if they solve the robberies.
 - Benson informs the party that the best time is during the day, since the general public is asleep and merchants from other kingdoms arrive.
+- If party hides themselves near the city gates, they will see lots of tourists and perception is rolled. If Rat succeeds, he will see some merchants with certain discrepancies that indicate they are not only here to sell warres but may be here for a different purpose.
 
-- during the day, the party may choose to engage combat or simply spy on the ambushers.
+- If Aki succeeds, she sees some Feywild Merchants disguised in their human disguises, who are intending to sell Feywild commonalities to the masses.
+	- Wares would be Foxglove tea, which is advertised as a bitter tea that boosts "meetaphysical capabilities", but Aki knows this tea as being sweet and incresaing your perception and insight.
+		- 15gp for fey but 35gp for commoners.
+	- 

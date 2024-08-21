@@ -5,14 +5,10 @@ The tribe is not lead by anybody and exists as an anarchist body. It mainly take
 
 
 #### Origin Mythos
-The Badawi Hunter tribe originated from a select group of nomads, who, upon encountering a peculiar creature, decided to follow it and see where its nest lies. This creature, being the manifestation of the Concept of Exploration, has no true home. Instead, it keeps wandering the desert, exploring...
+The Badawi Hunters originated eons ago, when a small group of hunter colleagues got lost within the desert sands. They had almost given up their hope of survival when a small clearing in the desert storm appeared, with a small owlcat curiously looking at them, beckoning to follow it. The friends followed the owlcat - now named Badawi - and managed to get rescued from the sandstorm. Feeling like they were saved by a mystical being, the friends decided to swear an oath to the creature, binding their fates toit and deciding to go wherever this Badawi went.
 
 #### Actual Origin
-The hunter tribe used to be a small group of travelling merchants possessing curious artifacts. They parallel the enigmatic Feywild Merchants. After an unknown time, they decided to lay down their merchant duties, sell off all their wares and travel the desert. Nobody knows exactly why they decided to do this, however. (totally not a cop-out for me)
-
-The tribe does not know about any Concept ideas, however they know that they NEED to keep the animal alive.
-
-The tribe also contains a travelling merchant who sells potions at an increased price to visitors
+the Badawi Hunters were a small group of wandering merchants, who deicded to go venturing into the desert. Due to their insufficient preparation, they were totally surprised by a sudden desert storm. From this point on, the history parallels the myth, but in actuality, one of the merchants was very adamant on following the Badawi wherever it went. This merchant is nowadays called Wanderer, alluding to their previous past as a merchant.
 
 Basically, this tribe is very closed-off and not at all used to visitors. It's also kinda xenophobic hehehe
 

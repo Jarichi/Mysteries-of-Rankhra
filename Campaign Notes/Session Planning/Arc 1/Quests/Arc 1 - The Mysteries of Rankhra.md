@@ -251,24 +251,28 @@ If the party ends up not attacking the creatures and an animal handling commence
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent
 	- The party may decide wether they want to rest during the day and fight the tribe during the night (moonbeam and star form are active), or immediately fight them during the day (no moonbeam or star form)
-- After resting, they are offered to either leave immediately or prove themselves to be worthy to enter
-- 
+- After resting, they are offered to wander around the settlement, possibly gaining information and wares (at an increased prize) or prove themselves to be worthy to enter freely for a reduced price.
+	- Unworthy visitors are allowed to visit the store at an increased price and speak to NPCs with ties to the city.
+	- They are also allowed to speak to their combatans as an attempt to figure out what their roles are if they so please.
 - ensue combat [[Badawi Hunters vs Party]]
 	
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
 	- The eventual goal is to get infomration about the Concept of Exploration
+	
 		- Since there is no leadership, everyone knows bits and pieces.
 			- 3+ main NPCs can provide information
-				- Nomad 1 knows information about the origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
-					- Name: Knower
+				- Nomad 1 knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
+					- Name: Weaver (allowed to speak to)
 				- Nomad 2 knows information about the current status of the tribe. She never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
-					- Name: Bleeder
+					- Name: Bleeder (Allowed to speak to but won't say much)
 				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
-					- Name: Diviner
-				- Nomad 4 knows information about myths and legends of the tribe
+					- Name: Diviner (Allowed to speak to)
+				- Nomad 4 knows information about the mythical history of the tribe.
 					- Name: Teller
+				- Nomad 5 knows about the locale of the desert and what exactly is hidden within its dunes.
+					- Name: Wanderer (Won't say much at first unless party proves themselves)
 				Other NPCs will refer the party to other nomads
 		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
 	- One unique store that sells rare items
@@ -276,6 +280,11 @@ If the party ends up not attacking the creatures and an animal handling commence
 		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
 		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
 		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
+	- A different store that sells healing potions for a higher price and is allowed to travel with the tribe, however is not allowed entry because they failed their worthiness exam.
+		- HEaling potion: 80gp
+		- Potion of Inner Wilderness: When drinking as a druid, it activates your wild shape as if you activated it yourself. When drinking as a non-druid, it Increases your strenght ability score by 1d6 capped at 20 and reduces your intelligence by the same value capped at 4, for 4 turns/1 minute - costs 150 gp
+		- Potion of Shielding: Consuming this potion casts the shield spell on you, making you immune to magic missile and increasing your AC by 5. This happens for 3 turns - costs 200gp
+		- 
 
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).

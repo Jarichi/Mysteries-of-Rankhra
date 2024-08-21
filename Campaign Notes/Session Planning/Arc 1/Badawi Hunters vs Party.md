@@ -4,7 +4,7 @@ Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. half orc
 
 As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 
-Frontliner
+Frontliner, will be fighting with Aki and chrone possibly, adv against Hunter
 ### [Statblock](https://chicken-dinner.com/5e/5e-point-buy.html#halforc&disabled&14&15&8&10&15&8&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4)
 
 | STR   | DEX   | CON  | INT   | WIS   | CHA  |
@@ -57,12 +57,13 @@ CANTRIPS: vicious mockery, true strike
 spell slots: 4-3-2
 
 ---
-# [Spellcaster](https://www.aidedd.org/dnd/monstres.php?vo=mage)
+# [Weaver](https://www.aidedd.org/dnd/monstres.php?vo=mage)
 
 HP: 35
 AC: 13/16
 
-dps and soft counter against aki's 16 ac
+dps and soft counter against aki's 16 ac. They are a spellcaster specialised in Enchantment and Conjuration. They graduated from the Magic School in Zal'Aata and took up an offer to help the hunter tribe in their huntsmanship.
+
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
@@ -74,16 +75,16 @@ spell save 14
 
 ### Abilities
 #### Attacks
-cantrips: fire bolt
-1st level: magic missile, mage armor
-2nd level: misty step
+cantrips: fire bolt, Encode Thoughts
+1st level: magic missile, mage armor, Snare
+2nd level: misty step, Darkness
 3rd level:  none
 
 Spell slots: 4-3-3
 
 ---
-# Druid
-Literally a counter against Hunter to avoid him carrying the totality of combat.
+# Wanderer
+Counter against Chrone to avoid him carrying the totality of combat.
 
 She is a moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she wound up by the Badawi Hunter tribe and joined them.
 Level 5 Stars druid, [owlin](https://dnd5e.wikidot.com/lineage:owlin), flex dps/support
