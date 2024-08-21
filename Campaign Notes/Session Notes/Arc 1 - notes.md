@@ -439,7 +439,7 @@ hunter buys the owlcat -100 gp
 
 tells legend of the owlcat
 
-hsiv promises a magic item and 300gp if the party gives information about this hunter group.
+shiv promises a magic item and 300gp if the party gives information about this hunter group.
 
 FOR CLARIFICATION: Verdant's main story quest (find infoo about the temple) can give more rewards even when this is partially completed
 

@@ -212,8 +212,34 @@ Free choice whether they visit Verdant to inform them on the current situation o
 
 ---
 ## Session 4
+- party is finishing their things in the city
+	- this most likely means I have to improv Benson's dialogue and like give them a reward and such
+	- The motive for the bandits is that they have been sent by some other city to attempt to undermain Zal'Aata's wealth. The real reason is because Semyon (they/them cause changeling) is selling information about the Concepts that Verdant tells him about *to* this kingdom.
+	- Benson simply believes in racism/xenophobia
+- anyway
+After the party has finished their stuff, it's probably about 2 AM so time for them to explore the desert.
+If not, most likely some more city exploring.
+
 
 **Travel**
+
+- Desert bulletpoints
+	- Cold
+	- Dry
+	- Sand
+	- Silent
+	- Vast
+	- Oasis
+		- Humid
+		- Cool
+		- Fresh
+	- Auroch
+		- Musky
+		- Loud
+		- Danger/urgency
+- 
+- storytelling segment. Mention the coldness of the desert and the eerie silence. As the party moves along the desert, they spot an oasis. Hunter rolls nature if he remembers the oasis as belo-nging to the auroch feeding and sleeping place. He also remembers that auroch generally hunt near the end of the night to capitalise on exhausted creatures, and everybody may roll perception. If siccess, Ill give them time to prepare against the coming pack of auroch which appear to be fleeing from something (DC20) or running towards oasis (DC15).
+- After the storytelling segment, combat OR some other interaction.
 When the party leaves the city and heads to a direction, they run into a pack of 9 wild desert Aurochs, split in groups of 3. Ensue combat. [[Party vs Monsters]]
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining Aurochs and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
@@ -256,12 +282,12 @@ If the party ends up not attacking the creatures and an animal handling commence
 - Speaking to the Badawi without speak with animals just yields adorable owlcat noises.
 - Eventually, the Badawi decides to make mental contact with someone in the party and accesses their memory (might do this with cynthia muhehehe). Also goves them an opportunity to access Badawi's memory.
 	- Badawi speaks like that one owl from avatar
-- 
+	- I will give the members a single question that will be answered.
 
-	- Either Chron, who has been blessed by the Concept of Growth, Hunter, who is a part of the trobe and as such gets recognised and may speak with the concept
+	
 	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
 	- Its name is the Concept of Exploration, but it is better known as Bahath.
-	- bahath will speak about how the concepts are connected to the entire area and are more influencial than they seem. Everytrhing is based around the concepts. Rankhra is also based around the concepts (chron knows about this btw), however the concept of flow is special enough that in order to access it, you must have visited other concepts or have been blessed by the God of Creation  or something.
+	- bahath will speak about how the concepts are connected to the entire area and are more influencial than they seem. Everytrhing is based around the concepts. Rankhra is also based around the concepts (chron knows about this btw), however due to the sheer power that the conceptt of flow has, it was protected by a more powerful barrier.
 		- the story might build up towards a sort of journey. The concept of exploration mught speak about how the concept of flow needs something done to it or somthingm, to cause some better motibation to actually enter the temple in the context of the entire story.
 		- idk maybe the concept of flow seems to be mysteriously increasing in power and something must be done to balance it out, or the concept of flow is corrupting or changing in power and it needs to be destroyed, checked on, or sealed or whatever
 			- I do feel like it might be time for some more long term goals to be entered into the campaign, and might end the arc after this setup. I also need to make sure this is worded in a way that I can terminate it earlier just in case the campaign will not last several years or something.

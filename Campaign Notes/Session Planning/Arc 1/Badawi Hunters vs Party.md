@@ -13,7 +13,7 @@ Frontliner
 
 Prof: intimidation
 prof +3 initiative +2
-AC: 12
+AC: 11
 HP: 60
 ### Abilities
 Dueling: +2 in damage rolls when one-handed
@@ -62,7 +62,7 @@ spell slots: 4-3-2
 HP: 35
 AC: 13/16
 
-dps
+dps and soft counter against aki's 16 ac
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |

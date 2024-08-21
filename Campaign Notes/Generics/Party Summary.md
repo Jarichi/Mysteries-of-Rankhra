@@ -15,6 +15,7 @@ Chron
 - Melee Brown Bear avg 19 dmg withmultiattack
 - Bear DPS multiattack really high
 - OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
+- plenty of cool spells
 
 - 525gp
 
@@ -25,20 +26,20 @@ Hunter
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 525gp
+- 425gp
 
 Ratronus
 - 23 HP, 12 AC
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-- 520gp
+- 496gp
 
-Madelyne
+Marilyne
 21hp 13 AC
 warlock with fuckery
 
-- 500gp
+- 300gp
 
 
 AVERAGE AC: 55/4 ≈ 13, median 13
