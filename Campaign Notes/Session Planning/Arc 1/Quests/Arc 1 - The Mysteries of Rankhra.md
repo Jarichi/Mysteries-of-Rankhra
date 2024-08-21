@@ -284,7 +284,7 @@ If the party ends up not attacking the creatures and an animal handling commence
 		- HEaling potion: 80gp
 		- Potion of Inner Wilderness: When drinking as a druid, it activates your wild shape as if you activated it yourself. When drinking as a non-druid, it Increases your strenght ability score by 1d6 capped at 20 and reduces your intelligence by the same value capped at 4, for 4 turns/1 minute - costs 150 gp
 		- Potion of Shielding: Consuming this potion casts the shield spell on you, making you immune to magic missile and increasing your AC by 5. This happens for 3 turns - costs 200gp
-		- 
+		- Potion of Magic: doesn't exisit yet but you can reservate it because their supply
 
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).

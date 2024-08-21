@@ -9,9 +9,18 @@ Benson blames the crimes on the recent socioeconomic developments within the cit
 - After combat encounter, Benson got rescued and will tell the party that he didn't mean to publish the news article to instigate hate (probably gets called out on it tho).
 - Benson will offer the party 500gp if they solve the robberies.
 - Benson informs the party that the best time is during the day, since the general public is asleep and merchants from other kingdoms arrive.
-- If party hides themselves near the city gates, they will see lots of tourists and perception is rolled. If Rat succeeds, he will see some merchants with certain discrepancies that indicate they are not only here to sell warres but may be here for a different purpose.
+- If party hides themselves near the city gates, they will see lots of tourists and perception is rolled. If Rat succeeds, he will see some merchants with certain discrepancies that indicate they are not only here to sell wares but may be here for a different purpose.
 
 - If Aki succeeds, she sees some Feywild Merchants disguised in their human disguises, who are intending to sell Feywild commonalities to the masses.
 	- Wares would be Foxglove tea, which is advertised as a bitter tea that boosts "meetaphysical capabilities", but Aki knows this tea as being sweet and incresaing your perception and insight.
-		- 15gp for fey but 35gp for commoners.
-	- 
+		- 15gp for fey but 50gp for commoners.
+	- Dowsing rod that, when handled by a commoner, simply finds water, but when handled by a Fey could find a feywild entrance.
+		- 50gp for commoners, 75 for fey, but cannot be sold to Aki for now because the traders have been instructed to avoid helping Aki, so she may grow strong and independent.
+	- Some other trinkets that I will come up with on the spot.
+	- Rabbit's foot
+	- Origami swan
+	- Small necklace with Feywild stones.
+
+- The 'merchants' sell generic wares at an increased price and when pressed, won't reveal anything and threathen to call the guards for a random attack on an innocent merchant.
+	- merchant is from the Kingdom of Revium (tee hee), possibly from Prophecity as a funny reference to the other campaign
+
