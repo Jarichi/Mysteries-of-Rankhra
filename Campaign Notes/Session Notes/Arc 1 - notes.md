@@ -651,3 +651,6 @@ KILLS ONE AUROCH
 ### Session Conclusion
 - I don;t really like improvising
 - didnt really think this was a succes and am slightly hating myself atm but thatll pass hopefully
+
+---
+## Session 5

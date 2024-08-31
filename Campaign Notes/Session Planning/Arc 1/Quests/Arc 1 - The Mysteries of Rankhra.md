@@ -254,6 +254,7 @@ some notes for minisession with Cynthis
 - when Marilynn goes feral, her strength and charisma switch and she can no longer cast spells.
 - 
 ## Session 5
+- The hunters who were approaching the party are a group of 3 hunters on tamed auroch beasts; Bleeder - A tanned human with red eyes and a menacing aura -, Wanderer - An owlin whose dark talons are dotted with white dots, akin to an inverted snow owl - and 
 - The party meets up with the hunters who ask them what they are doing here in the desert near one of the prime hunting spots for Auroch.
 	- They were chasing a group of Auroch for selling them to the city, when they saw the party.
 	- They were kind of waiting until they either got in trouble or actually acted and when they saw the auroch group run on, they knew enough.
@@ -265,10 +266,10 @@ some notes for minisession with Cynthis
 	- Some nomads will speak to them but some nomads will only speak if they have proven themselves worthy.
 - However, they are offered to wander around the settlement, possibly gaining information and wares (at an increased prize) or prove themselves to be worthy to enter freely for a reduced price.
 	- Unworthy visitors are allowed to visit the store at an increased price and speak to NPCs with ties to the city.
-	- They are also allowed to speak to their combatans as an attempt to figure out what their roles are if they so please.
+	- They are also invited to speak to the NPCs that are around to see what they can learn and buy before combat.
 ##### Present NPCs
 
-- Travelling merchant: personality akin to Reggi, being extravagant and elaborate in his tales. Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
+- Berry: travelling merchant whose personality is akin to Reggi, being extravagant and elaborate in his tales. Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and surprised by a sandstorm and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
 		- His information gathering is limited by the hunters and the fact that he is not worthy, and as such is not actually allowed inside of the camp.
 sells the following:
 		- HEaling potion - costs 60gp
@@ -281,14 +282,22 @@ sells the following:
 	- He knows general history facts about the city if they ask for this, but knows no specifics about the temple exceot that the reason for its construction is secret knowledge (for unworthy people) and related to the Seven Concepts (for worthy people).
 	- He recommends the party to speak to others if they pass their test.
 - Diviner
-	- They are an alternative person enjoying weird trinkets and superstitious objects. Speaks in a stereotypical divine person way (floaty, soft, long words).
-	- For general visitors, they know about most common-knowledge myths and legends. Knows the mythical origin of the Hunter Tribe.
+	- They are an alternative person enjoying weird trinkets and superstitious objects. Speaks in a stereotypical divine person way (floaty, soft, long words). Vaguely based on Terese. They imply to know the future of the people that enter their tent.
+	- For general visitors, they know about most common-knowledge myths and legends. Also knows the mythical origin of the Hunter Tribe but only taks about this after they have proven themselves.
+	 - Upon meeting them, they will give all party members a small trinket that may or may not be magical. An arcana roll indicates there are slight traces of something magical but nothing clear enough to define.
+		 - Aki: Dowsing rod
+		 - Hunter: Badawi feather
+		 - Chron: Bark of birch wood
+		 - Ratronus: crooked gold coin
+		 - Marilyne: small bone of indeterminate origin.
+	- After receiving the magical trinket, Diviner will light up a small vial of incense which will completely fill the tent with smoke, after which she vanishes.
 
-
+When the party has finished looking around and is ready for their test, they are asked to assemble at the center of the camp. They feel the tension rising as the moon slowly climbs to the apex of the sky (perceptive individuals notice that there is a singular constellation present; the archer's), while the cold wind is softly howling through the dry desert sands. While the party sees a small owlcat perched on top of the central tent, keenly observing the party.
 
 - ensue combat [[Badawi Hunters vs Party]]
 - When the party is worthy, they are also explained that their memories will vanish at the discretion of the Bahath, and that they would need to write down their information in order to retain this.
 
+After the combat, the party is free to explore the settlement and speak to NPCs of interest. Their goal will simply be collecting information about the hunter tribe as per their mission.
 
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
@@ -297,31 +306,43 @@ sells the following:
 	
 		- Since there is no leadership, everyone knows bits and pieces.
 			- 3+ main NPCs can provide information
-				- Nomad 1 knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
+				- Weaver knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
 					- Name: Weaver (allowed to speak to)
-				- Nomad 2 knows information about the current status of the tribe. She never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
+				- Bleeder knows information about the current status of the tribe. She never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
 					- Name: Bleeder (Allowed to speak to but won't say much)
-				- Nomad 3 knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
+				- Diviner knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
 					- Name: Diviner (Allowed to speak to)
-				- Nomad 4 knows information about the mythical history of the tribe.
+				- Teller knows information about the mythical history of the tribe.
 					- Name: Teller
-				- Nomad 5 knows about the locale of the desert and what exactly is hidden within its dunes.
+				- Wanderer knows about the locale of the desert and what exactly is hidden within its dunes.
 					- Name: Wanderer (Won't say much at first unless party proves themselves)
 				Other NPCs will refer the party to other nomads
-		- The concept of exploration can talk to people but only if they are blessed by another concept or divinity or have speak with animals ready.
 	- One unique store that sells rare items
 		- Splint: increases armor AC by 2, can be applied. 5000 gp
 		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
 		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
 		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
 
+- after a while, the mysterious owlcat appears again (when I notice the party getting stuck on what to do next), and beckons them to follow it.
 
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
-- Speaking to the Badawi without speak with animals just yields adorable owlcat noises.
-- Eventually, the Badawi decides to make mental contact with someone in the party and accesses their memory (might do this with cynthia muhehehe). Also goves them an opportunity to access Badawi's memory.
-	- Badawi speaks like that one owl from avatar
-	- I will give the members a single question that will be answered.
+- After observing the party, the owlcat will attempt to make contact with one person in the party (i will random roll for nothing and will pick Cynthia).
+- Badawi will tell Cynthia about the Seven Concepts and mention the 5 that are related to the party members, being the concept of Flow, Growth, Reflection, Exploration and Whimsy. Badawi will also add that the Concept of Change is where they must go next. To go here, they must find a former inhabitant of the City of Change hidden in the desert. Badawil will say that in order to safely get to the Cirty of Change, they must traverse the Shifting Sands and never turn right before the waystone.
+- Badawi adds that the party needs to figure out themselves which one aligns with their goals and that he will not tell them which concept aligns.
+- He will conclude the conversation by conjuring a small red compass with a red gemstone needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
+	- Description reads "May discovery guide you."
+Badawi conjured this compass as a token of authenticity, but if the party wants to receive its blessing, they must explore and find theh other concepts.
 
-- After the 
-- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens.
+the motivation for the concept telling this information, is because it is time to explore where this world will head towards after eons of remaining static...
+
+- After the conversation, the concept will leave in a way that is fitting.
+- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
+
+
+- When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping the dnd equivalent of everclear.
+	- This is Semyon, who will introduce himself as one of the co-founders of the bar and will call himself Sam.
+- Semyon will ask the party about their current progress on the research about the temple and possible connections. He will also ask them to spend more time on researching the temple specifically, and what lies withing.
+- Semyon knows surface-level lore about the concepts and suspects that the temple might contain something related to this. He has investigated the temple (if the party returns to this temple with the compass, they will notice (after perception) that the temple mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
+- Therefore, he tasks the party to spend more time on investogating the temple and entering the third domain perhaps to explore around the temple underground.
+	- The order of the concepts will be Exploration - Change - Growth - Flow - Whimsy - Reflection - 

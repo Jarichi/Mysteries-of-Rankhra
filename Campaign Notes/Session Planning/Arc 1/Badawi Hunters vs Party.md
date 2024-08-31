@@ -15,12 +15,15 @@ Prof: intimidation
 prof +3 initiative +2
 AC: 11
 HP: 60
+
+HEMOCRAFT save DC: 13
 ### Abilities
 Dueling: +2 in damage rolls when one-handed
-Rite of the Flame: when activated, deal 1d6 extra fire damage
+Rite of the Dawn: when activated, deal 1d6 extra radiant damage
 extra attack: 2 attacks per turn
-
-Relentless endurance: Sturdy for DnD
+Blood curse
+- Muddled mind: Disadvantage on concentration save before their next turn.
+Relentless endurance: On death, remain with 1 hp.
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
 Rapier (1d8 piercing), +2
@@ -45,6 +48,7 @@ proficiencies: deception, insight, history, religion
 
 HP: 45
 AC: 13
+spell save 13
 ### Abilities
 Cutting words: subtract bardic inspiration (d8) roll from any d20 roll
 
@@ -59,10 +63,10 @@ spell slots: 4-3-2
 ---
 # [Weaver](https://www.aidedd.org/dnd/monstres.php?vo=mage)
 
-HP: 35
+HP: 40
 AC: 13/16
 
-dps and soft counter against aki's 16 ac. They are a spellcaster specialised in Enchantment and Conjuration. They graduated from the Magic School in Zal'Aata and took up an offer to help the hunter tribe in their huntsmanship.
+dps and soft counter against aki's 16 ac. They are a wizard specialised in Enchantment and Conjuration. They graduated from the Magic School in Zal'Aata and took up an offer to help the hunter tribe in their huntsmanship.
 
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
