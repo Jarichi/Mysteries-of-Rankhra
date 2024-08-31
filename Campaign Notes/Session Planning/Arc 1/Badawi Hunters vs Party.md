@@ -86,7 +86,7 @@ Spell slots: 4-3-3
 # Wanderer
 Counter against Chrone to avoid him carrying the totality of combat.
 
-She is a moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she wound up by the Badawi Hunter tribe and joined them.
+She is an owlin moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she joined a group of travelling merchants who eventually formed the Badawi Hunter Tribe after she got spoken to by the Concept of Exploration.
 Level 5 Stars druid, [owlin](https://dnd5e.wikidot.com/lineage:owlin), flex dps/support
 
 
@@ -104,11 +104,11 @@ spell atk +6
 spell save 14
 
 ### Abilities
-**Starry form: archer:** game stats remain, as a bonus action I can make a ranged attack (dex+prof) and deals 1d8+3 damage. Lasts for 10 turns.
+**Starry form: archer:** game stats remain, as a bonus action I can make a ranged attack (d20 + 5) and deals 1d8+3 damage. Lasts for 10 turns.
 **Flight:** If not wearing armor, I have a flying speed equal to my walking speed.
 Darkvision
 #### Attacks
-Quarterstaff 1d8. Attack bonus is wisdom+prof when casting shilleagh.
+Quarterstaff 1d8. Attack bonus is wisdom+prof when casting shilleagh, and extra dmg is +6
 
 cantrips: mending, shillelagh, 
 1st: Fog cloud

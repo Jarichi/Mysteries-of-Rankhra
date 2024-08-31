@@ -249,17 +249,47 @@ If the party ends up not attacking the creatures and an animal handling commence
 [[concept of exploration]], [[Bahath Animal Guide]]
 
 ---
-
+some notes for minisession with Cynthis
+- party may find a blood potion on MArilynns person
+- when Marilynn goes feral, her strength and charisma switch and she can no longer cast spells.
+- 
 ## Session 5
+- The party meets up with the hunters who ask them what they are doing here in the desert near one of the prime hunting spots for Auroch.
+	- They were chasing a group of Auroch for selling them to the city, when they saw the party.
+	- They were kind of waiting until they either got in trouble or actually acted and when they saw the auroch group run on, they knew enough.
+	- The person who killed the Auroch gets commendations, and compliments on their huntsmanship.
+- After a bit of bantering, the hunter tribesmen take the party to their camp and allow them limited access.
 ###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
-- They are initially not allowed to enter the nomad outpost beyond the external resting tent
-	- The party may decide wether they want to rest during the day and fight the tribe during the night (moonbeam and star form are active), or immediately fight them during the day (no moonbeam or star form)
-- After resting, they are offered to wander around the settlement, possibly gaining information and wares (at an increased prize) or prove themselves to be worthy to enter freely for a reduced price.
+- They are initially not allowed to enter the nomad outpost beyond the external resting tent due to traditional concerns.
+	- Some nomads will speak to them but some nomads will only speak if they have proven themselves worthy.
+- However, they are offered to wander around the settlement, possibly gaining information and wares (at an increased prize) or prove themselves to be worthy to enter freely for a reduced price.
 	- Unworthy visitors are allowed to visit the store at an increased price and speak to NPCs with ties to the city.
 	- They are also allowed to speak to their combatans as an attempt to figure out what their roles are if they so please.
+##### Present NPCs
+
+- Travelling merchant: personality akin to Reggi, being extravagant and elaborate in his tales. Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
+		- His information gathering is limited by the hunters and the fact that he is not worthy, and as such is not actually allowed inside of the camp.
+sells the following:
+		- HEaling potion - costs 60gp
+		- Potion of Inner Wilderness: When drinking as a druid, it activates your wild shape as if you activated it yourself. When drinking as a non-druid, it Increases your strenght ability score by 1d6 capped at 20 and reduces your intelligence by the same value capped at 4, for 4 turns/1 minute - costs 150 gp
+		- Potion of Shielding: Consuming this potion casts the shield spell on you, making you immune to magic missile and increasing your AC by 5. This happens for 3 turns - costs 200gp
+
+- Weaver
+	- Intelligent Storyteller: He has visited Zal'Aata on numerous occasions and occasionally visits the Grand Library. He speaks very calmly and clearly in poetic terms.
+	- For general visitors, he can tell a great deal about historic knowledge about Zal'Aata, other cities in makhshar desert and the Phiaro River if prompted. For unworthy people, he only tells stories about the desert and none about the history of the tribe.
+	- He knows general history facts about the city if they ask for this, but knows no specifics about the temple exceot that the reason for its construction is secret knowledge (for unworthy people) and related to the Seven Concepts (for worthy people).
+	- He recommends the party to speak to others if they pass their test.
+- Diviner
+	- They are an alternative person enjoying weird trinkets and superstitious objects. Speaks in a stereotypical divine person way (floaty, soft, long words).
+	- For general visitors, they know about most common-knowledge myths and legends. Knows the mythical origin of the Hunter Tribe.
+
+
+
 - ensue combat [[Badawi Hunters vs Party]]
-	
+- When the party is worthy, they are also explained that their memories will vanish at the discretion of the Bahath, and that they would need to write down their information in order to retain this.
+
+
 - Roleplaying-heavy
 	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
 		- NPC names are not their true name, since names have power.
@@ -284,11 +314,7 @@ If the party ends up not attacking the creatures and an animal handling commence
 		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
 		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
 		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
-	- A different store that sells healing potions for a higher price and is allowed to travel with the tribe, however is not allowed entry because they failed their worthiness exam.
-		- HEaling potion: 80gp
-		- Potion of Inner Wilderness: When drinking as a druid, it activates your wild shape as if you activated it yourself. When drinking as a non-druid, it Increases your strenght ability score by 1d6 capped at 20 and reduces your intelligence by the same value capped at 4, for 4 turns/1 minute - costs 150 gp
-		- Potion of Shielding: Consuming this potion casts the shield spell on you, making you immune to magic missile and increasing your AC by 5. This happens for 3 turns - costs 200gp
-		- Potion of Magic: doesn't exisit yet but you can reservate it because their supply
+
 
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
@@ -297,11 +323,5 @@ If the party ends up not attacking the creatures and an animal handling commence
 	- Badawi speaks like that one owl from avatar
 	- I will give the members a single question that will be answered.
 
-	
-	- The concept is a calm, intelligent being that is not quite concerned with worldly concerns. As such, it will answer any question it deems reasonable.
-	- Its name is the Concept of Exploration, but it is better known as Bahath.
-	- bahath will speak about how the concepts are connected to the entire area and are more influencial than they seem. Everytrhing is based around the concepts. Rankhra is also based around the concepts (chron knows about this btw), however due to the sheer power that the conceptt of flow has, it was protected by a more powerful barrier.
-		- the story might build up towards a sort of journey. The concept of exploration mught speak about how the concept of flow needs something done to it or somthingm, to cause some better motibation to actually enter the temple in the context of the entire story.
-		- idk maybe the concept of flow seems to be mysteriously increasing in power and something must be done to balance it out, or the concept of flow is corrupting or changing in power and it needs to be destroyed, checked on, or sealed or whatever
-			- I do feel like it might be time for some more long term goals to be entered into the campaign, and might end the arc after this setup. I also need to make sure this is worded in a way that I can terminate it earlier just in case the campaign will not last several years or something.
-	- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens.
+- After the 
+- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens.
