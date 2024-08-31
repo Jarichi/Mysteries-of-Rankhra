@@ -344,5 +344,5 @@ the motivation for the concept telling this information, is because it is time t
 	- This is Semyon, who will introduce himself as one of the co-founders of the bar and will call himself Sam.
 - Semyon will ask the party about their current progress on the research about the temple and possible connections. He will also ask them to spend more time on researching the temple specifically, and what lies withing.
 - Semyon knows surface-level lore about the concepts and suspects that the temple might contain something related to this. He has investigated the temple (if the party returns to this temple with the compass, they will notice (after perception) that the temple mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
-- Therefore, he tasks the party to spend more time on investogating the temple and entering the third domain perhaps to explore around the temple underground.
-	- The order of the concepts will be Exploration - Change - Growth - Flow - Whimsy - Reflection - 
+- Therefore, he suggests that the temple can only be entered if certain conditions are met, and suggests that the party must look for the origin of the second symbol: Change.
+	- The order of the concepts will be: Change - Growth - Flow - Connection - Whimsy - Reflection - Exploration
