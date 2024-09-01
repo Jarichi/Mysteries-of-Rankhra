@@ -1,6 +1,6 @@
 # Bleeder
 CR +- 3
-Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. half orc
+Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. vampire
 
 As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 

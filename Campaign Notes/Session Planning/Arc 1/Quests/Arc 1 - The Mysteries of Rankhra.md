@@ -254,7 +254,7 @@ some notes for minisession with Cynthis
 - when Marilynn goes feral, her strength and charisma switch and she can no longer cast spells.
 - 
 ## Session 5
-- The hunters who were approaching the party are a group of 3 hunters on tamed auroch beasts; Bleeder - A tanned human with red eyes and a menacing aura -, Wanderer - An owlin whose dark talons are dotted with white dots, akin to an inverted snow owl - and 
+- The hunters who were approaching the party are a group of 3 hunters on tamed auroch beasts; Bleeder - A tanned human with red eyes and a menacing aura -, Wanderer - An owlin whose dark talons are dotted with white dots, akin to an inverted snow owl - and Weaver - a tiefling who looks nice on the surface but might be a little insane
 - The party meets up with the hunters who ask them what they are doing here in the desert near one of the prime hunting spots for Auroch.
 	- They were chasing a group of Auroch for selling them to the city, when they saw the party.
 	- They were kind of waiting until they either got in trouble or actually acted and when they saw the auroch group run on, they knew enough.
@@ -269,7 +269,7 @@ some notes for minisession with Cynthis
 	- They are also invited to speak to the NPCs that are around to see what they can learn and buy before combat.
 ##### Present NPCs
 
-- Berry: travelling merchant whose personality is akin to Reggi, being extravagant and elaborate in his tales. Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and surprised by a sandstorm and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
+- Balthazar: travelling merchant whose personality is akin to Reggi, being extravagant and elaborate in his tales. Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and surprised by a sandstorm and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
 		- His information gathering is limited by the hunters and the fact that he is not worthy, and as such is not actually allowed inside of the camp.
 sells the following:
 		- HEaling potion - costs 60gp
@@ -296,6 +296,8 @@ When the party has finished looking around and is ready for their test, they are
 
 - ensue combat [[Badawi Hunters vs Party]]
 - When the party is worthy, they are also explained that their memories will vanish at the discretion of the Bahath, and that they would need to write down their information in order to retain this.
+
+## Session 6
 
 After the combat, the party is free to explore the settlement and speak to NPCs of interest. Their goal will simply be collecting information about the hunter tribe as per their mission.
 

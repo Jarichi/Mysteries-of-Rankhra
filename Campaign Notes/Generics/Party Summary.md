@@ -10,7 +10,7 @@ Aki
 - 509gp, 5sp
 
 Chron
-- 2 HP, 13 AC (base)
+- 27 HP, 13 AC (base)
 - 34 HP, 11 AC (bear)
 - Close-range Moondruid avg 4 dmg (base)
 - Melee Brown Bear avg 19 dmg withmultiattack
@@ -34,7 +34,7 @@ Ratronus
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-- 496gp
+	- 496gp
 
 Marilyne
 21hp 13 AC
@@ -46,3 +46,4 @@ warlock with fuckery
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
 Average optimal party dmg per turn: 46
+	
