@@ -1,6 +1,6 @@
 # Bleeder
 CR +- 3
-Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. half orc
+Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. vampire
 
 As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 
@@ -15,12 +15,15 @@ Prof: intimidation
 prof +3 initiative +2
 AC: 11
 HP: 60
+
+HEMOCRAFT save DC: 13
 ### Abilities
 Dueling: +2 in damage rolls when one-handed
-Rite of the Flame: when activated, deal 1d6 extra fire damage
+Rite of the Dawn: when activated, deal 1d6 extra radiant damage
 extra attack: 2 attacks per turn
-
-Relentless endurance: Sturdy for DnD
+Blood curse
+- Muddled mind: Disadvantage on concentration save before their next turn.
+Relentless endurance: On death, remain with 1 hp.
 Savage Attacks: Crit adds one damage die to attack roll.
 #### Attacks
 Rapier (1d8 piercing), +2
@@ -45,6 +48,7 @@ proficiencies: deception, insight, history, religion
 
 HP: 45
 AC: 13
+spell save 13
 ### Abilities
 Cutting words: subtract bardic inspiration (d8) roll from any d20 roll
 
@@ -59,10 +63,10 @@ spell slots: 4-3-2
 ---
 # [Weaver](https://www.aidedd.org/dnd/monstres.php?vo=mage)
 
-HP: 35
+HP: 40
 AC: 13/16
 
-dps and soft counter against aki's 16 ac. They are a spellcaster specialised in Enchantment and Conjuration. They graduated from the Magic School in Zal'Aata and took up an offer to help the hunter tribe in their huntsmanship.
+dps and soft counter against aki's 16 ac. They are a wizard specialised in Enchantment and Conjuration. They graduated from the Magic School in Zal'Aata and took up an offer to help the hunter tribe in their huntsmanship.
 
 ### Statblock
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
@@ -86,7 +90,7 @@ Spell slots: 4-3-3
 # Wanderer
 Counter against Chrone to avoid him carrying the totality of combat.
 
-She is a moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she wound up by the Badawi Hunter tribe and joined them.
+She is an owlin moon druid who also came from the circle of the moon. She eventually left the circle because she believed her calling to be elsewhere. Guided by the stars, she joined a group of travelling merchants who eventually formed the Badawi Hunter Tribe after she got spoken to by the Concept of Exploration.
 Level 5 Stars druid, [owlin](https://dnd5e.wikidot.com/lineage:owlin), flex dps/support
 
 
@@ -104,11 +108,11 @@ spell atk +6
 spell save 14
 
 ### Abilities
-**Starry form: archer:** game stats remain, as a bonus action I can make a ranged attack (dex+prof) and deals 1d8+3 damage. Lasts for 10 turns.
+**Starry form: archer:** game stats remain, as a bonus action I can make a ranged attack (d20 + 5) and deals 1d8+3 damage. Lasts for 10 turns.
 **Flight:** If not wearing armor, I have a flying speed equal to my walking speed.
 Darkvision
 #### Attacks
-Quarterstaff 1d8. Attack bonus is wisdom+prof when casting shilleagh.
+Quarterstaff 1d8. Attack bonus is wisdom+prof when casting shilleagh, and extra dmg is +6
 
 cantrips: mending, shillelagh, 
 1st: Fog cloud

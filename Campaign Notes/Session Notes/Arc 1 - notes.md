@@ -607,6 +607,7 @@ Aki goes to clothing store
 the rest goes to Hunter's Garage
 
 sells cloak of invisibility 
+	adv on stealth
 
 party calls ratronus to maybe steal the cloak of invisibility 
 
@@ -651,3 +652,206 @@ KILLS ONE AUROCH
 ### Session Conclusion
 - I don;t really like improvising
 - didnt really think this was a succes and am slightly hating myself atm but thatll pass hopefully
+
+---
+## Session 5
+threy get spotted by the hunter tribe and they get asked by bleeder what they are doing here and why and how they got here.
+
+cynthis wants to know if this person is a vampire
+	bleeder is not
+
+ratronus distrusts them (as expected)
+	nat 20
+
+chron wants to speak with the hunter group
+
+bleeder now is a vampire
+	swore a blood oath on not harming the party
+
+they go towards the hunter tribe
+
+aki goes towards the owlin (this is a feywild creatuer so aki recognises it)
+
+ask s if they are traveling
+	theyre not
+	travelling seems distrubed since janib rankhra rose from the ground.
+	
+
+clearing in the sandstorm
+
+arrive at the camp of the hunter tribe
+	ratronus has never seen these types of trees
+	lore omg
+
+bleeder introduces himself and his colleagues/friends
+
+hunter rolls hidstory (very low)
+	doesnt quite remember how much they sell for so kinda fumbles, but i let them have it
+
++85 for hunter +15 ratronus
+
+bleeder is geoffrey for ratronus
+
+
+aki enters owlins tent
+	i give her some lore
+
+aki wants to read the notes
+	tell he abput eh oasis not functioning as a gate ot the feywilds (just made this up( this has to do with the mural disturbing the magical connections between the planes))
+
+acro and athletics should be a distinction
+anyway
+	aki rolls a nat 1 and fucking bonks her head against the desk
+
+wanderer lets aki go
+
+ratronus dodges
+hunter chants fiiiight fiight
+teehee
+
+hunter gets inspiration
+
+--switch
+
+some flavour for the butchery tent
+
+marilyne has noticed sombody has taken some blood outside of the vial
+
+bleeder explains about the hunt and leaves away the fact thet he drinks the blood
+	CHRINE RFOLLED A 22
+he knnows something is upppp dammit
+
+chrone and marilyne are having a conversation
+they are on the tail of BLeeder
+feel like hes a vampire
+sharing info about the tent
+
+marilyne makes a sussy comment and marilyne
+	chrone directly asks marilyne about her vampirism
+chrone notes his suspision and asks marilyne why she knows about this
+
+chrone is slightly questioning marilyne but doesn't really get into this
+
+they decide to drop this and resume focus to bleeder
+
+marilyne wants to know more about this adnd devises a plan
+	vamps need to drink blood to feed.
+
+skirmish occurs and bleeder is going outside...
+kinda need to rush now
+
+marilyne is walking into the tent
+
+hte rest is still in the other tent
+some small talk
+
+slightly tense conversatin
+
+all of hem have eaten the sauce and such
+
+go to bed
+
+except marilyne
+
+seperation
+
+bleeder is about 600 years
+
+marilyne tells thst chrone is kind of onto him
+
+--next day
+
+marilyne is a little high on blood
+
+chrone -9gp as a kind thanks
+
+combat ensuessss
+
+initiative:
+hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
+
+turn 1
+hunter: smacks wanderer with a msuket 11 dmg
+wanderer 41 hp
+action surge 
+
+bleeder: crossbow on chrone for 8dmh
+reaction aki for lay on hands 5+7 reduce so 1 dmg
+hunter 26 (druid shape)
+
+aki: 1d4 extra radiant dmg for 10 tuens on hit
+hits bleeder but misses
+
+weaver: opportunity attack from hunter 5 dmg
+wanderer(35)
+casts fireball on aki for 9 dmg
+aki: 24 hp
+
+marilyne: power word pain oin bleeder (disadvantage on everything, con save)
+	help
+
+ratronus: misses his shit and uses steady aim
+
+diviner: molckery for 2 dmg on marilyne
+marilyne 19 hp?
+
+chrone: entangle on wanderer
+	concentration
+weaver and diviner fail and are restrained (disadv on attack roles, disadv dex save, no speed)
+
+bonus action: wild shape bear
+
+hunter: crits smacking hammer 1d8 bludgeoning 7dmgx14 diviner
+diviner: 30hp
+action surge: ANOTHER CRIT
+22DMG
+DIVBINER: 8HP
+
+bleeder; fails everything
+
+aki: misses attack
+
+weaver: bonus action misty step
+
+marilyne eldritch blast on weaver
+weaver takes 15 dmg
+25 hp
+
+rratronus:
+shoots wanderer with 6 dmg
+wanderer 29
+steady aim
+
+hits hunter for 9 dmh
+hiunyer 22 hp
+
+no more wild shape tee hee
+
+diviner cloud of daggers 15 smg
+hunter has 7 hp
+
+chrone:
+healing word 2nd level spell, 7hp on hunter
+hunte rhas 14hp
+(
+combat resumes next session
+)
+
+-- end session
+
+---
+### Session conclusions
+- Glad I had seperate roleplay sessions with Cynthia since she wanted to roleplay, and Twan is honestly good at RP as well which is very very fun!
+- Generally very happy about this session, though I feel like the pacing and the npc dialogue are something I may need to improve upon.
+- The improv this time was very good, they thought I actually fully thought this out which is most certainly not the case.
+- Happy with the on-the-fly change to change Bleeder into a vampire who has been accepted as a true Badawi hunter.
+- One thing I do need to kinda pay attention to and perhaps try to control is the lack of focus for some players when they are not directly involved in conversation stuff, since other people get to shine as well.
+- I do need to keep track of inspiration moments for funny roleplaying, and I might give Chrone and at least Marilyne inspiration. However, I think that perhaps I need to keep track whenever somebody interacts with their backstory.
+- It's funny to me that apparently nobody really made the connection between Hunt*er* and all other -er people in the hunter tribe.
+
+In conclusion, I am extremely happy with where the story is going and am looking forward to the end of the arc. The party seems to trust Marilyne quite well which is very good, only Chrone might suspect that she's a vampire but as long as Bleeder gives them no reason to distrust vamps, she's safe.
+
+I also enjoy preventing Chrone from dominating combat by simply denying his abilities of the OP wild shape (moonbeam) and feel like I'm letting the party shine during their combat encounters.
+
+---
+## Session 6
