@@ -10,4 +10,6 @@ In the vampirae family, there are estimated to be three main subfamilies, each w
 ## Nightcrawler
 By far the most common subfamily - occurring in an estimated 83% of total vampidiae population - the Nightcrawler is your typical vampire.
 ### Features
-A nightcrawler typically has sharpened canines, a pale skin and reddened eyes. They are inclined towards chaotic neutral or -evil beliefs and are more creature than humanoid
+A nightcrawler typically has sharpened canines, a pale skin and reddened eyes. They are inclined towards chaotic neutral or -evil beliefs and are more creature than humanoid.
+## Duskstrider
+Slightly less commonly found, the duskstrider - about 14
