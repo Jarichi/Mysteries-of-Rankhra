@@ -10,8 +10,10 @@ In the vampirae family, there are estimated to be three main subfamilies, each w
 ## Nightcrawler
 By far the most common subfamily - occurring in an estimated 83% of total vampidiae population - the Nightcrawler is your typical vampire.
 ### Features
-A nightcrawler typically has sharpened canines, a pale skin and reddened eyes. They are inclined towards chaotic neutral or -evil beliefs and are more creature than humanoid.
+A nightcrawler typically has sharpened canines, a pale skin and reddened eyes. They are inclined towards chaotic neutral or -evil beliefs and are more creature than humanoid. If a nightcrawler comes into contact with the sun, or silver, they receive a varying amount of damage based on the intensity or purity. They are also unable to see their own reflection.
 ## Duskstrider
 Slightly less commonly found, the duskstrider - about 14% - is a result from a mutation in the genome of the standard Nightcrawler, allowing them to retain some traits from their original species. For example, a tiefling-turned-vampire may retain their skin colour and external features, but still adapt some vampiric features.
 ### Features
-A duskstrtider may have sharpened canines and other vampiric traits, however they generall
+A duskstrider may have sharpened canines and other vampiric traits, however they generally retain theoir original racial features. A pure-blood vampire is more likely to be born as a duskstrider.
+## Daywalker
+A daywalker - <1% - is a special variant that is able to walk under daylight and touch silver. Only a pure-blood vampire can be a daywalker
