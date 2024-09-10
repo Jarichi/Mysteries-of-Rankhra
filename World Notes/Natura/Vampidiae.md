@@ -12,4 +12,6 @@ By far the most common subfamily - occurring in an estimated 83% of total vampid
 ### Features
 A nightcrawler typically has sharpened canines, a pale skin and reddened eyes. They are inclined towards chaotic neutral or -evil beliefs and are more creature than humanoid.
 ## Duskstrider
-Slightly less commonly found, the duskstrider - about 14
+Slightly less commonly found, the duskstrider - about 14% - is a result from a mutation in the genome of the standard Nightcrawler, allowing them to retain some traits from their original species. For example, a tiefling-turned-vampire may retain their skin colour and external features, but still adapt some vampiric features.
+### Features
+A duskstrtider may have sharpened canines and other vampiric traits, however they generall
