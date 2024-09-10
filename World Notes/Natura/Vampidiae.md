@@ -5,3 +5,7 @@ Vampires are found all around Makhshar Desert due to its nocturnal lifestyle pro
 
 # Reproduction
 Vampires are typically monogamous, but are not limited to one partner per life. They generally have several partners throughout their lives. After reproduction between two Vampidiae, a pure-blood vampire may be born, although this is by no means a guarantee. This chance is higher when two pure-blood vampires reproduce.
+# Noteable Categories
+In the vampirae family, there are estimated to be three main subfamilies, each with their own properties and abilities.
+## Nightcrawler
+By far the most common subfamily - occurring in an estimated 83% of total vampidiae population
