@@ -301,17 +301,22 @@ When the party has finished looking around and is ready for their test, they are
 
 After the combat, the party is free to explore the settlement and speak to NPCs of interest. Their goal will simply be collecting information about the hunter tribe as per their mission.
 
-- Roleplaying-heavy
-	- Talk to NPCs to garner information about the tribe itself and the concept of exploration
-		- NPC names are not their true name, since names have power.
-	- The eventual goal is to get infomration about the Concept of Exploration
+- Bleeder will mention that Bahath - in order to keep the true purpose and location of the Badawi Hunter tribe safe - will alter the memories of the party members, so if they want to retain information they'd need to write it down.
+	- The hunter tribe will mention that this is an illegal practice and if discovered, the messaging will be taken away and destroyed.
+- party is allowed to walk among the camp clearing and speak to some NPCs as noted below
+- They will mostly inform the party about the lore of the hunter tribe and this serves as a test for me to see what type of questions they will ask about broad perspectives.
+	- However, they are given a few breadcrumbs somehow.
+- 
+
+
 	
-		- Since there is no leadership, everyone knows bits and pieces.
+	- Since there is no leadership, everyone knows bits and pieces.
 			- 3+ main NPCs can provide information
 				- Weaver knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
 					- Name: Weaver (allowed to speak to)
-				- Bleeder knows information about the current status of the tribe. She never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
+				- Bleeder knows information about the current status of the tribe. He never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
 					- Name: Bleeder (Allowed to speak to but won't say much)
+					- He's a vamp, specifically a duskstrider
 				- Diviner knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
 					- Name: Diviner (Allowed to speak to)
 				- Teller knows information about the mythical history of the tribe.
@@ -325,12 +330,19 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
 		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
 
-- after a while, the mysterious owlcat appears again (when I notice the party getting stuck on what to do next), and beckons them to follow it.
+
+- When I notice the party getting stuck, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
 
 
-- when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Chron and Hunter, but wary of Marilyne, ratronus. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
+- when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
 - After observing the party, the owlcat will attempt to make contact with one person in the party (i will random roll for nothing and will pick Cynthia).
-- Badawi will tell Cynthia about the Seven Concepts and mention the 5 that are related to the party members, being the concept of Flow, Growth, Reflection, Exploration and Whimsy. Badawi will also add that the Concept of Change is where they must go next. To go here, they must find a former inhabitant of the City of Change hidden in the desert. Badawil will say that in order to safely get to the Cirty of Change, they must traverse the Shifting Sands and never turn right before the waystone.
+
+- talking points for thhe concept:
+	- Seven Divine COncepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
+	- Mention that the Concept of Flow seems to have grown in strengt
+
+
+- Badawi will tell Cynthia about the Seven Concepts and mention the 5 that are related to the party members, being the concept of Flow, Growth, Reflection, Exploration and Whimsy. Badawi will also add that the Concept of Change is where they must go next. To go here, they must find a former inhabitant of the City of Change hidden in the desert. Badawi will say that in order to safely get to the Cirty of Change, they must traverse the Shifting Sands and never turn right before the waystone.
 - Badawi adds that the party needs to figure out themselves which one aligns with their goals and that he will not tell them which concept aligns.
 - He will conclude the conversation by conjuring a small red compass with a red gemstone needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
