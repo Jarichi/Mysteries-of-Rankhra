@@ -340,6 +340,7 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 - talking points for thhe concept:
 	- Seven Divine COncepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
 	- Mention that the Concept of Flow seems to have grown in strength and something seems to influence it currently.
+	- 
 
 
 - Badawi will tell Cynthia about the Seven Concepts and mention the 5 that are related to the party members, being the concept of Flow, Growth, Reflection, Exploration and Whimsy. Badawi will also add that the Concept of Change is where they must go next. To go here, they must find a former inhabitant of the City of Change hidden in the desert. Badawi will say that in order to safely get to the Cirty of Change, they must traverse the Shifting Sands and never turn right before the waystone.
