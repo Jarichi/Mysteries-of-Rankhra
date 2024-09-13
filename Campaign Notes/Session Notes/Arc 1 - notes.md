@@ -855,3 +855,8 @@ I also enjoy preventing Chrone from dominating combat by simply denying his abil
 
 ---
 ## Session 6
+HP status:
+Hunter: 14 hp
+Wanderer 29
+weaver 25 hp
+diviner 8 hp

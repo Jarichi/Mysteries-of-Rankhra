@@ -305,40 +305,37 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 	- The hunter tribe will mention that this is an illegal practice and if discovered, the messaging will be taken away and destroyed.
 - party is allowed to walk among the camp clearing and speak to some NPCs as noted below
 - They will mostly inform the party about the lore of the hunter tribe and this serves as a test for me to see what type of questions they will ask about broad perspectives.
-	- However, they are given a few breadcrumbs somehow.
-- 
+	- However, they are given a few breadcrumbs for what they want to ask, by emans of perception checks on their tents.
+
 
 
 	
-	- Since there is no leadership, everyone knows bits and pieces.
-			- 3+ main NPCs can provide information
-				- Weaver knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
-					- Name: Weaver (allowed to speak to)
-				- Bleeder knows information about the current status of the tribe. He never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
-					- Name: Bleeder (Allowed to speak to but won't say much)
-					- He's a vamp, specifically a duskstrider
-				- Diviner knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
-					- Name: Diviner (Allowed to speak to)
-				- Teller knows information about the mythical history of the tribe.
-					- Name: Teller
-				- Wanderer knows about the locale of the desert and what exactly is hidden within its dunes.
-					- Name: Wanderer (Won't say much at first unless party proves themselves)
-				Other NPCs will refer the party to other nomads
-	- One unique store that sells rare items
-		- Splint: increases armor AC by 2, can be applied. 5000 gp
-		- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
-		- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
-		- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
+- Below are contents of the dialogue
+	-  3+ main NPCs can provide information
+	-  Weaver knows information about the historic origins of the hunter tribe. He also has a place with the City Library -> Storyteller personality, extravagrant, embelleshing
+	- Bleeder knows information about the current status of the tribe. He never leave the tribe at all and doesn't have any connections with the city. -> Shifty, secretive, mysterious
+	- Diviner knows infomration about prodictions for the future of the tribe. They have some sort of connection with the news agency and feed them interesting tidbits. They also are familiar with Cedar-> positive, nihilistic, happy-go-lucky
+	- Teller knows information about the mythical history of the tribe.
+	- Wanderer knows about the locale of the desert and what exactly is hidden within its dunes.
+- One unique store that sells rare items and general items, ran by Balthazar.
+	- Speaks gloatingly about how he traversed the dangerous desert after being attacked by vicious beasts and surprised by a sandstorm and ended up here, and has been staying here for a few weeks already, gathering tales and wares.
+- store contents:
+	- Splint: increases armor AC by 2, can be applied. 5000 gp
+	- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
+	- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
+	- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
+	- Potion of healing
 
 
-- When I notice the party getting stuck, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
+- When I notice the party getting stuck/finished, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
 
-
-- when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she is a place that has yet to be explored (I don't mean that in *that* way).
+- when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
 - After observing the party, the owlcat will attempt to make contact with one person in the party (i will random roll for nothing and will pick Cynthia).
 
-- talking points for thhe concept:
-	- Seven Divine COncepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
+debating on whether I want to test the party to be able to separate meta knowledge from game knowledge.
+
+- talking points for the concept:
+	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
 	- Mention that the Concept of Flow seems to have grown in strength and something seems to influence it currently.
 	- 
 
