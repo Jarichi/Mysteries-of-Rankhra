@@ -299,6 +299,8 @@ When the party has finished looking around and is ready for their test, they are
 
 ## Session 6
 
+combat is intended to be some sort of a bossfight
+
 After the combat, the party is free to explore the settlement and speak to NPCs of interest. Their goal will simply be collecting information about the hunter tribe as per their mission.
 
 - Bleeder will mention that Bahath - in order to keep the true purpose and location of the Badawi Hunter tribe safe - will alter the memories of the party members, so if they want to retain information they'd need to write it down.
@@ -336,7 +338,9 @@ debating on whether I want to test the party to be able to separate meta knowled
 
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
+	- The Concepts inher
 	- Mention that the Concept of Flow seems to have grown in strength and something seems to influence it currently.
+	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may end up in a place beyond the gods...
 	- 
 
 

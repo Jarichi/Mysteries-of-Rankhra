@@ -773,7 +773,6 @@ hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
 turn 1
 hunter: smacks wanderer with a msuket 11 dmg
 wanderer 41 hp
-action surge 
 
 bleeder: crossbow on chrone for 8dmh
 reaction aki for lay on hands 5+7 reduce so 1 dmg
@@ -856,7 +855,16 @@ I also enjoy preventing Chrone from dominating combat by simply denying his abil
 ---
 ## Session 6
 HP status:
+**party**
 Hunter: 14 hp
+Aki 24 
+Chrone 27
+Ratronus 33
+marilyne 19 hp
+**Badawi**
 Wanderer 29
-weaver 25 hp
-diviner 8 hp
+Weaver 25
+Diviner 8
+Bleeder ?? full hp? 60???
+
+
