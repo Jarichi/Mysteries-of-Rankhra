@@ -338,22 +338,19 @@ debating on whether I want to test the party to be able to separate meta knowled
 
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
-	- The Concepts inher
+	- The Concepts inherently align with their goals, but he will not tell them whose goals are aligned.
 	- Mention that the Concept of Flow seems to have grown in strength and something seems to influence it currently.
-	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may end up in a place beyond the gods...
+	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may face a dangerous path.
 	- 
 
-
-- Badawi will tell Cynthia about the Seven Concepts and mention the 5 that are related to the party members, being the concept of Flow, Growth, Reflection, Exploration and Whimsy. Badawi will also add that the Concept of Change is where they must go next. To go here, they must find a former inhabitant of the City of Change hidden in the desert. Badawi will say that in order to safely get to the Cirty of Change, they must traverse the Shifting Sands and never turn right before the waystone.
-- Badawi adds that the party needs to figure out themselves which one aligns with their goals and that he will not tell them which concept aligns.
 - He will conclude the conversation by conjuring a small red compass with a red gemstone needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
-Badawi conjured this compass as a token of authenticity, but if the party wants to receive its blessing, they must explore and find theh other concepts.
+- mention that this compass is a token of appreciation, but if they want its power, they need to return after they have found the other concepts and gotten their tokens.
 
 the motivation for the concept telling this information, is because it is time to explore where this world will head towards after eons of remaining static...
 
 - After the conversation, the concept will leave in a way that is fitting.
-- after the cinversation with Bahath, the party will return to Verdant and either report to him, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
+- after the cinversation with Bahath, the party will return to the city and either report to verdant, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
 
 
 - When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping the dnd equivalent of everclear.
@@ -362,3 +359,4 @@ the motivation for the concept telling this information, is because it is time t
 - Semyon knows surface-level lore about the concepts and suspects that the temple might contain something related to this. He has investigated the temple (if the party returns to this temple with the compass, they will notice (after perception) that the temple mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
 - Therefore, he suggests that the temple can only be entered if certain conditions are met, and suggests that the party must look for the origin of the second symbol: Change.
 	- The order of the concepts will be: Change - Growth - Flow - Connection - Whimsy - Reflection - Exploration
+
