@@ -1,6 +1,6 @@
-"When the threads of magic grow thin,  
+When the threads of magic grow thin,  
 And whispers rise on winds of change,  
-An unknown hand, with shadowed grin,  
+An unknown hand, with shadowed grin, 
 Seeks to bind the Flow and rearrange.
 
 In the midst of brass and steam,  
@@ -9,7 +9,8 @@ The **Flow**, untouched, yet not alone,
 Now waits as unseen forces scheme.
 
 Five paths shall converge as one,  
-Birch Elf of leaves and ancient bark,  
+Birch Elf of leaves and ancient bark, 
+Must venture forth and start the run,
 A guardian who’s lost their way,  
 From lands afar, in lightless sway,  
 A creature small, both keen and stark,  
@@ -27,11 +28,11 @@ Through **blessings**, earned by trial’s might,
 And in their merging, play their part.
 
 Each Concept holds a vital key,  
-To weave the threads of life anew,  
+To weave the broken threads anew,  
 And only when all powers agree,  
 Shall the mural’s light come into view.
 
 So gather the **blessings**, one by one,  
-For without them, the Flow shall fall,  
+For without them, this plane shall fall,  
 The fate of all beneath the sun  
-Depends on merging one and all."
+Depends on merging one and all.
