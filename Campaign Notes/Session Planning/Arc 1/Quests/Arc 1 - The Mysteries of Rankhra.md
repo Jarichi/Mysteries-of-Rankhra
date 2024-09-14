@@ -352,6 +352,30 @@ the motivation for the concept telling this information, is because it is time t
 - After the conversation, the concept will leave in a way that is fitting.
 - after the cinversation with Bahath, the party will return to the city and either report to verdant, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
 
+- the combat and information of the badawi will take the good part of the day, and it will be daytime when they get back to the city.
+	- they will notice that, during the day, the shops they went to are closed and the market stalls seem to be more active
+	- there are more foreign merchants and a different version of the newspaper that they had gotten earlier is handed out in regular paper form
+		- articles are mainly ads about tourist traps
+	- the city seems more lively, but reminds them of generic tourist city vibes.
+	- the people currently walking around are fancy types and well-off people visiting from other kingdoms, among which is Revium :3
+
+
+
+- the city guards seem to be alert, chron ratronus and hunter can tell that they are more alert than usual and the party may draw the conclusion that there seems to be something going on with the bandit groups
+	- the bandits are now going to be connected to a deeper network that is under investigation by the FIZ
+- if the party wants to inveatigate for criminal activity, they will notice that there are a few shift looking types lurking near market stalls.
+
+- Shiv's store is closed since he's just kinda sleeping, but he can be reached by channeling him through the comet (will hopefully teach them about communication)
+
+- the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
+
+- The Shoka Engineering Collective is closed as of now, there are posters on the wall for job offers (a particular manager)
+
+- hunter's garage is closed, so is the clothing store and the potion store.
+
+- the Great Library is indeterminate
+
+- if they want to investigate the market stalls, they will notice that they are all filed with souvenirs, like small temple statues and that type of junk. it's also wayy overpriced.
 
 - When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping the dnd equivalent of everclear.
 	- This is Semyon, who will introduce himself as one of the co-founders of the bar and will call himself Sam.
