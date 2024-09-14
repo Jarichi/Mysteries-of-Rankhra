@@ -1,12 +1,12 @@
-When the threads of magic run awry,  
-And the weavers of fate stand still,  
-A force unknown, from shadows nigh,  
-Disrupts the river, bending will.
+"When the threads of magic grow thin,  
+And whispers rise on winds of change,  
+An unknown hand, with shadowed grin,  
+Seeks to bind the Flow and rearrange.
 
-In the heart of iron and stone,  
-Where life’s pulse hums in crowded sprawl,  
-The **Flow**, unbalanced and alone,  
-Stirs from within its silent hall.
+In the midst of brass and steam,  
+Where iron wheels turn by the stream,  
+The **Flow**, untouched, yet not alone,  
+Now waits as unseen forces scheme.
 
 Five paths shall converge as one,  
 Birch Elf of leaves and ancient bark,  
@@ -16,17 +16,22 @@ A creature small, both keen and stark,
 An everyman of mortal birth,  
 And fey who laughs amidst the mirth.
 
-Together, they must brave the way,  
-Through temple doors of shifting air,  
-Where **Flow** now falters in decay,  
-Influenced by the unseen snare.
+Together, they must seek the door,  
+Through temple halls where **Flow** is caught,  
+But greater still lies something more—  
+A puzzle waits, with fate to thwart.
 
-But one key remains to be found,  
-A mural waits for powers blessed—  
-Gather the Concepts, all unbound,  
-And let Creation be redressed.
+For the **Concepts Seven** must unite,  
+To forge Creation’s primal heart,  
+Through **blessings**, earned by trial’s might,  
+And in their merging, play their part.
 
-Seek the **blessing**, one by one,  
-Only when all have been bestowed,  
-Shall the mural's light be spun,  
-And the Flow of magic once more flow.
+Each Concept holds a vital key,  
+To weave the threads of life anew,  
+And only when all powers agree,  
+Shall the mural’s light come into view.
+
+So gather the **blessings**, one by one,  
+For without them, the Flow shall fall,  
+The fate of all beneath the sun  
+Depends on merging one and all."
