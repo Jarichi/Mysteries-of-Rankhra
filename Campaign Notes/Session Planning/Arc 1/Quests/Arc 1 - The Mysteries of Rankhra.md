@@ -339,11 +339,11 @@ debating on whether I want to test the party to be able to separate meta knowled
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
 	- The Concepts inherently align with their goals, but he will not tell them whose goals are aligned.
-	- Mention that the Concept of Flow seems to have grown in strength and something seems to influence it currently.
+	- Mention that a prophecy exists indicating that the concept of Flow seems to be disrupting the flow of magic near it.
 	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may face a dangerous path.
 	- 
 
-- He will conclude the conversation by conjuring a small red compass with a red gemstone needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
+- He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
 - mention that this compass is a token of appreciation, but if they want its power, they need to return after they have found the other concepts and gotten their tokens.
 
