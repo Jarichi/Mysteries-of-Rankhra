@@ -763,6 +763,8 @@ marilyne tells thst chrone is kind of onto him
 
 marilyne is a little high on blood
 
+bleeder talks about how the hunter tribe knows he is a vampire, and asks marilyne to not telll anyone. they enjoy a glass of wine together.
+
 chrone -9gp as a kind thanks
 
 combat ensuessss
@@ -854,7 +856,7 @@ I also enjoy preventing Chrone from dominating combat by simply denying his abil
 
 ---
 ## Session 6
-HP status:
+Combat status:
 **party**
 Hunter: 14 hp
 Aki 24 
