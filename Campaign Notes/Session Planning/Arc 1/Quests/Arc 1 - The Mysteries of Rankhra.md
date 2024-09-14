@@ -341,7 +341,7 @@ debating on whether I want to test the party to be able to separate meta knowled
 	- The Concepts inherently align with their goals, but he will not tell them whose goals are aligned.
 	- Mention that a prophecy exists indicating that the concept of Flow seems to be disrupting the flow of magic near it.
 	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may face a dangerous path.
-	- 
+	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
@@ -385,6 +385,4 @@ the motivation for the concept telling this information, is because it is time t
 - he believes, based on other knowledge, that the magical barrier of the temple may only allow people in that are somehow accepted or tried by the concept.
 	- If they tell him about the hunter tribe, this will be confirmed.
 - he suggests that the temple can only be entered if someone in the party somehow meets a set of conditions, and is connected to whatever lies within.
-- Therefore, he suggests that the temple can only be entered if certain conditions are met, and suggests that the party must look for the origin of the second symbol: Change.
-	- The order of the concepts will be: Change - Growth - Flow - Connection - Whimsy - Reflection - Exploration
 
