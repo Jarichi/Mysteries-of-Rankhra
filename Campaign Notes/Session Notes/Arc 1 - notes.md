@@ -907,7 +907,15 @@ k marilyne
 chrone
 nonlethal sphere cast, max dmg is 1d6
 
-sphere 
+hunter walks to wanderer and attemts to smack him
+misses
+
+bleeder misses
+
+aki attempts to hit bveleeder
+uses inspiration
+hits
+divine smite for 7+3+5+6 = 21
 
 
 
