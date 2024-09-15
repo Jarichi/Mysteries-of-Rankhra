@@ -1054,5 +1054,7 @@ marilyne buys for -340gp and promises a personal message to my brother
 
 potion
 
---sidequest for aurovh hunting
+--sidequest for auroch hunting
+
+--end session
 
