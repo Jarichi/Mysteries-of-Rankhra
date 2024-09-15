@@ -916,6 +916,15 @@ aki attempts to hit bveleeder
 uses inspiration
 hits
 divine smite for 7+3+5+6 = 21
+bleeder 6 hp
+
+weaver casts mage armor
+bleeder ac is 15
+fails dex save
+	takes 6 dmg, has 11 dmg
+
+mari casts shatter
+
 
 
 
