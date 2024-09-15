@@ -1014,3 +1014,17 @@ piercing 10 dmg
 aki misses
 
 weaver
+ko's aki
+12 dmg on hunter
+hunter 2 hp
+
+marilyne
+bites weaver
+hits
+non lethal unconscious
+drinks the blood
+
+returns to normal
+
+-- end combat
+
