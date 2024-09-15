@@ -1031,3 +1031,11 @@ returns to normal
 sandstorm dispels, revealing the full camp
 
 npcs go back to their respective tents but not before callong out what the fuck happened with marilyne
+
+chrone choses to share that he has suspicions after speaking to bleeder
+
+marilyne attempts to make happy for ratronus
+
+some distrust from ratronus
+
+there are some questions being asked for roleplaying
