@@ -324,7 +324,7 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 - store contents:
 	- Splint: increases armor AC by 2, can be applied. 5000 gp
 	- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
-	- Uncommon whip: 1d6+1+1, finesse weapon with 10ft reach., 500gp
+	- Uncommon whip: 1d6+2, finesse weapon with 10ft reach., 500gp
 	- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
 	- Potion of healing
 
@@ -342,6 +342,8 @@ debating on whether I want to test the party to be able to separate meta knowled
 	- Mention that a prophecy exists indicating that the concept of Flow seems to be disrupting the flow of magic near it.
 	- Mention that in order to access the concept of change, they need to have a guide from the city itself, and very important for not getting lost in the desert, they need no head towards the waystone and they MUST go left, otherwise they may face a dangerous path.
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
+
+badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
