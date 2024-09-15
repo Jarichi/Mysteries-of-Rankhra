@@ -1043,3 +1043,7 @@ there are some questions being asked for roleplaying
 --enters the camp
 
 fuck they want to go to the unprepared forest
+
+they meet balthazar and ask about salazar
+
+aki shares her backstory and talks about her background as a feywild, and offers some significant magival items to get the splint for a discounted pricne
