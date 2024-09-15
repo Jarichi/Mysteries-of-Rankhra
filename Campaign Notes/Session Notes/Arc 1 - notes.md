@@ -1039,3 +1039,7 @@ marilyne attempts to make happy for ratronus
 some distrust from ratronus
 
 there are some questions being asked for roleplaying
+
+--enters the camp
+
+fuck they want to go to the unprepared forest
