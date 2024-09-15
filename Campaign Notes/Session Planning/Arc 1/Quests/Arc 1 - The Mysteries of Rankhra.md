@@ -346,7 +346,7 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
-	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marker, but must stay to the left of it until you pass the 
+	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marker, but must stay to the left of it until you **pass** the [thing], after which you need to turn around and pass the marker again while keeping it on your right side. If you don't do this, you may end up in a different place.
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
