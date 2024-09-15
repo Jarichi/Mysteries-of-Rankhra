@@ -924,6 +924,14 @@ fails dex save
 	takes 6 dmg, has 11 dmg
 
 mari casts shatter
+bleeder and wanderer takes 13 dmg
+bleeder 1 hp
+wanderer 16 hp
+
+RATRONUS
+rapier attackj misses
+
+wanderer
 
 
 
