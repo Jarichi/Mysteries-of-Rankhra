@@ -998,3 +998,19 @@ bonus ranged attack 10 dmg to marilyne
 marilyne flavours
 mega rage, transformation sequence, snarls and big angry
 turnes into a vampiure
+
+big angy
+
+chrone
+frostbite on wanderer
+1dmg+ disadv on next turn
+wanferer 5 hp
+
+hunter
+heavy crossbow on wanderer
+piercing 10 dmg
+ wanderer ko
+
+aki misses
+
+weaver
