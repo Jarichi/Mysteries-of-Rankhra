@@ -332,9 +332,11 @@ After the combat, the party is free to explore the settlement and speak to NPCs 
 - When I notice the party getting stuck/finished, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
-- After observing the party, the owlcat will attempt to make contact with one person in the party (i will random roll for nothing and will pick Cynthia).
+- After observing the party, the owlcat will attempt to make contact with the party ]
+- preface the ceonversation that unbeknownst to the badawi hunters, leaving the camp will let memories of his choosing fade to the background of your mind. I will tell them that if they want to remember what will be said here, they will have to roll a n appropriate check or save, unless they write down or otherwise link the memory to something in a creative way.
 
-debating on whether I want to test the party to be able to separate meta knowledge from game knowledge.
+
+
 
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
@@ -344,6 +346,7 @@ debating on whether I want to test the party to be able to separate meta knowled
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
+	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marker, but must stay to the left of it until you pass the 
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
