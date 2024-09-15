@@ -860,7 +860,7 @@ Combat status:
 **party**
 Hunter: 14 hp
 Aki 24 
-Chrone 27
+Chrone 26
 Ratronus 33
 marilyne 19 hp
 **Badawi**
@@ -869,4 +869,10 @@ Weaver 25
 Diviner 8
 Bleeder ?? full hp? 60???
 
+TURN ORDER: 
+hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
 
+---
+-- session recap
+
+	
