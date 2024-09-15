@@ -932,6 +932,20 @@ RATRONUS
 rapier attackj misses
 
 wanderer
+shilaylie on quarterstaff
+8
+aki reaction -8 dmg
+
+chrone
+frostbite on weaver
+fails con save -2 dmg
+23 hp
+ moves sphere
+
+hunter
+smacks hammer on wanderer,
+misses
+
 
 
 
