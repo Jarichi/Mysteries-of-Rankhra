@@ -870,7 +870,7 @@ Diviner 8
 Bleeder ?? full hp? 60???
 
 TURN ORDER: 
-hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, chrone
+hunter, aki, weaver, marilyne, ratronus, wanderer, chrone
 
 ---
 -- session recap
@@ -965,3 +965,22 @@ FLAMING SPHERE
 
 marilyne
 attempts ot eldritch blast weaver
+16
+bruh
+ hits for 20 dmg wtf
+
+weaver 5 hp
+
+ratronus
+puppets wanderer
+
+succeeds con save
+silvery barbs makes it succeed NOOO
+drops quarter staff
+hunter misses opportunity attack but ratronus makes it
+	4 dmg
+12 hp
+
+marrilyne opportunity attack
+pact weapon and unarmed
+19,
