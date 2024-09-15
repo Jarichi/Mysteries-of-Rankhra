@@ -1028,3 +1028,6 @@ returns to normal
 
 -- end combat
 
+sandstorm dispels, revealing the full camp
+
+npcs go back to their respective tents but not before callong out what the fuck happened with marilyne

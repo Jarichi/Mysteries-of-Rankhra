@@ -303,6 +303,9 @@ combat is intended to be some sort of a bossfight
 
 After the combat, the party is free to explore the settlement and speak to NPCs of interest. Their goal will simply be collecting information about the hunter tribe as per their mission.
 
+bleeder wil compliment the gang on their combat prowess but hoped everyone wouldve hit their attacks more, and declare the party worthy
+
+
 - Bleeder will mention that Bahath - in order to keep the true purpose and location of the Badawi Hunter tribe safe - will alter the memories of the party members, so if they want to retain information they'd need to write it down.
 	- The hunter tribe will mention that this is an illegal practice and if discovered, the messaging will be taken away and destroyed.
 - party is allowed to walk among the camp clearing and speak to some NPCs as noted below
