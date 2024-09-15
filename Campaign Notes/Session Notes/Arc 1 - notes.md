@@ -875,4 +875,15 @@ hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
 ---
 -- session recap
 
-	
+hunter deals 11 dmg to diviner
+
+
+diviner ko
+
+bleeder stunned
+succeded con save
+
+aki misses
+
+weaver
+
