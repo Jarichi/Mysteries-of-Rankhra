@@ -885,5 +885,19 @@ succeded con save
 
 aki misses
 
-weaver
+weaver magic missile
+aki 6 dmg, 
+chrone 3
+
+
+
+mari witch bolt on bleeder
+hits for 16 dmg
+bleeder 44dmg + tendrils
+
+ratronus hits bleeder
+hits for 8+9 = 17 dmg
+bleeder 27 dmg
+
+
 
