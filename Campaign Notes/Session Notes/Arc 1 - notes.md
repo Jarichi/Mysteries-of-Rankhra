@@ -870,7 +870,7 @@ Diviner 8
 Bleeder ?? full hp? 60???
 
 TURN ORDER: 
-hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
+hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, chrone
 
 ---
 -- session recap
@@ -898,6 +898,16 @@ bleeder 44dmg + tendrils
 ratronus hits bleeder
 hits for 8+9 = 17 dmg
 bleeder 27 dmg
+
+wanderer heavily obscures everything
+bonus action ranged attacj
+k marilyne
+11 dmg
+
+chrone
+nonlethal sphere cast, max dmg is 1d6
+
+sphere 
 
 
 
