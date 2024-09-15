@@ -983,4 +983,18 @@ hunter misses opportunity attack but ratronus makes it
 
 marrilyne opportunity attack
 pact weapon and unarmed
-19,
+
+6+1 = 7 dmg
+
+6 hp on wanderer
+
+wander 10 ft fly
+
+moonbeam hits aki 6 dmg
+aki 5 hp
+
+bonus ranged attack 10 dmg to marilyne
+
+marilyne flavours
+mega rage, transformation sequence, snarls and big angry
+turnes into a vampiure
