@@ -332,6 +332,24 @@ bleeder wil compliment the gang on their combat prowess but hoped everyone would
 	- Potion of healing
 
 
+## Session 7
+
+todo: make a more usable template and structure so that the party will actually talk to the npcs so they get interesting information
+	did plant the seed for interest in diviner who sells stuff
+
+anyway, VERY IMPORTANT!
+
+[[A1 SQ2 - Hunting Trip!]]
+
+side-mission for hunting an auroch to get the spline.
+	objective: hunt a large auroch to get Aki the spline that increases her ac to 21, making her effectively invincible. (side note, I'm happy she has reasonably low hp considering the damage she can deal and the defensive resources she has.)
+	**true objective:** teach the party, without outright telling them, that leaving the hunter tribe removes important memories of the party about the existence of the hunter tribe.
+		happens due to Badawi's influence, to protect the wandering hunter tribe from being discovered. the sandstorm also helps with this.
+		the DC for preventing total memory loss is 20.
+			below 20, memories get wiped and requires an appropriate check if they attempt to remember things from inside the hunter tribe.
+			above 20, only core memories get removed and less important stuff about the existence is retained.
+		core memories about the tribe include crucial information about the true identity of the members, all possible information about the concepts, contents of the trial and shop, the effects of the owlcat
+
 - When I notice the party getting stuck/finished, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
