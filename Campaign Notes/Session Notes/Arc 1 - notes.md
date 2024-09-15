@@ -946,7 +946,22 @@ hunter
 smacks hammer on wanderer,
 misses
 
+bleeder
+shouve hit, but silvery barbs
+so misses
+bite misses
 
+aki
+attacks weaver
+misses
 
+weaver
+magic missile 
+aki 7 smg
+11 hp
 
+FLAMING SPHERE
+ bleeder fucking dies
 
+marilyne
+attempts ot eldritch blast weaver
