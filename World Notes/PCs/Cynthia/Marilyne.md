@@ -8,10 +8,11 @@ mostly self centered and self-importance.
 
 Was present during the construction of rankhra
 
+
+
+## Role in story
+
 Guardian of concept of reflection. Tasked with protecting the concepts. Possesses the only non-physical key of a concept. Has amnesia. Before getting back memory, she unconsciously has a desire to know about the concepts -> fredrick torture. Is now evil because she's drawn to the concepts. Tags along with party for a reason she can't describe.
-
-
-
 
 ## Summary of cynthia's backstory
 Helena taught her everything she knows
