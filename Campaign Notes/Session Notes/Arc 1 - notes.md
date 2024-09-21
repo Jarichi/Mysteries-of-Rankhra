@@ -763,6 +763,8 @@ marilyne tells thst chrone is kind of onto him
 
 marilyne is a little high on blood
 
+bleeder talks about how the hunter tribe knows he is a vampire, and asks marilyne to not telll anyone. they enjoy a glass of wine together.
+
 chrone -9gp as a kind thanks
 
 combat ensuessss
@@ -773,7 +775,6 @@ hunter, bleeder, aki, weaver, marilyne, ratronus, wanderer, diviner, chrone
 turn 1
 hunter: smacks wanderer with a msuket 11 dmg
 wanderer 41 hp
-action surge 
 
 bleeder: crossbow on chrone for 8dmh
 reaction aki for lay on hands 5+7 reduce so 1 dmg
@@ -855,3 +856,205 @@ I also enjoy preventing Chrone from dominating combat by simply denying his abil
 
 ---
 ## Session 6
+Combat status:
+**party**
+Hunter: 14 hp
+Aki 24 
+Chrone 26
+Ratronus 33
+marilyne 19 hp
+**Badawi**
+Wanderer 29
+Weaver 25
+Diviner 8
+Bleeder ?? full hp? 60???
+
+TURN ORDER: 
+hunter, aki, weaver, marilyne, ratronus, wanderer, chrone
+
+---
+-- session recap
+
+hunter deals 11 dmg to diviner
+
+
+diviner ko
+
+bleeder stunned
+succeded con save
+
+aki misses
+
+weaver magic missile
+aki 6 dmg, 
+chrone 3
+
+
+
+mari witch bolt on bleeder
+hits for 16 dmg
+bleeder 44dmg + tendrils
+
+ratronus hits bleeder
+hits for 8+9 = 17 dmg
+bleeder 27 dmg
+
+wanderer heavily obscures everything
+bonus action ranged attacj
+k marilyne
+11 dmg
+
+chrone
+nonlethal sphere cast, max dmg is 1d6
+
+hunter walks to wanderer and attemts to smack him
+misses
+
+bleeder misses
+
+aki attempts to hit bveleeder
+uses inspiration
+hits
+divine smite for 7+3+5+6 = 21
+bleeder 6 hp
+
+weaver casts mage armor
+bleeder ac is 15
+fails dex save
+	takes 6 dmg, has 11 dmg
+
+mari casts shatter
+bleeder and wanderer takes 13 dmg
+bleeder 1 hp
+wanderer 16 hp
+
+RATRONUS
+rapier attackj misses
+
+wanderer
+shilaylie on quarterstaff
+8
+aki reaction -8 dmg
+
+chrone
+frostbite on weaver
+fails con save -2 dmg
+23 hp
+ moves sphere
+
+hunter
+smacks hammer on wanderer,
+misses
+
+bleeder
+shouve hit, but silvery barbs
+so misses
+bite misses
+
+aki
+attacks weaver
+misses
+
+weaver
+magic missile 
+aki 7 smg
+11 hp
+
+FLAMING SPHERE
+ bleeder fucking dies
+
+marilyne
+attempts ot eldritch blast weaver
+16
+bruh
+ hits for 20 dmg wtf
+
+weaver 5 hp
+
+ratronus
+puppets wanderer
+
+succeeds con save
+silvery barbs makes it succeed NOOO
+drops quarter staff
+hunter misses opportunity attack but ratronus makes it
+	4 dmg
+12 hp
+
+marrilyne opportunity attack
+pact weapon and unarmed
+
+6+1 = 7 dmg
+
+6 hp on wanderer
+
+wander 10 ft fly
+
+moonbeam hits aki 6 dmg
+aki 5 hp
+
+bonus ranged attack 10 dmg to marilyne
+
+marilyne flavours
+mega rage, transformation sequence, snarls and big angry
+turnes into a vampiure
+
+big angy
+
+chrone
+frostbite on wanderer
+1dmg+ disadv on next turn
+wanferer 5 hp
+
+hunter
+heavy crossbow on wanderer
+piercing 10 dmg
+ wanderer ko
+
+aki misses
+
+weaver
+ko's aki
+12 dmg on hunter
+hunter 2 hp
+
+marilyne
+bites weaver
+hits
+non lethal unconscious
+drinks the blood
+
+returns to normal
+
+-- end combat
+
+sandstorm dispels, revealing the full camp
+
+npcs go back to their respective tents but not before callong out what the fuck happened with marilyne
+
+chrone choses to share that he has suspicions after speaking to bleeder
+
+marilyne attempts to make happy for ratronus
+
+some distrust from ratronus
+
+there are some questions being asked for roleplaying
+
+--enters the camp
+
+fuck they want to go to the unprepared forest
+
+they meet balthazar and ask about salazar
+
+aki shares her backstory and talks about her background as a feywild, and offers some significant magival items to get the splint for a discounted pricne
+
+ratronus buys whip for -250 gp
+
+marilyne buys for -340gp and promises a personal message to my brother
+
+potion
+
+--sidequest for auroch hunting
+
+--end session
+

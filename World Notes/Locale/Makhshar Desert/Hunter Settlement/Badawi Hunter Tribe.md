@@ -17,3 +17,4 @@ The memories you make while staying in the tribe will not leave the tribe. As su
 
 owlcat
 
+A noteable fact about the hunter tribe is that Bleeder - One of the important figures of the tribe - is a Dawnwalker vampire.
