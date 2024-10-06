@@ -375,7 +375,7 @@ Weaver will be very wary of Marilyne since she drank her fucking blood.
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
-	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marking - it will be clear once you arrive - and follow the direction of the ever-changing wind. Once, and only once the City appears on the horizon, you must immediately go against the wind, lest you end up someplace you shoul not be yet.
+	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marking - it will be clear once you arrive - and follow the direction of the ever-changing wind. Once, and only once the City appears on the horizon, you must immediately go against the wind, lest you end up someplace you should not be yet.
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
@@ -389,17 +389,20 @@ the motivation for the concept telling this information, is because it is time t
 - the combat and information of the badawi will take the good part of the day, and it will be daytime when they get back to the city.
 	- they will notice that, during the day, the shops they went to are closed and the market stalls seem to be more active
 	- there are more foreign merchants and a different version of the newspaper that they had gotten earlier is handed out in regular paper form
-		- articles are mainly ads about tourist traps
+		- The following articles are on the newspaper:
+			- Grand opening of brewing factory "The Alchemist's crucible"! Buying potions has never been this easy
+			- Shoka Engineering Collective announcing a secret endeavour in 2 weeks!
+				- An image of Hunter's shop is included in this article
+			- [tourist trap adverts]
+			- A small advert for Simic awareness with an address theat makes no sense for normal people but says a specific location in thieves' cant (Gloomspark District) in the 3rd domain.
 	- the city seems more lively, but reminds them of generic tourist city vibes.
 	- the people currently walking around are fancy types and well-off people visiting from other kingdoms, among which is Revium :3
 
 
-
-- the city guards seem to be alert, chron ratronus and hunter can tell that they are more alert than usual and the party may draw the conclusion that there seems to be something going on with the bandit groups
+- the city guards seem to be alert, chron, ratronus and hunter can tell that they are more alert than usual and the party may draw the conclusion that there seems to be something going on with the bandit groups
 	- the bandits are now going to be connected to a deeper network that is under investigation by the FIZ
-- if the party wants to inveatigate for criminal activity, they will notice that there are a few shift looking types lurking near market stalls.
-
-- Shiv's store is closed since he's just kinda sleeping, but he can be reached by channeling him through the comet (will hopefully teach them about communication)
+- 
+- Shiv's store is closed since he's just kinda sleeping, the shop has a sign that says to please message him on his comet for urgent matters.
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
 
@@ -407,11 +410,10 @@ the motivation for the concept telling this information, is because it is time t
 
 - hunter's garage is closed, so is the clothing store and the potion store.
 
-- the Great Library is indeterminate
 
 - if they want to investigate the market stalls, they will notice that they are all filed with souvenirs, like small temple statues and that type of junk. it's also wayy overpriced.
 
-- When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping the dnd equivalent of everclear.
+- When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping Eternalbright (everclear.
 	- This is Semyon, who will introduce himself as one of the founders of Lettered Lamenting and will call himself Sam.
 	- Semyon is a patient, observing man. He comes across as comforting and open, but knows very well to not give away more information than necessary. 
 
