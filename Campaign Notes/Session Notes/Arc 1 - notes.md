@@ -1066,4 +1066,18 @@ no long rest so barely any resources
 	only chrone ratronus and hunter have cool resources
 
 wis save
-only cynthia survives
+only cynthia succeeds
+
+marilyne wakes uo ratronus
+	fucking bewildered
+	some role play
+
+chrone has forest stealth that allows him to hide when he wants in foliage as if it were full cover
+
+ratronus also has hayfever
+
+hunter tracking
+	marilyne thinking what she shouldnt be forgetting due to the memory tampering
+
+
+
