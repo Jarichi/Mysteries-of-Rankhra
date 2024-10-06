@@ -328,7 +328,7 @@ bleeder wil compliment the gang on their combat prowess but hoped everyone would
 	- Splint: increases armor AC by 2, can be applied. 5000 gp
 	- Periapt of Wounded Closure: Stabilise on next turn if dead, 3000 gp
 	- Uncommon whip: 1d6+2, finesse weapon with 10ft reach., 500gp
-	- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar. Required for the extra magic item.
+	- Badawi statue: Same statue as the explorer has, however this one seems more refined and peculiar
 	- Potion of healing
 
 

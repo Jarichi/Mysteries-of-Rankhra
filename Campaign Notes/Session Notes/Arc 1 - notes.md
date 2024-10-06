@@ -1062,3 +1062,8 @@ no long rest :3
 
 everyone joins, reluctantly
 
+no long rest so barely any resources
+	only chrone ratronus and hunter have cool resources
+
+wis save
+only cynthia survives
