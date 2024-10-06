@@ -1095,5 +1095,12 @@ mari makes baby auroch noise
 
 noise -> distraction -> kill -> escape -> gbye!!!
 
+--initiative
+aki against aurochs
+initiative:
+auroch 1 - hunter - aki - auroch 2
+
+hunter hits auroch 2 for 14 dmg
+auroch 2 75-14=61
 
 
