@@ -1098,9 +1098,24 @@ noise -> distraction -> kill -> escape -> gbye!!!
 --initiative
 aki against aurochs
 initiative:
-auroch 1 - hunter - aki - auroch 2
+marilyine - ratronus - auroch 1 - hunter - aki - auroch 2
 
 hunter hits auroch 2 for 14 dmg
 auroch 2 75-14=61
+
+auroch 2 55
+
+everyone misses
+
+marilyne and hunter join
+marilyne casts ice storm
+
+auroch 1 fails: 21
+auroch 2 succeeds: 10
+
+auroch 2 45
+auroch 1 65
+
+ratronus: crossbow disadv hit: 
 
 
