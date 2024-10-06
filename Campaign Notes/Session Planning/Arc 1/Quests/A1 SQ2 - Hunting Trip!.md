@@ -11,11 +11,3 @@
 			- Dex and strength based.
 
 - after the auroch has been dealt with, the party can make their way back to the camp upon which they get their memories back, together with hopefully a conclusion that they need to write down or prove the existence of the hunter tribe in a way that allows them to take the knowledge with them.
-
-
-
-
-
-- after completing the challenge, they may bring an auroch back to camp either dead or alive (but like most likely alive in a state of suspension or something or pacified or whatever)
-- idk
-- 
