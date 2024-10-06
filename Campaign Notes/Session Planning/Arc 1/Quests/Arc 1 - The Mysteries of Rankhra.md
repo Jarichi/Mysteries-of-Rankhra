@@ -334,11 +334,6 @@ bleeder wil compliment the gang on their combat prowess but hoped everyone would
 
 ## Session 7
 ---
-#### Brainstorming - remove when finished
-todo: make a more usable template and structure so that the party will actually talk to the npcs so they get interesting information
-	did plant the seed for interest in diviner who sells stuff
-
-anyway, VERY IMPORTANT!
 
 [[A1 SQ2 - Hunting Trip!]]
 
@@ -351,11 +346,17 @@ side-mission for hunting an auroch to get the spline.
 			above 20, only core memories get removed and less important stuff about the existence is retained.
 		core memories about the tribe include crucial information about the true identity of the members, all possible information about the concepts, contents of the trial and shop, the effects of the owlcat as spiritual leader, including its name.
 
+- after the hunter mission is completed, Wanderer will ask about their little adventure and ask if anything strange had happened, and where they found the Auroch
+	- She might tell them about the fact that the mountains are very close, and that she's actually from the mountains.
+- She'll congratulate the party on completing the mission.
+- She'll offer to tell the party about the fact that the hunter tribe moves its location 
 returning to the hunter tribe will trigger some other dialogue with not bleeder this time since he's god plenty of screentime already. The next most interesting member for backstory-related things is Chrone (he hasn't got anything cool yet at the moment), which means that Wanderer will mention stuff.
 
 Weaver will be very wary of Marilyne since she drank her fucking blood.
+	refuse to avoid questions when marilyne is nearby since weaver does not really like her
+	
 
-debating whether I want to reveal the true names of the non-fey in the hunter tribe.
+
 
 
 
