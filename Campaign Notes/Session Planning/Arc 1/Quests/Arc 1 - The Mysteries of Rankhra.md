@@ -349,21 +349,16 @@ side-mission for hunting an auroch to get the spline.
 - after the hunter mission is completed, Wanderer will ask about their little adventure and ask if anything strange had happened, and where they found the Auroch
 	- She might tell them about the fact that the mountains are very close, and that she's actually from the mountains.
 - She'll congratulate the party on completing the mission.
-- She'll offer to tell the party about the fact that the hunter tribe moves its location 
-returning to the hunter tribe will trigger some other dialogue with not bleeder this time since he's god plenty of screentime already. The next most interesting member for backstory-related things is Chrone (he hasn't got anything cool yet at the moment), which means that Wanderer will mention stuff.
+- She'll offer to tell the party about the fact that the hunter tribe moves its location to a new location after a certain amount of time, following Badawi.
+- She'll also talk about a few interesting landmarks in the desert (including Zal'Aata)
+- Then she'll answer questions about other stuff etc and tells the party that Weaver, Diviner and Teller all know different bits and pieces about the lore of the hunter tribe, but since she's not originally from the desert, she only knows what she's seen herself.
+	- Not her, but a different NPC will mention that Badawi also seemed unusually interested in the party, and that they might wanna check this out as well.
+
 
 Weaver will be very wary of Marilyne since she drank her fucking blood.
 	refuse to avoid questions when marilyne is nearby since weaver does not really like her
 	
 
-
-
-
-
----
-#### Planning
-
-- When I notice the party getting stuck/finished, the owlcat will mysteriously appear again and will attempt to lead the party towards a certain area.
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
 - After observing the party, the owlcat will attempt to make contact with the party ]
@@ -380,7 +375,7 @@ Weaver will be very wary of Marilyne since she drank her fucking blood.
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
-	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marker, but must stay to the left of it until you **pass** the [thing], after which you need to turn around and pass the marker again while keeping it on your right side. If you don't do this, you may end up in a different place.
+	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marking - it will be clear once you arrive - and follow the direction of the ever-changing wind. Once, and only once the City appears on the horizon, you must immediately go against the wind, lest you end up someplace you shoul not be yet.
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
