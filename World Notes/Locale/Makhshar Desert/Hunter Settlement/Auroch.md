@@ -5,7 +5,7 @@ An auroch is a beast-like, large cow creature with very large horns. They genera
 The main auroch group lives near th eoasis, but when they go hunting, they 'branch' out to the Cornucopia streak to forage and hunt for smaller animals.
 ##### Strengths and weaknesses
 - strengths
-High amount of base strength, and not susceptible to pushing, moving and grappling attacks.
+High amount of base strength, and not susceptible to pushing, moving and most grappling attacks.
 High speed
 Typically live in packs
 - weaknesses

@@ -1056,5 +1056,5 @@ potion
 
 --sidequest for auroch hunting
 
---end session
-
+---
+## Session 7
