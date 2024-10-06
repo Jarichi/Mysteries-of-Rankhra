@@ -1050,7 +1050,7 @@ aki shares her backstory and talks about her background as a feywild, and offers
 
 ratronus buys whip for -250 gp
 
-marilyne buys for -340gp and promises a personal message to my brother
+marilyne buys [Periapt of Wounded Closure] for -340gp and promises a personal message to my brother.
 
 potion
 
@@ -1058,4 +1058,7 @@ potion
 
 ---
 ## Session 7
-we go off on hunting
+no long rest :3
+
+everyone joins, reluctantly
+
