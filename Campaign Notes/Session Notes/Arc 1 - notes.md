@@ -1079,5 +1079,17 @@ ratronus also has hayfever
 hunter tracking
 	marilyne thinking what she shouldnt be forgetting due to the memory tampering
 
+they go to the lake
+
+
+tactical puzzle: distract the aurochs and kill the youngin
+
+minor illusion + distraction?
+
+aki fox form, carefully distract the auroch
+mari as backup just in case they are spotted
+
+plan: ratronus in the water, aki fox form around the lake to get behind the aurochs and make noise, during distraction kill the child and get the fuck away
+
 
 
