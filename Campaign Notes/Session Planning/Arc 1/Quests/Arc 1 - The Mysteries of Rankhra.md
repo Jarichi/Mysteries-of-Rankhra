@@ -345,7 +345,7 @@ side-mission for hunting an auroch to get the spline.
 			below 20, memories get wiped and requires an appropriate check if they attempt to remember things from inside the hunter tribe.
 			above 20, only core memories get removed and less important stuff about the existence is retained.
 		core memories about the tribe include crucial information about the true identity of the members, all possible information about the concepts, contents of the trial and shop, the effects of the owlcat as spiritual leader, including its name.
-		More specifically, the party will remember the 
+			More specifically, the party will remember the location of the hunter tribe and will recognise them from somewhere but cannot remember where from (remembering requires a DC20 save)
 
 - after the hunter mission is completed, Wanderer will ask about their little adventure and ask if anything strange had happened, and where they found the Auroch
 	- She might tell them about the fact that the mountains are very close, and that she's actually from the mountains.
