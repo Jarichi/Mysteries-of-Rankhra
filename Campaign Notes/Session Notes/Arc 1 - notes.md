@@ -1058,3 +1058,4 @@ potion
 
 ---
 ## Session 7
+we go off on hunting
