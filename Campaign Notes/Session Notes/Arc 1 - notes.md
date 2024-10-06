@@ -1118,4 +1118,19 @@ auroch 1 65
 
 ratronus: crossbow disadv hit: 
 
+hunter hits auroch 2 30
+
+auroch scream to stop combat
+next turn stuff happens
+
+ratromus hits auroch 2
+auroch 2 24
+
+auroch 2 10
+
+aki disengage hits and has 7 hp
+aki no con save
+
+ice storm
+
 
