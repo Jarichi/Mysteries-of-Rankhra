@@ -1131,6 +1131,15 @@ auroch 2 10
 aki disengage hits and has 7 hp
 aki no con save
 
-ice storm
+ratronus shoots
+auroch 2 2 hp
 
+hunter shoots auroch 1 5 dmg
+60
 
+aki hits auroch 1 for 10+2
+
+-end session
+
+---
+end combat
