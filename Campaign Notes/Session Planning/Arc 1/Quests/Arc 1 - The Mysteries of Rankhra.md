@@ -413,7 +413,7 @@ the motivation for the concept telling this information, is because it is time t
 
 - if they want to investigate the market stalls, they will notice that they are all filed with souvenirs, like small temple statues and that type of junk. it's also wayy overpriced.
 
-- When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping Eternalbright (everclear.
+- When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping eternalbright (everclear).
 	- This is Semyon, who will introduce himself as one of the founders of Lettered Lamenting and will call himself Sam.
 	- Semyon is a patient, observing man. He comes across as comforting and open, but knows very well to not give away more information than necessary. 
 
