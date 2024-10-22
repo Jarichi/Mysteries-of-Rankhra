@@ -347,19 +347,47 @@ side-mission for hunting an auroch to get the spline.
 		core memories about the tribe include crucial information about the true identity of the members, all possible information about the concepts, contents of the trial and shop, the effects of the owlcat as spiritual leader, including its name.
 			More specifically, the party will remember the location of the hunter tribe and will recognise them from somewhere but cannot remember where from (remembering requires a DC20 save)
 
+
+## Session 8 (hopefully final session)
+
 - after the hunter mission is completed, Wanderer will ask about their little adventure and ask if anything strange had happened, and where they found the Auroch
-	- She might tell them about the fact that the mountains are very close, and that she's actually from the mountains.
+	- She will tell them about the fact that the mountains are very close, and that she's actually from the mountains.
 - She'll congratulate the party on completing the mission.
 - She'll offer to tell the party about the fact that the hunter tribe moves its location to a new location after a certain amount of time, following Badawi.
+	- Also mention that thye mustve notived that their memories were tampered with when they left, upon which she'll mention she doesn't know why this happens but that Diviner knows more about these weird phenomena.
 - She'll also talk about a few interesting landmarks in the desert (including Zal'Aata)
-- Then she'll answer questions about other stuff etc and tells the party that Weaver, Diviner and Teller all know different bits and pieces about the lore of the hunter tribe, but since she's not originally from the desert, she only knows what she's seen herself.
+- Then she'll answer questions about other stuff etc and tells the party that Weaver and Diviner and maybeeeee Teller all know different bits and pieces about the lore of the hunter tribe, but since she's not originally from the desert, she only knows what she's seen herself.
 	- Not her, but a different NPC will mention that Badawi also seemed unusually interested in the party, and that they might wanna check this out as well.
 
+
+### NPC talking events
+
+#### Weaver
 
 Weaver will be very wary of Marilyne since she drank her fucking blood.
 	refuse to avoid questions when marilyne is nearby since weaver does not really like her
 	
+ Intelligent Storyteller: He has visited Zal'Aata on numerous occasions and occasionally visits the Grand Library. He speaks very calmly and clearly in poetic terms.
+	- For general visitors, he can tell a great deal about historic knowledge about Zal'Aata, other cities in makhshar desert and the Phiaro River if prompted. For unworthy people, he only tells stories about the desert and none about the history of the tribe.
+	- He knows general history facts about the city if they ask for this, but knows no specifics about the temple exceot that the reason for its construction is secret knowledge (for unworthy people) and related to the Seven Concepts (for worthy people).
+	- He recommends the party to speak to others if they pass their test.
+#### Diviner
+- They are an alternative person enjoying weird trinkets and superstitious objects. Speaks in a stereotypical divine person way (floaty, soft, long words). Vaguely based on Terese. They imply to know the future of the people that enter their tent.
+	- For general visitors, they know about most common-knowledge myths and legends. Also knows the mythical origin of the Hunter Tribe but only taks about this after they have proven themselves.
+	 - Upon meeting them, they will give all party members a small trinket that may or may not be magical. An arcana roll indicates there are slight traces of something magical but nothing clear enough to define.
+		 - Aki: Dowsing rod
+		 - Hunter: Badawi feather
+		 - Chron: Bark of birch wood
+		 - Ratronus: crooked gold coin
+		 - Marilyne: small bone of indeterminate origin.
+	- After receiving the magical trinket, Diviner will light up a small vial of incense which will completely fill the tent with smoke, after which she vanishes.
 
+
+#### Teller?
+
+
+
+after speaking to the 
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
 - After observing the party, the owlcat will attempt to make contact with the party ]
