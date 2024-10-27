@@ -1162,3 +1162,11 @@ marilyne presti on aki for stinky
 
 mari and rat carry the auroch both and rolled combined 20+ so they succeed
 
+hunter is making a wagon of wood and stone
+
+nat 1 tho so no rope chances
+
+hunter uses rope and makes a carriage using his artisans tools
+	succeeds
+
+mari minor illusion on raven
