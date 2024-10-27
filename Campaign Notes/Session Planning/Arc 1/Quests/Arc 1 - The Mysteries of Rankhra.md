@@ -353,7 +353,7 @@ side-mission for hunting an auroch to get the spline.
 - after the hunter mission is completed, Wanderer will ask about their little adventure and ask if anything strange had happened, and where they found the Auroch
 	- She will tell them about the fact that the mountains are very close, and that she's actually from the mountains.
 - She'll congratulate the party on completing the mission.
-- She'll offer to tell the party about the fact that the hunter tribe moves its location to a new location after a certain amount of time, following Badawi.
+	- She'll offer to tell the party about the fact that the hunter tribe moves its location to a new location after a certain amount of time, following Badawi.
 	- Also mention that thye mustve notived that their memories were tampered with when they left, upon which she'll mention she doesn't know why this happens but that Diviner knows more about these weird phenomena.
 - She'll also talk about a few interesting landmarks in the desert (including Zal'Aata)
 - Then she'll answer questions about other stuff etc and tells the party that Weaver and Diviner and maybeeeee Teller all know different bits and pieces about the lore of the hunter tribe, but since she's not originally from the desert, she only knows what she's seen herself.

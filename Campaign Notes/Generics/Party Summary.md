@@ -27,7 +27,7 @@ Hunter
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 425gp
+- 930 gp
 
 Ratronus
 - 33 HP, 12 AC

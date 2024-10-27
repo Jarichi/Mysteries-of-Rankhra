@@ -1185,3 +1185,13 @@ memories are back
 
 long resto
 
+hunter lies +50gp
+
+chrone to diviner
+
+the rest to balthazar
+
+balthazar fails his investigation checkkk
+so aki gets +370gp
+
+everyone +100gp
