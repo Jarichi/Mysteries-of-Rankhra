@@ -410,7 +410,7 @@ badawi wil lsay this information out loud, except for the directions part, for w
 the motivation for the concept telling this information, is because it is time to explore where this world will head towards after eons of remaining static...
 
 - After the conversation, the concept will leave in a way that is fitting.
-- after the cinversation with Bahath, the party will return to the city and either report to verdant, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
+- after the cinversation with Bahath, the party will return to the city and either report to verdant, or something else happens. They might even go to erm that one guy, Shiv, to collect their reward after 
 
 - the combat and information of the badawi will take the good part of the day, and it will be daytime when they get back to the city.
 	- they will notice that, during the day, the shops they went to are closed and the market stalls seem to be more active
@@ -429,6 +429,10 @@ the motivation for the concept telling this information, is because it is time t
 	- the bandits are now going to be connected to a deeper network that is under investigation by the FIZ
 - 
 - Shiv's store is closed since he's just kinda sleeping, the shop has a sign that says to please message him on his comet for urgent matters, with an address pointing to the newspaper agency.
+- telling Shiv about the information. I will roll for [a magic item on table F](https://dungeonmastertools.github.io/) as per agreement.
+	- Cynthia will receive the ring of bravery
+	The rest rolls
+	
 
 
 - newspaper agencyt is opened of course, and run by  Raphaella
@@ -438,11 +442,10 @@ the motivation for the concept telling this information, is because it is time t
 	- She will refer the party to her boss, Raphaella, who is sitting in her office, but only if the party tells her an interesting story
 		- Kaya might be an antagonist trying to get info about the party.
 		- Perhaps a 1st domain secret research group ran by the Shoka Engineering collective
-	- The party needs to visit Raphaella to get information about how to use the comets for sending specific messages to other people, and she will mention that this is in principle an internal-use only comet that is intentiaonally limited to a list for approved recipiants, but she can change the programming if they so wish (100gp). (or pay a sum of money to send a message to any person (50gp), or buy a new comet entirely (not very expensive, 500gp unnegotiable)).
+	- The party needs to visit Raphaella to get information about how to use the comets for sending specific messages to other people, and she will mention that this is in principle an internal-use only comet that is intentiaonally limited to a list for approved recipiants, but she can change the programming if they so wish (100gp, depends on how much they tell kaya). (or pay a sum of money to send a message to any person (50gp), or buy a new comet entirely (not very expensive, 500gp unnegotiable)).
 - 
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
-
 - The Shoka Engineering Collective is closed as of now, there are posters on the wall for job offers (a particular manager)
 
 - hunter's garage is closed, so is the clothing store and the potion store.
