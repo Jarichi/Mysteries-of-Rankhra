@@ -1228,4 +1228,14 @@ who takes the compass
 
 rat gives his map of the underground 3rd domain to wanderer
 chrone gives money to wanderer
-mari visits bleeder and gives him a garnet 
+mari visits bleeder and gives him a garnet that reduces bloodthirst to lower levels!!!
+
+hunter and aki dont give anything
+
+chrone aki and mari knows
+	baldthazar
+	mari tells everyone the memory loss
+
+everyion eexcept aki and mari knows about the skydome
+
+corvuds is sent to 
