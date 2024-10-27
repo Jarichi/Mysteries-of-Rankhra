@@ -1263,7 +1263,18 @@ hunter revolver of the war mage 2d8 close range dmh
 
 ratronus ppies of the sewers summon swarm of rats 3 per 2 long rests
 
-the rest of the reward
+the rest of the reward +300gp
+
 
 
 shiv is kinda sad that marilyne roll
+
+everyone has marked coins
+
+marilyne -1 coin
+
+semyon orders Chrone to come to the research gang
+
+hunter is prepped
+rat is prepped
+
