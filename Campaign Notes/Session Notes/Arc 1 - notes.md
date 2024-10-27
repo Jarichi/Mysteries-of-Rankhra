@@ -1148,3 +1148,4 @@ NOTE: Marilyne bought the Periapt and exchanged all her money and message for th
 
 ## Session 8
 
+- session recap
