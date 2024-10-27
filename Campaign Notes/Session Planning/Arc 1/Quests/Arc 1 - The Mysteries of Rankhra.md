@@ -387,14 +387,11 @@ Weaver will be very wary of Marilyne since she drank her fucking blood.
 
 
 
-after speaking to the 
+after speaking to the final NPC, Bleeder will tell them that their spiritual leader wishes to speak with the party.
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
 - After observing the party, the owlcat will attempt to make contact with the party ]
-- preface the ceonversation that unbeknownst to the badawi hunters, leaving the camp will let memories of his choosing fade to the background of your mind. I will tell them that if they want to remember what will be said here, they will have to roll a n appropriate check or save, unless they write down or otherwise link the memory to something in a creative way.
-
-
-
+- preface the ceonversation that unbeknownst to most badawi hunters, leaving the camp will let memories of his choosing fade to the background of your mind. I will tell them that if they want to remember what will be said here, they will have to roll a n appropriate check or save, unless they write down or otherwise link the memory to something in a creative way.
 
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
@@ -408,8 +405,7 @@ badawi wil lsay this information out loud, except for the directions part, for w
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."
-- mention that this compass is a token of appreciation, but if they want its power, they need to return after they have found the other concepts and gotten their tokens.
-
+- mention that this compass is merely a token of appreciation and may prove useful in time.
 the motivation for the concept telling this information, is because it is time to explore where this world will head towards after eons of remaining static...
 
 - After the conversation, the concept will leave in a way that is fitting.
@@ -431,7 +427,7 @@ the motivation for the concept telling this information, is because it is time t
 - the city guards seem to be alert, chron, ratronus and hunter can tell that they are more alert than usual and the party may draw the conclusion that there seems to be something going on with the bandit groups
 	- the bandits are now going to be connected to a deeper network that is under investigation by the FIZ
 - 
-- Shiv's store is closed since he's just kinda sleeping, the shop has a sign that says to please message him on his comet for urgent matters.
+- Shiv's store is closed since he's just kinda sleeping, the shop has a sign that says to please message him on his comet for urgent matters, with an address pointing to the newspaper agency.
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
 
