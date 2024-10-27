@@ -384,7 +384,8 @@ Weaver will be very wary of Marilyne since she drank her fucking blood.
 
 
 #### Teller?
-
+went to the city, actual name is Ian Libra. He's currently present someplace in the city, the Hunter tribe will tell the party that Teller went to the city to gather some specific information based on the direction of their spiritual leader.
+- he's in te 
 
 
 after speaking to the final NPC, Bleeder will tell them that their spiritual leader wishes to speak with the party.
@@ -428,6 +429,12 @@ the motivation for the concept telling this information, is because it is time t
 	- the bandits are now going to be connected to a deeper network that is under investigation by the FIZ
 - 
 - Shiv's store is closed since he's just kinda sleeping, the shop has a sign that says to please message him on his comet for urgent matters, with an address pointing to the newspaper agency.
+
+
+- newspaper agencyt is opened of course, and run by  Raphaella
+	- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
+- Currently present people are a very stereotypical reporter girl named Kaya, who looks very busy and is writing loads of stuff when the party meets her
+	- Introduces herself as lead reporter, is writing about strange phenomena in the desert and general hot topics (currently writi)
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
 
