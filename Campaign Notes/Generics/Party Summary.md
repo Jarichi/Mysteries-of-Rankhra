@@ -18,7 +18,9 @@ Chron
 - OUT OF WILD SHAPE: heals 1d4+3 (per spell slot add 1d4) with healing word.
 - plenty of cool spells
 
-- 525gp
+
+
+- 514gp
 
 Hunter
 - 31 HP, 14 AC

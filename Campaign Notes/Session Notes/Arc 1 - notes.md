@@ -1219,3 +1219,13 @@ all kinds of knowledge has been shared, the notes are taken hopefully
 
 chrone: what concept re we looking for
 
+omg cynthia is smart as fuck
+	keeps the prescence and kinda remmebers her memories
+
+
+who takes the compass
+	marilynbe has the comapsndsa
+
+rat gives his map of the underground 3rd domain to wanderer
+chrone gives money to wanderer
+mari visits bleeder and gives him a garnet 
