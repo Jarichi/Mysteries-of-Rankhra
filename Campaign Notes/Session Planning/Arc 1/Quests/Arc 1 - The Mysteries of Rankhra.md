@@ -402,7 +402,7 @@ after speaking to the final NPC, Bleeder will tell them that their spiritual lea
 	- Mention that the unearthing of the temple has set fate in motion and indicates that it has begun.
 
 badawi wil lsay this information out loud, except for the directions part, for which he will "determine at random" who gets this information, to explore the trust this party has for each other. 
-	copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marking - it will be clear once you arrive - and follow the direction of the ever-changing wind. Once, and only once the City appears on the horizon, you must immediately go against the wind, lest you end up someplace you should not be yet.
+		copy paste: To reach the City of Change, you must follow a particular path through the Shifting Sands. You must go past the Marking - it will be clear once you arrive - and follow the direction of the ever-changing wind. Once, and only once the City appears on the horizon, you must immediately go against the wind, lest you end up someplace you should not be yet.
 
 - He will conclude the conversation by conjuring a small red-inlined gemstone compass with a badawi feather needle (still points towards north) with a description on it in a language nobody can read, yet knows the meaning of.
 	- Description reads "May discovery guide you."

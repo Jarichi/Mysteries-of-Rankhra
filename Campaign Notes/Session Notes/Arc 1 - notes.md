@@ -1238,4 +1238,21 @@ chrone aki and mari knows
 
 everyion eexcept aki and mari knows about the skydome
 
-corvuds is sent to 
+corvuds is sent to fetch a newspaper no other things
+
+ratronus is angry about simic awareness
+
++100gp for rat because of a 21 for pickpocket
+
+merchants are selling trinkets
+
+all articles except for shoka engineering collective
+
+fuck joris remembered the beef he had with shiv, to get the item they kinda lie
+
+chrone leaves to Verdant
+
+
+marilyne lies her ass off
+
+
