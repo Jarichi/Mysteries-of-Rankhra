@@ -1170,3 +1170,8 @@ hunter uses rope and makes a carriage using his artisans tools
 	succeeds
 
 mari minor illusion on raven
+
+combats ends
+
+aki helsp hunter to navigate
+	hunter history check
