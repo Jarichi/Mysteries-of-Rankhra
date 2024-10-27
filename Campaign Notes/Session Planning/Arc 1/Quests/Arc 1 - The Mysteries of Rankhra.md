@@ -467,6 +467,8 @@ the motivation for the concept telling this information, is because it is time t
 	- If they tell him about the hunter tribe, this will be confirmed.
 - he suggests that the temple can only be entered if someone in the party somehow meets a set of conditions, and is connected to whatever lies within.
 
+
+While talking, Semyon suddenly interrupts himself and tells the party that he received a message from one of his informants that something seems to be going on in [the next area] that has something to do with the Concepts and that 
 # End arc
 
 in the second arc, the campaign will be more mission focused and have clearer structure.

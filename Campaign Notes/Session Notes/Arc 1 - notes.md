@@ -1145,3 +1145,6 @@ aki hits auroch 1 for 10+2
 end combat
 
 NOTE: Marilyne bought the Periapt and exchanged all her money and message for this.
+
+## Session 8
+
