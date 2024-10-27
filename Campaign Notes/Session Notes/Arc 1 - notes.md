@@ -1255,4 +1255,15 @@ chrone leaves to Verdant
 
 marilyne lies her ass off
 
+marilyne bravery ring
 
+chrone scimitar +1
+
+hunter revolver of the war mage 2d8 close range dmh
+
+ratronus ppies of the sewers summon swarm of rats 3 per 2 long rests
+
+the rest of the reward
+
+
+shiv is kinda sad that marilyne roll
