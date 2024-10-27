@@ -1195,3 +1195,8 @@ balthazar fails his investigation checkkk
 so aki gets +370gp
 
 everyone +100gp
+
+aki has a splint!!!
+
+chrione perspective shift
+

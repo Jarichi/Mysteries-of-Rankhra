@@ -7,7 +7,7 @@ Aki
 - Heals 15 HP
 - 
 
-- 509gp, 5sp
+- 370gp
 
 Chron
 - 27 HP, 13 AC (base)
