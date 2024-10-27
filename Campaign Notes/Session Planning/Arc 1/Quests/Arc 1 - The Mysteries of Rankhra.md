@@ -443,6 +443,8 @@ the motivation for the concept telling this information, is because it is time t
 		- Kaya might be an antagonist trying to get info about the party.
 		- Perhaps a 1st domain secret research group ran by the Shoka Engineering collective
 	- The party needs to visit Raphaella to get information about how to use the comets for sending specific messages to other people, and she will mention that this is in principle an internal-use only comet that is intentiaonally limited to a list for approved recipiants, but she can change the programming if they so wish (100gp, depends on how much they tell kaya). (or pay a sum of money to send a message to any person (50gp), or buy a new comet entirely (not very expensive, 500gp unnegotiable)).
+		- Raphaella has an 18 int so that means a +4 bonuis
+		- 
 - 
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
