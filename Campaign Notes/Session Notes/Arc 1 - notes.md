@@ -1175,3 +1175,11 @@ combats ends
 
 aki helsp hunter to navigate
 	hunter history check
+
+hunter and chrone
+
+aki rat and mari
+
+
+memories are back
+
