@@ -1215,3 +1215,7 @@ MARILYNE gets the bone of her old lover
 badawi taslkin
 
 
+all kinds of knowledge has been shared, the notes are taken hopefully
+
+chrone: what concept re we looking for
+
