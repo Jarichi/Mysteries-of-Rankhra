@@ -1156,3 +1156,9 @@ aki 22hp no more lay on hands
 aki entered water
 
 hunter kills the aurich
+
+marilyne presti on aki for stinky
+	failed con save
+
+mari and rat carry the auroch both and rolled combined 20+ so they succeed
+
