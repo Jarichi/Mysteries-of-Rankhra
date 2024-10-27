@@ -1200,3 +1200,12 @@ aki has a splint!!!
 
 chrione perspective shift
 
+lore drop about the sandstorm and items
+lore about the ancient creature
+only chrone knows this.
+	leaves a gold coin for diviner
+
+evereyogone to the lkeadwer
+
+
+chrone gives the items to everyone
