@@ -1149,3 +1149,10 @@ NOTE: Marilyne bought the Periapt and exchanged all her money and message for th
 ## Session 8
 
 - session recap
+
+message from ratronus
+lay on hands
+aki 22hp no more lay on hands
+aki entered water
+
+hunter kills the aurich
