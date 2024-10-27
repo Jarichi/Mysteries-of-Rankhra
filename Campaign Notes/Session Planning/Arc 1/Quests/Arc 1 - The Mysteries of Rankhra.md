@@ -434,7 +434,12 @@ the motivation for the concept telling this information, is because it is time t
 - newspaper agencyt is opened of course, and run by  Raphaella
 	- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
 - Currently present people are a very stereotypical reporter girl named Kaya, who looks very busy and is writing loads of stuff when the party meets her
-	- Introduces herself as lead reporter, is writing about strange phenomena in the desert and general hot topics (currently writi)
+	- Introduces herself as lead reporter, is writing about strange phenomena in the desert and general hot topics (currently writing about an increase in crime, and writing about a breakthrpugh in the city history)
+	- She will refer the party to her boss, Raphaella, who is sitting in her office, but only if the party tells her an interesting story
+		- Kaya might be an antagonist trying to get info about the party.
+		- Perhaps a 1st domain secret research group ran by the Shoka Engineering collective
+	- The party needs to visit Raphaella to get information about how to use the comets for sending specific messages to other people, and she will mention that this is in principle an internal-use only comet that is intentiaonally limited to a list for approved recipiants, but she can change the programming if they so wish (100gp). (or pay a sum of money to send a message to any person (50gp), or buy a new comet entirely (not very expensive, 500gp unnegotiable)).
+- 
 
 - the wizarding school is opened for the public, there seems to be plans made for a graduation magic tournament (might be plot relevant later)
 
