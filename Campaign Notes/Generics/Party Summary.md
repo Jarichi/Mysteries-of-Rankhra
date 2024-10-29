@@ -1,4 +1,4 @@
-### Party Stats
+### Party Stats - lvl 5
 Aki
 - 33 HP, 18 AC
 - Close-range Paladin avg 6 dmg

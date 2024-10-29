@@ -475,3 +475,6 @@ While talking, Semyon suddenly interrupts himself and tells the party that he re
 
 in the second arc, the campaign will be more mission focused and have clearer structure.
 i will have PLENTY of time to come up with more lore and worldbuilding
+
+--this planning is a guideline and not actually what happened. Notes contain a more complete timeline
+
