@@ -1278,3 +1278,12 @@ semyon orders Chrone to come to the research gang
 hunter is prepped
 rat is prepped
 
+semyon is introduced as open, but more information about the people 
+	rat and hunter know abouyt the letter
+
+
+---
+end kf arc 1
+
+- very happy
+
