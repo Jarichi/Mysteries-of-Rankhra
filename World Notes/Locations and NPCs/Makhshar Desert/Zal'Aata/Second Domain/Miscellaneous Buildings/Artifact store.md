@@ -1,1 +1,1 @@
-Run by [[Shiv Aaraka|Shiv Aaraka]].
+Run by [[Shivank Aaraka|Shiv]]. Sells, well, artifacts.
