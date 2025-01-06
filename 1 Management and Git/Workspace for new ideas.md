@@ -6,7 +6,7 @@ the crew then travels to an area that, when getting close the mystical push and 
 in this area, magic seems to be so thick and rich that it almost seems to manifest as a substance, forming either some form of liquid or some sort of dust or whatever, that mayt be harvested with an arcana and nature check depending on how you want to harvest it ((dc may be different based on what you do))
 there might also be torii gates, to hammer the kitsune stuff more intensely
 
-thhe first time the party goes here, they might  notice that while the magic is still as thick as ever, it feels more turbulent and chaotic in its flow, andmaybe there is a combat encounter against a group of magical monsters who can cast raw spells using the magic in the area. 
+thhe first time the party goes here, they might  notice that while the magic is still as thick as ever, it feels more turbulent and chaotic in its flow, and maybe there is a combat encounter against a group of magical monsters who can cast raw spells using the magic in the area. 
 
 maybe the area is reminiscent of a zen garden surrounded by torii gates, with a rock formation in the center, and originally, tracvelling through the 8 torii gates in a certain order opens a gateway to the feywild, but when the party does this, the gateway seeems to open, but collapses and leaves behind some sort of residue
 
@@ -33,3 +33,11 @@ hmm maybe this is later than the cocnept of reflection anyway...
 ## The guards!!
 I do need to think of something that describes the police force hierarchy in zal aata because there is about to be a criminal explosion which has been started by the overlords in ratronus' backstory and is fueled by bandits from other places entering the city. this might elad to the city becoming a more closed-off and private city due to restrictions on forign visitors entering the city
 this guard task force needs to have a hierarchy and relevant NPCs.
+
+
+## Transition
+Maybe the party will only be able to enter the temple, or the underground temple site currently protected by the Mycelio gang and its overlords, after gaining an artifact of the concept of change, concept of refleciton and concept of growth since these are all in close proximity with each other. and are kind of intrinsically linked.
+like, Im imagining Semyon giving the party a mission to go on some sort of exploring trip through the city to find out more about the Mycelio since there have been reports from the intelligence agency that there is some weird stuff going on underground.
+Perhaps, the party must go on some sort of stealth mission to find out more about this group, and through this mission they also discover that they need certain artifacts form the concepts (due to knowledge from the concept of exploration), ehich might lead nicely into the city of change arc where they attempt to go towards this, but actually end up at the concept of reflection
+
+perhaps this mission, after gaining knowledge about the concepts trough a library or something, they need to ask semyon to let them go or something?
