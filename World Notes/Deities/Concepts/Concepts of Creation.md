@@ -6,6 +6,8 @@ All Concepts are represented as a pure tone, or a certain musical phrase that ma
 Legends speak of all rhythms to form a composition that might have, at one point, resounded all throughout the universe when the God of Creation was still alive. The body of the God (being Crafted Life and Gentle Death) would represent the composition of this magnificent piece. Crafted Life was to represent the meter, timbre and other external parts, and Gentle Death was to represent the feeling, matter of playing and other internal parts. Together, they had guided the Concepts' tones and rhythms into one cohesive masterpiece, said to have shaped the universe.
 Remnants of these tones may still be found at the sites of the concepts, or in their manifestation.
 
+Strangely, all concepts are of a paradoxical nature. The concept of flow is contained in a sphere, the concept of whimsy is a well-defined location, the concept of reflection does not truly reflect, the concept of exploration follows a certain path (cymatics), the concept of change has a defined identity, the concept of connection has not been thought out yet and the concept of growth will never grow beyond being what it is now.
+
 ## List of Concepts and their Tones
 [[Concept of Flow]]
 - Represented as a constant stream of notes, all flowing directly into each other, without break.
@@ -15,7 +17,7 @@ Remnants of these tones may still be found at the sites of the concepts, or in t
 - Represented as an introspective piece that mirrors its movements along both bass and treble.
 [[concept of exploration]]
 - Represented as an experimental jazz composition, continuously evolving and trying new sounds.
-[[concept of change]]
+[[Concept of Change]]
 - Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
 [[Concept of connection]]
 - Represented as a connected piece that joins all of the earlier Concepts together.

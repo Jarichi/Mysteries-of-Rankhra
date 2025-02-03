@@ -1,6 +1,6 @@
 #location 
 Formerly known as the City of Change.
-[[concept of change]]
+[[Concept of Change]]
 tee hee shifter sity.
 
 inhabited by changelings
