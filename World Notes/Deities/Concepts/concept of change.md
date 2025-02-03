@@ -7,4 +7,7 @@
 
 The concept is a person. This changes everytime :3
 
-The Concept of Change is contained within the [[City of Change]], where it remains bounded. REpresented as a different creature at a specific time interval (probably a few days), the Concept of Change directly influences the City of Change, where 
+The Concept of Change is contained within [[Yataghatay]], where it remains bounded. Represented as a different creature at a specific time interval (probably a few days), the Concept of Change directly influences Yataghatay. During each period, the city exhibits a certain theme, where all inhabitants speak a certain language, are dressed in a certain style and behave a certain way. So far, no pattern has repeated itself, yet styles may be combined.
+Scholars are investigating whether these styles may be prophetic in nature, however, no conclusive evidence has been raised.
+
+It is represented by the Song of Shifting, as described in the [[Concepts of Creation]]. This Song also infl

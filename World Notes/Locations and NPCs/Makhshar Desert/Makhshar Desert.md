@@ -13,7 +13,7 @@ The Makhshar caves are a ginormous cave complex spanning a wide portion of the d
 ## Landmark 4 - Cornucopia Streak
 Assisted by the Concept of Growth and the Concept of Flow, the Cornucopia Streak is the home of [[Zal'Aata]]. This oasis contains many different species and provides a diverse and unique area in the desert. The Concept of Flow ensures plenty of water for all vegetation and creatures, and the Concept of Growth makes for increased Most importantly, [[Auroch]] have found their home here. The Concept of Growth is hidden away within the Circle of the Moon, behind a mountain range.
 ## Landmark 5 - Shifting Plains
-The ever-changing dunescape of the Shifting Plains contains a mysterious city rumoured to modify its appearance every single day (hint: see graph view) [[City of Change]]. (honestly the most interesting part of the desert imo). 
+The ever-changing dunescape of the Shifting Plains contains a mysterious city rumoured to modify its appearance every single day (hint: see graph view) [[Yataghatay]]. (honestly the most interesting part of the desert imo). 
 
 ## More landmarks are WIP
 
