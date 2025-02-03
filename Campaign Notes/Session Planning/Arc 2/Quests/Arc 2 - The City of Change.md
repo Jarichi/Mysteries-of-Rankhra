@@ -22,3 +22,13 @@ I guess the main todo list is as follows
 	- and by extension, the 2nd domain
 - create fun side missions that include puzzles and creative thinking
 - develop divine lore
+
+
+# Session 1
+- Semyon will be introduced. Note that he is not trusted.
+- He will ask about what they have accomplished, since Semyons informants have given him word about the arrival of the gang and assumes they have completed their mission.
+	- Gives reward
+- He will compliment their work.
+- Reason for showing up in person is because he believes that they have uncovered a very important fact about the forces that play a large role in the world.
+- He will send Chrone away on some mission related to the Concept of Growth.
+- Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so S

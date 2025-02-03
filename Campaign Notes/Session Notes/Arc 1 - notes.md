@@ -1269,7 +1269,7 @@ the rest of the reward +300gp
 
 shiv is kinda sad that marilyne roll
 
-everyone has marked coins
+everyone has marked coins from the badawi tribe iirc.
 
 marilyne -1 coin
 

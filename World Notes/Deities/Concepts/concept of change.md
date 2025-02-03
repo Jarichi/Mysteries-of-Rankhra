@@ -13,4 +13,4 @@ Scholars are investigating whether these styles may be prophetic in nature, howe
 It is represented by the Song of Shifting, as described in the [[Concepts of Creation]]. This Song also influences the current theme of the city, and if someone were to know the entire song (impossible, since this would go against the very nature of change), they could predict these themes.
 
 The Concept is closely linked to [[Semyon Voltaire]], him being essentially unaffected to the concept's whim, which might be tied to him being born right as a change was happening, causing the bond he would have with the Concept to be strengthened - for the Concept itself paradoxically has a core identity of being the Concept - and leading to Semyon having a fixed identity.
-Due to this, Semyon is the only person who is able to locate the concept 
+Due to this, Semyon is the only person who is able to locate the concept consistently.
