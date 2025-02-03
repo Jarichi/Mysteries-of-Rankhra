@@ -18,5 +18,6 @@ Remnants of these tones may still be found at the sites of the concepts, or in t
 [[concept of change]]
 - Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
 [[Concept of connection]]
-- Represented as a connected piece that joins all of the 
+- Represented as a connected piece that joins all of the earlier Concepts together.
 [[Concept of Growth]]
+- Represented as a piece, seemingly building to an ever-increasing crescendo.

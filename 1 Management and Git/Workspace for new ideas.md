@@ -41,3 +41,10 @@ like, Im imagining Semyon giving the party a mission to go on some sort of explo
 Perhaps, the party must go on some sort of stealth mission to find out more about this group, and through this mission they also discover that they need certain artifacts form the concepts (due to knowledge from the concept of exploration), ehich might lead nicely into the city of change arc where they attempt to go towards this, but actually end up at the concept of reflection
 
 perhaps this mission, after gaining knowledge about the concepts trough a library or something, they need to ask semyon to let them go or something?
+
+
+## HOW TO DEAL WITH TWAN
+MAybe He'll get a new mission that relates to the COncept of Growth, and he needs to be sent solo on this mission
+maybe he will become the new circle leader/elder of the circle of the moom.
+	maybe a small mission for the funny
+idk but thats's still in the future.
