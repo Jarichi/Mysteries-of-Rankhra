@@ -33,8 +33,8 @@ I guess the main todo list is as follows
 - He will send Chrone away on some mission related to the Concept of Growth.
 - Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so he has prepared a small mission for them.
 	- [[A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party. This will reveal lore about Hunter and what the Shoka Engineering Collective is up to.
-	- [[A2SQ2 - Probably bandit investigation]] - Investigate the rising prescence of criminality in the city. This will reveal lore about Ratronus.
+	- [[A2SQ2 - Probably bandit investigation]] - Investigate the rising prescence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing.
 	- [[A2SQ3 - Some other mission]] - Do stuff and be cool
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation.
 	- [[Zal'Aata - POIs]]
-- After completing at least one of these m
+- After completing at least one of these missions for a reward, something will happen that serves as a canon event.
