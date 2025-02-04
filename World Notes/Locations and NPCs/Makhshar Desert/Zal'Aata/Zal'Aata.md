@@ -29,3 +29,9 @@ The most notable feature of the Second Domain is the large amount of fabric cano
 Nighttime witnesses a migration towards the First Domain, where the city comes alive with bustling activity.
 ### [[Third Domain]] - Underneath the city
 Beneath the city's surface, the canal system not only serves as irrigation and sewage but also harbours the destitute and secretive criminal organisations. The Third Domain, hidden from the sun's harsh gaze, becomes a refuge for the city's poor. Meanwhile, shadowy figures in the criminal underworld maneuver in the subterranean labyrinth, weaving a web of intrigue and intelligence networks that influences the city's delicate balance.
+
+## Utilities
+### Public transport
+Due to the presence of the Concept of Flow in Rankhra, the city's main method of transport is [[Canal Boat]]. Powered by either magical energy or more conventional means, these boats act as a ferry system that can move a reasonable number of people to various corners of the city. Each district has its own distribution centre. 
+### Energy generation
+The infinite supply of water from Rankhra naturally leads to water-powered energy generation. Due to the abundance of water, the main means of power is steam.
