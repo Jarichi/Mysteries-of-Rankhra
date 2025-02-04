@@ -34,4 +34,5 @@ Beneath the city's surface, the canal system not only serves as irrigation and s
 ### Public transport
 Due to the presence of the Concept of Flow in Rankhra, the city's main method of transport is [[Canal Boat]]. Powered by either magical energy or more conventional means, these boats act as a ferry system that can move a reasonable number of people to various corners of the city. Each district has its own distribution centre. 
 ### Energy generation
-The infinite supply of water from Rankhra naturally leads to water-powered energy generation. Due to the abundance of water, the main means of power is steam.
+The infinite supply of water from Rankhra naturally leads to water-powered energy generation. Due to the abundance of water, the main means of power is steam. Steampunk is a thing here.
+

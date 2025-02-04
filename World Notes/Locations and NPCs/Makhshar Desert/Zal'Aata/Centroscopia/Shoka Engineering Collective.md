@@ -6,7 +6,7 @@ Located within the center of Zal'Aata and lead by [[Everon Lunares]], they guide
 # Goals
 The Shoka Engineering Collective stands as a beacon of innovation and a breeding ground for advanced technologies. Its primary goal is to propel Zal'Aata to the top of technological discoveries, ensuring that the city remains a beacon of progress and prosperity. Through exhaustive research and experimentation, the organisation continuously develops new technologies.
 
-They are currently in possession of the [[The Book of Life (magic item)|Book of Life]], and are actively sacrificing people to it in order to read about events in the future. They are also loking for a way to channel one's life enrgy to a different person, so a more "important" person may read their future at the cost of a different human life.
+They are currently in possession of the [[The Book of Life (magic item)|Book of Life]], and are actively sacrificing people to it in order to read about events in the future. They are also looking for a way to channel one's life energy to a different person, so a more "important" person may read their future at the cost of a different human life. These inventions are punblished in a separate journal.
 # Notable contributions
 ## Transportation
 They are responsible for allowing the Phiaro Channel to form by cleverly routing the limitless supply of water coming from Rankhra to premade channels and passageways, allowing for the water to carve the channel, allowing for a shorter route through the desert and in turn enabling exhaustive trading to occur.
