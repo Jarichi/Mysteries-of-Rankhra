@@ -2,7 +2,7 @@
 
 ## Basic Info
 ### Etymology
-The name Zal'Aata comes from somewhere.
+The name Zal'Aata comes from somewhere. Most likely, Zal is derived from "flow" and Aata is the general word for City.
 ### Origin and general information
 Ancient texts and legends speak of a mysterious temple, shrouded in the mists of time and whispered to be the wellspring of life itself. This enigmatic landmark mysteriously provides a limitless supply of water within certain bounds. Within these limits, the city [[Zal'Aata]] was founded, making use of the mysterious powers of the temple - dubbed [[Rankhra]] by its denizens, signifying the life-giving properties of the temple - and developing into a stable and prosperous metropolis, brimming with people and community.
 

@@ -1,6 +1,8 @@
 #group 
-### Etymology
+### Etymology and General Info
 Sheikah :3
+
+Alignment: probably some shade of neutral evil, since they are willing to bend laws to fulfill their own needs - being at the top of developement.
 # Description
 Located within the center of Zal'Aata and lead by [[Everon Lunares]], they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[ResearchGroup]]
 # Goals
@@ -9,7 +11,7 @@ The Shoka Engineering Collective stands as a beacon of innovation and a breeding
 They are currently in possession of the [[The Book of Life (magic item)|Book of Life]], and are actively sacrificing people to it in order to read about events in the future. They are also looking for a way to channel one's life energy to a different person, so a more "important" person may read their future at the cost of a different human life. These inventions are punblished in a separate journal.
 # Notable contributions
 ## Transportation
-They are responsible for allowing the Phiaro Channel to form by cleverly routing the limitless supply of water coming from Rankhra to premade channels and passageways, allowing for the water to carve the channel, allowing for a shorter route through the desert and in turn enabling exhaustive trading to occur.
+They are responsible for allowing the Phiaro Channel to form by cleverly routing the limitless supply of water coming from Rankhra to pre-made channels and passageways, allowing for the water to carve the channel, allowing for a shorter route through the desert and in turn enabling exhaustive trading to occur.
 They have also designed machinery that makes it easier for citizens to travel within the city and the desert by crafting automatic cars, public transport and a sort of desert gliding boat, powered by magical energy or regular energy, depending on the needs of the users.
 ## Infrastructure
 The organisation has crafted simple things like streetlights and neon signage, to complex structures like the [[Aether Firmament]], made possible by a combination of artificers and wizards, constructing what might be the largest magical artifact in the direct area.
