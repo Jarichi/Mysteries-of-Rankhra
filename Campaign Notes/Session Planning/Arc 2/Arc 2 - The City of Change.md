@@ -28,6 +28,7 @@ I guess the main todo list is as follows
 - Semyon will be introduced. Note that he is not trusted.
 - He will ask about what they have accomplished, since Semyons informants have given him word about the arrival of the gang and assumes they have completed their mission.
 	- Gives reward
+	- I might also use the explaining that "semyon got information from informants etc" to substitute as a small recap for what happenedlast campaign/
 - He will compliment their work.
 - Reason for showing up in person is because he believes that they have uncovered a very important fact about the forces that play a large role in the world.
 - He will send Chrone away on some mission related to the Concept of Growth.
