@@ -1,6 +1,6 @@
 ## Rewards
-- 1
-- 2
+- 1. Possible communication with engineering collective (they are the bad guys lol)
+- 2. 
 - 3
 
 # Summary
@@ -36,4 +36,27 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - SHe DOESN't know how much information has been gathered
 - She als does not know precisely what sources submit their information to her.
 - If the party is finished talking, they are either sent away (and before they leave, forced to stay because sabrina pressed a secret button or something, and the party may roll a perception if they saw this)
-- If they play their cards 
+- If they play their cards right, they are sent to 
+	- [[Raphaella Sophronia Galani]] - actual leader of Temple News 
+		- Wis+5
+		- Int+5
+		- Cha:-1
+		- str:-0
+- Speaking to her will be like
+	- Speaking to the quiet kid
+	- Keen look in her eyes but insecure demeanour
+	- easily intimidated, but does know how to deal with this in a smart way
+	- autism
+- SHe essentially knows what Sabrina didn't
+- Is familiar with Semyon and Verdant
+	- Points out how everyone seems to have a strange Comet, except for Hunter
+		- Correctly assumes that Hunter got his pendant given to him with involvement from the Engineering Collective
+	- The reason why she is in an aluminium room (blocks magic)
+- Determined in her pursuit of knowledge
+	- Informs the party on the secret newspaper for only the elite
+	- this contains more of the rankhra mystery knowledge, since it seems like one member of the elite is keenly interested in the secrets of Rankhra
+- Offers to adapt the Comet to transfer a copy of messaging that they receive from Verdant and Semyon to the central crystal
+	- If accept (which is stupid), until it is discovered, all information is forwarded to the engineering collective
+	- If refuse (which is smart), Raphaella will be very understanding and offers a different way to stay in contact with her via a small modification for the comet.
+		- I hereby make it canon that comets are often customised with accessories
+- some more things but this is enough storywriting
