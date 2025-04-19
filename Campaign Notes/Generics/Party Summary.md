@@ -31,29 +31,33 @@ Significant inventory:
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 930 gp
+- 1380 gp
 
 Significant inventory:
 - revolver of the war mage - 2d8 damage, close range
 
 
 ## Ratronus
-- 33 HP, 12 AC
+- 33 HP, 13 AC
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-	- 496gp
+	- 704gp
 
-Significant invenmtory
+Significant inventory
 - Pipes of the Sewers - Summons 1x swam of rats, maximum of 3. Recharges every 2 long rests
+- Cloak of Stealth
 ## Marilyne
-21hp (effective) 13 AC
+31hp (effective) -  13 AC
 warlock with fuckery
 
 - 300gp
 
-Significant inventory:L
-- Ring of bravery  - Advantage on saves against being frightned or charmed,
+Significant inventory:
+- Ring of bravery  - Advantage on saves against being frightned or charmed
+- PERIAPT OF WOUNDED CLOSURE - Sturdy
+- mirror of pespective
+- Blood potion
 
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
