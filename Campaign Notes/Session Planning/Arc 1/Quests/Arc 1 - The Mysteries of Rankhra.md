@@ -420,7 +420,7 @@ the motivation for the concept telling this information, is because it is time t
 			- Shoka Engineering Collective announcing a secret endeavour in 2 weeks!
 				- An image of Hunter's shop is included in this article
 			- [tourist trap adverts]
-			- A small advert for Simic awareness with an address theat makes no sense for normal people but says a specific location in thieves' cant (Gloomspark District) in the 3rd domain.
+			- A small advert for Simic awareness with an address threat makes no sense for normal people but says a specific location in thieves' cant (Gloomspark District) in the 3rd domain.
 	- the city seems more lively, but reminds them of generic tourist city vibes.
 	- the people currently walking around are fancy types and well-off people visiting from other kingdoms, among which is Revium :3
 
