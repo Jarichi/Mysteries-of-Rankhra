@@ -61,13 +61,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - She will only point out and investigate the difference between the comets if the party allows her to see them
 	- SHe will ask where they got the comet from, and hmm
 	- Do remember that i there is a leak in the communcation somewhere, the leak is through Hunter since his comet is not one of Semyon.
-- Will she point out that whomever made the co
-
-- Offers to adapt the Comet to transfer a copy of messaging that they receive from Verdant and Semyon to the central crystal
-	- If accept (which is stupid), until it is discovered, all information is forwarded to the engineering collective
-	- If refuse (which is smart), Raphaella will be very understanding and offers a different way to stay in contact with her via a small modification for the comet.
-		- I hereby make it canon that comets are often customised with accessories
-- some more things but this is enough storywriting
-- the party can choose to trust her and report in secret to her
-- note that if yes, she will be killed and if no she'll just carry on like nothing happened
-
+- Will she point out that whomever made the comets, is able to see any and all communication between them and log it somewhere?
+	- Implying that the engineering collective is actually responsible for a mass-spying op and that the mission they got from Semyon is essentially a f.i.z. investigation under guise of research
+		- the main goal for semyon is to see if the newspaper agency is compromised and if it can be used to counterspy.
+- Raphaella does want in for 'reasons'
