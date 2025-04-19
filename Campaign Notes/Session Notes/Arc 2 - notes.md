@@ -70,4 +70,8 @@ rapier on te hwall scarping
 aki rat above
 mari hunter down
 
-person upstairs 
+person upstairs is ready for combat
+
+person is hidden in the room acvross the door with slit and has a bow readied
+
+1x summon swarm of rats
