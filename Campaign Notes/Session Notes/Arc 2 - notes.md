@@ -34,7 +34,7 @@ everyone +350gp
 		- One of th houses is the same that ahs the flag hanin out of it
 
 the rats are scurrying down below
-	id yourself nigga
+	id yourself
 
 nimbleclimber simic
 young
@@ -49,3 +49,10 @@ when they arrive there are 2 significant places
 one house is one of the parents of the wizard that was killed
 one house is "empty" and only has an abndoned comet
 
+ratronus respects simics
+and euips cloac of stealth
+	adv on stealth
+
+I am gonna give them this guy :sob:
+
+shuttered home
