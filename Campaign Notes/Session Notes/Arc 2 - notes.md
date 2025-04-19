@@ -56,3 +56,18 @@ and euips cloac of stealth
 I am gonna give them this guy :sob:
 
 shuttered home
+use a crowbar
+
+This is the mission for th ebandits btw 9shouldve prerpped this)
+
+the door i not treapped
+
+empty roo mtable dead candle broken comet
+
+someone is in the house
+rapier on te hwall scarping
+
+aki rat above
+mari hunter down
+
+person upstairs 
