@@ -75,3 +75,5 @@ person upstairs is ready for combat
 person is hidden in the room acvross the door with slit and has a bow readied
 
 1x summon swarm of rats
+
+inisible guy
