@@ -118,3 +118,13 @@ rat hits 16 dmg
 -13
 Vanan now has 8 hp
 
+tried to tp away with scroll
+
+gets stopped by mari
+
+FINALLY tells his name
+
+tries to use a misty step but gets silvery barbed
+
+anddddd dies
+
