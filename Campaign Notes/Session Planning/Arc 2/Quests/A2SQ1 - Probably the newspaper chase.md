@@ -60,3 +60,6 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- If refuse (which is smart), Raphaella will be very understanding and offers a different way to stay in contact with her via a small modification for the comet.
 		- I hereby make it canon that comets are often customised with accessories
 - some more things but this is enough storywriting
+- the party can choose to trust her and report in secret to her
+- note that if yes, she will be killed and if no she'll just carry on like nothing happened
+- 
