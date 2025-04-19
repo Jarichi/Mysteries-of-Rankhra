@@ -77,3 +77,29 @@ person is hidden in the room acvross the door with slit and has a bow readied
 1x summon swarm of rats
 
 inisible guy
+
+marilyne waljs against
+
+small combat encounter (maybe they kill im)
+
+Thug 10
+
+Aki 16
+Mari 19
+Hunter 10
+Rat 21
+
+Rat - Mari = Aki = Thug (Name is Vanan) - Hunter
+
+Rat commands swarm 
+fails puppet spell
+"did you writ ethe article"
+	"what do you mean?"
+
+Mari cast hold person
+fails
+no shove
+
+Aki moves
+
+Hunter 
