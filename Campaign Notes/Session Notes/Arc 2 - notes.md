@@ -27,7 +27,7 @@ everyone +350gp
 
 - assassination mission
 	- reward 500gp
-- kill a goober that wants to consolidate power at the cost of the simic race
+- kill a goober that wants to get money and power at the cost of the simic race
 - lives in the gloomspark district
 	- same village as in the start
 	- 2 houses that are accessible to them
@@ -38,4 +38,14 @@ the rats are scurrying down below
 
 nimbleclimber simic
 young
+
+ratronus -20gp
+
+they go downstairs directly to gloomspark duistrict
+guided by the young bandage simic
+
+when they arrive there are 2 significant places
+
+one house is one of the parents of the wizard that was killed
+one house is "empty" and only has an abndoned comet
 
