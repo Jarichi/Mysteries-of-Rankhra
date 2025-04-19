@@ -27,4 +27,15 @@ everyone +350gp
 
 - assassination mission
 	- reward 500gp
-- kill a goober that wants to consolidate power at the cost o fth esimic ca
+- kill a goober that wants to consolidate power at the cost of the simic race
+- lives in the gloomspark district
+	- same village as in the start
+	- 2 houses that are accessible to them
+		- One of th houses is the same that ahs the flag hanin out of it
+
+the rats are scurrying down below
+	id yourself nigga
+
+nimbleclimber simic
+young
+
