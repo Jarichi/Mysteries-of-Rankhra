@@ -1,6 +1,6 @@
 ### Party Stats - lvl 5
 ## Aki
-- 33 HP, 18 AC
+- 40 HP, 18 AC
 - Close-range Paladin avg 6 dmg
 - Support Interception, reduce incoming dmg with 1d10+prof (2)
 - Support Spellcaster
@@ -9,7 +9,7 @@
 - 370gp
 
 Significant inventory:
-
+- Sentinel Shield - adv on initiative and perception, +2AC
 
 ## Chron
 - 27 HP, 13 AC (base)
@@ -25,7 +25,7 @@ Significant inventory:
 - 514gp
 
 ## Hunter
-- 31 HP, 14 AC
+- 39 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg
 - Attack Roll adv and +3 (?) dmg bonus against cattle beasts (rule 0)
 - Dizzying = disadv on atk rolls (CON)
@@ -38,7 +38,7 @@ Significant inventory:
 
 
 ## Ratronus
-- 33 HP, 13 AC
+- 44 HP, 13 AC
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 

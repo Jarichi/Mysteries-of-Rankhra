@@ -34,7 +34,7 @@ When they return to the research group, the party will notice the same customers
 		- Investigating Centroscopia is a social mission
 		- criminal gang is a sneak/combat mission
 		- cities is an exploration mission
-	- **Depending on their choice, I klnow what to focus on
+	- **Depending on their choice, I know what to focus on
 	- **also, it might be the case that ****
 - Semyon knows surface-level lore about the concepts and suspects that rankhra might contain something related to this. He has investigated janib'rankhra (if the party returns to this temple with the compass, they will notice (after perception) that it mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
 - he believes, based on other knowledge, that the magical barrier of the temple may only allow people in that are somehow accepted or tried by the concept.
