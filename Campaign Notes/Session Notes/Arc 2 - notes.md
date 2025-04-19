@@ -5,3 +5,9 @@
 these children
 
 rat and hunter do no trust semyon
+
+rat asks how close
+
+they decide to wait until verdant is here
+	very smart
+
