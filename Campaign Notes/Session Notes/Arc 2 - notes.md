@@ -102,4 +102,12 @@ no shove
 
 Aki moves
 
-Hunter 
+Hunter Winging shot
+Hits and prones
+4 dmg vanan
+extra attack
+11 dmg
+
+Vanan: "who the fuck are yall"
+
+zone 
