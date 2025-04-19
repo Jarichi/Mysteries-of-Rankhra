@@ -110,4 +110,11 @@ extra attack
 
 Vanan: "who the fuck are yall"
 
-zone 
+zone of truthhh
+
+ratronus asks whether Vanan was responsible for the spreading of the news article
+aki tries to block ratroinus kill attack on Vanan, fails
+rat hits 16 dmg
+-13
+Vanan now has 8 hp
+
