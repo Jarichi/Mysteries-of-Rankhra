@@ -128,3 +128,15 @@ tries to use a misty step but gets silvery barbed
 
 anddddd dies
 
+Gentle death rejects his ass
+	and marilyne notices
+
+ratronus -1 dagger and pickpocklets
+
+hunter +15 gp
+small thingy of names
+
+---
+end session
+
+honestly not even that mad
