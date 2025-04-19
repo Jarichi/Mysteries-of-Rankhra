@@ -23,7 +23,7 @@ Significant inventory:
 
 
 - 514gp
-
+p
 ## Hunter
 - 39 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg

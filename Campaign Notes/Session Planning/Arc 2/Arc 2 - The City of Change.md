@@ -24,7 +24,7 @@ I guess the main todo list is as follows
 - develop divine lore
 
 
-# Session 1
+# Session 9
 When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping eternalbright (everclear).
 	- This is Semyon, who will introduce himself as one of the founders of Lettered Lamenting and will call himself Sam.
 	- Semyon is a patient, observing man. He comes across as comforting and open, but knows very well to not give away more information than necessary. 
@@ -34,8 +34,7 @@ When they return to the research group, the party will notice the same customers
 		- Investigating Centroscopia is a social mission
 		- criminal gang is a sneak/combat mission
 		- cities is an exploration mission
-	- **Depending on their choice, I know what to focus on
-	- **also, it might be the case that ****
+	- **Depending on their choice, I know what to focus on **
 - Semyon knows surface-level lore about the concepts and suspects that rankhra might contain something related to this. He has investigated janib'rankhra (if the party returns to this temple with the compass, they will notice (after perception) that it mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
 - he believes, based on other knowledge, that the magical barrier of the temple may only allow people in that are somehow accepted or tried by the concept.
 	- If they tell him about the hunter tribe, this will be confirmed.
