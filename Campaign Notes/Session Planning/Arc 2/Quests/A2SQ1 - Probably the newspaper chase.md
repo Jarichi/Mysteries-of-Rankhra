@@ -1,6 +1,6 @@
 ## Rewards
 - 1. Possible communication with engineering collective (they are the bad guys lol)
-- 2. 
+- 2. Money
 - 3
 
 # Summary

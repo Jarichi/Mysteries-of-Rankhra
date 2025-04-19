@@ -25,9 +25,27 @@ I guess the main todo list is as follows
 
 
 # Session 1
+When they return to the research group, the party will notice the same customers as well as a gentleman in a flawless suit sitting at the bar, sipping eternalbright (everclear).
+	- This is Semyon, who will introduce himself as one of the founders of Lettered Lamenting and will call himself Sam.
+	- Semyon is a patient, observing man. He comes across as comforting and open, but knows very well to not give away more information than necessary. 
+
+- Semyon will ask the party about their current progress on the research about the temple and possible connections. He will also ask them to spend more time on researching the temple specifically.
+	- possible leads are old people in centroscopia specifically, criminal gangs in the 3rd domain, information of the perspective of other cities and people.
+		- Investigating Centroscopia is a social mission
+		- criminal gang is a sneak/combat mission
+		- cities is an exploration mission
+	- **Depending on their choice, I klnow what to focus on
+	- **also, it might be the case that ****
+- Semyon knows surface-level lore about the concepts and suspects that rankhra might contain something related to this. He has investigated janib'rankhra (if the party returns to this temple with the compass, they will notice (after perception) that it mostly looks the same, but looks too clean). and found the mural. He connects the dots and realises that the temple might be related to the mural.
+- he believes, based on other knowledge, that the magical barrier of the temple may only allow people in that are somehow accepted or tried by the concept.
+	- If they tell him about the hunter tribe, this will be confirmed.
+- he suggests that the temple can only be entered if someone in the party somehow meets a set of conditions, and is connected to whatever lies within.
+
+
 - Semyon will be introduced. Note that he is not trusted.
 - He will ask about what they have accomplished, since Semyons informants have given him word about the arrival of the gang and assumes they have completed their mission.
-	- Gives reward
+	- Gives reward (they have only gotten shiv's reward)
+		- 
 	- I might also use the explaining that "semyon got information from informants etc" to substitute as a small recap for what happenedlast campaign/
 - He will compliment their work.
 - Reason for showing up in person is because he believes that they have uncovered a very important fact about the forces that play a large role in the world.
