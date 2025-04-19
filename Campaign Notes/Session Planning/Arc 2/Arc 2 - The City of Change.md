@@ -50,7 +50,9 @@ When they return to the research group, the party will notice the same customers
 - Reason for showing up in person is because he believes that they have uncovered a very important fact about the forces that play a large role in the world.
 - He will send Chrone away on some mission related to the Concept of Growth.
 - Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so he has prepared a small mission for them.
-	- [[A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
+
+# Session 10
+- [[A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
 	- [[A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[Marcus]] again
 	- [[A2SQ3 - Some other mission]] - Do stuff and be cool Not an investigation mission because I already have 2 of those, but possibly some sort of helping a different party with this. This mission will give more cool lore about Marilyne (I feel like it might be a fun idea to balance their characters out a bit.)
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
@@ -61,4 +63,6 @@ When they return to the research group, the party will notice the same customers
 - This event will lead the party to explore towards the City of Change.
 	- Perhaps some sort of Changeling is found unconscious or insane and rambling about some cryptic line that might reference the strange occurrences with the Concepts (maybe some lines like "The songs are changing", "The rhythms have gone weird" idk), Semyon will be there as well together with Verdant and will bring the Changeling in for questioning or something.
 	- Semyon will then point towards the City of Change for the party to head towards.
-	- 
+
+Semyon will not tell the party directly about the city of change, but will do so in a way that arises the least amount of suspicion
+Telas Muses got her tattoo on her neck in teh city of change to be able to change her voice at will, and she knows a bit about the city.

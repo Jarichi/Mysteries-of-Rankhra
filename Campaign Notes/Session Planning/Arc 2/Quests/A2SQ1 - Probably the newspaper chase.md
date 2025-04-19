@@ -14,7 +14,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- Lots of pneumatic ducts where capsules with papers can be put into
 	- A large, central, blue crystal with a nighly pattern on it
 		- Obviously a comet
-		- Rolling high will note that while this crystal looks a lot like this one, you can see that for some reason, Hunter's comet seems identical while the other comets seem similar but way more different/
+		- Rolling high will note that while this crystal looks a lot like this one, you can see that for some reason, Hunter's comet seems identical while the other comets seem different
 	- a large amount of desks with people both typing furiously on typewrites and writing eagerly in papers, drawing images etc
 	- there is a billboard with what seems to be the latest edition
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
@@ -55,6 +55,14 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - Determined in her pursuit of knowledge
 	- Informs the party on the secret newspaper for only the elite
 	- this contains more of the rankhra mystery knowledge, since it seems like one member of the elite is keenly interested in the secrets of Rankhra
+
+
+- She points out how the engineering collective is behind the distribution and the construction of the comets.
+- She will only point out and investigate the difference between the comets if the party allows her to see them
+	- SHe will ask where they got the comet from, and hmm
+	- Do remember that i there is a leak in the communcation somewhere, the leak is through Hunter since his comet is not one of Semyon.
+- Will she point out that whomever made the co
+
 - Offers to adapt the Comet to transfer a copy of messaging that they receive from Verdant and Semyon to the central crystal
 	- If accept (which is stupid), until it is discovered, all information is forwarded to the engineering collective
 	- If refuse (which is smart), Raphaella will be very understanding and offers a different way to stay in contact with her via a small modification for the comet.
@@ -62,4 +70,4 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - some more things but this is enough storywriting
 - the party can choose to trust her and report in secret to her
 - note that if yes, she will be killed and if no she'll just carry on like nothing happened
-- 
+
