@@ -12,3 +12,7 @@ they decide to wait until verdant is here
 	very smart
 
 Aki Cure Wounds & 
+
+htey tell nopthig abnoiut the mission
+
+they lie about the mission but daan fumbles
