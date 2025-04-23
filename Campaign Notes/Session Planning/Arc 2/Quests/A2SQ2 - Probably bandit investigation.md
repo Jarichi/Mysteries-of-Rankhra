@@ -18,5 +18,4 @@ the greater underlying story for this mission will be along the lines of the fol
 	- When the party meets her, she will be in th eprocess of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.
 	- I do want the party to have some form of compassion for her tho. :3
 	- Dako used [[Vanan]] (who is not that important since hes dead) to spread this information
-
 - 
