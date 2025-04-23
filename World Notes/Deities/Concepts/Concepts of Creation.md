@@ -23,3 +23,5 @@ Strangely, all concepts are of a paradoxical nature. The concept of flow is cont
 - Represented as a connected piece that joins all of the earlier Concepts together.
 [[Concept of Growth]]
 - Represented as a piece, seemingly building to an ever-increasing crescendo.
+
+Note that the concepts essentially pick a group, association or other physical manifestation to execute their fundamental desire, and note that this operates outside of the standard framework of morality e.g. to manifest exploration, the concept of exploration is a mythical creature that effectively forces a group of hunters to explore the desert for eternity. They lose their memories in order to become fully devoted to their purpose.

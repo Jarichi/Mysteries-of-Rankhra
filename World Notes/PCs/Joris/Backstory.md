@@ -9,4 +9,4 @@ After escaping his opressors, Ratronus realised he required power to protect him
 ### DM notes
 - not sure if I wanna incorporate Elizabeth in this story but maybeeee
 - Overlords will definitely play a bigger role
-- 
+- [[Third Domain]]
