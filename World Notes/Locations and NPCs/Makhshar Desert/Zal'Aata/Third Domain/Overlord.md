@@ -5,8 +5,10 @@ While devoid of their own memories, they are not devoid of their original person
 
 If an Overlord goes outside their restraints, they are stripped of their power and memories and left as an empty shell.
 
+Overlords are monitored by the F.I.Z. and their movements are tracked accordingly.
 ## Location and Groups
 Overlords are a noteable feature of the [[Third Domain]], essentially acting as a mafia that offers protection and relative stability at the cost of receiving information.
 
 ## Noteable overlords
-- [[Azoren]] - The original overlord that controlled Ratronus' family; one of the oldest overlords and thereby innately familiar with the Concept's
+- [[Azoren]] - The original overlord that controlled Ratronus' family and one of the oldest overlordsm thereby innately familiar with the Concept's bounds. They live in close proximity to the concept of flow;
+- [[Elizabeth]] - Ratronus' former lover, who betrayed him and sacrificed their relationship, because she was chosen by the concept of flow to become an overlord - something that is not done lightly - But who has vowed to remain true to herself, to protect the concept of flow. She saw visions, essentially she was a seer;

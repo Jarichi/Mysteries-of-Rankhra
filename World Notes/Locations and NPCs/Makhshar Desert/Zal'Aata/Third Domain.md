@@ -14,6 +14,8 @@ Certain businesses traded information for real money and as such allowed for mat
 ### Culture
 Generally, inhabitans of the Third DOmain keep to themselves, unless affiliated with each other by means of gang activity or trusted groups. Due to the value of information, the inhabitants are careful not to reveal personal details about themselves, oftentimes going by different names and different appearances. THis enabled criminal activity to become widespread and more-or-less the norm.
 There is no clear day-night cycle or rhythm since there is no widespread access to natural daylight, except at the entry points. 
+
+Due to the prescence of [[Overlord|Overlords]], the reaon why information is more valuabe is because the concept unconsciously influences people to control the flow of their infom
 # Appearance
 The Third Domain is a literal subcity with sewer lines for streets and slum-like houses.![[sewer'aata.jpeg]]
 

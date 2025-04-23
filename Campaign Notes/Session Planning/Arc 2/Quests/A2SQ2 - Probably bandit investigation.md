@@ -12,4 +12,7 @@ the greater underlying story for this mission will be along the lines of the fol
 	- Why?
 		- Most likely has something to do with the concept of Flow, where the third domain (which is now where the concept is located, when entering the temple)
 		- The concept of flow stimulates the flow of power, and therefore stimulates everchanging shifts of power that may influence the flow of information
-- One of them is Marcus, who was a human that planned to ascend to the power of Overlord, by 
+- One of them is Marcus, who was a human that planned to ascend to the power of Overlord, by revealing that the overlords are traced by the F.I.Z. - hence why Semyon would be the original mission giver.
+	- Marcus has been killed by the party.
+- One of these Simics is [[Dako]] - A female Simic who is in the process of ascending to the position of Overlord, but who must prove herself worthy of the position fulfilling the requirements: Being able to turn a trickle of info into a stream, being able to control this stream and essentialy proving herself to be capable of controlling the flow of information.
+- 
