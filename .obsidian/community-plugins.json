@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-timelines",
-  "persistent-graph",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "metadata-extractor"
 ]
