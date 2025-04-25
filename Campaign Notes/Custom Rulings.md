@@ -10,12 +10,11 @@ Starting with 2 wild shapes, more can be earned
 amount is Level+WIS 
 Can swap spells per long rest ONCE.
 
-
 - HP
 Per level up, players are allowed to choose whether they want to get the average + 1 + bonus of their dice, or roll hit dice for extra HP.
 	for instance somebody rolls 2 ddice and picks one average for level up.
 
 - Proficiencies and Expertise
-If you have 2 proficiencies for the same ability, you get expertise.
+If you have 2 proficiencies for the same ability, you get expertise at dm discretion
 
 

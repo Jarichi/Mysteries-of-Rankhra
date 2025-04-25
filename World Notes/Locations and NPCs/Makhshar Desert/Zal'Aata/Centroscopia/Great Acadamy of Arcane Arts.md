@@ -1,2 +1,2 @@
 #location 
-Hogwarts but not written by a transphobic prick
+As of now, not much is known about this magic school.

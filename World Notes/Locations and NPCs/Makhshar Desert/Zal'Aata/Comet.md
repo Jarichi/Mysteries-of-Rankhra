@@ -1,5 +1,5 @@
 #object 
-*Flavor text*
-A small-profile arcane device developed by the [[Centroscopia/Shoka Engineering Collective]], used to transmit messages through the [[Aether Firmament]]
+*"A... 'phone'? I don't know what that word means."*
+A small-profile arcane device used to transmit messages via some medium.
 Resembles [this](https://nl.pinterest.com/pin/188940146850083993/) pendant.
 

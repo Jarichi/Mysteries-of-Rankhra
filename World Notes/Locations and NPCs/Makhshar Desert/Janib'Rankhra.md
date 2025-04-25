@@ -1,5 +1,5 @@
 #location 
 ### Entymology
 Literally means "Side'Rankhra".
-The place where [[../../PCs/Robin/Aki]] ended up after arriving in the mortal realm through the portal, and also the cause of the portal. This is obviously connected with the [[Ancients]].
-After dropping from the Feywild and praying to the Fey, she was sent to the city to possibly find a way back to the Feywild
+A mysterious temple located west of [[Zal'Aata]]. Previously buried, the temple has recently risen out of the ground under mysterious circumstances after solving a riddle, drawing quite a lot of attention.
+This temple contains a [[Strange Mural]], and a [[Mysterious Journal]], and the pillars around this temple somehow contained some information about the ones who discovered them...
