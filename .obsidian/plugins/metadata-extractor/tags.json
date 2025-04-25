@@ -3,8 +3,8 @@
     "tag": "pc",
     "tagCount": 3,
     "relativePaths": [
-      "World Notes/PCs/Twan/Chrone of the Woods.md",
       "World Notes/PCs/Robin/Aki.md",
+      "World Notes/PCs/Twan/Chrone of the Woods.md",
       "World Notes/PCs/Joris/'Rat' Tronus.md"
     ]
   },
@@ -17,16 +17,16 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Great Acadamy of Arcane Arts.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Phiaro Channel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Makhshar Desert.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Phiaro Channel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Settlement.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/City of Change/Yataghatay.md",
       "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md"
     ]
@@ -87,6 +87,14 @@
     ]
   },
   {
+    "tag": "hidden",
+    "tagCount": 2,
+    "relativePaths": [
+      "1 Management and Git/werkplaats Jaimy.md",
+      "1 Management and Git/push or pull.md"
+    ]
+  },
+  {
     "tag": "story",
     "tagCount": 1,
     "relativePaths": [
@@ -98,14 +106,6 @@
     "tagCount": 1,
     "relativePaths": [
       "Campaign Notes/Session Planning/Arc 1/Quests/A1 SQ1 - In 'Brewed' Daylight.md"
-    ]
-  },
-  {
-    "tag": "hidden",
-    "tagCount": 2,
-    "relativePaths": [
-      "1 Management and Git/werkplaats Jaimy.md",
-      "1 Management and Git/push or pull.md"
     ]
   }
 ]
