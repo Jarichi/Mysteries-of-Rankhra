@@ -19,5 +19,5 @@
 - [[Second Domain/Lettered Lamenting]] - Main missiongiver hub area
 - [[Second Domain/Miscellaneous Buildings/Artifact store]] - Run by Shiv, he sells cool shit for high prices, provides the occasional tidbit of info. Is a cool dude who may play a larger role in the story.
 # Third Domain
-- [[Gloomspark District]] - Totally not improvised
+- [[Third Domain/Gloomspark District]] - Totally not improvised
 - [[Third Domain/Mycelio]] - An elusive criminal organisation. Perhaps they have more to say...

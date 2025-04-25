@@ -1,5 +1,5 @@
 #biologics 
-Physical manifestation of the [[Concept of Exploration]]. It appears to protect the hunter tribe from harm, and appears to move around the desert in a totally random path.
+Physical manifestation of the [[../../../Deities/Concepts/Concept of Exploration]]. It appears to protect the hunter tribe from harm, and appears to move around the desert in a totally random path.
 
 OWLCAT OWLCAT!!!
 
