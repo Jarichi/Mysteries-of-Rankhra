@@ -12,10 +12,14 @@ the greater underlying story for this mission will be along the lines of the fol
 	- Why?
 		- Most likely has something to do with the concept of Flow, where the third domain (which is now where the concept is located, when entering the temple)
 		- The concept of flow stimulates the flow of power, and therefore stimulates everchanging shifts of power that may influence the flow of information
-- One of them is Marcus, who was a human that planned to ascend to the power of Overlord, by revealing that the overlords are traced by the F.I.Z. - hence why Semyon would be the original mission giver.
-	- Marcus has been killed by the party.
+	- One of them is Marcus, who was a human that planned to ascend to the power of Overlord, by revealing that the overlords are traced by the F.I.Z. - hence why Semyon would be the original mission giver.
+		- Marcus has been killed by the party.
 - One of these Simics is [[Dako]] - A female Simic who is in the process of ascending to the position of Overlord, but who must prove herself worthy of the position fulfilling the requirements: Being able to turn a trickle of info into a stream, being able to control this stream and essentialy proving herself to be capable of controlling the flow of information.
 	- When the party meets her, she will be in th eprocess of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.
 	- I do want the party to have some form of compassion for her tho. :3
 	- Dako used [[Vanan]] (who is not that important since hes dead) to spread this information
+- After sending the message to Vanan in order to spread it to the city, Dako vanished to [[some other lcation]] to fulfill the rest of her quest
+- The party will track her down, in accordance with Semyon
+- This mission will not be completed in a few sessions, but will have a break to let the party kind of feel like there is a dead end here.
+	- And to give me some time to work this rather large mission out. THis will be a stroy missison
 - 
