@@ -1,4 +1,4 @@
-The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[Rankhra]]. It imoacts the flow of water, but also the flow of time, the flow state, flow of life, people idk
+The Concept of Flow is the true nature of the [[Artefact]] hidden away in [[../../Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra]]. It imoacts the flow of water, but also the flow of time, the flow state, flow of life, people idk
 
 - flow of time
 - flow of life

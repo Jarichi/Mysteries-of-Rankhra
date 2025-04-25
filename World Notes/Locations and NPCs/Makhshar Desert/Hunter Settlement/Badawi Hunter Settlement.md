@@ -7,4 +7,4 @@ The research group would like to know more about the concept of exploration and 
 
 
 
-Base of operations for the [[Badawi Hunter Tribe]]. Provides food to [[Zal'Aata]]. One of the main providers for the meat supply, besides cattle and general imports. Possesses the [[concept of exploration]]. mainly hunt [[Auroch]] Most of this lore is either up to Daan or if he cannot come up withh anything up to me.
+Base of operations for the [[Badawi Hunter Tribe]]. Provides food to [[../Zal'Aata/Zal'Aata]]. One of the main providers for the meat supply, besides cattle and general imports. Possesses the [[../../../Deities/Concepts/concept of exploration]]. mainly hunt [[Auroch]] Most of this lore is either up to Daan or if he cannot come up withh anything up to me.

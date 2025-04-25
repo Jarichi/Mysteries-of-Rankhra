@@ -1,1 +1,1 @@
-Timid but intelligent dragonborn, lead publisher of the [[Distribution Center]].
+Timid but intelligent dragonborn, lead publisher of the [[World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center]].

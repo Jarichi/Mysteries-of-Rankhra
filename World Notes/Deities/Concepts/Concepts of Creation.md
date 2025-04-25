@@ -1,5 +1,5 @@
 # Description
-The Concepts are the pieces of the body of the [[God of Creation]], which each represent a concept occurring in reality. Depending on the nature of the concept, it may take the form of a creature, an object or something else altogether.
+The Concepts are the pieces of the body of the [[../God of Creation]], which each represent a concept occurring in reality. Depending on the nature of the concept, it may take the form of a creature, an object or something else altogether.
 
 All Concepts are represented as a pure tone, or a certain musical phrase that may be recognised by anyone who has been in direct proximity with a Concept. When observing, investigating or otherwise inspecting a Concept or anything directly influenced by it, a rhythm may be observed.
 

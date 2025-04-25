@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-timelines",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-link-converter"
 ]

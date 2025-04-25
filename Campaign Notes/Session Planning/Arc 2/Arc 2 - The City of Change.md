@@ -52,11 +52,11 @@ When they return to the research group, the party will notice the same customers
 - Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so he has prepared a small mission for them.
 
 # Session 10
-- [[A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
-	- [[A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[Marcus]] again
-	- [[A2SQ3 - Some other mission]] - Do stuff and be cool Not an investigation mission because I already have 2 of those, but possibly some sort of helping a different party with this. This mission will give more cool lore about Marilyne (I feel like it might be a fun idea to balance their characters out a bit.)
+- [[Quests/A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
+	- [[Quests/A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus]] again
+	- [[Quests/A2SQ3 - Some other mission]] - Do stuff and be cool Not an investigation mission because I already have 2 of those, but possibly some sort of helping a different party with this. This mission will give more cool lore about Marilyne (I feel like it might be a fun idea to balance their characters out a bit.)
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
-	- [[Zal'Aata - POIs]]
+	- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
 	- Maybe "Rubae" will appear again, and like tell them that they need to stay away from the city of change otherwise she will find them
 		- In reality, this is Marilyne who appears to them while she's away.

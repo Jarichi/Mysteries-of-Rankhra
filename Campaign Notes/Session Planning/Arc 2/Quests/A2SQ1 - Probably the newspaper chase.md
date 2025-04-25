@@ -37,7 +37,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - She als does not know precisely what sources submit their information to her.
 - If the party is finished talking, they are either sent away (and before they leave, forced to stay because sabrina pressed a secret button or something, and the party may roll a perception if they saw this)
 - If they play their cards right, they are sent to 
-	- [[Raphaella Sophronia Galani]] - actual leader of Temple News 
+	- [[../../../../Raphaella Sophronia Galani]] - actual leader of Temple News 
 		- Wis+5
 		- Int+5
 		- Cha:-1
