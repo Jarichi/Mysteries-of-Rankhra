@@ -1,1 +1,1 @@
-Seems to be somehow related to death?
+A strange being that might or might not be involved with death or creatures dying.

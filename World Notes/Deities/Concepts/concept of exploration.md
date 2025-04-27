@@ -1,1 +1,2 @@
-[wip]
+The Concept of Exploration seems to be one of a collection of so-called "Concepts". It manifests as an [[Badawi|owl cat]] and seems to be located in, or near the [[Badawi Hunter Tribe]].
+It appears to randomly wander around the desert - together with the hunter tribe - and seems, well, exploration-driven

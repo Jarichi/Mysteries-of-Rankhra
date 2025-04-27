@@ -1,1 +1,2 @@
-[wip]
+Located within the [[Circle of the Moon]], the Concept of Growth manifests as a giant tree that does not seem to stop growing. Though, this information stems from general lore and notes.
+Perhaps Chrone would have known more about this...

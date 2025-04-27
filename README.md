@@ -5,6 +5,7 @@ Note that this information will generally update after each session until I eith
 The graph view contains all (back)links to and from a certain folder.
 
 Below is a small folder hierarchy.
+[[fileTree]]
 
 ## World Notes
 This folder is divided into several subdirectories that each contain notes that are related to these categories.
