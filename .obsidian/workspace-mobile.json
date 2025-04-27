@@ -13,10 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 GIT INSTRUCTIONS/werkplaats Jaimy.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -34,8 +37,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +56,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -60,8 +68,12 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +81,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1 GIT INSTRUCTIONS/werkplaats Jaimy.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +107,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +118,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1 GIT INSTRUCTIONS/werkplaats Jaimy.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +132,13 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1 GIT INSTRUCTIONS/werkplaats Jaimy.md"
-          }
+            "file": "README.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -132,8 +155,31 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ee8004e7c926a095",
+  "active": "ae6997e8b323fc02",
   "lastOpenFiles": [
+    "fileTree.md",
+    "Campaign Notes/Party Summary.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Settlement.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bleeder.md",
+    "World Notes/Natura/Vampire.md",
+    "World Notes/Natura/Simic.md",
+    "World Notes/Natura/Kitsune.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Auroch.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Conru Mountains.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Mysterious Journal.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Makhshar Desert.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Strange Mural.md",
+    "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak.md",
+    "World Notes/Deities/Strange Prescence.md",
+    "World Notes/Deities/Concepts/Concept of Growth.md",
+    "World Notes/Deities/Concepts/Concept of Flow.md",
+    "World Notes/Deities/Concepts/concept of exploration.md",
+    "Campaign Notes/Custom Rulings.md",
     "World Notes/PCs/Cynthia",
     "World Notes/PCs/Twan"
   ]
