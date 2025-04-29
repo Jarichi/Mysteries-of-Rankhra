@@ -6,7 +6,13 @@ Now they are faced with a decision; Do they attempt to pursue the spreader or do
 Essentially, what do I want to let this tie into? It seems that Marcus' letter is very much on their mind, who accuses Semyon of manipulating Verdant for his own goals
 - I can either choose to make this true or choose to make this false
 - THough I think it's a lot cooler to make this a true fact, but not for the reaon they think
-anyway
+
+## Event timestamps
+- the party has found Vanan and killed him. They used his head 
+
+
+
+
 ## Storyline
 
 
@@ -21,8 +27,9 @@ anyway
 	- When the party meets her, she will be in the process of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.
 	- I do want the party to have some form of compassion for her tho. :3
 	- Dako used [[Vanan]] (who is not that important since hes dead) to spread this information
-- After sending the message to Vanan in order to spread it to the city, Dako vanished to [[some other lcation]] to fulfill the rest of her quest
-- The party will track her down, in accordance with Semyon
+- After sending the message to Vanan in order to spread it to the city, Dako vanished to [[some other lcation]] to fulfill the rest of her quest, as she has completed turning a trickle into a stream.
+- The party will track her down, in accordance with Semyon, who will use the intelligence agency to trace her movements.
+
 - This mission will not be completed in a few sessions, but will have a break to let the party kind of feel like there is a dead end here.
 	- And to give me some time to work this rather large mission out. THis will be a stroy missison
 - 
