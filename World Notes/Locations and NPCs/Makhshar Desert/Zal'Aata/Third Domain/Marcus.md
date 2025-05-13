@@ -1,5 +1,5 @@
 #npc 
-The second runaway informant of the [[ResearchGroup]]. He left because he was fed up with Verdant and learned about some crucial and valuable information. He gave in to his greed and decided to go no-contact with the research group. After this, he fled to the Third Domain and decided to join one of the Big Groups that Also Have To Do with Joris' Backstory. The value of the information he has enabled him to advance to the position of Overlord. He has no  plans to return to the research group.
+The second runaway informant of the [[../Second Domain/Lettered Lamenting/ResearchGroup]]. He left because he was fed up with Verdant and learned about some crucial and valuable information. He gave in to his greed and decided to go no-contact with the research group. After this, he fled to the Third Domain and decided to join one of the Big Groups that Also Have To Do with Joris' Backstory. The value of the information he has enabled him to advance to the position of Overlord. He has no  plans to return to the research group.
 I guess I can make this guy one of the smaller BBEGs in the campaign for now.
 
 ## Personality and Appearance
@@ -11,7 +11,7 @@ When the party enters this building, they feel like they're being watched in sec
 
 Marcus, sitting on this throne, will talk about how he already expected Verdant to send their minions after him and will make clear that he is not scared at all, since he has now ascended towards godhood (as per Joris' backstory) and no longer needs them.
 He will also make clear that he has no plans to share the information he has to anyone since that is what enabled him to become who he is.
-[[Marcus vs. Party|Combat]] ensues and Marcus + a number of minions will attack the party.
+[[../../../../../Campaign Notes/Session Planning/Arc 1/Marcus vs. Party|Combat]] ensues and Marcus + a number of minions will attack the party.
 If the party kills Marcus, the letter instructs them to bring his body to Verdant for special treatment. If the party doesn't kill Marcus, they can obviously take him to Verdant.
 
 #### Information

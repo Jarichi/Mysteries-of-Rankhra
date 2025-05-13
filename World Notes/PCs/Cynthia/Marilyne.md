@@ -1,4 +1,4 @@
-An extremely [[Ancients]] figure that has amnesia about past, and has been directed by [[Gentle Death]] (or [[Crafted Life]]) to guard the Concept of Reflection during her amnesic period.
+An extremely [[../../Locations and NPCs/Makhshar Desert/Ancients]] figure that has amnesia about past, and has been directed by [[../../Deities/Gentle Death]] (or [[../../Deities/Crafted Life]]) to guard the Concept of Reflection during her amnesic period.
 
 Chaotig neutral, nearing chativ evil
 
@@ -50,5 +50,5 @@ might be scaled down if it proves to be too powerful
 
 10 12 14 12 14 20
 #### Marilyn (fake persona)
-[Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [warlock: raven queen]()
+[Moon elf](https://www.dandwiki.com/wiki/Moon_Elf_(5e_Subrace)) [[|warlock: raven queen]]
 HP: 27 ish

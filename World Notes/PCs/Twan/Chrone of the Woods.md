@@ -12,9 +12,9 @@ SOMETHING HAPPENMD in the city that made him travel to the city. a prophecy fore
 
 mountains, snow, albino.
 
-[[Circle of the Moon]]
+[[../../Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon]]
 
-is also a member of the [[ResearchGroup]] and gets sent on scxouting missions mostly. 
+is also a member of the [[../../Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup]] and gets sent on scxouting missions mostly. 
 
 equipment
 wooden shield, scimitar, spell focus (staff idk), artisans tools, 
