@@ -8,7 +8,7 @@ Essentially, what do I want to let this tie into? It seems that Marcus' letter i
 - THough I think it's a lot cooler to make this a true fact, but not for the reaon they think
 
 ## Event timestamps
-- the party has found Vanan and killed him. They used his head 
+- the party has found Vanan and killed him. They used his head to send a message to everynyan involved
 
 
 
@@ -21,7 +21,8 @@ Essentially, what do I want to let this tie into? It seems that Marcus' letter i
 		- Most likely has something to do with the concept of Flow, where the third domain (which is now where the concept is located, when entering the temple)
 		- The concept of flow stimulates the flow of power, and therefore stimulates everchanging shifts of power that may influence the flow of information
 	- One of them is Marcus, who was a human that planned to ascend to the power of Overlord, by revealing that the overlords are traced by the F.I.Z. - hence why Semyon would be the original mission giver.
-		- Marcus has been killed by the party.
+		- Marcus has been killed by the party by the way
+		- note that the party believes that Semyon is manipulating Verdant for his own gain. What can I do to this to make kthe party believe something else? Or should I lean into this.
 
 - One of these Simics is [[Dako]] - A female Simic who is in the process of ascending to the position of Overlord, but who must prove herself worthy of the position fulfilling the requirements: Being able to turn a trickle of info into a stream, being able to control this stream and essentially proving herself to be capable of controlling the flow of information.
 	- When the party meets her, she will be in the process of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.

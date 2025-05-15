@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "readableLineLength": false,
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": true
 }
