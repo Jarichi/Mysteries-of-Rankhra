@@ -6,7 +6,13 @@
 # Summary
 Party needs to do some digging onto the newspaper agency. They might discover the Ghost Journal, or at least some references to it. This leads them to find more interesting thigs about the shoka collective.
 
-- party is sent to head towards the newspaper agency for [reason]
+- upon heading outside of the sewers during the "day" since they skipped their long rest kinda LMAO, they will receive a newspaper containing an article about the rising temple in the desert, with reaoning to believe the research group is responsible for this, specifically Verdant.
+	- This hopefully triggers some sort of wariness
+- The article also mentions 
+
+
+
+- party is sent to head towards the newspaper agency.
 	- The reason why they are sent here is to investigate why the newspaper is suddenly able to know about the discoveries that the party has made, and more specifically, how much they already know.
 	- This is a resonably social mission and i don't think there is any combat here.
 - when they enter, they will see the following

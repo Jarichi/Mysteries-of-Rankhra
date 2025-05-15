@@ -26,7 +26,7 @@ Essentially, what do I want to let this tie into? It seems that Marcus' letter i
 
 - One of these Simics is [[Dako]] - A female Simic who is in the process of ascending to the position of Overlord, but who must prove herself worthy of the position fulfilling the requirements: Being able to turn a trickle of info into a stream, being able to control this stream and essentially proving herself to be capable of controlling the flow of information.
 	- When the party meets her, she will be in the process of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.
-	- I do want the party to have some form of compassion for her tho. :3
+	- Ideally, the party should not want to kill her because she has information or the likes.
 	- Dako used [[Vanan]] (who is not that important since hes dead) to spread this information
 - After sending the message to Vanan in order to spread it to the city, Dako vanished to [[some other lcation]] to fulfill the rest of her quest, as she has completed turning a trickle into a stream.
 - The party will track her down, in accordance with Semyon, who will use the intelligence agency to trace her movements.
