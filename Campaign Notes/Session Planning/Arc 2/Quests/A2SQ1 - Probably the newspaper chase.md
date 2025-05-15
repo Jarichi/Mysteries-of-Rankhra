@@ -8,7 +8,9 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 
 - upon heading outside of the sewers during the "day" since they skipped their long rest kinda LMAO, they will receive a newspaper containing an article about the rising temple in the desert, with reaoning to believe the research group is responsible for this, specifically Verdant.
 	- This hopefully triggers some sort of wariness
-- The article also mentions 
+- The article also mentions rumours of a possible connection between the new temple (that seems to be inaccessible and protected by a similar magical barrier as rankhra), and the hunter group
+	- The newspaper knows this because Hunter's comet is different and was spying on them.
+- 
 
 
 
