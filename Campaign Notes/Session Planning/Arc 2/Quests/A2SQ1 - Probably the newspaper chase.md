@@ -10,9 +10,8 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- This hopefully triggers some sort of wariness
 - The article also mentions rumours of a possible connection between the new temple (that seems to be inaccessible and protected by a similar magical barrier as rankhra), and the hunter group
 	- The newspaper knows this because Hunter's comet is different and was spying on them.
+- this is a reaon for them to investigate
 - 
-
-
 
 - party is sent to head towards the newspaper agency.
 	- The reason why they are sent here is to investigate why the newspaper is suddenly able to know about the discoveries that the party has made, and more specifically, how much they already know.
