@@ -17,6 +17,10 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- The reason why they are sent here is to investigate why the newspaper is suddenly able to know about the discoveries that the party has made, and more specifically, how much they already know.
 	- This is a resonably social mission and i don't think there is any combat here.
 - when they enter, they will see the following
+	- IF they roll a high perception check, they will observe one of the people on the typewrites as being vaguely familiar
+		- THis is [[Telas Muses]] - who is on a spying mission and sent by Semyon.
+			- If the party chats with her, she will note that she was sent here to keep an eye on the newspaper agency and see why and how they seem to know about classified information, and that that has not happened before.
+		- Also note that her voice seems like it is continuously changing
 	- Large building
 	- Lots of pneumatic ducts where capsules with papers can be put into
 	- A large, central, blue crystal with a nighly pattern on it
@@ -24,6 +28,9 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 		- Rolling high will note that while this crystal looks a lot like this one, you can see that for some reason, Hunter's comet seems identical while the other comets seem different
 	- a large amount of desks with people both typing furiously on typewrites and writing eagerly in papers, drawing images etc
 	- there is a billboard with what seems to be the latest edition
+
+- party can specifically investigate 3 main things:
+	- THe billboard  
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
 	- [[Sabrina Criter]]
 		- WIS:+4
@@ -41,8 +48,10 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - She knows about the fact that communication is distributed through this giant crystal, to the sky dome
 	- General lore about this skydome
 - SHe DOESN't know how much information has been gathered
-- She als does not know precisely what sources submit their information to her.
-- If the party is finished talking, they are either sent away (and before they leave, forced to stay because sabrina pressed a secret button or something, and the party may roll a perception if they saw this)
+- She also does not know precisely what sources submit their information to her, and she refers to her supervisor if the party asks about this.
+- If the party is finished talking, before the party leaves, Sabrina asks them if perhaps her supervisor ca help them with anything regarding the newspaper article.
+	- She knows that they are part  of the research group.
+- 
 - If they play their cards right, they are sent to 
 	- [[../../../../Raphaella Sophronia Galani]] - actual leader of Temple News 
 		- Wis+5
