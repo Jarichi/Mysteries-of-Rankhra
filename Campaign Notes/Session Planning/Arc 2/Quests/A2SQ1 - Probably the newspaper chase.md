@@ -13,6 +13,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - this is a reaon for them to investigate
 - 
 
+## Beginning of the mission
 - party is sent to head towards the newspaper agency.
 	- The reason why they are sent here is to investigate why the newspaper is suddenly able to know about the discoveries that the party has made, and more specifically, how much they already know.
 	- This is a resonably social mission and i don't think there is any combat here.
@@ -28,9 +29,21 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 		- Rolling high will note that while this crystal looks a lot like this one, you can see that for some reason, Hunter's comet seems identical while the other comets seem different
 	- a large amount of desks with people both typing furiously on typewrites and writing eagerly in papers, drawing images etc
 	- there is a billboard with what seems to be the latest edition
-
+### Investigation details
 - party can specifically investigate 3 main things:
-	- THe billboard  
+	- THe billboard  containing informantion
+		- Lot's of connecitons between rankhra and other things - some lines seem to be a different colout
+			- Rol investigation, the lines seem to denote where informationwas gathered from, there is no legend.
+		- Central topic is Rankhra - almost like they are doing their own research, parallel to the research group
+			- This mihgt manifest in missions where someone randomly shows up perhaps, and may be funny for the party if they wanna ditch the research group.
+	- the people on typewriters
+		- They are writing up mostly slop and adverts
+		- some of them seem to write about articles that tjhey have not seen yet. 
+			- DM note, keep this contiguous!!
+	- the central desk
+		- Furthers the mission
+		- 
+## Meeting with Sabrina
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
 	- [[Sabrina Criter]]
 		- WIS:+4
@@ -51,7 +64,8 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - She also does not know precisely what sources submit their information to her, and she refers to her supervisor if the party asks about this.
 - If the party is finished talking, before the party leaves, Sabrina asks them if perhaps her supervisor ca help them with anything regarding the newspaper article.
 	- She knows that they are part  of the research group.
-- 
+
+## Meeting with Raphaella
 - If they play their cards right, they are sent to 
 	- [[../../../../Raphaella Sophronia Galani]] - actual leader of Temple News 
 		- Wis+5
@@ -72,7 +86,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- Informs the party on the secret newspaper for only the elite
 	- this contains more of the rankhra mystery knowledge, since it seems like one member of the elite is keenly interested in the secrets of Rankhra
 
-
+## An unexpected allyship
 - She points out how the engineering collective is behind the distribution and the construction of the comets.
 - She will only point out and investigate the difference between the comets if the party allows her to see them
 	- SHe will ask where they got the comet from, and hmm
@@ -81,3 +95,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- Implying that the engineering collective is actually responsible for a mass-spying op and that the mission they got from Semyon is essentially a f.i.z. investigation under guise of research
 		- the main goal for semyon is to see if the newspaper agency is compromised and if it can be used to counterspy.
 - Raphaella does want in for 'reasons'
+
+
+## Possibly heading back to the Shoka Engineering Collective
+- IF the party wants ot investigate the eengineering collective, they are "welcomed" by the karen again.
