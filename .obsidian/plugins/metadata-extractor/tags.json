@@ -9,6 +9,14 @@
     ]
   },
   {
+    "tag": "races",
+    "tagCount": 2,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Feywild/Kitsune.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md"
+    ]
+  },
+  {
     "tag": "location",
     "tagCount": 17,
     "relativePaths": [
@@ -19,16 +27,25 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Great Acadamy of Arcane Arts.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Makhshar Desert.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Phiaro Channel.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Settlement.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/City of Change/Yataghatay.md"
+    ]
+  },
+  {
+    "tag": "biologics",
+    "tagCount": 3,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Foxglove.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Auroch.md"
     ]
   },
   {
@@ -46,52 +63,27 @@
     ]
   },
   {
-    "tag": "biologics",
-    "tagCount": 3,
+    "tag": "object",
+    "tagCount": 4,
     "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Foxglove.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Auroch.md"
-    ]
-  },
-  {
-    "tag": "races",
-    "tagCount": 2,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Kitsune.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md"
+      "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
     ]
   },
   {
     "tag": "npc",
     "tagCount": 8,
     "relativePaths": [
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Rithic Voltaire.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Semyon Voltaire.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Rithic Voltaire.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Martin Isla.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Martin Isla.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Everon Lunares.md"
-    ]
-  },
-  {
-    "tag": "object",
-    "tagCount": 4,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md"
-    ]
-  },
-  {
-    "tag": "hidden",
-    "tagCount": 2,
-    "relativePaths": [
-      "1 Management and Git/push or pull.md",
-      "1 Management and Git/werkplaats Jaimy.md"
     ]
   },
   {
@@ -106,6 +98,14 @@
     "tagCount": 1,
     "relativePaths": [
       "Campaign Notes/Session Planning/Arc 1/Quests/Arc 1 - The Mysteries of Rankhra.md"
+    ]
+  },
+  {
+    "tag": "hidden",
+    "tagCount": 2,
+    "relativePaths": [
+      "1 Management and Git/werkplaats Jaimy.md",
+      "1 Management and Git/push or pull.md"
     ]
   }
 ]
