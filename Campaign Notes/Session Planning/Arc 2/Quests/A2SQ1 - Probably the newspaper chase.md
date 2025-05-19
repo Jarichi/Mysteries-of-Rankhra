@@ -55,15 +55,24 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- Confident woman, always ready with a quip or comment
 	- Not easily intimidated - DC 15
 	- She doesn't know a whole lot but masks it with charisma and wisdom
-- she knows about the comets that are swapped
+- she knows about
+	- the comets that are swapped - though she can only see that certain things are different, nothing more.
+		- THe party might assume this to be a research group specific thing, hopefully
 	- She knows a lot about the comets in general
 	- I hope the party picks up on this detail
-- She knows about the fact that communication is distributed through this giant crystal, to the sky dome
-	- General lore about this skydome
-- SHe DOESN't know how much information has been gathered
-- She also does not know precisely what sources submit their information to her, and she refers to her supervisor if the party asks about this.
-- If the party is finished talking, before the party leaves, Sabrina asks them if perhaps her supervisor ca help them with anything regarding the newspaper article.
-	- She knows that they are part  of the research group.
+	- She knows about the fact that communication is distributed through this giant crystal, to the sky dome
+		- General lore about this skydome
+	- She knows about what was told in the news
+	- she knows that they are from the research group, but this is alledgedly due to acclaim
+- hmmm
+- SHe DOESN't know 
+	- how much information has been gathered
+	- She also does not know precisely what sources submit their information to her, and she refers to her supervisor if the party asks about this.
+	- details about het employer
+	- difficult questions will probably go to her supervisor
+	- 
+- If the party is finished talking, before the party leaves, Sabrina asks them if perhaps her supervisor can help them with anything regarding the newspaper article.
+
 
 ## Meeting with Raphaella
 - If they play their cards right, they are sent to 
