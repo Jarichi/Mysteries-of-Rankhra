@@ -76,7 +76,6 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 		- Cha:-1
 		- str:-0
 - Speaking to her will be like
-	- Speaking to the quiet kid
 	- Keen look in her eyes but insecure demeanour
 	- easily intimidated, but does know how to deal with this in a smart way
 	- autism
