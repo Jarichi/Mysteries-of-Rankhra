@@ -1,65 +1,33 @@
 [
   {
-    "tag": "pc",
-    "tagCount": 3,
-    "relativePaths": [
-      "World Notes/PCs/Twan/Chrone of the Woods.md",
-      "World Notes/PCs/Robin/Aki.md",
-      "World Notes/PCs/Joris/'Rat' Tronus.md"
-    ]
-  },
-  {
-    "tag": "races",
-    "tagCount": 2,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Kitsune.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md"
-    ]
-  },
-  {
     "tag": "location",
     "tagCount": 17,
     "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Great Acadamy of Arcane Arts.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Phiaro Channel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Makhshar Desert.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Settlement.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/City of Change/Yataghatay.md"
+      "World Notes/Locations and NPCs/Makhshar Desert/City of Change/Yataghatay.md",
+      "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md"
     ]
   },
   {
-    "tag": "group",
-    "tagCount": 8,
+    "tag": "races",
+    "tagCount": 2,
     "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Nomadic Feywild Collective.md",
-      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Mycelio.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/F.I.Z..md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md"
-    ]
-  },
-  {
-    "tag": "biologics",
-    "tagCount": 3,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Foxglove.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Auroch.md"
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md",
+      "World Notes/Locations and NPCs/Feywild/Kitsune.md"
     ]
   },
   {
@@ -69,11 +37,25 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Rithic Voltaire.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Semyon Voltaire.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Martin Isla.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Everon Lunares.md"
+    ]
+  },
+  {
+    "tag": "group",
+    "tagCount": 8,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Mycelio.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/F.I.Z..md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md",
+      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants.md",
+      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Nomadic Feywild Collective.md"
     ]
   },
   {
@@ -81,9 +63,27 @@
     "tagCount": 4,
     "relativePaths": [
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
       "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md"
+    ]
+  },
+  {
+    "tag": "biologics",
+    "tagCount": 3,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Auroch.md",
+      "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Foxglove.md"
+    ]
+  },
+  {
+    "tag": "pc",
+    "tagCount": 3,
+    "relativePaths": [
+      "World Notes/PCs/Twan/Chrone of the Woods.md",
+      "World Notes/PCs/Robin/Aki.md",
+      "World Notes/PCs/Joris/'Rat' Tronus.md"
     ]
   },
   {
