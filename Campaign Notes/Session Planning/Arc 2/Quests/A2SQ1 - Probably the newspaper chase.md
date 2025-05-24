@@ -45,7 +45,15 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 
 
 - maybe it's a fun little activity to have Sabrina only refer the party if they can give her a piece of information that may be gathered from the room.
-	- Perhaps, sabrina will ask them - in t eh true spirit of newspaper reporting - to give her a small except of a headline and article th
+	- Perhaps, sabrina will ask them - in t eh true spirit of newspaper reporting - to give her a small except of a headline and article that mihgt be published to the newspaper
+		- This mihgt propmt the party to either head into the city and kind of look for newsworthy interviews (maybe merchants, maybe visitors, maybe a totally different spot?) and kind of ask them some generic questions.
+		- this might also prompt the party to do a big improvisation...
+	- She will pay them a normal wage for the time that was spent actively doing research. and will also publish the article.
+		- Perhaps Joris is intelligent enough to add some sort of secret emssage?
+	- the party may enter the city (prepare a small map, probably draw it out!)
+	- Sabrina will suggest either going to the bazaar to interview merchants and visitors, going to an important place and making a report, or going to a person you have a connection or a story with
+		- I am anticipating to go to Bleeder LMAO or write about him.
+		- Will I let bleeder make a cameo?
 ## Meeting with Sabrina
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
 	- [[Sabrina Criter]]
