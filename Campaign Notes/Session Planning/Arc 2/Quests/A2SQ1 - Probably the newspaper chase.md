@@ -42,7 +42,10 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 			- DM note, keep this contiguous!!
 	- the central desk
 		- Furthers the mission
-		- 
+
+
+- maybe it's a fun little activity to have Sabrina only refer the party if they can give her a piece of information that may be gathered from the room.
+	- Perhaps, sabrina will ask them - in t eh true spirit of newspaper reporting - to give her a small except of a headline and article th
 ## Meeting with Sabrina
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
 	- [[Sabrina Criter]]
@@ -98,8 +101,11 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- She only heard rumours, since her leaders occasionally have super secret meetings with important people from the city
 		- Some names:
 			- [[Everon Lunares]] - leader of the magic school (a magical scientist)
-			- [[Cedar Zendikar]] - Public debater and speaker (not charlie kirk)
-			- [[Alys Felwarn]]
+			- [[Cedar Zendikar]] - Public debater and speaker
+			- [[Alys Felwarn]] - Large economist/merchant leader
+			- [[Ra'Sheema Zal-Hiera]] - Religious leader, keeps traditions alive
+	- She does believe that whatever they might be discussing may be of importance for the entirety of the city.
+- 
 ## An unexpected allyship
 - She points out how the engineering collective is behind the distribution and the construction of the comets.
 - She will only point out and investigate the difference between the comets if the party allows her to see them
