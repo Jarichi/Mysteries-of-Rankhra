@@ -94,7 +94,12 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - Determined in her pursuit of knowledge
 	- Informs the party on the secret newspaper for only the elite
 	- this contains more of the rankhra mystery knowledge, since it seems like one member of the elite is keenly interested in the secrets of Rankhra
-
+- she will also point the party towards a sort of secret newspaper that is used for transmission of secret intel
+	- She only heard rumours, since her leaders occasionally have super secret meetings with important people from the city
+		- Some names:
+			- [[Everon Lunares]] - leader of the magic school (a magical scientist)
+			- [[Cedar Zendikar]] - Public debater and speaker (not charlie kirk)
+			- [[Alys Felwarn]]
 ## An unexpected allyship
 - She points out how the engineering collective is behind the distribution and the construction of the comets.
 - She will only point out and investigate the difference between the comets if the party allows her to see them
