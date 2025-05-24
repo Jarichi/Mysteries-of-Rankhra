@@ -53,7 +53,8 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- the party may enter the city (prepare a small map, probably draw it out!)
 	- Sabrina will suggest either going to the bazaar to interview merchants and visitors, going to an important place and making a report, or going to a person you have a connection or a story with
 		- I am anticipating to go to Bleeder LMAO or write about him.
-		- Will I let bleeder make a cameo?
+		- Will I let bleeder make a cameo? Probably yees.
+- 
 ## Meeting with Sabrina
 - In the direct centre of the room, around the crystal, an almost circular desk is located where an important looking girl is reading drafts and talking to people
 	- [[Sabrina Criter]]
