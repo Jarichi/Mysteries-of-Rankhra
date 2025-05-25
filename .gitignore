@@ -2,9 +2,11 @@
 .obsidian/workspace.json
 .obsidian/appearance.json
 .obsidian/workspace-mobile.json
-
+.obsidian/plugins/metadata-extractor/allExceptMd.json
+.obsidian/plugins/metadata-extractor/tags.json
 
 
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+/conflict-files-obsidian-git.md
