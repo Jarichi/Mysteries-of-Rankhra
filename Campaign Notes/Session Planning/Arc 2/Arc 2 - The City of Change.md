@@ -54,7 +54,9 @@ When they return to the research group, the party will notice the same customers
 # Session 10
 - [[Quests/A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
 	- [[Quests/A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus]] again
-	- [[Quests/A2SQ3 - Some other mission]] - Do stuff and be cool Not an investigation mission because I already have 2 of those, but possibly some sort of helping a different party with this. This mission will give more cool lore about Marilyne (I feel like it might be a fun idea to balance their characters out a bit.)
+	- a mission that delves into marylines character more might be cool considering she is pretty much the only one who did not get any lore yet
+	- same kinda goes for aki tbh
+
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
 	- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
@@ -66,3 +68,7 @@ When they return to the research group, the party will notice the same customers
 
 Semyon will not tell the party directly about the city of change, but will do so in a way that arises the least amount of suspicion
 Telas Muses got her tattoo on her neck in teh city of change to be able to change her voice at will, and she knows a bit about the city.
+
+
+note that perhaps in a later moment, an dmaybe before the city of change is visited, the engineering collective will be investigated together with Elise as TElas.
+[[A2SQ3 - Investigating the Shoka Engineering COllective]]

@@ -19,9 +19,9 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 	- This is a resonably social mission and i don't think there is any combat here.
 - when they enter, they will see the following
 	- IF they roll a high perception check, they will observe one of the people on the typewrites as being vaguely familiar
-		- THis is [[Telas Muses]] - who is on a spying mission and sent by Semyon.
+		- THis is [[Telas Muses]] - who is on a spying mission as well and was sent by Semyon.
 			- If the party chats with her, she will note that she was sent here to keep an eye on the newspaper agency and see why and how they seem to know about classified information, and that that has not happened before.
-		- Also note that her voice seems like it is continuously changing
+			- Also note that her voice seems like it is continuously changing
 	- Large building
 	- Lots of pneumatic ducts where capsules with papers can be put into
 	- A large, central, blue crystal with a nighly pattern on it
@@ -33,13 +33,16 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 - party can specifically investigate 3 main things:
 	- THe billboard  containing informantion
 		- Lot's of connecitons between rankhra and other things - some lines seem to be a different colout
-			- Rol investigation, the lines seem to denote where informationwas gathered from, there is no legend.
+			- Rol investigation, the line colours seem to represent sources that information was gathered from but there seems to be no legend.
 		- Central topic is Rankhra - almost like they are doing their own research, parallel to the research group
 			- This mihgt manifest in missions where someone randomly shows up perhaps, and may be funny for the party if they wanna ditch the research group.
 	- the people on typewriters
 		- They are writing up mostly slop and adverts
 		- some of them seem to write about articles that tjhey have not seen yet. 
 			- DM note, keep this contiguous!!
+		- Speaking to these people will result in a kind of distracted conversation
+		- they will mostly talk about the article that they are working on at the moment.
+		- 
 	- the central desk
 		- Furthers the mission
 
@@ -94,7 +97,6 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 		- Cha:-1
 		- str:-0
 - Speaking to her will be like
-	- Speaking to the quiet kid
 	- Keen look in her eyes but insecure demeanour
 	- easily intimidated, but does know how to deal with this in a smart way
 	- autism
