@@ -23,7 +23,6 @@ Significant inventory:
 
 
 - 514gp
-p
 ## Hunter
 - 39 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg
@@ -31,7 +30,7 @@ p
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 1380 gp
+- 1750 gp
 
 Significant inventory:
 - revolver of the war mage - 2d8 damage, close range
@@ -47,6 +46,7 @@ Significant inventory:
 Significant inventory
 - Pipes of the Sewers - Summons 1x swam of rats, maximum of 3. Recharges every 2 long rests
 - Cloak of Stealth
+- Burner comet
 ## Marilyne
 31hp (effective) -  13 AC
 warlock with fuckery

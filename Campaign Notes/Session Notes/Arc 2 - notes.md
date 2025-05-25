@@ -140,3 +140,237 @@ small thingy of names
 end session
 
 honestly not even that mad
+
+## Session 10
+htey wanna go to the news source that spread the article 
+	(leads into the news paper)
+
+partty inestigates the table
+- rat picks up comet
+	- receive only
+	- takes the comet
+		- burner phone
+
+
+aki nerd comment
+gets carried out the ropom
+
+corvus may roll arcana to see clairvoyance thingy
+
+- long rest
+
+honk shoo
+marilyne has NO sunburns due to the magic dome
+- roll histoire
+
+semyon and verdant will give them the mission for newspaper thuinges
+
+salazar in the bar
+semyon andn vedant
+
+rat asks for  family
+
+letters was already given
+
+salazar interrogation
+
+- mission is given
+mari yapped about the nighly si
+
+550gp per person
+
+costumes and disguises
+
+newspaper is east in the second domain
+
+everyone except rat is actually known
+
+aki no shield (AC 18)
+#### Disguises
+##### ratronus (Kees)
+school boy uniform ratronus
+propellor hat
+scvhool boy
+cutesy
+##### aki (Fatimah)
+fox forme as pet
+pink collar wiht diamond studs
+##### hunter (Peter)
+delivery driver dhl postbezorger
+##### marilyne (Maria)
+middle aged office siren
+otherwise normal
+
+(on the spot things seem to be hard for the party, specifically robin and lowkey daan)
+
+article contents are shared with the aprty
+
+they enter the newspaper
+perception check
+7 aki 3 hunter 19 mari rat 22
+
+omg they can fit aki in a pneumatic tube
+
+aki and hunter will do pneumatic tube stuff
+
+amri and rat go to telas
+
+telas = saskia
+
+mari convices telas to go with her to some locaiton
+
+receptionist is antagonised
+
+aki wants to sneak away (stealth)
+	she fails but hunter pushes her away
+
+
+**3** tubes
+**left** is entrance
+**middle** is conference room
+**right** is to Raphaella
+
+aki is thunked to Raphaella
+
+they lock in telas to interrogate her
+
+corvus is not spotted keeping guard
+	passive perception is 13
+
+telas tells them
+recepitonis is calle dsabrina
+stone in the center lore
+
+they kinda dont trust her
+telas does not know why the yave not been informed
+low insight
+
+telas tells them baout her infiltration missions
+tells them about sabrina being the controller of this flooe
+tells them about the tubage
+no known authority to head to the girly herslef
+
+marilyne casts illusory script
+
+aki enters Raphalles room
+raphealle is investigationg several comets
+
+aki wsants ot read the books
+
+raphaelle is investigationg comets and their recipients
+
+she is in a basement
+
+sabrina heads back to the recetionist
+and sabrina intends to take the thingy
+
+mari casts mimicry to call sabrinas name
+
+hunter takes the message from raphaella
+and heads to the magazine
+
+aki sprints to the tube
+but a message is sent from the center tube
+	magical lock
+	and raphaella symbol
+aki sleep
+
+corvus wants to cause panic ot steal the message
+but aki goes t the conference room
+
+mari was ont recognised by sabrina makes the connedtion
+illusionary script letter of authorisation
+
+DISTORT cancelled
+
+hunter leaves the building
+
+rat mentions semyon
+
+reacted on this, sabrina attempts to tap the stone
+the reaction would be pulling
+
+THEY SUCCEED
+
+"are you from the FIA?"
+
+mair fails hold person
+
+they act to save her
+and cuff her 
+
+(why?)
+
+perspective switch
+aki went to conference room
+
+aki wants to look into the confer
+	she rolls too low
+	(the conference room contains )
+aki uses divine sense and knows that alys nakayaru was here
+	aki wants to head to the conference room
+	(and is the only one that actually tries to get information)
+
+watches through the door
+gets a meeting minutes folder
+(this is written in illusionary script, contains minutes)
+however an investigation is required to see 
+
+aki escapes through the legs
+downstairs
+
+the hitshow unfirles
+
+they impersonate hte receptionist
+raven goes to raphaella tube
+they gag the receptionist and go investigate the stone
+
+they try ot correlate the stone to the messive stone
+
+big stone is connected to all stones except aki ratronus ratronus and mari, 
+
+3 noetowkrs: 
+- City grid - for all normal stones
+- Verdant/Semyon grid - for research crew
+- Underground burner grid
+
+aki still wears the collar
+
+- "Abandon your post - everything is a lie" in thieves' cant, as a broadcast to the entire city grid
+
+corvus goes to the chute
+
+folder contains the meeting minutes, and is written in an unknown language.
+
+clifhanereurh
+
+---
+end essieion
+quite happy lots of unplanned
+
+history on the names what they mught remember
+
+Significant events that happened
+- The party got a burner comet from Vadan
+- Marilyne discovered that sunburn, and other disadvantages from the sun do not seem to affect her as strongly as they do outside of the city
+	- By extension, only Verdant, Semyon and the party know about her vampirism.
+- Accepted a mission - Investigate the newspaper agency
+	- Reward: 550GP
+- (They have given Salazar the letter from Balthazar) they are confronting Salazar on the adventures of Balthasar lmao
+- They have taken on some disguises, provided to them by Semyon and Verdant.
+- They have met up with Telas, who was also on a mission to infiltrate the newspaper distribution centre.
+	- She has given the party the name "Sabrina", who is the receptionist and supervisor of the bottom floor of the newspaper distribution
+	- She does not know who Sabrina's supervisors are, but suspects they have something to do with the Shoka Engineering Collective.
+	- She also is unaware why the party was not informed of her mission, however it is safe to assume that this is because of knowledge separation.
+- Aki visited Raphaella's study in the basement, which is in an aluminium room (aluminium blocks magic), and she appeared to study how comets work, how they are connected and magical artifacts in general. Her motivations are unknown.
+- Aki also visited the conference room on the first floor, and discovered a folder of meeting minutes. The minutes are written in an unintelligible script, except for the names of the attendants:
+	- Everon Lunares
+	- Cedar Zendikar
+	- Alys Nakayaru
+	- Ra'Sheema Zal-Hiera.
+- Sabrina was ambushed, and tightened to the desk by Maryline and Ratronus, after attempting to coerce her into relinquishing her supervision to Maryline. She attempted to do this by cleverly using Illusory Script to create a foolproof permission slip.
+- Investigating the central, large comet - also known as an Asteroid - provided information that the communication net is divided into a number of separate networks, called constellations
+	- City constellation - Routes all general-use Comets of Zal'Aata through this Asteroid.
+	- Research group's constellation - Appears to manage the connection of the comets through a completely distinct  network. The location of its Asteroid is unknown
+	- Some different constellation - Appears to be an independent network, specifically made for burner comets, known as Meteors.
+- Ratronus has broadcasted the following message to the city constellation using the central Asteroid, in Thieves' Cant: "Abandon your post - everything is a lie"

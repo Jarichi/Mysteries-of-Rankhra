@@ -52,7 +52,7 @@ When they return to the research group, the party will notice the same customers
 - Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so he has prepared a small mission for them.
 
 # Session 10
-- [[Quests/A2SQ1 - Probably the newspaper chase]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
+- [[A2SQ1 - Investigating the newspaper distributor]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
 	- [[Quests/A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus]] again
 	- a mission that delves into marylines character more might be cool considering she is pretty much the only one who did not get any lore yet
 	- same kinda goes for aki tbh
