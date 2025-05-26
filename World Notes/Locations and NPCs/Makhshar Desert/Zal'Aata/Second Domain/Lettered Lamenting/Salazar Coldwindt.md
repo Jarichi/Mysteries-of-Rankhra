@@ -6,4 +6,4 @@
 		- i once defeated a kraken (it was a small squid).
 		- A storm killed half my men (it didn't, they just left his ship because the paladin is a bad captain)
 		- My trading routes are famous because i'm the best (he isn't, and he doesn't have a trading route. He just smuggled a crate with fish over the border.)
-- His twin brother, [[../../../Hunter Settlement/Balthazar Coldwindt]] is the actual origin of all the wild stories.
+- His twin brother, [[World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt]] is the actual origin of all the wild stories.

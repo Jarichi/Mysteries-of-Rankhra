@@ -1,2 +1,2 @@
-The Concept of Exploration seems to be one of a collection of so-called "Concepts". It manifests as an [[../../Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi|owl cat]] and seems to be located in, or near the [[../../Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe]].
+The Concept of Exploration seems to be one of a collection of so-called "Concepts". It manifests as an [[World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi|owl cat]] and seems to be located in, or near the [[World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe]].
 It appears to randomly wander around the desert - together with the hunter tribe - and seems, well, exploration-driven

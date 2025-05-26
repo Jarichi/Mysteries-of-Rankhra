@@ -1,3 +1,3 @@
-Current owner of the artifact store located in the second domain, with a special focus on the [[../../../Hunter Settlement/Badawi Hunter Tribe]]. 
+Current owner of the artifact store located in the second domain, with a special focus on the [[World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe]]. 
 
 Originally a very famous archeologist, originating from [another continent], Shivank Aaraka took it upon himself to uncover the Old World's secrets. He eventually made his way to Makhshar desert - rumoured to be the birth place of the Gods - and explored the desert in search of artifacts.

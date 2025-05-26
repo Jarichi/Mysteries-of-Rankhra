@@ -1,1 +1,1 @@
-Run by [[Shivank Aaraka|Shiv]]. Sells, well, artifacts.
+Run by [[World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Shivank Aaraka|Shiv]]. Sells, well, artifacts.

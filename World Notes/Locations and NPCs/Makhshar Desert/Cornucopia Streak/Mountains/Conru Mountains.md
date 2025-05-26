@@ -1,1 +1,1 @@
-The mountain range containing the [[Circle of the Moon]].
+The mountain range containing the [[World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon]].
