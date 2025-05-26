@@ -1,1 +1,0 @@
-Cedar Zendikar (they/them, this time for real) is a famous biologist who specialises in the native fauna of Cornucopia Streak. They are known for their work on mapping and tracking the population totals of most creatures and hold a bi-weekly conference.
