@@ -1,3 +1,7 @@
+# Discuss with cynthia
+some cool things might be possible with the Raven queen
+
+
 Combination of Thanatos and Hermes, providing a chance of re-enacting a small action and providing a chance of warning and meaning after death.
 
 note: I do need to rethink combat if I want to grant this to *ALL* creatures that die, since any enemy can just trigger some warning or reinforcement thing if they die and such completely fuck over any and all stealth or lack-of-info missions... hmm
