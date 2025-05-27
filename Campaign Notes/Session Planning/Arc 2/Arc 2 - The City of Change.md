@@ -60,22 +60,32 @@ When they return to the research group, the party will notice the same customers
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
 	- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
-	- When they head to the lettered lamenting again, when they walk through the alley, they are kind of intercepted or something.
+	- When they head to the lettered lamenting again and walk through the alley, they are kind of intercepted or something.
 		- "you head towards Lettered Lamenting, and go through this alleyway............."
 		- "please roll an arcana check"
-	- Maybe "Rubae" will appear again, and like tell them that they need to stay away from the city of change otherwise she will find them
+	- Maybe "Rubae" will appear again, and like tell them tsomething that might goad the party into going to the City of Change and subsequently being tricked by Marilyne.
 		- In reality, this is Marilyne who appears to them while she's away.
 		- [[Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
 			- This melody will represent the concepts in general, and when I make OST for my campaign, this melody will represent all of the concepts.
 			- "The songs are changing, ideas distorting" in a repetitive rhythm.
+			- This is spoken in [[Truecommon]], but only the party can understand it. Rubae cannot
+				- This means that by extension, Marilyne cannot understand it. She has not been in the temple, nor has she read the [[The Book of Life (magic item)]] in Janib'Rankhra, and has not received a key from the temple.
 	- that guy will just be standing there, whatever direction they go. 
 		- IF they decide to kill him or shoot him on sight, he'll instantly die, but his corpse will start talking
-	- He'll 
+	- After the (hopefully) offputting interaction with him, they will feel a presence
+		- Rubae appears.
+	- Some dialogue:
+		- He has been like this ever since I tried to take his memories... Almost like I broke him, somehow. I cannot understand what he's mumbling about, oddly enough.
+		- I understand he is part of your "research group", correct? 
+		- Well, will you tell me what he is talking about?
+			- IDK
+		- Ok the I'll kill him and keep you here until you tell me.s
+	- When Fredrick dies, the same divine presence intercepts and breaks Rubae's spell, such that the prty can continue to the reserch group
 - This event will lead the party to explore towards the City of Change.
 	- Perhaps some sort of Changeling is found unconscious or insane and rambling about some cryptic line that might reference the strange occurrences with the Concepts (maybe some lines like "The songs are changing", "The rhythms have gone weird" idk), Semyon will be there as well together with Verdant and will bring the Changeling in for questioning or something.
 	- Semyon will then point towards the City of Change for the party to head towards.
 
-Semyon will not tell the party directly about the city of change, but will do so in a way that arises the least amount of suspicion
+
 Telas Muses got her tattoo on her neck in teh city of change to be able to change her voice at will, and she knows a bit about the city.
 
 
