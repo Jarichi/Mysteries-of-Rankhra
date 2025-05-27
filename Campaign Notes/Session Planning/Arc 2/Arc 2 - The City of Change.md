@@ -60,8 +60,17 @@ When they return to the research group, the party will notice the same customers
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
 	- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
+	- When they head to the lettered lamenting again, when they walk through the alley, they are kind of intercepted or something.
+		- "you head towards Lettered Lamenting, and go through this alleyway............."
+		- "please roll an arcana check"
 	- Maybe "Rubae" will appear again, and like tell them that they need to stay away from the city of change otherwise she will find them
 		- In reality, this is Marilyne who appears to them while she's away.
+		- [[Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
+			- This melody will represent the concepts in general, and when I make OST for my campaign, this melody will represent all of the concepts.
+			- "The songs are changing, ideas distorting" in a repetitive rhythm.
+	- that guy will just be standing there, whatever direction they go. 
+		- IF they decide to kill him or shoot him on sight, he'll instantly die, but his corpse will start talking
+	- He'll 
 - This event will lead the party to explore towards the City of Change.
 	- Perhaps some sort of Changeling is found unconscious or insane and rambling about some cryptic line that might reference the strange occurrences with the Concepts (maybe some lines like "The songs are changing", "The rhythms have gone weird" idk), Semyon will be there as well together with Verdant and will bring the Changeling in for questioning or something.
 	- Semyon will then point towards the City of Change for the party to head towards.

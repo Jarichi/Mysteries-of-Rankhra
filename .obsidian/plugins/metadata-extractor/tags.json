@@ -3,9 +3,19 @@
     "tag": "pc",
     "tagCount": 3,
     "relativePaths": [
-      "World Notes/PCs/Robin/Aki.md",
       "World Notes/PCs/Twan/Chrone of the Woods.md",
+      "World Notes/PCs/Robin/Aki.md",
       "World Notes/PCs/Joris/'Rat' Tronus.md"
+    ]
+  },
+  {
+    "tag": "object",
+    "tagCount": 4,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
     ]
   },
   {
@@ -15,8 +25,8 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
       "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Bazaar.md",
@@ -29,6 +39,14 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Settlement.md",
       "World Notes/Locations and NPCs/Makhshar Desert/City of Change/Yataghatay.md",
       "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md"
+    ]
+  },
+  {
+    "tag": "races",
+    "tagCount": 2,
+    "relativePaths": [
+      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md",
+      "World Notes/Locations and NPCs/Feywild/Kitsune.md"
     ]
   },
   {
@@ -46,14 +64,6 @@
     ]
   },
   {
-    "tag": "races",
-    "tagCount": 2,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Simic.md",
-      "World Notes/Locations and NPCs/Feywild/Kitsune.md"
-    ]
-  },
-  {
     "tag": "group",
     "tagCount": 8,
     "relativePaths": [
@@ -65,16 +75,6 @@
       "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md",
       "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Nomadic Feywild Collective.md",
       "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants.md"
-    ]
-  },
-  {
-    "tag": "object",
-    "tagCount": 4,
-    "relativePaths": [
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md",
-      "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md"
     ]
   },
   {
@@ -90,22 +90,16 @@
     "tag": "story",
     "tagCount": 1,
     "relativePaths": [
-      "Campaign Notes/Session Planning/Arc 1/Quests/Arc 1 - The Mysteries of Rankhra.md"
-    ]
-  },
-  {
-    "tag": "quest",
-    "tagCount": 1,
-    "relativePaths": [
-      "Campaign Notes/Session Planning/Arc 1/Quests/A1 SQ1 - In 'Brewed' Daylight.md"
+      "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md"
     ]
   },
   {
     "tag": "hidden",
-    "tagCount": 2,
+    "tagCount": 3,
     "relativePaths": [
       "1 Management and Git/werkplaats Jaimy.md",
-      "1 Management and Git/push or pull.md"
+      "1 Management and Git/push or pull.md",
+      "1 Management and Git/HOI Chrisssss.md"
     ]
   }
 ]
