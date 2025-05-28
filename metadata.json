@@ -1,16 +1,5 @@
 [
   {
-    "fileName": "Telas Muses",
-    "relativePath": "Telas Muses.md",
-    "backlinks": [
-      {
-        "fileName": "A2SQ1 - Investigating the newspaper distributor",
-        "link": "Telas Muses",
-        "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ1 - Investigating the newspaper distributor.md"
-      }
-    ]
-  },
-  {
     "fileName": "Wolf",
     "relativePath": "World Notes/PCs/Twan/Wolf.md",
     "backlinks": [
@@ -89,18 +78,6 @@
     ]
   },
   {
-    "fileName": "Alden",
-    "relativePath": "World Notes/PCs/Robin/Alden.md",
-    "backlinks": [
-      {
-        "fileName": "Foxglove Grove",
-        "link": "Alden",
-        "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md",
-        "displayText": "../../PCs/Robin/Alden"
-      }
-    ]
-  },
-  {
     "fileName": "Elara",
     "relativePath": "World Notes/PCs/Robin/Elara.md",
     "backlinks": [
@@ -109,6 +86,18 @@
         "link": "Elara",
         "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md",
         "displayText": "../../PCs/Robin/Elara"
+      }
+    ]
+  },
+  {
+    "fileName": "Alden",
+    "relativePath": "World Notes/PCs/Robin/Alden.md",
+    "backlinks": [
+      {
+        "fileName": "Foxglove Grove",
+        "link": "Alden",
+        "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove.md",
+        "displayText": "../../PCs/Robin/Alden"
       }
     ]
   },
@@ -248,19 +237,6 @@
     ]
   },
   {
-    "fileName": "'Rat' Tronus",
-    "relativePath": "World Notes/PCs/Joris/'Rat' Tronus.md",
-    "tags": [
-      "pc"
-    ],
-    "headings": [
-      {
-        "heading": "Rulings",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "Backstory",
     "relativePath": "World Notes/PCs/Joris/Backstory.md",
     "headings": [
@@ -288,28 +264,15 @@
     ]
   },
   {
-    "fileName": "Marilyne but not really",
-    "relativePath": "World Notes/PCs/Cynthia/Marilyne but not really.md"
-  },
-  {
-    "fileName": "Cynthia Char",
-    "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md",
-    "links": [
+    "fileName": "'Rat' Tronus",
+    "relativePath": "World Notes/PCs/Joris/'Rat' Tronus.md",
+    "tags": [
+      "pc"
+    ],
+    "headings": [
       {
-        "link": "Ancients",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md"
-      },
-      {
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Deities/Gentle Death.md"
-      },
-      {
-        "link": "Crafted Life",
-        "relativePath": "World Notes/Deities/Crafted Life.md"
-      },
-      {
-        "link": "Concepts of Creation",
-        "relativePath": "World Notes/Deities/Concepts/Concepts of Creation.md"
+        "heading": "Rulings",
+        "level": 2
       }
     ]
   },
@@ -346,6 +309,32 @@
         "link": "Shoka Engineering Collective",
         "displayText": "../../Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective",
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Marilyne but not really",
+    "relativePath": "World Notes/PCs/Cynthia/Marilyne but not really.md"
+  },
+  {
+    "fileName": "Cynthia Char",
+    "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md",
+    "links": [
+      {
+        "link": "Ancients",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md"
+      },
+      {
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Deities/Gentle Death.md"
+      },
+      {
+        "link": "Crafted Life",
+        "relativePath": "World Notes/Deities/Crafted Life.md"
+      },
+      {
+        "link": "Concepts of Creation",
+        "relativePath": "World Notes/Deities/Concepts/Concepts of Creation.md"
       }
     ]
   },
@@ -417,26 +406,6 @@
         "link": "Sanctum of Death",
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
         "displayText": "../../../Sanctum of Death"
-      }
-    ]
-  },
-  {
-    "fileName": "The Book of Life (magic item)",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md",
-    "tags": [
-      "object"
-    ],
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Gentle Death",
-        "displayText": "../../Deities/Gentle Death",
-        "relativePath": "World Notes/Deities/Gentle Death.md"
       }
     ]
   },
@@ -514,7 +483,7 @@
       {
         "link": "Aether Firmament",
         "displayText": "Dome",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
+        "relativePath": "World Notes/Key Artifacts/Aether Firmament.md"
       },
       {
         "link": "Phiaro Channel",
@@ -724,49 +693,6 @@
     ]
   },
   {
-    "fileName": "Second Domain",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
-    "tags": [
-      "location"
-    ],
-    "headings": [
-      {
-        "heading": "POIs",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "ResearchGroup",
-        "displayText": "Second Domain/Lettered Lamenting/ResearchGroup",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md"
-      },
-      {
-        "link": "Relic Merchant",
-        "displayText": "../../../../Campaign Notes/Generics/Merchants/Relic Merchant"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Zal'Aata",
-        "link": "Second Domain",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md"
-      },
-      {
-        "fileName": "Lettered Lamenting",
-        "link": "Second Domain",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
-        "displayText": "../Second Domain"
-      },
-      {
-        "fileName": "Shoka Engineering Collective",
-        "link": "Second Domain",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
-        "displayText": "../Second Domain"
-      }
-    ]
-  },
-  {
     "fileName": "The Hyphaedo",
     "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/The Hyphaedo.md",
     "backlinks": [
@@ -788,6 +714,56 @@
         "fileName": "Dako",
         "link": "Simic",
         "relativePath": "Dako.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Salina",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
+    "headings": [
+      {
+        "heading": "Appearance and Personality.",
+        "level": 2
+      },
+      {
+        "heading": "Character Sheet",
+        "level": 2
+      },
+      {
+        "heading": "Quest",
+        "level": 2
+      },
+      {
+        "heading": "Information",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "ResearchGroup",
+        "displayText": "../Second Domain/Lettered Lamenting/ResearchGroup",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md"
+      },
+      {
+        "link": "Rhonas"
+      },
+      {
+        "link": "Gentle Death",
+        "displayText": "../../../../Deities/Gentle Death",
+        "relativePath": "World Notes/Deities/Gentle Death.md"
+      },
+      {
+        "link": "Sanctum of Death",
+        "displayText": "../../../Sanctum of Death",
+        "relativePath": "World Notes/Locations and NPCs/Sanctum of Death.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Arc 1 - The Mysteries of Rankhra",
+        "link": "Salina",
+        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
+        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina"
       }
     ]
   },
@@ -881,56 +857,6 @@
         "link": "Semyon Voltaire",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Semyon Voltaire"
-      }
-    ]
-  },
-  {
-    "fileName": "Salina",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
-    "headings": [
-      {
-        "heading": "Appearance and Personality.",
-        "level": 2
-      },
-      {
-        "heading": "Character Sheet",
-        "level": 2
-      },
-      {
-        "heading": "Quest",
-        "level": 2
-      },
-      {
-        "heading": "Information",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "ResearchGroup",
-        "displayText": "../Second Domain/Lettered Lamenting/ResearchGroup",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md"
-      },
-      {
-        "link": "Rhonas"
-      },
-      {
-        "link": "Gentle Death",
-        "displayText": "../../../../Deities/Gentle Death",
-        "relativePath": "World Notes/Deities/Gentle Death.md"
-      },
-      {
-        "link": "Sanctum of Death",
-        "displayText": "../../../Sanctum of Death",
-        "relativePath": "World Notes/Locations and NPCs/Sanctum of Death.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Arc 1 - The Mysteries of Rankhra",
-        "link": "Salina",
-        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
-        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina"
       }
     ]
   },
@@ -1135,6 +1061,18 @@
     ]
   },
   {
+    "fileName": "Gloomspark District",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Gloomspark District.md",
+    "backlinks": [
+      {
+        "fileName": "A2SQ2 - Probably bandit investigation",
+        "link": "Gloomspark District",
+        "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ2 - Probably bandit investigation.md",
+        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Gloomspark District"
+      }
+    ]
+  },
+  {
     "fileName": "F.I.Z.",
     "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/F.I.Z..md",
     "tags": [
@@ -1187,14 +1125,110 @@
     ]
   },
   {
-    "fileName": "Gloomspark District",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Gloomspark District.md",
+    "fileName": "Second Domain",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
+    "tags": [
+      "location"
+    ],
+    "headings": [
+      {
+        "heading": "POIs",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ResearchGroup",
+        "displayText": "Second Domain/Lettered Lamenting/ResearchGroup",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md"
+      },
+      {
+        "link": "Relic Merchant",
+        "displayText": "../../../../Campaign Notes/Generics/Merchants/Relic Merchant"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "A2SQ2 - Probably bandit investigation",
-        "link": "Gloomspark District",
-        "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ2 - Probably bandit investigation.md",
-        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Gloomspark District"
+        "fileName": "Zal'Aata",
+        "link": "Second Domain",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md"
+      },
+      {
+        "fileName": "Lettered Lamenting",
+        "link": "Second Domain",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
+        "displayText": "../Second Domain"
+      },
+      {
+        "fileName": "Shoka Engineering Collective",
+        "link": "Second Domain",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
+        "displayText": "../Second Domain"
+      }
+    ]
+  },
+  {
+    "fileName": "Shivank Aaraka",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Shivank Aaraka.md",
+    "links": [
+      {
+        "link": "Badawi Hunter Tribe",
+        "displayText": "../../../Hunter Settlement/Badawi Hunter Tribe",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Artifact store",
+        "link": "Shivank Aaraka",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Artifact store.md",
+        "displayText": "Shiv"
+      }
+    ]
+  },
+  {
+    "fileName": "Hotel",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
+    "tags": [
+      "location"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lettered Lamenting",
+        "link": "Hotel",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
+        "displayText": "Miscellaneous Buildings/Hotel"
+      },
+      {
+        "fileName": "Verdant Selemno",
+        "link": "Hotel",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
+        "displayText": "hotel"
+      },
+      {
+        "fileName": "ResearchGroup",
+        "link": "Hotel",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md",
+        "displayText": "../Miscellaneous Buildings/Hotel"
+      }
+    ]
+  },
+  {
+    "fileName": "Artifact store",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Artifact store.md",
+    "links": [
+      {
+        "link": "Shivank Aaraka",
+        "displayText": "Shiv",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Shivank Aaraka.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Zal'Aata - POIs",
+        "link": "Artifact store",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs.md",
+        "displayText": "Second Domain/Miscellaneous Buildings/Artifact store"
       }
     ]
   },
@@ -1271,71 +1305,6 @@
         "link": "Lettered Lamenting",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting"
-      }
-    ]
-  },
-  {
-    "fileName": "Hotel",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Hotel.md",
-    "tags": [
-      "location"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Lettered Lamenting",
-        "link": "Hotel",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
-        "displayText": "Miscellaneous Buildings/Hotel"
-      },
-      {
-        "fileName": "Verdant Selemno",
-        "link": "Hotel",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
-        "displayText": "hotel"
-      },
-      {
-        "fileName": "ResearchGroup",
-        "link": "Hotel",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md",
-        "displayText": "../Miscellaneous Buildings/Hotel"
-      }
-    ]
-  },
-  {
-    "fileName": "Shivank Aaraka",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Shivank Aaraka.md",
-    "links": [
-      {
-        "link": "Badawi Hunter Tribe",
-        "displayText": "../../../Hunter Settlement/Badawi Hunter Tribe",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Artifact store",
-        "link": "Shivank Aaraka",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Artifact store.md",
-        "displayText": "Shiv"
-      }
-    ]
-  },
-  {
-    "fileName": "Artifact store",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Artifact store.md",
-    "links": [
-      {
-        "link": "Shivank Aaraka",
-        "displayText": "Shiv",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Miscellaneous Buildings/Shivank Aaraka.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Zal'Aata - POIs",
-        "link": "Artifact store",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs.md",
-        "displayText": "Second Domain/Miscellaneous Buildings/Artifact store"
       }
     ]
   },
@@ -1458,65 +1427,6 @@
     ]
   },
   {
-    "fileName": "Sasha Regis",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
-    "tags": [
-      "npc"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Lettered Lamenting",
-        "link": "Sasha Regis",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
-        "displayText": "Lettered Lamenting/Sasha Regis"
-      },
-      {
-        "fileName": "Arc 1 - The Mysteries of Rankhra",
-        "link": "Sasha Regis",
-        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
-        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis"
-      }
-    ]
-  },
-  {
-    "fileName": "Reggi Buer",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer.md",
-    "tags": [
-      "npc"
-    ],
-    "links": [
-      {
-        "link": ".md",
-        "displayText": "Salazar Coldwindt"
-      },
-      {
-        "link": "Balthazar Coldwindt",
-        "displayText": "../../../Hunter Settlement/Balthazar Coldwindt",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Lettered Lamenting",
-        "link": "Reggi Buer",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
-        "displayText": "Salazar Coldwindt"
-      },
-      {
-        "fileName": "Balthazar Coldwindt",
-        "link": "Reggi Buer",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt.md",
-        "displayText": "../Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer"
-      },
-      {
-        "fileName": "Arc 1 - The Mysteries of Rankhra",
-        "link": "Reggi Buer",
-        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
-        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer"
-      }
-    ]
-  },
-  {
     "fileName": "ResearchGroup",
     "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup.md",
     "tags": [
@@ -1590,12 +1500,6 @@
         "displayText": "../../Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/ResearchGroup"
       },
       {
-        "fileName": "Second Domain",
-        "link": "ResearchGroup",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
-        "displayText": "Second Domain/Lettered Lamenting/ResearchGroup"
-      },
-      {
         "fileName": "Salina",
         "link": "ResearchGroup",
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
@@ -1606,6 +1510,12 @@
         "link": "ResearchGroup",
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus.md",
         "displayText": "../Second Domain/Lettered Lamenting/ResearchGroup"
+      },
+      {
+        "fileName": "Second Domain",
+        "link": "ResearchGroup",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain.md",
+        "displayText": "Second Domain/Lettered Lamenting/ResearchGroup"
       },
       {
         "fileName": "Lettered Lamenting",
@@ -1623,6 +1533,27 @@
         "link": "ResearchGroup",
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
         "displayText": "../Second Domain/Lettered Lamenting/ResearchGroup"
+      }
+    ]
+  },
+  {
+    "fileName": "Sasha Regis",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis.md",
+    "tags": [
+      "npc"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lettered Lamenting",
+        "link": "Sasha Regis",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
+        "displayText": "Lettered Lamenting/Sasha Regis"
+      },
+      {
+        "fileName": "Arc 1 - The Mysteries of Rankhra",
+        "link": "Sasha Regis",
+        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
+        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis"
       }
     ]
   },
@@ -1650,6 +1581,44 @@
         "link": "Martin Isla",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Martin Isla"
+      }
+    ]
+  },
+  {
+    "fileName": "Reggi Buer",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer.md",
+    "tags": [
+      "npc"
+    ],
+    "links": [
+      {
+        "link": ".md",
+        "displayText": "Salazar Coldwindt"
+      },
+      {
+        "link": "Balthazar Coldwindt",
+        "displayText": "../../../Hunter Settlement/Balthazar Coldwindt",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lettered Lamenting",
+        "link": "Reggi Buer",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting.md",
+        "displayText": "Salazar Coldwindt"
+      },
+      {
+        "fileName": "Balthazar Coldwindt",
+        "link": "Reggi Buer",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Balthazar Coldwindt.md",
+        "displayText": "../Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer"
+      },
+      {
+        "fileName": "Arc 1 - The Mysteries of Rankhra",
+        "link": "Reggi Buer",
+        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
+        "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer"
       }
     ]
   },
@@ -1840,31 +1809,6 @@
     ]
   },
   {
-    "fileName": "Comet",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
-    "tags": [
-      "object"
-    ],
-    "links": [
-      {
-        "link": "Shoka Engineering Collective",
-        "displayText": "Centroscopia/Shoka Engineering Collective",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md"
-      },
-      {
-        "link": "Aether Firmament",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Aether Firmament",
-        "link": "Comet",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
-      }
-    ]
-  },
-  {
     "fileName": "Centroscopia",
     "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia.md",
     "tags": [
@@ -1954,8 +1898,7 @@
       },
       {
         "link": "Aether Firmament",
-        "displayText": "../Aether Firmament",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md"
+        "displayText": "../Aether Firmament"
       },
       {
         "link": "Distribution Center",
@@ -1995,13 +1938,13 @@
       {
         "fileName": "Comet",
         "link": "Shoka Engineering Collective",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md",
+        "relativePath": "World Notes/Key Artifacts/Comet.md",
         "displayText": "Centroscopia/Shoka Engineering Collective"
       },
       {
         "fileName": "Aether Firmament",
         "link": "Shoka Engineering Collective",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md",
+        "relativePath": "World Notes/Key Artifacts/Aether Firmament.md",
         "displayText": "Centroscopia/Shoka Engineering Collective"
       }
     ]
@@ -2065,7 +2008,7 @@
       {
         "link": "hidden book",
         "displayText": "book",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md"
+        "relativePath": "World Notes/Key Artifacts/hidden book.md"
       },
       {
         "link": "Janib'Rankhra",
@@ -2109,21 +2052,6 @@
         "link": "Rankhra",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra"
-      }
-    ]
-  },
-  {
-    "fileName": "hidden book",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/hidden book.md",
-    "tags": [
-      "object"
-    ],
-    "backlinks": [
-      {
-        "fileName": "Rankhra",
-        "link": "hidden book",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
-        "displayText": "book"
       }
     ]
   },
@@ -2174,61 +2102,6 @@
         "link": "Cedar Zendikar",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Cedar Zendikar"
-      }
-    ]
-  },
-  {
-    "fileName": "Aether Firmament",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Aether Firmament.md",
-    "tags": [
-      "object"
-    ],
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      },
-      {
-        "heading": "Functionality",
-        "level": 3
-      },
-      {
-        "heading": "Context",
-        "level": 3
-      },
-      {
-        "heading": "DM Details",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Shoka Engineering Collective",
-        "displayText": "Centroscopia/Shoka Engineering Collective",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md"
-      },
-      {
-        "link": "Comet",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Zal'Aata",
-        "link": "Aether Firmament",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md",
-        "displayText": "Dome"
-      },
-      {
-        "fileName": "Comet",
-        "link": "Aether Firmament",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Comet.md"
-      },
-      {
-        "fileName": "Shoka Engineering Collective",
-        "link": "Aether Firmament",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md",
-        "displayText": "../Aether Firmament"
       }
     ]
   },
@@ -2566,49 +2439,24 @@
     ]
   },
   {
-    "fileName": "Ancients",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md",
-    "tags": [
-      "group"
-    ],
+    "fileName": "Conru Mountains",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Conru Mountains.md",
     "links": [
       {
-        "link": "Janib'Rankhra",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md"
-      },
-      {
-        "link": "Rankhra",
-        "displayText": "Zal'Aata/Centroscopia/Rankhra",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md"
-      },
-      {
-        "link": "God of Creation",
-        "displayText": "../../Deities/God of Creation",
-        "relativePath": "World Notes/Deities/God of Creation.md"
+        "link": "Circle of the Moon",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Cynthia Char",
-        "link": "Ancients",
-        "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md"
+        "fileName": "Circle of the Moon",
+        "link": "Conru Mountains",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
       },
       {
-        "fileName": "Verdant Selemno",
-        "link": "Ancients",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
-        "displayText": "../../../Ancients"
-      },
-      {
-        "fileName": "Rankhra",
-        "link": "Ancients",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
-        "displayText": "../../Ancients"
-      },
-      {
-        "fileName": "Janib'Rankhra",
-        "link": "Ancients",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md"
+        "fileName": "Circle of the Moon",
+        "link": "Conru Mountains",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
       }
     ]
   },
@@ -2652,28 +2500,6 @@
         "link": "Circle of the Moon",
         "relativePath": "World Notes/Locations and NPCs/Cornucopia Streak.md",
         "displayText": "Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon"
-      }
-    ]
-  },
-  {
-    "fileName": "Conru Mountains",
-    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Conru Mountains.md",
-    "links": [
-      {
-        "link": "Circle of the Moon",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Circle of the Moon",
-        "link": "Conru Mountains",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
-      },
-      {
-        "fileName": "Circle of the Moon",
-        "link": "Conru Mountains",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
       }
     ]
   },
@@ -2728,19 +2554,49 @@
     ]
   },
   {
-    "fileName": "Cornucopia Streak",
-    "relativePath": "World Notes/Locations and NPCs/Cornucopia Streak.md",
-    "headings": [
-      {
-        "heading": "Description",
-        "level": 1
-      }
+    "fileName": "Ancients",
+    "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Ancients.md",
+    "tags": [
+      "group"
     ],
     "links": [
       {
-        "link": "Circle of the Moon",
-        "displayText": "Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
+        "link": "Janib'Rankhra",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md"
+      },
+      {
+        "link": "Rankhra",
+        "displayText": "Zal'Aata/Centroscopia/Rankhra",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md"
+      },
+      {
+        "link": "God of Creation",
+        "displayText": "../../Deities/God of Creation",
+        "relativePath": "World Notes/Deities/God of Creation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cynthia Char",
+        "link": "Ancients",
+        "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md"
+      },
+      {
+        "fileName": "Verdant Selemno",
+        "link": "Ancients",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
+        "displayText": "../../../Ancients"
+      },
+      {
+        "fileName": "Rankhra",
+        "link": "Ancients",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
+        "displayText": "../../Ancients"
+      },
+      {
+        "fileName": "Janib'Rankhra",
+        "link": "Ancients",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra.md"
       }
     ]
   },
@@ -2855,6 +2711,27 @@
     ]
   },
   {
+    "fileName": "Feywild Merchants",
+    "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants.md",
+    "tags": [
+      "group"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Aki",
+        "link": "Feywild Merchants",
+        "relativePath": "World Notes/PCs/Robin/Aki.md",
+        "displayText": "../../Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants"
+      },
+      {
+        "fileName": "Verdant Selemno",
+        "link": "Feywild Merchants",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
+        "displayText": "../../../../Feywild/Foxglove Grove/Feywild Merchants"
+      }
+    ]
+  },
+  {
     "fileName": "Nomadic Feywild Collective",
     "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Nomadic Feywild Collective.md",
     "tags": [
@@ -2898,68 +2775,148 @@
     ]
   },
   {
-    "fileName": "Feywild Merchants",
-    "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants.md",
-    "tags": [
-      "group"
+    "fileName": "Cornucopia Streak",
+    "relativePath": "World Notes/Locations and NPCs/Cornucopia Streak.md",
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      }
     ],
-    "backlinks": [
+    "links": [
       {
-        "fileName": "Aki",
-        "link": "Feywild Merchants",
-        "relativePath": "World Notes/PCs/Robin/Aki.md",
-        "displayText": "../../Locations and NPCs/Feywild/Foxglove Grove/Feywild Merchants"
-      },
-      {
-        "fileName": "Verdant Selemno",
-        "link": "Feywild Merchants",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno.md",
-        "displayText": "../../../../Feywild/Foxglove Grove/Feywild Merchants"
+        "link": "Circle of the Moon",
+        "displayText": "Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains/Circle of the Moon.md"
       }
     ]
   },
   {
-    "fileName": "Gentle Death",
-    "relativePath": "World Notes/Deities/Gentle Death.md",
+    "fileName": "The Book of Life (magic item)",
+    "relativePath": "World Notes/Key Artifacts/The Book of Life (magic item).md",
+    "tags": [
+      "object"
+    ],
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Gentle Death",
+        "displayText": "../../Deities/Gentle Death",
+        "relativePath": "World Notes/Deities/Gentle Death.md"
+      }
+    ],
     "backlinks": [
       {
-        "fileName": "Cynthia Char",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md"
+        "fileName": "Arc 2 - The City of Change",
+        "link": "The Book of Life (magic item)",
+        "relativePath": "Campaign Notes/Session Planning/Arc 2/Arc 2 - The City of Change.md"
+      }
+    ]
+  },
+  {
+    "fileName": "hidden book",
+    "relativePath": "World Notes/Key Artifacts/hidden book.md",
+    "tags": [
+      "object"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rankhra",
+        "link": "hidden book",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra.md",
+        "displayText": "book"
+      }
+    ]
+  },
+  {
+    "fileName": "Meteor",
+    "relativePath": "World Notes/Key Artifacts/Meteor.md"
+  },
+  {
+    "fileName": "Comet",
+    "relativePath": "World Notes/Key Artifacts/Comet.md",
+    "tags": [
+      "object"
+    ],
+    "links": [
+      {
+        "link": "Shoka Engineering Collective",
+        "displayText": "Centroscopia/Shoka Engineering Collective",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md"
       },
       {
-        "fileName": "Sanctum of Death",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Locations and NPCs/Sanctum of Death.md",
-        "displayText": "../Deities/Gentle Death"
+        "link": "Aether Firmament",
+        "relativePath": "World Notes/Key Artifacts/Aether Firmament.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Aether Firmament",
+        "link": "Comet",
+        "relativePath": "World Notes/Key Artifacts/Aether Firmament.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Asteroid",
+    "relativePath": "World Notes/Key Artifacts/Asteroid.md",
+    "links": [
+      {
+        "link": "Constellation"
+      }
+    ]
+  },
+  {
+    "fileName": "Aether Firmament",
+    "relativePath": "World Notes/Key Artifacts/Aether Firmament.md",
+    "tags": [
+      "object"
+    ],
+    "headings": [
+      {
+        "heading": "Description",
+        "level": 1
       },
       {
-        "fileName": "The Book of Life (magic item)",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/The Book of Life (magic item).md",
-        "displayText": "../../Deities/Gentle Death"
+        "heading": "Functionality",
+        "level": 3
       },
       {
-        "fileName": "Salina",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
-        "displayText": "../../../../Deities/Gentle Death"
+        "heading": "Context",
+        "level": 3
       },
       {
-        "fileName": "God of Creation",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Deities/God of Creation.md"
+        "heading": "DM Details",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Shoka Engineering Collective",
+        "displayText": "Centroscopia/Shoka Engineering Collective",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Shoka Engineering Collective.md"
       },
       {
-        "fileName": "God of Creation",
-        "link": "Gentle Death",
-        "relativePath": "World Notes/Deities/God of Creation.md"
+        "link": "Comet",
+        "relativePath": "World Notes/Key Artifacts/Comet.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Zal'Aata",
+        "link": "Aether Firmament",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata.md",
+        "displayText": "Dome"
       },
       {
-        "fileName": "Arc 1 - The Mysteries of Rankhra",
-        "link": "Gentle Death",
-        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
-        "displayText": "../../../../World Notes/Deities/Gentle Death"
+        "fileName": "Comet",
+        "link": "Aether Firmament",
+        "relativePath": "World Notes/Key Artifacts/Comet.md"
       }
     ]
   },
@@ -3029,6 +2986,57 @@
         "link": "God of Creation",
         "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
         "displayText": "../../../../World Notes/Deities/God of Creation"
+      }
+    ]
+  },
+  {
+    "fileName": "Gentle Death",
+    "relativePath": "World Notes/Deities/Gentle Death.md",
+    "headings": [
+      {
+        "heading": "Discuss with cynthia",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cynthia Char",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/PCs/Cynthia/Cynthia Char.md"
+      },
+      {
+        "fileName": "Sanctum of Death",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Locations and NPCs/Sanctum of Death.md",
+        "displayText": "../Deities/Gentle Death"
+      },
+      {
+        "fileName": "Salina",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina.md",
+        "displayText": "../../../../Deities/Gentle Death"
+      },
+      {
+        "fileName": "The Book of Life (magic item)",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Key Artifacts/The Book of Life (magic item).md",
+        "displayText": "../../Deities/Gentle Death"
+      },
+      {
+        "fileName": "God of Creation",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Deities/God of Creation.md"
+      },
+      {
+        "fileName": "God of Creation",
+        "link": "Gentle Death",
+        "relativePath": "World Notes/Deities/God of Creation.md"
+      },
+      {
+        "fileName": "Arc 1 - The Mysteries of Rankhra",
+        "link": "Gentle Death",
+        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
+        "displayText": "../../../../World Notes/Deities/Gentle Death"
       }
     ]
   },
@@ -3241,6 +3249,11 @@
         "fileName": "Concepts of Creation",
         "link": "Concept of connection",
         "relativePath": "World Notes/Deities/Concepts/Concepts of Creation.md"
+      },
+      {
+        "fileName": "Truecommon",
+        "link": "Concept of connection",
+        "relativePath": "Truecommon.md"
       }
     ]
   },
@@ -3278,6 +3291,52 @@
     ]
   },
   {
+    "fileName": "Truecommon",
+    "relativePath": "Truecommon.md",
+    "links": [
+      {
+        "link": "Concept of connection",
+        "relativePath": "World Notes/Deities/Concepts/Concept of connection.md"
+      },
+      {
+        "link": "Meeting Minutes"
+      },
+      {
+        "link": "Significant Historical Event"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Arc 2 - The City of Change",
+        "link": "Truecommon",
+        "relativePath": "Campaign Notes/Session Planning/Arc 2/Arc 2 - The City of Change.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Telas Muses",
+    "relativePath": "Telas Muses.md",
+    "backlinks": [
+      {
+        "fileName": "A2SQ1 - Investigating the newspaper distributor",
+        "link": "Telas Muses",
+        "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ1 - Investigating the newspaper distributor.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Scientific Journal",
+    "relativePath": "Scientific Journal.md",
+    "backlinks": [
+      {
+        "fileName": "Distribution Center",
+        "link": "Scientific Journal",
+        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
+        "displayText": "../../../../../Scientific Journal"
+      }
+    ]
+  },
+  {
     "fileName": "Rubae",
     "relativePath": "Rubae.md",
     "headings": [
@@ -3296,14 +3355,16 @@
     ]
   },
   {
-    "fileName": "Scientific Journal",
-    "relativePath": "Scientific Journal.md",
-    "backlinks": [
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
       {
-        "fileName": "Distribution Center",
-        "link": "Scientific Journal",
-        "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center.md",
-        "displayText": "../../../../../Scientific Journal"
+        "heading": "Welcome!",
+        "level": 1
+      },
+      {
+        "heading": "World Notes",
+        "level": 2
       }
     ]
   },
@@ -3329,20 +3390,6 @@
         "link": "Raphaella Sophronia Galani",
         "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ1 - Investigating the newspaper distributor.md",
         "displayText": "../../../../Raphaella Sophronia Galani"
-      }
-    ]
-  },
-  {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "Welcome!",
-        "level": 1
-      },
-      {
-        "heading": "World Notes",
-        "level": 2
       }
     ]
   },
@@ -3537,6 +3584,14 @@
         "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Fredrick.md"
       },
       {
+        "link": "Truecommon",
+        "relativePath": "Truecommon.md"
+      },
+      {
+        "link": "The Book of Life (magic item)",
+        "relativePath": "World Notes/Key Artifacts/The Book of Life (magic item).md"
+      },
+      {
         "link": "A2SQ3 - Investigating the Shoka Engineering COllective",
         "relativePath": "Campaign Notes/Session Planning/Arc 2/Quests/A2SQ3 - Investigating the Shoka Engineering COllective.md"
       }
@@ -3611,16 +3666,16 @@
     ]
   },
   {
+    "fileName": "Mission Instructions no.1",
+    "relativePath": "Campaign Notes/Session Planning/Arc 1/Letters and Props/Mission Instructions no.1.md"
+  },
+  {
     "fileName": "Shoka to Hunter - Letter",
     "relativePath": "Campaign Notes/Session Planning/Arc 1/Letters and Props/Shoka to Hunter - Letter.md"
   },
   {
     "fileName": "Newspaper Sample 1",
     "relativePath": "Campaign Notes/Session Planning/Arc 1/Letters and Props/Newspaper Sample 1.md"
-  },
-  {
-    "fileName": "Mission Instructions no.1",
-    "relativePath": "Campaign Notes/Session Planning/Arc 1/Letters and Props/Mission Instructions no.1.md"
   },
   {
     "fileName": "Badawi Hunters vs Party",
@@ -3976,44 +4031,36 @@
     ]
   },
   {
-    "fileName": "Party vs Monsters",
-    "relativePath": "Campaign Notes/Generics/Party vs Monsters.md",
-    "backlinks": [
-      {
-        "fileName": "Arc 1 - The Mysteries of Rankhra",
-        "link": "Party vs Monsters",
-        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
-        "displayText": "../../../Generics/Party vs Monsters"
-      }
-    ]
-  },
-  {
-    "fileName": "Combat Summary",
-    "relativePath": "Campaign Notes/Generics/Combat Summary.md",
+    "fileName": "Arc 2 - notes",
+    "relativePath": "Campaign Notes/Session Notes/Arc 2 - notes.md",
     "headings": [
       {
-        "heading": "Party Stats - lvl 5",
-        "level": 3
-      },
-      {
-        "heading": "Aki",
+        "heading": "Session 9",
         "level": 2
       },
       {
-        "heading": "Chron",
+        "heading": "Session 10",
         "level": 2
       },
       {
-        "heading": "Hunter",
-        "level": 2
+        "heading": "Disguises",
+        "level": 4
       },
       {
-        "heading": "Ratronus",
-        "level": 2
+        "heading": "ratronus (Kees)",
+        "level": 5
       },
       {
-        "heading": "Marilyne",
-        "level": 2
+        "heading": "aki (Fatimah)",
+        "level": 5
+      },
+      {
+        "heading": "hunter (Peter)",
+        "level": 5
+      },
+      {
+        "heading": "marilyne (Maria)",
+        "level": 5
       }
     ]
   },
@@ -4086,49 +4133,50 @@
     ]
   },
   {
-    "fileName": "Arc 2 - notes",
-    "relativePath": "Campaign Notes/Session Notes/Arc 2 - notes.md",
+    "fileName": "Party vs Monsters",
+    "relativePath": "Campaign Notes/Generics/Party vs Monsters.md",
+    "backlinks": [
+      {
+        "fileName": "Arc 1 - The Mysteries of Rankhra",
+        "link": "Party vs Monsters",
+        "relativePath": "Campaign Notes/Session Planning/Arc 1/Arc 1 - The Mysteries of Rankhra.md",
+        "displayText": "../../../Generics/Party vs Monsters"
+      }
+    ]
+  },
+  {
+    "fileName": "Combat Summary",
+    "relativePath": "Campaign Notes/Generics/Combat Summary.md",
     "headings": [
       {
-        "heading": "Session 9",
+        "heading": "Party Stats - lvl 5",
+        "level": 3
+      },
+      {
+        "heading": "Aki",
         "level": 2
       },
       {
-        "heading": "Session 10",
+        "heading": "Chron",
         "level": 2
       },
       {
-        "heading": "Disguises",
-        "level": 4
+        "heading": "Hunter",
+        "level": 2
       },
       {
-        "heading": "ratronus (Kees)",
-        "level": 5
+        "heading": "Ratronus",
+        "level": 2
       },
       {
-        "heading": "aki (Fatimah)",
-        "level": 5
-      },
-      {
-        "heading": "hunter (Peter)",
-        "level": 5
-      },
-      {
-        "heading": "marilyne (Maria)",
-        "level": 5
+        "heading": "Marilyne",
+        "level": 2
       }
     ]
   },
   {
     "fileName": "Custom Rulings",
     "relativePath": "Campaign Notes/Custom Rulings.md"
-  },
-  {
-    "fileName": "werkplaats Jaimy",
-    "relativePath": "1 Management and Git/werkplaats Jaimy.md",
-    "tags": [
-      "hidden"
-    ]
   },
   {
     "fileName": "Workspace for new ideas",
@@ -4158,6 +4206,13 @@
         "heading": "HOW TO DEAL WITH TWAN",
         "level": 2
       }
+    ]
+  },
+  {
+    "fileName": "werkplaats Jaimy",
+    "relativePath": "1 Management and Git/werkplaats Jaimy.md",
+    "tags": [
+      "hidden"
     ]
   },
   {
