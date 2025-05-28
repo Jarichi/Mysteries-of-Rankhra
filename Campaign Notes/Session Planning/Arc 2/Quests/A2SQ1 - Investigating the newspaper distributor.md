@@ -88,7 +88,7 @@ Party needs to do some digging onto the newspaper agency. They might discover th
 
 ## Meeting with Raphaella
 - If they play their cards right, they are sent to 
-	- [[../../../../Raphaella Sophronia Galani]] - actual leader of Temple News 
+	- [[Raphaella Sophronia Galani]] - actual leader of Temple News 
 		- Wis+5
 		- Int+5
 		- Cha:-1
