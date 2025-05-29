@@ -9,3 +9,6 @@ Yataghatay was founded an unknown period ago. Based on Drawings from this foundi
 It is nearly exclusively inhabited by changelings, who are most likely attracted to the city's changing nature. 
 During each period, the city exhibits a certain theme, where all inhabitants speak a certain language, are dressed in a certain style and behave a certain way. So far, no pattern has repeated itself, yet styles may be combined.
 Scholars are investigating whether these styles may be prophetic in nature, however, no conclusive evidence has been raised.
+
+## Culture
+Considering the everchanging anture of the city, a true, singular culture cannot be established. After every shift, the culture seems to completely reset, cycling through time periods. Despite this, certain red lines do remain after each shift, especially since the inhabitans retain their memories even though they change their demeanor.
