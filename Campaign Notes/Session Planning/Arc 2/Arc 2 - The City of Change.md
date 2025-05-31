@@ -81,6 +81,38 @@ When they return to the research group, the party will notice the same customers
 			- IDK
 		- Ok the I'll kill him and keep you here until you tell me.s
 	- When Fredrick dies, the same divine presence intercepts and breaks Rubae's spell, such that the prty can continue to the reserch group
+
+perhaps, the party will tell semyon and verdant about the rubae bs
+or, I will not even give the party a chance to avoid thus and kind of railroad everything, in the sense of teh following:
+
+- the party then goes to lettered lamenting after the rubae interaction
+- either verdant or semyon will look worried and say that they found Fredricks lifeless body in the centre of lamenting.
+- they will ask the party what the fuck happened because they felt an evil presence and then his body was there
+	- the party ,ight spill the tea but if they are avoidant, verdant will have investigated the bosy of ferderic and perhaps note that this is the work of some concept-related ability
+		- que loredump of the concepts and perhaps an explanationfor why they want to know more about the concept of flow.
+	- perhaps, ask the party what their goal is for their character, this will be fulfilled by the research group as best as possible, IF the party fulfills this mission.
+- then, Semyon will tell the party about [[Yataghatay]], the City of Change.
+	- Cue some lore about Semyon as well.
+- then after this, perhaps make the party investigate the information available for the Concepts, and let them discover that apparently someone is actively censoring information (the engineering collecgive)
+	- this will lead in a long sub/arc mission to investigate the shoka engineering collective
+	- the endi of this investigation might lead to the conclusion that the engineering collective is attempting to get to the city of change
+		- maybe the party finds some sort of instruciton or somerhting related that might indicate some sort of onoging operation to go to the city of change
+		- maybe theyll show this to semyon and he will decide to go along with the party.
+			- alsp, prepare a sheet for semyon
+		- buuuttt maybe they wont show semyon and hell decide to go along with them anyway
+	- hmm
+- then after the investigation they will go to the city of change
+- I mightttt shoulddd maybeeeee make some sort of funny inbetween mission that has bleeder and shov maybe
+	- maybe some sort of interaction thingy thattt migghhttt be a sort of reunion
+	- maybe some sort of feywild shenanigan thingy
+	- maybe some sort of hunter thing
+	- maybe even marilyne?/
+
+
+- this needs to be worked out tho but it does seem like a nice start for the continued story,
+
+
+
 - This event will lead the party to explore towards the City of Change.
 	- Perhaps some sort of Changeling is found unconscious or insane and rambling about some cryptic line that might reference the strange occurrences with the Concepts (maybe some lines like "The songs are changing", "The rhythms have gone weird" idk), Semyon will be there as well together with Verdant and will bring the Changeling in for questioning or something.
 	- Semyon will then point towards the City of Change for the party to head towards.
