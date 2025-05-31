@@ -13,16 +13,20 @@
       "relativePath": "World Notes"
     },
     {
+      "name": "Session notes",
+      "relativePath": "Campaign Notes/Session notes"
+    },
+    {
       "name": "Deities",
       "relativePath": "World Notes/Deities"
     },
     {
-      "name": "Locations and NPCs",
-      "relativePath": "World Notes/Locations and NPCs"
-    },
-    {
       "name": "Natura",
       "relativePath": "World Notes/Natura"
+    },
+    {
+      "name": "Locations and NPCs",
+      "relativePath": "World Notes/Locations and NPCs"
     },
     {
       "name": "Concepts",
@@ -33,12 +37,12 @@
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert"
     },
     {
-      "name": "Cornucopia Streak",
-      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak"
-    },
-    {
       "name": "Hunter Settlement",
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement"
+    },
+    {
+      "name": "Cornucopia Streak",
+      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak"
     },
     {
       "name": "Zal'Aata",
