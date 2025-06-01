@@ -52,24 +52,24 @@ When they return to the research group, the party will notice the same customers
 - Even though Semyon has a high-stakes mission, he still needs the party to prove themselves and evaluate their worth, so he has prepared a small mission for them.
 
 # Session 10
-- [[Quests/A2SQ1 - Investigating the newspaper distributor]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
-	- [[Quests/A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus]] again
+- [[A2SQ1 - Investigating the newspaper distributor]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
+	- [[A2SQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[Marcus]] again
 	- a mission that delves into marylines character more might be cool considering she is pretty much the only one who did not get any lore yet
 	- same kinda goes for aki tbh
 
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
-	- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Zal'Aata - POIs]]
+	- [[Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
 	- When they head to the lettered lamenting again and walk through the alley, they are kind of intercepted or something.
 		- "you head towards Lettered Lamenting, and go through this alleyway............."
 		- "please roll an arcana check"
 	- Maybe "Rubae" will appear again, and like tell them tsomething that might goad the party into going to the City of Change and subsequently being tricked by Marilyne.
 		- In reality, this is Marilyne who appears to them while she's away.
-		- [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
+		- [[Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
 			- This melody will represent the concepts in general, and when I make OST for my campaign, this melody will represent all of the concepts.
 			- "The songs are changing, ideas distorting" in a repetitive rhythm.
-			- This is spoken in [[../../../World Notes/Truecommon]], but only the party can understand it. Rubae cannot
-				- This means that by extension, Marilyne cannot understand it. She has not been in the temple, nor has she read the [[../../../World Notes/Key Artifacts/The Book of Life (magic item)]] in Janib'Rankhra, and has not received a key from the temple.
+			- This is spoken in [[Truecommon]], but only the party can understand it. Rubae cannot
+				- This means that by extension, Marilyne cannot understand it. She has not been in the temple, nor has she read the [[magic item)](The Book of Life (magic item|The Book of Life (magic item)]].md) in Janib'Rankhra, and has not received a key from the temple.
 	- that guy will just be standing there, whatever direction they go. 
 		- IF they decide to kill him or shoot him on sight, he'll instantly die, but his corpse will start talking
 	- After the (hopefully) offputting interaction with him, they will feel a presence
@@ -122,4 +122,4 @@ Telas Muses got her tattoo on her neck in teh city of change to be able to chang
 
 
 note that perhaps in a later moment, an dmaybe before the city of change is visited, the engineering collective will be investigated together with Elise as TElas.
-[[Quests/A2SQ3 - Investigating the Shoka Engineering COllective]]
+[[A2SQ3 - Investigating the Shoka Engineering COllective]]

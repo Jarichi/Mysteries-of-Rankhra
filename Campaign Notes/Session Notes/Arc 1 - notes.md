@@ -172,7 +172,7 @@ End session 1
 
 ---
 ## Session 2
-[[../../World Notes/PCs/Daan/Hunter Back.pdf]], [[../../World Notes/PCs/Joris/Ratronus Front.pdf]], [[../../World Notes/PCs/Robin/Aki Front.pdf]], [[../../World Notes/PCs/Twan/Chrone Front.pdf]]
+[[Hunter Back.pdf]], [[Ratronus Front.pdf]], [[Aki Front.pdf]], [[Chrone Front.pdf]]
 
 Session Recap
 -kinda accurate except that Joris thinks that Marcus has brought Salina along to serve as bait or osmething (which is kinda wrong)

@@ -1,4 +1,4 @@
-# [[../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Marcus]]
+# [[Marcus]]
 CR +- 3
 Level 5 rogue, Overlord (relevant to Joris' backstory), cocky bastard who is cruel and a ruler. No respect for the research group, has sensitive information.
 

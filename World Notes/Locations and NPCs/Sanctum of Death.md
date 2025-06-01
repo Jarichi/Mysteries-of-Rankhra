@@ -1,4 +1,4 @@
-falls under the guidance of [[../Deities/Gentle Death]]
+falls under the guidance of [[Gentle Death]]
 has several minor gods/houses *look at cleric domains of Amonkhet *
 [[Rhonas]] god of strength
 

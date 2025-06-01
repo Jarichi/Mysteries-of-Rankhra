@@ -1,5 +1,5 @@
 #location 
-Vast sandscape which is mainly empty, but contains the [[Hunter Settlement/Badawi Hunter Tribe]]
+Vast sandscape which is mainly empty, but contains the [[Badawi Hunter Tribe]]
 
 # Description
 The Makhshar Desert is a gigantic, seemingly infinitely stretching plain of sand and dunes, but can be separated into several specific landmarks. It is quite cold at night but reasonably hot during the day. As such, most travel occurs at dawn and dusk. 
@@ -11,9 +11,9 @@ The basin is quite hard and rocky, with a crater in the centre. What remains of 
 ## Landmark 3 - Makhshar Caves
 The Makhshar caves are a ginormous cave complex spanning a wide portion of the desert and possessing many mysteries. The cooler temperature allowed for critters and vegetation to take on more mesmerising and -quite literally- radiant forms by means of bio-luminescence. The caves contain an ancient stronghold overrun by some creature and contains many secrets and hidden knowledge.
 ## Landmark 4 - Cornucopia Streak
-Assisted by the Concept of Growth and the Concept of Flow, the Cornucopia Streak is the home of [[Zal'Aata/Zal'Aata]]. This oasis contains many different species and provides a diverse and unique area in the desert. The Concept of Flow ensures plenty of water for all vegetation and creatures, and the Concept of Growth makes for increased Most importantly, [[Hunter Settlement/Auroch]] have found their home here. The Concept of Growth is hidden away within the Circle of the Moon, behind a mountain range.
+Assisted by the Concept of Growth and the Concept of Flow, the Cornucopia Streak is the home of [[Zal'Aata]]. This oasis contains many different species and provides a diverse and unique area in the desert. The Concept of Flow ensures plenty of water for all vegetation and creatures, and the Concept of Growth makes for increased Most importantly, [[Auroch]] have found their home here. The Concept of Growth is hidden away within the Circle of the Moon, behind a mountain range.
 ## Landmark 5 - Shifting Plains
-The ever-changing dunescape of the Shifting Plains contains a mysterious city rumoured to modify its appearance every single day (hint: see graph view) [[City of Change/Yataghatay]]. (honestly the most interesting part of the desert imo). 
+The ever-changing dunescape of the Shifting Plains contains a mysterious city rumoured to modify its appearance every single day (hint: see graph view) [[Yataghatay]]. (honestly the most interesting part of the desert imo). 
 
 ## More landmarks are WIP
 

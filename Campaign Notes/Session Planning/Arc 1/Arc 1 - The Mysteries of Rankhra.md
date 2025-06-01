@@ -21,7 +21,7 @@ This document will contain details and summaries of the planned action happening
 		- Chrone arrives in his wild shape (spooder) coincidentally at the same time.
 		- preceprtion roll for seeing the hole in the roof.
 
-- Joining research group [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting]]
+- Joining research group [[Lettered Lamenting]]
 	- Verdant introduces themselves and answers the most of their questions
 	- They are allowed to speak with the NPCs in the area/
 	- After introductions, Verdant asks them to join the research group, and immediately gives them a mission that lets the party go into the 3rd domain.
@@ -51,7 +51,7 @@ This document will contain details and summaries of the planned action happening
 	- Wether Marcus lives or dies, they need to bring him to the research group.
 
 --end session 1:
-[[../../../Session Notes/Arc 1 - notes]]
+[[Arc 1 - notes]]
 
 ###### Session conclusions
 Party:
@@ -68,7 +68,7 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-[[../../../../World Notes/Deities/Gentle Death]], [[../../../../World Notes/PCs/Cynthia/Marilyne]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Salina]]
+[[Gentle Death]], [[../../../../World Notes/PCs/Cynthia/Marilyne]], [[Salina]]
 
 SESSION RECAP
 
@@ -87,7 +87,7 @@ SESSION RECAP
 		- If the party ask Salina about Gentle Death or Parting Gifts, she will reveal some information about this since she's a member of the Sanctum of Death.
 	- The party will most likely take Frederic with them. Frederic will simply mumble "The water must not stop" or something along these lines
 
-[[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Verdant Selemno]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Martin Isla]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain/Semyon Voltaire]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Reggi Buer]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting/Sasha Regis]], [[../../../Character Sheets/Telas Muses.pdf]]
+[[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]], [[Telas Muses.pdf]]
 ###### Returning to research group
 - All previously present NPCs are still there. Telas is still singing, Reggi is now at the bar chatting up Martin, and Sasha is just walking out of the kitchen, curerntly taking the shape of a female halfling with short, blonde hair.
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
@@ -106,7 +106,7 @@ SESSION RECAP
 			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers. This Comet needs to be activated, however.
 				- Chron already has a comet, and as such doesn't need to activate his.
 
-[[../../../../World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Rankhra]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia]], 
+[[Badawi Hunter Tribe]], [[Janib'Rankhra]], [[Rankhra]], [[Centroscopia]], 
 ###### The filler
 Make a map of the entire map
 
@@ -128,11 +128,11 @@ POIs
 	- The foxglove is, unfortunately, located within the temple boundaries itself. This will serve as an in-game guide that the temple cannot be accessed by normal means.
 
 - Janib'Rankhra can be found when speaking to a merchant NPC who heard that there are four weird pillars to the west of the city.
-- To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide]] and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
+- To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the [[Bahath Animal Guide]] and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
 - The party may choose where to go first.
 
-[[../Puzzle no.1]], [[../../../../World Notes/Deities/God of Creation]]
-###### [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Janib'Rankhra]]
+[[../Puzzle no.1]], [[God of Creation]]
+###### [[Janib'Rankhra]]
 - Aki will recognise the environment. This is where she entered the material plane
 - The goal is to solve a puzzle in order to excavate the temple.
 	- The puzzle requires them to speak 4 words of a topic that only they are familiar with. Each spoken word will give them a key, which they will keep of course for future mission stuff tee hee.
@@ -145,7 +145,7 @@ POIs
 - After completing this mission, they will receive a message from Verdant asking if they have made progress with the exploration mission.
 
 --End session 2
-[[../../../Session Notes/Arc 1 - notes]]
+[[Arc 1 - notes]]
 
 ###### session conclusions
 - Chron likes to do his own thing, the party doesn't really trust each other fully yet
@@ -183,15 +183,15 @@ might experiment with letting some events happen in the background and rolling s
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
 			- article commissioned by an old potion shop owner who sells generic potions for some value.
-		- Biologist [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Cedar Zendikar]]: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
+		- Biologist [[Cedar Zendikar]]: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.
 
 - City POIs are
-	- [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Centroscopia/Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
+	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
 		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
-	- [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/First Domain/Distribution Center|newspaper agency]] (2nd domain)
+	- [[Distribution Center|newspaper agency]] (2nd domain)
 		- Populated by Raphaella Sophronia Galani
 			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
 	- [[../../../Generics/Merchants/Potion Merchant|Potion Store]] in first domain, selling an array of standard potions and such
@@ -240,13 +240,13 @@ If not, most likely some more city exploring.
 - 
 - storytelling segment. Mention the coldness of the desert and the eerie silence. As the party moves along the desert, they spot an oasis. Hunter rolls nature if he remembers the oasis as belo-nging to the auroch feeding and sleeping place. He also remembers that auroch generally hunt near the end of the night to capitalise on exhausted creatures, and everybody may roll perception. If siccess, Ill give them time to prepare against the coming pack of auroch which appear to be fleeing from something (DC20) or running towards oasis (DC15).
 - After the storytelling segment, combat OR some other interaction.
-When the party leaves the city and heads to a direction, they run into a pack of 9 wild desert Aurochs, split in groups of 3. Ensue combat. [[../../../Generics/Party vs Monsters]]
+When the party leaves the city and heads to a direction, they run into a pack of 9 wild desert Aurochs, split in groups of 3. Ensue combat. [[Party vs Monsters]]
 
 If it looks like they will die, they get ex machina'd by the Hunter tribe that kill the remaining Aurochs and offers help. Allusion to the fact that Daan is a former member. They are offered a place to stay and recover, and arrive at the tribe.
 
 If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether.
 
-[[../../../../World Notes/Deities/Concepts/concept of exploration]], [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Bahath Animal Guide]]
+[[concept of exploration]], [[Bahath Animal Guide]]
 
 ---
 some notes for minisession with Cynthis
@@ -260,7 +260,7 @@ some notes for minisession with Cynthis
 	- They were kind of waiting until they either got in trouble or actually acted and when they saw the auroch group run on, they knew enough.
 	- The person who killed the Auroch gets commendations, and compliments on their huntsmanship.
 - After a bit of bantering, the hunter tribesmen take the party to their camp and allow them limited access.
-###### [[../../../../World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement/Badawi Hunter Tribe]]
+###### [[Badawi Hunter Tribe]]
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent due to traditional concerns.
 	- Some nomads will speak to them but some nomads will only speak if they have proven themselves worthy.

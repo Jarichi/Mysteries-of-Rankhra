@@ -1,5 +1,5 @@
 # Description
-The Concepts are the pieces of the body of the [[../God of Creation]], which each represent a concept occurring in reality. Depending on the nature of the concept, it may take the form of a creature, an object or something else altogether.
+The Concepts are the pieces of the body of the [[God of Creation]], which each represent a concept occurring in reality. Depending on the nature of the concept, it may take the form of a creature, an object or something else altogether.
 
 All Concepts are represented as a pure tone, or a certain musical phrase that may be recognised by anyone who has been in direct proximity with a Concept. When observing, investigating or otherwise inspecting a Concept or anything directly influenced by it, a rhythm may be observed.
 
@@ -17,7 +17,7 @@ Strangely, all concepts are of a paradoxical nature. The concept of flow is cont
 - Represented as an introspective piece that mirrors its movements along both bass and treble.
 [[concept of exploration]]
 - Represented as an experimental jazz composition, continuously evolving and trying new sounds.
-[[Concept of Change]]
+[[concept of change]]
 - Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
 [[Concept of connection]]
 - Represented as a connected piece that joins all of the earlier Concepts together.
