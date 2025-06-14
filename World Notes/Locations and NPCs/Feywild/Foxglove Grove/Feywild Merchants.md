@@ -7,8 +7,8 @@ Together, Alden and Elara form a formidable team, their symbiotic partnership ep
 After gathering trinkets within the enchanting depths of the Feywild, Alden returns to the mortal realm, accompanied by Elara, who discreetly assumes her fox form perched on his shoulder.
 This guise not only shields her true identity from the prying eyes of outsiders but also allows her to swiftly navigate through unfamiliar terrain, evading potential dangers that lurk beyond the mystical realm's borders.
 
-General merchant inventory
+[[Feywild Merchant]]
 
-|     |     |
+| Va  |     |
 | --- | --- |
 |     |     |
