@@ -418,3 +418,15 @@ im gonna drop lore
 barkeeper is form yataghatay
 
 ratronus day profit
++ 449gp
+
+1483
+barkeeper is a changeling
+tells city
+
+18 aki
+19 mari
+
+marilyne sucked the bar guy 
+
+bruh
