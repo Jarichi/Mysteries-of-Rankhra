@@ -74,7 +74,7 @@ key points
 - concept of reflections will split this in turn for redemption
 - but she needs to protect the concepts against discovery
 	- somthing is influencing the concept of flow which is in zal aata
-- 
+- therefore she joined the research group
 
 
 ### The rubae scene
