@@ -60,10 +60,14 @@ When they return to the research group, the party will notice the same customers
 - He also allows the party to simply take a day off and explore the city, but he expects them to return to him after this day. Maybe useful for preparation. Semyon will also provide a basic map of Zal'Aata with some interesting sights marked on them.
 	- [[Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
+
+### The rubae scene
+- tingies to avoid werird font
+
 	- When they head to the lettered lamenting again and walk through the alley, they are kind of intercepted or something.
 		- "you head towards Lettered Lamenting, and go through this alleyway............."
 		- "please roll an arcana check"
-	- Maybe "Rubae" will appear again, and like tell them tsomething that might goad the party into going to the City of Change and subsequently being tricked by Marilyne.
+	- Maybe "Rubae/Lady of River's Red" will appear again, and like tell them tsomething that might goad the party into going to the City of Change and subsequently being tricked by Marilyne.
 		- In reality, this is Marilyne who appears to them while she's away.
 		- [[Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
 			- This melody will represent the concepts in general, and when I make OST for my campaign, this melody will represent all of the concepts.
@@ -73,14 +77,25 @@ When they return to the research group, the party will notice the same customers
 	- that guy will just be standing there, whatever direction they go. 
 		- IF they decide to kill him or shoot him on sight, he'll instantly die, but his corpse will start talking
 	- After the (hopefully) offputting interaction with him, they will feel a presence
-		- Rubae appears.
+		- the Lady of River's Red appears, **Non-physical manifstetations**
 	- Some dialogue:
 		- He has been like this ever since I tried to take his memories... Almost like I broke him, somehow. I cannot understand what he's mumbling about, oddly enough.
 		- I understand he is part of your "research group", correct? 
 		- Well, will you tell me what he is talking about?
 			- IDK
-		- Ok the I'll kill him and keep you here until you tell me.s
+		- Ok the I'll kill him and keep you here until you tell me.
 	- When Fredrick dies, the same divine presence intercepts and breaks Rubae's spell, such that the prty can continue to the reserch group
+
+- when fredrick is killed by smoke of the Lady, she disappears into a dark clowd which races to the party and then they are kicked out!!
+	- gaping maw, red eyes, perception DC 18
+		- failed dc results inj only the deep red eyes being burnt i nto the conscousu
+		- 
+
+
+
+
+
+
 
 perhaps, the party will tell semyon and verdant about the rubae bs
 or, I will not even give the party a chance to avoid thus and kind of railroad everything, in the sense of teh following:
