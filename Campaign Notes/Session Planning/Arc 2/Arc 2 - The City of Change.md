@@ -61,6 +61,22 @@ When they return to the research group, the party will notice the same customers
 	- [[Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
 
+### The vision
+key points
+- you were lady od rivers red
+- wento the the desert to end the curse (by dying)
+- divine intervention form the concept of refelction
+- the concept reflected the curse into two seperate entities
+	- "rubae" is this curse, maryline is the body
+	- the curse wants to forcibly end the concepts and erase them/absorb them
+	- maryline does not want to do this because she want sto reconnect with her lover
+		- the bone might react
+- concept of reflections will split this in turn for redemption
+- but she needs to protect the concepts against discovery
+	- somthing is influencing the concept of flow which is in zal aata
+- 
+
+
 ### The rubae scene
 - tingies to avoid werird font
 
