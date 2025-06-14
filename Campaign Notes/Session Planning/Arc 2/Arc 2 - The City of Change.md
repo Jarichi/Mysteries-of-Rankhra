@@ -61,6 +61,7 @@ When they return to the research group, the party will notice the same customers
 	- [[Zal'Aata - POIs]]
 - After completing at least one of these missions for a reward, something will happen that serves as a canon event.
 
+# Session 11
 ### The vision
 key points
 - you were lady od rivers red
@@ -110,6 +111,7 @@ key points
 
 
 
+# Session 12
 
 
 

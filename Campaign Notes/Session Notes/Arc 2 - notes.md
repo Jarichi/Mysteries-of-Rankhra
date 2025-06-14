@@ -464,13 +464,13 @@ ratonus cats mage hand and tries to touch the person
 the fredric moment
 needs to be recapped for hunter
 
-ratroenu s tries t ask what iudeas
+ratroenu s tries t ask what ideas are distored
 
 whiapr
 
 21
 
-it is here, save me
+"it is here, save me"
 
 hunte rhas reloaded
 
@@ -479,3 +479,10 @@ and receive
 they actually telllL???
 
 they arrive at lettered lamemting
+
+namedrop
+bruh they arent paying attention
+
+hunter needs to reload
+
+---
