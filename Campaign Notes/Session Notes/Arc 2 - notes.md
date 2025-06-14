@@ -368,10 +368,10 @@ Significant events that happened
 	- She also is unaware why the party was not informed of her mission, however it is safe to assume that this is because of knowledge separation.
 - Aki visited Raphaella's study in the basement, which is in an aluminium room (aluminium blocks magic), and she appeared to study how comets work, how they are connected and magical artifacts in general. Her motivations are unknown.
 - Aki also visited the conference room on the first floor, and discovered a folder of meeting minutes. The minutes are written in an unintelligible script, except for the names of the attendants:
-	- Everon Lunares
-	- Cedar Zendikar
-	- Alys Nakayaru
-	- Ra'Sheema Zal-Hiera.
+	- Everon Lunares - magic schoool
+	- Cedar Zendikar - biologist
+	- Alys Nakayaru - someone from where aki comes from 
+	- Ra'Sheema Zal-Hiera - cult leader
 - Sabrina was ambushed, and tightened to the desk by Maryline and Ratronus, after attempting to coerce her into relinquishing her supervision to Maryline. She attempted to do this by cleverly using Illusory Script to create a foolproof permission slip.
 - Investigating the central, large comet - also known as an Asteroid - provided information that the communication net is divided into a number of separate networks, called constellations
 	- City constellation - Routes all general-use Comets of Zal'Aata through this Asteroid.
@@ -400,3 +400,13 @@ the see the files and roll history
 - hunter 12
 - mari 17
 - rat 16
+
+arcana/investigation roll on the text
+10
+19
+24
+8
+
+notes are only readable with a certain passphrase
+	not exactly illusionary script
+
