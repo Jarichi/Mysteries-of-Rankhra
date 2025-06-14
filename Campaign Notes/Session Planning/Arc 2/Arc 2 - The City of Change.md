@@ -88,12 +88,26 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 - the party then goes to lettered lamenting after the rubae interaction
 - either verdant or semyon will look worried and say that they found Fredricks lifeless body in the centre of lamenting.
 - they will ask the party what the fuck happened because they felt an evil presence and then his body was there
-	- the party ,ight spill the tea but if they are avoidant, verdant will have investigated the bosy of ferderic and perhaps note that this is the work of some concept-related ability
+	- the party might spill the tea but if they are avoidant, verdant will have investigated the bosy of ferderic and perhaps note that this is the work of some concept-related ability
 		- que loredump of the concepts and perhaps an explanationfor why they want to know more about the concept of flow.
 	- perhaps, ask the party what their goal is for their character, this will be fulfilled by the research group as best as possible, IF the party fulfills this mission.
 - then, Semyon will tell the party about [[Yataghatay]], the City of Change.
 	- Cue some lore about Semyon as well.
 - then after this, perhaps make the party investigate the information available for the Concepts, and let them discover that apparently someone is actively censoring information (the engineering collecgive)
+
+- after the interaciton with semyon and co, we will probably go into some sort of investigationoverarching mission for the engineering collective.
+- they are censoring information regarding the concepts, and specifically the concept of flow since this is used for a "reason" by the engineering collective.
+- therefore, semyon asks the party to perhaps head towards the idk to get fonro
+- wudefhwrfqk
+- kill me this is gonna be a terrible fucking session
+- 
+
+
+
+
+
+
+
 	- this will lead in a long sub/arc mission to investigate the shoka engineering collective
 	- the endi of this investigation might lead to the conclusion that the engineering collective is attempting to get to the city of change
 		- maybe the party finds some sort of instruciton or somerhting related that might indicate some sort of onoging operation to go to the city of change
