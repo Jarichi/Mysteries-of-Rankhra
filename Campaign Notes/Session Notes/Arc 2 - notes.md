@@ -410,3 +410,11 @@ arcana/investigation roll on the text
 notes are only readable with a certain passphrase
 	not exactly illusionary script
 
+but who has the passphrase??
+
+they are gonna feed his ass druk
+
+im gonna drop lore
+barkeeper is form yataghatay
+
+ratronus day profit
