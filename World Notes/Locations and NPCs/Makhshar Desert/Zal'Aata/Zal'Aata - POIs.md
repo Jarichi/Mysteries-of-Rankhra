@@ -2,6 +2,8 @@
 
 # Centroscopia
 - [[Great Acadamy of Arcane Arts]] - Reasonably highly esteemed magic school, currently in the midst of the teaching season.
+	- Currently closed for visitors by magical systems, not much to do wt the moment
+	- owned by 
 - [[Rankhra]] - Obviously
 - [[Shoka Engineering Collective]] - As of arc 2, completely inaccessible. Entry is technically allowed however anti-magical artificer tools are installed to suppress magical tomfoolery and possibly also alert people of magic users.
 - 
@@ -19,7 +21,7 @@
 		- Guns
 		- Armor
 		- Potions of Sneak (porobabl)
-	- This delegation is manned by Bleeder and is manned by [[Charlie Abbott|Bleeder]] and [[Shivank Aaraka]]
+	- This delegation is manned by [[Charlie Abbott|Bleeder]] and [[Shivank Aaraka]]
 	- Shiv does not know that bleeder is part of the hunter group and even though bleeder does know abouyt this, he forget swhen he leaves the camp
 - markets
 - and
