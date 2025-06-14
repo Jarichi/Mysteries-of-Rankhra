@@ -9,10 +9,10 @@ This guise not only shields her true identity from the prying eyes of outsiders 
 
 [[Feywild Merchant]]
 
-| Value | Name            | Description                                                                           | Price  |
-| ----- | --------------- | ------------------------------------------------------------------------------------- | ------ |
-| 1     | Kitsune brew    | 4d6 healing and 10 tempHP for kitsune, roll on [[Kitsune table]] for non-Sylvan races | 250 gp |
-| 2     | Dowsing rod     | A dowsing rod, but it literally does not do anything                                  | 300 gp |
-| 3     | Arcane Foraging | Literally MtG                                                                         | 600 gp |
-|       |                 |                                                                                       |        |
-|       |                 |                                                                                       |        |
+| Value | Name               | Description                                                                           | Price   |
+| ----- | ------------------ | ------------------------------------------------------------------------------------- | ------- |
+| 1     | Kitsune brew       | 4d6 healing and 10 tempHP for kitsune, roll on [[Kitsune table]] for non-Sylvan races | 250 gp  |
+| 2     | Dowsing rod        | A dowsing rod, but it literally does not do anything                                  | 300 gp  |
+| 3     | Arcane Foraging    | Literally MtG                                                                         | 600 gp  |
+| 4     | Elderberry (10pcs) | Used to make kitsune brew, gives mild effects of the [[Kitsune table]]                | 200  gp |
+| 5     | Invisible bells    | A pair of invisible bells                                                             | 400 gp  |

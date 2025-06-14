@@ -11,7 +11,7 @@ Table
 | 4     | Potion of Fire Resistance     | Resistange against fire for 1 hour                                                    | 300        |
 | 5     | Potion of Force Resistance    | Resistance against force for 1 hour                                                   | 300        |
 | 6     | Potion of Necronic Resistance | Resistance against necro for 1 hour                                                   | 500        |
-| 7     | Potion of Invulnerability     | Resistance against all damage for 1 minute                                            | 4000       |
+| 7     | Potion of Invulnerability     | Resistance against all damage for 10 seconds                                          | 4000       |
 | 8     | Potion of Mind Reading        | Gain detect thoughts once                                                             | 1000       |
 | 9     | Drow Poison                   | DC 13 or be poisoned for half an hour                                                 | 200        |
 | 10    | WIldcard                      | Potion that is useful for a coming event.                                             | 200        |
