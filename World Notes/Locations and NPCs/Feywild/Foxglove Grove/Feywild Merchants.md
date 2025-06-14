@@ -16,3 +16,4 @@ This guise not only shields her true identity from the prying eyes of outsiders 
 | 3     | Arcane Foraging    | Literally MtG                                                                         | 600 gp  |
 | 4     | Elderberry (10pcs) | Used to make kitsune brew, gives mild effects of the [[Kitsune table]]                | 200  gp |
 | 5     | Invisible bells    | A pair of invisible bells                                                             | 400 gp  |
+|       |                    |                                                                                       |         |
