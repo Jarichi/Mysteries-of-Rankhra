@@ -358,6 +358,10 @@ Significant events that happened
 	- Reward: 550GP
 - (They have given Salazar the letter from Balthazar) they are confronting Salazar on the adventures of Balthasar lmao
 - They have taken on some disguises, provided to them by Semyon and Verdant.
+	- Distinguished schoolboy "Kees" - Ratreonus
+	- Foxo with pink furry collar - Fathimeh
+	- delivery man Peter - Hunter
+	- Office siren - Marilyne
 - They have met up with Telas, who was also on a mission to infiltrate the newspaper distribution centre.
 	- She has given the party the name "Sabrina", who is the receptionist and supervisor of the bottom floor of the newspaper distribution
 	- She does not know who Sabrina's supervisors are, but suspects they have something to do with the Shoka Engineering Collective.
@@ -376,3 +380,4 @@ Significant events that happened
 - Ratronus has broadcasted the following message to the city constellation using the central Asteroid, in Thieves' Cant: "Abandon your post - everything is a lie"
 
 ---
+# Session 11
