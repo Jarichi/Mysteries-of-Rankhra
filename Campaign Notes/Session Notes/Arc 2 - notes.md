@@ -393,4 +393,10 @@ and remember to displell their disguieses
 
 keind of 
 
-2 beer 1 wine
+2 beer 1 wine 1 wodka
+
+the see the files and roll history
+- aki 18
+- hunter 12
+- mari 17
+- rat 16
