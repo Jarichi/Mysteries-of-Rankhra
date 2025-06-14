@@ -18,7 +18,7 @@
 	- they know who Aki is and also know that they don't intend to betray her
 	- Looking for a way back into the feywild, with suspiucinos that the concept of flow is influencing the feywild.
 	- Merchant invL
-		- [[Potion Merchant]]
+		- [[Alchemist]]
 		- [[Feywild Merchants]]
 - Badawi Hunter tribe delegation 
 	- Sells Aurich hunting tools
