@@ -128,17 +128,11 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 
 - after the interaciton with semyon and co, we will probably go into some sort of investigationoverarching mission for the engineering collective.
 - they are censoring information regarding the concepts, and specifically the concept of flow since this is used for a "reason" by the engineering collective.
-- therefore, semyon asks the party to perhaps head towards the idk to get fonro
-- wudefhwrfqk
-- kill me this is gonna be a terrible fucking session
-- 
 
 
 
 
-
-
-
+- thsi prepares for future prospects
 	- this will lead in a long sub/arc mission to investigate the shoka engineering collective
 	- the endi of this investigation might lead to the conclusion that the engineering collective is attempting to get to the city of change
 		- maybe the party finds some sort of instruciton or somerhting related that might indicate some sort of onoging operation to go to the city of change
