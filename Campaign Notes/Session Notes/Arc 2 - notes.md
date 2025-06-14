@@ -381,3 +381,16 @@ Significant events that happened
 
 ---
 # Session 11
+- recap
+sabina unconasiyha
+everyone goes outside
+
+rat asks question
+hunter answers
+
+they go to a bar to discuss
+and remember to displell their disguieses
+
+keind of 
+
+2 beer 1 wine
