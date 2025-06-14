@@ -19,7 +19,7 @@
 		- Guns
 		- Armor
 		- Potions of Sneak (porobabl)
-	- This delegation is manned by Bleeder and is manned by 
+	- This delegation is manned by Bleeder and is manned by [[Charlie Abbott|Bleeder]] and 
 - markets
 - and
 - shops
