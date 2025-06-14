@@ -3,7 +3,8 @@
 # Centroscopia
 - [[Great Acadamy of Arcane Arts]] - Reasonably highly esteemed magic school, currently in the midst of the teaching season.
 	- Currently closed for visitors by magical systems, not much to do wt the moment
-	- owned by 
+	- owned by Everon Lunares
+		- this is also mentioned in t
 - [[Rankhra]] - Obviously
 - [[Shoka Engineering Collective]] - As of arc 2, completely inaccessible. Entry is technically allowed however anti-magical artificer tools are installed to suppress magical tomfoolery and possibly also alert people of magic users.
 - 
@@ -16,6 +17,9 @@
 	- They have a large backlog and are aware of the feywild plants that are growing within Rankhra however they do not know how to get inside
 	- they know who Aki is and also know that they don't intend to betray her
 	- Looking for a way back into the feywild, with suspiucinos that the concept of flow is influencing the feywild.
+	- Merchant invL
+		- [[Potion Merchant]]
+		- [[Feywild Merchants]]
 - Badawi Hunter tribe delegation 
 	- Sells Aurich hunting tools
 		- Guns
@@ -23,6 +27,8 @@
 		- Potions of Sneak (porobabl)
 	- This delegation is manned by [[Charlie Abbott|Bleeder]] and [[Shivank Aaraka]]
 	- Shiv does not know that bleeder is part of the hunter group and even though bleeder does know abouyt this, he forget swhen he leaves the camp
+	- Merchant inv:
+		- 
 - markets
 - and
 - shops
