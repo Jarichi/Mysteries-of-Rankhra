@@ -474,4 +474,8 @@ it is here, save me
 
 hunte rhas reloaded
 
-they askkk
+they askkkk
+and receive
+they actually telllL???
+
+they arrive at lettered lamemting
