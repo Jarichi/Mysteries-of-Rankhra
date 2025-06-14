@@ -9,8 +9,17 @@
 # First Domain
 - [[Bazaar]] - Market district. Most likely need to divide this in subcategories since this is honestly a large part of the First domain.
 ## [[Bazaar]]
-- some
-- interesting
+- Feywild trader delegation
+	- Sells feywild wares but their stock is dwindling
+	- They have a large backlog and are aware of the feywild plants that are growing within Rankhra however they do not know how to get inside
+	- they know who Aki is and also know that they don't intend to betray her
+	- Looking for a way back into the feywild, with suspiucinos that the concept of flow is influencing the feywild.
+- Badawi Hunter tribe delegation 
+	- Sells Aurich hunting tools
+		- Guns
+		- Armor
+		- Potions of Sneak (porobabl)
+	- This delegation is manned by Bleeder and is manned by 
 - markets
 - and
 - shops

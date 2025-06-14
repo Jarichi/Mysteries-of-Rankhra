@@ -374,3 +374,5 @@ Significant events that happened
 	- Research group's constellation - Appears to manage the connection of the comets through a completely distinct  network. The location of its Asteroid is unknown
 	- Some different constellation - Appears to be an independent network, specifically made for burner comets, known as Meteors.
 - Ratronus has broadcasted the following message to the city constellation using the central Asteroid, in Thieves' Cant: "Abandon your post - everything is a lie"
+
+---
