@@ -430,3 +430,23 @@ tells city
 marilyne sucked the bar guy 
 
 bruh
+
+ratronus gets smacked against EARS BY NMARYLINE
+with regards
+
+rat shares lore about his past
+mari: overload?? tf you mean as in youuu are an overlord??
+
+rat: lmao no?
+
+tasles criptically about his past
+his gf betrayed himmm
+apparently its not so fiun whe noeple kill you
+and torutiring
+for years
+
+mari asks more
+but ratronus no longer expands
+and nothign
+
+marilyne vision ensueing
