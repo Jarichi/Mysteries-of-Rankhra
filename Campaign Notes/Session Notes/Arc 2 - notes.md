@@ -526,3 +526,4 @@ hunter needs to reload
 	- When Fredrick died, the same death divinity briefly appeared, but could not do anything.
 - The dark smoke transformed into a maw with sharp teeth, and intense red eyes, but JUST before the party was eaten, the same energy present in Marilyne's vision interfered, and the party was ejected from the alleyway.
 	- It can be safely assumed that this happened at the same moment as Marilyne's bone reacting to the energy.
+
