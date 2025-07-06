@@ -129,6 +129,7 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 	- Semyon will not tell the party that he is a changeling directly
 	- Semyon will only insinuat ethat he's worked with poeple from yatagatay before.
 
+[[A2SQ3 - Shopping in the Bazaar]] happens first as a break
 
 - The concept investigation mission will be issued and will have to do with visiting the library
 	- [[Great Library]]
