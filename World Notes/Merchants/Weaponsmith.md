@@ -1,6 +1,7 @@
 The weaponsmiths of Zal'Aata have a specialised domain in which they generally work. They are most often aprt of a general blacksmith guild that specialises in certain weapon classes
 
 ## Arms and Guns
+This guild specialises in ranged weaponry
 
 | Value | Item                | Description                                                               | Price        |
 | ----- | ------------------- | ------------------------------------------------------------------------- | ------------ |
@@ -10,4 +11,14 @@ The weaponsmiths of Zal'Aata have a specialised domain in which they generally w
 | 4     | Magical scope       | Equpped firearm has a range increase of 30/30                             | 450gp        |
 | 5     |                     |                                                                           |              |
 
-## Finesse
+## Light
+
+| Value | Item | Description | Price |
+| ----- | ---- | ----------- | ----- |
+|       |      |             |       |
+
+## Heavy
+
+| Value | Item | Description | Price |
+| ----- | ---- | ----------- | ----- |
+|       |      |             |       |
