@@ -2,6 +2,7 @@ https://drive.google.com/file/d/1r1aQtgq7BiS_7Uir2qDAzgEZbKEdhYsz/view
 
 Alchemists are generally divided into two groups
 ## Alchemy Students
+They basically have a business course given by the [[Great Acadamy of Arcane Arts]], the student group that sells the most potions with the most potent effects win like extra credits
 
 ## Professional Alchemists
 
