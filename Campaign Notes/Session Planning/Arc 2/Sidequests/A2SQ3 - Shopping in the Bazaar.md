@@ -4,9 +4,13 @@
 	- 
 
 ## Merchants
-
+### Feywild Merchants
 ![[Feywild Merchants]]
 
+### Weaponsmiths
  ![[Weaponsmith]]
+ 
+### Alchemists
+ 
  ![[Alchemist]]
 [[TailorArmorer]]

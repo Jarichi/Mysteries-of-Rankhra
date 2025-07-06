@@ -1,7 +1,7 @@
 The weaponsmiths of Zal'Aata have a specialised domain in which they generally work. They are most often aprt of a general blacksmith guild that specialises in certain weapon classes
 
 ## Arms and Guns
-This guild specialises in ranged weaponry
+This guild specialises in ranged weaponry and organise an annnual shooting competition, in which they test their weapons and accessories out.
 
 | Value | Item                | Description                                                               | Price        |
 | ----- | ------------------- | ------------------------------------------------------------------------- | ------------ |
@@ -12,12 +12,14 @@ This guild specialises in ranged weaponry
 | 5     |                     |                                                                           |              |
 
 ## Light
+This guild specialises in everything finesse, and frequently display their strongmanship in duels.
 
 | Value | Item | Description | Price |
 | ----- | ---- | ----------- | ----- |
 |       |      |             |       |
 
 ## Heavy
+This guild specialises in slow and heavy weapons, and mainly has big men with anger management classes because that trope is hilarious.
 
 | Value | Item | Description | Price |
 | ----- | ---- | ----------- | ----- |
