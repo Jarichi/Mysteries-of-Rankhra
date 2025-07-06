@@ -1,3 +1,6 @@
+The weaponsmiths of Zal'Aata have a specialised domain in which they generally work. They are most often aprt of a general blacksmith guild that specialises in certain weapon classes
+
+## Arms and Guns
 
 | Value | Item                | Description                                                               | Price        |
 | ----- | ------------------- | ------------------------------------------------------------------------- | ------------ |
@@ -6,3 +9,5 @@
 | 3     | Cleaning Rod        | Spend an action to clean the gun and increase hit chance by flat +2       | 400gp        |
 | 4     | Magical scope       | Equpped firearm has a range increase of 30/30                             | 450gp        |
 | 5     |                     |                                                                           |              |
+
+## Finesse
