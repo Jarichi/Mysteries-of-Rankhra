@@ -13,4 +13,5 @@
 ### Alchemists
  
  ![[Alchemist]]
-[[TailorArmorer]]
+![[TailorArmorer]]
+
