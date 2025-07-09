@@ -11,6 +11,13 @@ Roll 3-5d10 for inventory
 
 Table
 
+
+| Value | Name                | Description                           | Price |
+| ----- | ------------------- | ------------------------------------- | ----- |
+| 1     | Brew of Healing     | Regain 2d4 HP upon drinking           | 30gp  |
+| 2     | Brew of Overhealing | Gain 1d6 tempHP upon drinking. Stacks |       |
+
+
 | Value | Name                          | Text                                                                                  | Price (gp) |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------- | ---------- |
 | 1     | Potion of Healing             | Regain 2d4+2 HP upon drinking                                                         | 50         |
