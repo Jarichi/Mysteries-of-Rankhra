@@ -9,13 +9,12 @@ Graduating from this part of the magic school allows you to sell your potions un
 
 Roll 3-5d10 for inventory
 
-Table
-
-
-| Value | Name                | Description                           | Price |
-| ----- | ------------------- | ------------------------------------- | ----- |
-| 1     | Brew of Healing     | Regain 2d4 HP upon drinking           | 30gp  |
-| 2     | Brew of Overhealing | Gain 1d6 tempHP upon drinking. Stacks |       |
+| Value | Name                  | Description                                                                                | Price |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------ | ----- |
+| 1     | Brew of Healing       | Regain 2d4 HP upon drinking                                                                | 30gp  |
+| 2     | Brew of Overhealing   | Gain 1d6 tempHP upon drinking. Stacks                                                      | 30gp  |
+| 3     | Brew of Watchful Rest | Advantage on save against sleep magic                                                      | 140gp |
+| 4     | ...                   | Unless explicitly mentioned, all potions will have either random or reduced status effects | -20%  |
 
 
 | Value | Name                          | Text                                                                                  | Price (gp) |

@@ -4,6 +4,10 @@
 - When the party nears shop completion, a sleight of hand may be rolled.
 	- A group of young bandits are stealing from people, it is up to the party what they do with them
 	- the bandits are not originally from Zal'Aata and have ended up here by a recent influx of tourists.
+		- Where are they from? Probably centroscopia since there's probably a city there
+		- maybe also oversees or down the river
+		- it might be interesting if they are also from Yataghatay
+	- 
 - 
 
 ## Merchants
