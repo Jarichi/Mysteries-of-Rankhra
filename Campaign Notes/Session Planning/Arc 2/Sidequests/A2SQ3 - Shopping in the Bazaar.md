@@ -8,7 +8,6 @@
 		- maybe also oversees or down the river
 		- it might be interesting if they are also from Yataghatay
 	- I hope to make a funny session where people can spend money and explore the world more.
-	- ''
 - 
 
 ## Merchants
@@ -21,4 +20,4 @@
 ### Alchemists
  
  ![[Alchemist]]
-[[TailorArmorer]]
+![[TailorArmorer]]
