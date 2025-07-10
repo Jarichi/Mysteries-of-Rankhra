@@ -522,7 +522,7 @@ hunter needs to reload
 - A brief exchange revealed that the shadow being could not, for some reason, understand what Fredrick had been saying.
 - The party told them what Fredrick said, and the being asked for more information and is aware that they work for the Research Group.
 	- It also seemed to have learned who they are.
-- Upon inability to explain further, the being exploded Fredrick to avoid his words from reaching other people
+- Upon inability to explain further, the figure exploded Fredrick to avoid his words from reaching other people
 	- When Fredrick died, the same death divinity briefly appeared, but could not do anything.
 - The dark smoke transformed into a maw with sharp teeth, and intense red eyes, but JUST before the party was eaten, the same energy present in Marilyne's vision interfered, and the party was ejected from the alleyway.
 	- It can be safely assumed that this happened at the same moment as Marilyne's bone reacting to the energy.

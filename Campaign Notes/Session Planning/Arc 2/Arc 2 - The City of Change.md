@@ -118,7 +118,7 @@ key points
 perhaps, the party will tell semyon and verdant about the rubae bs
 or, I will not even give the party a chance to avoid thus and kind of railroad everything, in the sense of teh following:
 
-- the party then goes to lettered lamenting after the rubae interaction
+- the party then goes to lettered lamenting after the rubae interaction (550gp )
 - either verdant or semyon will look worried and say that they found Fredricks lifeless body in the centre of lamenting.
 - they will ask the party what the fuck happened because they felt an evil presence and then his body was there
 	- the party might spill the tea but if they are avoidant, verdant will have investigated the bosy of ferderic and perhaps note that this is the work of some concept-related ability
