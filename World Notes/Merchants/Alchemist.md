@@ -2,14 +2,20 @@ https://drive.google.com/file/d/1r1aQtgq7BiS_7Uir2qDAzgEZbKEdhYsz/view
 
 Alchemists are generally divided into two groups
 ## Alchemy Students
-They basically have a business course given by the [[Great Acadamy of Arcane Arts]], the student group that sells the most potions with the most potent effects win like extra credits. This lends itself to lots of bulk dropshippers with shit effects but lots of cheap, and specialised groups with string effects but nit many and expensivfe.
+They basically have a business course given by the [[Great Acadamy of Arcane Arts]], the student group that sells the most potions with the most potent effects win like extra credits. This lends itself to lots of bulk dropshippers with shit effects but lots of cheap, and specialised students that don't have many potions and are proced reasoably expensively, however are more potent.
 
 ## Professional Alchemists
-THey have seen the world and travel
+Graduating from this part of the magic school allows you to sell your potions under the banner of a professional alchemist
 
 Roll 3-5d10 for inventory
 
-Table
+| Value | Name                  | Description                                                                                | Price |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------ | ----- |
+| 1     | Brew of Healing       | Regain 2d4 HP upon drinking                                                                | 30gp  |
+| 2     | Brew of Overhealing   | Gain 1d6 tempHP upon drinking. Stacks                                                      | 30gp  |
+| 3     | Brew of Watchful Rest | Advantage on save against sleep magic                                                      | 140gp |
+| 4     | ...                   | Unless explicitly mentioned, all potions will have either random or reduced status effects | -20%  |
+
 
 | Value | Name                          | Text                                                                                  | Price (gp) |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------- | ---------- |
