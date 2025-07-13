@@ -636,3 +636,11 @@ SHOT with shotgun
 ratronus mixed the ddranks
 
 complicated plan, aki used bless on hunter and ratronus
+
+daan -1 and +1 inspiration
+
+aki buys 5 healing -> 125gp
+silentfoot potion -> 150 gp
+-275gp
+995gp
+
