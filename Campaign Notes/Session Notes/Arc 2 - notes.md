@@ -644,3 +644,8 @@ silentfoot potion -> 150 gp
 -275gp
 995gp
 
+mari confronts aki to 
+
+aki reveals that she is from the feywild
+
+---
