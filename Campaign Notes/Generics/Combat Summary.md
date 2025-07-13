@@ -30,10 +30,14 @@ Significant inventory:
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 1750 gp
+- 295 gp
 
 Significant inventory:
 - revolver of the war mage - 2d8 damage, close range
+- shotgun
+- deagle
+- magazine
+
 
 
 ## Ratronus

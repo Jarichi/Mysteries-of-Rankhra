@@ -592,3 +592,18 @@ long rest
 people are not paying attention nor listening to me which is lowkey annoying
 
 woman behind the counter
+
+HUNTER IS INTERESTED
+yippie 
+
+shotgun for half price 600gp
+deagle 800gp
+magazine 750
+and wants to participate in the shooting contest (prep this)
+
+hunter -2000gp
+
+295gp
+
+magazine is mounted to the musket
+mus
