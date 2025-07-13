@@ -6,7 +6,7 @@
 - Support Spellcaster
 - Heals 15 HP
 
-- 370gp
+- 720gp
 
 Significant inventory:
 - Sentinel Shield - adv on initiative and perception, +2AC
@@ -62,4 +62,3 @@ Significant inventory:
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
 Average optimal party dmg per turn: 46
-

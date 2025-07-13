@@ -495,6 +495,8 @@ hunter needs to reload
 		- Most everyone recognised Cedar Zendikar as being an acclaimed biologist who routinely investigates the flora and fauna found near certain spots in the desert;
 		- Ra'Sheema was recognised by Marilyne as being a sect leader devoted to Rankhra.
 	- The barkeeper of this bar is a changeling originating from Yataghatay, the City of Change.
+		- Marilyne drank his blood
+		- Ratronus stole 499 gold
 	- The minutes are written in a magical script that can only be read by designated persons or by uttering a passphrase.
 - Ratronus opened up slightly about his past, speaking about a prominent loved one that betrayed him for... reasons.
 ### The Vision - parallel
@@ -531,3 +533,8 @@ hunter needs to reload
 
 # Session 12
 barudarusu geito
+
+summary
+dark alley
+
+ratronus marks the alleyway thieves cant
