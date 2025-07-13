@@ -615,3 +615,10 @@ mari makes a deal to get artificers to the smiths of makhshar
 teenager kitsune
 aki interacts with alden
 alden picks up on this
+
+they drank the fox brew
+
+alden
+alden
+
+THEY ACCEPT THE PRANK for invisible bells and discount on the rest
