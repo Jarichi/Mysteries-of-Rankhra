@@ -573,3 +573,10 @@ aki gives the docs
 aki nerd dump
 tells them about the networks
 
+they "lost" the stones
+shenanigans ENSUE
+they dont wanna tell semyon this
+
+mari checks if the corpse is bloodless
+and has bite marks
+
