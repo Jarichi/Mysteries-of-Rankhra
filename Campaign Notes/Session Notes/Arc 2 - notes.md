@@ -528,3 +528,6 @@ hunter needs to reload
 	- It can be safely assumed that this happened at the same moment as Marilyne's bone reacting to the energy.
 
 ---
+
+# Session 12
+barudarusu geito
