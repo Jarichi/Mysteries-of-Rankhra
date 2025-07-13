@@ -538,3 +538,14 @@ summary
 dark alley
 
 ratronus marks the alleyway thieves cant
+
+they go inside lettered lamenting
+
+perc
+	aki 18
+	hunter 7 
+	rat 14
+
+they see the corpse 
+and marilyne enters as well
+
