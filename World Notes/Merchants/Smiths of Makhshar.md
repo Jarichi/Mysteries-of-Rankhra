@@ -19,7 +19,7 @@ This guild specialises in everything finesse, and frequently display their stron
 | ----- | --------------- | --------------------------------------------------- | -------- |
 | 1     | Studded Leather | AC: 12+DEX                                          | 300gp    |
 | 2     | Chakram Set     | 1d6 slashing, finesse, light, thrown 60/150         | 80gp/pcs |
-| 3     | Steel Claws     | 1d6 as regular attack, 1d8 as sneak attack, finesse |          |
+| 3     | Steel Claws     | 1d6 as regular attack, 1d8 as sneak attack, finesse | 600gp    |
 
 ## Heavy
 This guild specialises in slow and heavy weapons, and mainly has big men with anger management classes because that trope is hilarious.
