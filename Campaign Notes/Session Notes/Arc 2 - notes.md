@@ -580,3 +580,12 @@ they dont wanna tell semyon this
 mari checks if the corpse is bloodless
 and has bite marks
 
+
++550gp for the 
+aki 1270
+mari 1330
+rat 2033
+hunt 2295
+
+long rest
+
