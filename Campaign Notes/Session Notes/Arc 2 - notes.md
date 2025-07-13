@@ -564,3 +564,12 @@ and rat wants to know how old mari is exactly
 
 3476
 
+the year is 5093
+4
+mari inspects the corpse as well
+the magic appears familiar to her (because she cast it herself tee hee)
+
+aki gives the docs
+aki nerd dump
+tells them about the networks
+
