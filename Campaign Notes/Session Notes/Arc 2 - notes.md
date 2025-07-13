@@ -589,3 +589,5 @@ hunt 2295
 
 long rest
 
+people are not paying attention nor listening to me which is lowkey annoying
+
