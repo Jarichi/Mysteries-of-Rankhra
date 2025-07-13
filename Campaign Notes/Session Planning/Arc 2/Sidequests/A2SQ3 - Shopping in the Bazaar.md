@@ -10,14 +10,13 @@
 			- maybe also oversees or down the river
 		- it might be interesting if they are also from Yataghatay
 	- I hope to make a funny session where people can spend money and explore the world more.
+
+
 ## Merchants
 ### Feywild Merchants
 ![[Feywild Merchants]]
-
 ### Weaponsmiths
  ![[Smiths of Makhshar]]
- 
 ### Alchemists
- 
  ![[Alchemist]]
 ![[TailorArmorer]]

@@ -607,3 +607,11 @@ hunter -2000gp
 
 magazine is mounted to the musket
 mus
+
+mari makes a deal to get artificers to the smiths of makhshar
+
+-> feywqild traders
+
+teenager kitsune
+aki interacts with alden
+
