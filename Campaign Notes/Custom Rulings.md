@@ -19,4 +19,4 @@ Per level up, players are allowed to choose whether they want to get the average
 If you have 2 proficiencies for the same ability, you get expertise.
 
 - weapons
-with a range value of 120/360, this means that attacks below 120 are regular, attacks between 120 and 360 are made with disadvantage and 
+with a range value of 120/360, this means that attacks below 120 are regular, attacks between 120 and 360 are made with disadvantage and attacks beyond 360 are not possible.
