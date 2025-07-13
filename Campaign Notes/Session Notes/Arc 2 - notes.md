@@ -625,3 +625,14 @@ THEY ACCEPT THE PRANK for invisible bells and discount on the rest
 
 fire touchy
 
+rasheema executes a ritual in one week
+
+invisible teacher
+mari wants to cast presti on the potion
+
+33%  
+SHOT with shotgun
+
+ratronus big
+snitch on 
+
