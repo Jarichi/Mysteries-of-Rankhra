@@ -15,9 +15,10 @@ The guild was created to combat unregulated distribution of weaponry and provide
 ## Light
 This guild specialises in everything finesse, and frequently display their strongmanship in duels.
 
-| Value | Item      | Description | Price |
-| ----- | --------- | ----------- | ----- |
-| 1     | Chainmail |             |       |
+| Value | Item            | Description | Price |
+| ----- | --------------- | ----------- | ----- |
+| 1     | Studded Leather | AC: 12+DEX  | 300gp |
+| 2     | Chakram (4pcs)  | Finesse,    |       |
 
 ## Heavy
 This guild specialises in slow and heavy weapons, and mainly has big men with anger management classes because that trope is hilarious.
