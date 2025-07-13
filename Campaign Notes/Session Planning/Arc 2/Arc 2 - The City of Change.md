@@ -176,3 +176,4 @@ Telas Muses got her tattoo on her neck in teh city of change to be able to chang
 
 note that perhaps in a later moment, an dmaybe before the city of change is visited, the engineering collective will be investigated together with Elise as TElas.
 [[A2MQ3 - Investigating the Shoka Engineering COllective]]
+

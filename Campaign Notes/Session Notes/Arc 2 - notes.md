@@ -549,3 +549,18 @@ perc
 they see the corpse 
 and marilyne enters as well
 
+verdant remembers the lady
+mari explains the lady
+
+demon form a different time
+turned rivers red with the blood she shed
+her stronghold has never been breached
+
+has been vanished for eons
+
+VERDANT IS GETTING semyon
+and rat wants to know how old mari is exactly
+	mari believes rat is actually 63 years old
+
+3476
+
