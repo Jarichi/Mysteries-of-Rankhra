@@ -633,6 +633,6 @@ mari wants to cast presti on the potion
 33%  
 SHOT with shotgun
 
-ratronus big
-snitch on 
+ratronus mixed the ddranks
 
+complicated plan, aki used bless on hunter and ratronus
