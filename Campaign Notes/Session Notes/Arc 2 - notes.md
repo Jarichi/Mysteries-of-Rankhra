@@ -649,3 +649,7 @@ mari confronts aki to
 aki reveals that she is from the feywild
 
 ---
+- Ratronus marked the alleyway in Thieves' Cant, to warn people for a possible danger.
+- The party suspects that the Lady of River's Red has performed the attack, and Verdant agrees.
+	- Though, he did not believe that the Lady actually existed, and believed that it was merely a fairy tale.
+	- 
