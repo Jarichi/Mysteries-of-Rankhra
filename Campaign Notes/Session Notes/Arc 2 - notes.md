@@ -652,4 +652,12 @@ aki reveals that she is from the feywild
 - Ratronus marked the alleyway in Thieves' Cant, to warn people for a possible danger.
 - The party suspects that the Lady of River's Red has performed the attack, and Verdant agrees.
 	- Though, he did not believe that the Lady actually existed, and believed that it was merely a fairy tale.
-	- 
+	- Marilyne examined the corpse and recognies the magic as being unusually familiar.
+- The corpse was bloodless and had bite marks
+- The party decided to hide the burner comet from Semyon, but did inform him on the networks being present
+- The party went to the Bazaar and decided to go shopping
+	- Hunter bought a shotgun, a deagle and a magazine extension, and wants to participate in the shooting festival, organised by the Smiths of Makhshar
+	- Aki nought 5 healing potions and one silentfoot potion
+- The party also decided to perform a dual-prank on the alchemy students and the Feywild Merchants
+- Aki revealed she is from the Feywild, to at least Marilyne.
+- Hunter received an inspiration

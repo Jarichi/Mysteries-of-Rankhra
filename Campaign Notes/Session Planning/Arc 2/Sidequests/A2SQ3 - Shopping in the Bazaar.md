@@ -20,3 +20,7 @@
 ### Alchemists
  ![[Alchemist]]
 ![[TailorArmorer]]
+
+## After the shopping spree
+The party needs to get like some drops of information on the City of Change, and its possible ties to the concepts/concept of flow
+perhaps, someone of the hunter tribe will tell them that they have heard of a mysterious city at a spot in the desert, hidden by sand dunes and a 

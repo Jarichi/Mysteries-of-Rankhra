@@ -20,8 +20,7 @@ THis is probably best discussed with Elise.
 Perhaps the creaton of the Circle happened just before her survival
 A'luna didnt want to take part in this and decided to not take part in this event, causing her to survuve as the only person in the village
 Since she did get some knowledge about this, oerhaos this is the reason why she is so familiar wiht the soul types?
-Maybe, since she was the oracle, she got this information for the ritual to create this circle but she dod not know the end result
-	do look how and if this even fits within the alunas character?
+Maybe, since she was the oracle, she got this information for the ritual to create this circle but she dod not know the end result do look how and if this even fits within the alunas character?
 	maybe?
 this may tue into the soul type theory?
 perhpas, this ritual provides the inlet for the soul type theory?
