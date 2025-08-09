@@ -23,4 +23,12 @@
 
 ## After the shopping spree
 The party needs to get like some drops of information on the City of Change, and its possible ties to the concepts/concept of flow
-perhaps, someone of the hunter tribe will tell them that they have heard of a mysterious city at a spot in the desert, hidden by sand dunes and a 
+perhaps, someone of the hunter tribe will tell them that they have heard of a mysterious city at a spot in the desert, hidden by sand dunes that seem to move on their own.
+	this may be told by Diviner, who's true name is Demoven (/De'mo-ven/)
+
+they also need to go to the badawi hunter tribe, who also have some inventory and might sell stuff as well. I do intend to move the campaign along and outside of the city, and end the arc soon. I might also want to rewrite the story a little, because there are wayyyyy too many breaks inbetween the sessionis which really kills motivation to write, frankly.
+
+anyway
+
+perhaps the hunter tribe shows up after the party dhenanigans are completed, offering the party a chance to re-meet Bleeder and Diviner, because they were the more interesting characters.
+Perhaps Diviner has a more ready sense of recoginition because they have been blessed by the cocept of exploration
