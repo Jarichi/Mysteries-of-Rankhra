@@ -32,3 +32,7 @@ anyway
 
 perhaps the hunter tribe shows up after the party dhenanigans are completed, offering the party a chance to re-meet Bleeder and Diviner, because they were the more interesting characters.
 Perhaps Diviner has a more ready sense of recoginition because they have been blessed by the cocept of exploration
+theyll just takk and probably have a silly interaction
+also a tarot reading because funny props
+i may also need to spend some time drawing some maps of the city, tbh
+there is no clear picture at the moment I fear
