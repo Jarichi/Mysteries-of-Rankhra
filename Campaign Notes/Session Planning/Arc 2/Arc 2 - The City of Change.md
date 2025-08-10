@@ -176,3 +176,8 @@ Telas Muses got her tattoo on her neck in teh city of change to be able to chang
 
 note that perhaps in a later moment, an dmaybe before the city of change is visited, the engineering collective will be investigated together with Elise as TElas.
 [[A2MQ3 - Investigating the Shoka Engineering COllective]]
+
+
+Thoughts; maybe Ra'Sheema wants to make a 10th level spell using the magic stored inside the flow artifact
+Also, there is an NPC who can feel the presence of the Weave/magical field like space-time
+Would be funny
