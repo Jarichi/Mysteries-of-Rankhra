@@ -131,6 +131,10 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 
 ![[A2SQ3 - Shopping in the Bazaar]] happens first as a break
 
+# Session 13
+
+Party runs into the Hunter tribe again, where Diviner and Bleeder are present
+This will just be a light interaction scene, though maybe there will be so
 - The concept investigation mission will be issued and will have to do with visiting the library
 	- [[Great Library]]
 - then after this, perhaps make the party investigate the information available for the Concepts, and let them discover that apparently someone is actively censoring information (the engineering collecgive)
