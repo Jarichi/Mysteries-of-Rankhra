@@ -134,7 +134,16 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 # Session 13
 
 Party runs into the Hunter tribe again, where Diviner and Bleeder are present
-This will just be a light interaction scene, though maybe there will be so
+This will just be a light interaction scene, though maybe there will be some lore dumping +which I don't really wanna do because the party has had enough of that for now
+Would be funny if the party, if they succeed on a roll, get to learn about yataghatay and where it is located
+
+I also wanna plan stuff for Ratronus' Comet shenanigans, and it does feel like they have more of a desire to investigate the syndicate under the city, HOWEVER ratronus has had plenty of character moments for now, so I'd like to focus on Hunter and Aki
+
+HMM maybe it's funny if, because the engineering.colective knows about the research group doing silly stuff, and possibly being on their tail, they decide to send mercenaries to lettered lamenting, which makes semyon have to either flee the city and/or take the party with him, to leave Verdant solve this
+
+Semyon has a safehouse
+
+
 - The concept investigation mission will be issued and will have to do with visiting the library
 	- [[Great Library]]
 - then after this, perhaps make the party investigate the information available for the Concepts, and let them discover that apparently someone is actively censoring information (the engineering collecgive)
