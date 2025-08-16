@@ -133,8 +133,8 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 
 # Session 13
 
-Party runs into the Hunter tribe again, where Diviner and Bleeder are present
-This will just be a light interaction scene, though maybe there will be some lore dumping +which I don't really wanna do because the party has had enough of that for now
+- party got a shopping thing going so I'll make the hunter tribe available again which is funny
+- get a chance to speak to diviner and bleeder.
 Would be funny if the party, if they succeed on a roll, get to learn about yataghatay and where it is located
 
 I also wanna plan stuff for Ratronus' Comet shenanigans, and it does feel like they have more of a desire to investigate the syndicate under the city, HOWEVER ratronus has had plenty of character moments for now, so I'd like to focus on Hunter and Aki
