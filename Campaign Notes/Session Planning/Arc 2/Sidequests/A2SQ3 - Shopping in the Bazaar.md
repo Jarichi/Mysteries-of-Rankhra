@@ -37,4 +37,4 @@ also a tarot reading because funny props
 i may also need to spend some time drawing some maps of the city, tbh
 there is no clear picture at the moment I fear
 ## Cool Side-mission
-Just like in Elite Dangerous where you can sell the knowledge of a natal chart, the party will get asked by specifically DeMoven, 
+Just like in Elite Dangerous where you can sell the knowledge of a natal chart, the party will get asked by specifically DeMoven to create maps of places that have not been mapped yet, for gold, which will create another main story sidequest for money. Depending on the size of the map, the party will be awarded differing amounts of gold. 
