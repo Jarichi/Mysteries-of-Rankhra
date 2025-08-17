@@ -246,7 +246,7 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 
 If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether.
 
-[[concept of exploration]], [[Bahath Animal Guide]]
+[[Concept of Exploration]], [[Bahath Animal Guide]]
 
 ---
 some notes for minisession with Cynthis

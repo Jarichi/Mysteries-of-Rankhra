@@ -24,7 +24,7 @@
 ## After the shopping spree
 The party needs to get like some drops of information on the City of Change, and its possible ties to the concepts/concept of flow
 perhaps, someone of the hunter tribe will tell them that they have heard of a mysterious city at a spot in the desert, hidden by sand dunes that seem to move on their own.
-	this may be told by Diviner, who's true name is Demoven (/De'mo-ven/)
+	this may be told by Diviner, who's true name is DeMoven (/De'mo-ven/)
 
 they also need to go to the badawi hunter tribe, who also have some inventory and might sell stuff as well. I do intend to move the campaign along and outside of the city, and end the arc soon. I might also want to rewrite the story a little, because there are wayyyyy too many breaks inbetween the sessionis which really kills motivation to write, frankly.
 
@@ -36,3 +36,5 @@ theyll just takk and probably have a silly interaction
 also a tarot reading because funny props
 i may also need to spend some time drawing some maps of the city, tbh
 there is no clear picture at the moment I fear
+## Cool Side-mission
+Just like in Elite Dangerous where you can sell the knowledge of a natal chart, the party will get asked by specifically DeMoven, 

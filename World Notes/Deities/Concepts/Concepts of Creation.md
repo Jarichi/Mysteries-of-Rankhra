@@ -8,20 +8,16 @@ Remnants of these tones may still be found at the sites of the concepts, or in t
 
 Strangely, all concepts are of a paradoxical nature. The concept of flow is contained in a sphere, the concept of whimsy is a well-defined location, the concept of reflection is in an obscure and dark cave, the concept of exploration follows a certain path (cymatics), the concept of change has a defineds static identity, the concept of connection remains separated from everything on a floating city and the concept of growth will remain stagnant
 
+All concepts also appoint an Envoy, which helps them on specific motivations of the Concepts.
+
 ## List of Concepts and their Tones
-[[Concept of Flow]]
-- Represented as a constant stream of notes, all flowing directly into each other, without break.
-[[concept of Whimsy]]
-- Represented as otherworldly chordal and melodic structures, microtonal, out of this world.
-[[Concept of Reflection]]
-- Represented as an introspective piece that mirrors its movements along both bass and treble.
-[[concept of exploration]]
-- Represented as an experimental jazz composition, continuously evolving and trying new sounds.
-[[concept of change]]
-- Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
-[[Concept of Connection]]
-- Represented as a connected piece that joins all of the earlier Concepts together.
-[[Concept of Growth]]
-- Represented as a piece, seemingly building to an ever-increasing crescendo.
+[[Concept of Flow]] - Represented as a constant stream of notes, all flowing directly into each other, without break.
+[[concept of Whimsy]] - Represented as otherworldly chordal and melodic structures, microtonal, out of this world.
+[[Concept of Reflection]]  Represented as an introspective piece that mirrors its movements along both bass and treble.
+[[Concept of Exploration]] - Represented as an experimental jazz composition, continuously evolving and trying new sounds.
+[[Concept of Change]] - Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
+[[Concept of Connection]] - Represented as a connected piece that joins all of the earlier Concepts together.
+[[Concept of Growth]] - Represented as a piece, seemingly building to an ever-increasing crescendo.
 
 Note that the concepts essentially pick a group, association or other physical manifestation to execute their fundamental desire, and note that this operates outside of the standard framework of morality e.g. to manifest exploration, the concept of exploration is a mythical creature that effectively forces a group of hunters to explore the desert for eternity. They lose their memories in order to become fully devoted to their purpose.
+
