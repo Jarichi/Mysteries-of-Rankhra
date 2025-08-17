@@ -1,3 +1,7 @@
+Rubae - the Lady of River's Red - is one of the [[Envoys of Creation]], specifically for the [[Concept of Reflection]].  She is the manifestation of [[Marilyne]]'s curse, split off by the Concept.
+
+
+
 BBEG for the first arc. (maybe)
 
 Rubae is a for now, too powerful spellcaster to be dealt with, and is responsible for the subtle sabotage and planting the idea that the concepts are actually evil, for a hidden agenda. This character is most likely connected to Cynthia's character lore.
@@ -23,8 +27,6 @@ story progression: the artifact in the temple is used to kill the true BBEG, and
 
 ### As vampire
 Powerful, weak during the day, responsible for killing and torturing Frederic, wants to receive [artifact in temple]. 
-### as moon elf
-Trusted member of the research group, some sort of adversary, need to make her not suspicious
 
 #### Summary
 vampiric warlock that wants to get the artifact in the temple, and wants to use the party to get access to the temple and fulfilll her own agenda.

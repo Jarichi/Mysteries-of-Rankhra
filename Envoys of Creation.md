@@ -1,0 +1,1 @@
+The Envoys of Creation are a supernatural group which are tasked with protecting the [[Concepts of Creation]] in some way or another, and bear responsibility over whether they need to be revealed.

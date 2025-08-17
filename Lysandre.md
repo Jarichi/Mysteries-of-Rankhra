@@ -1,0 +1,1 @@
+Lysandre is one of the [[Envoys of Creation]], specifically for the [[Concept of Connection]]. Using his abilities as a powerful [[Vamp]]

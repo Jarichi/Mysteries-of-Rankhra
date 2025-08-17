@@ -13,13 +13,13 @@ Strangely, all concepts are of a paradoxical nature. The concept of flow is cont
 - Represented as a constant stream of notes, all flowing directly into each other, without break.
 [[concept of Whimsy]]
 - Represented as otherworldly chordal and melodic structures, microtonal, out of this world.
-[[concept of reflection]]
+[[Concept of Reflection]]
 - Represented as an introspective piece that mirrors its movements along both bass and treble.
 [[concept of exploration]]
 - Represented as an experimental jazz composition, continuously evolving and trying new sounds.
 [[concept of change]]
 - Represented as both a chaotic, unorganised flurry of sounds and shifting between several "genres".
-[[Concept of connection]]
+[[Concept of Connection]]
 - Represented as a connected piece that joins all of the earlier Concepts together.
 [[Concept of Growth]]
 - Represented as a piece, seemingly building to an ever-increasing crescendo.
