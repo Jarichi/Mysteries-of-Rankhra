@@ -12,7 +12,7 @@ This document will contain details and summaries of the planned action happening
 		- THE PARTY DOES NOT KNONW AT THIS POINT AKI IS A KITSUNE
 		- Aki sits on Hunter's shoulder and they head out
 		
-	- Hunter receives a letter via his Comet. Aki has the comet in her mouth and gives this to Hunter. The Comet materialises a [[../Letters and Props/Shoka to Hunter - Letter|letter]] from the Shoka Engineering Collective.
+	- Hunter receives a letter via his Comet. Aki has the comet in her mouth and gives this to Hunter. The Comet materialises a [[Shoka to Hunter - Letter|letter]] from the Shoka Engineering Collective.
 	- the Shoka letter writes about that the sponsorship money gets relinquished unless they figure out a way to investigate the temple for certain goals. It also writes about there being more information on the Billboard. Billboards contains a poster about some clothing store, a potion shop and a research group that provides protection and safe housing for new members who would like to research the temple.
 	- This is the reason for Ratronus and Hunter to join the group.
 - they head out and go towards the research group.
@@ -21,7 +21,7 @@ This document will contain details and summaries of the planned action happening
 		- Chrone arrives in his wild shape (spooder) coincidentally at the same time.
 		- preceprtion roll for seeing the hole in the roof.
 
-- Joining research group [[Lettered Lamenting]]
+- Joining research group 
 	- Verdant introduces themselves and answers the most of their questions
 	- They are allowed to speak with the NPCs in the area/
 	- After introductions, Verdant asks them to join the research group, and immediately gives them a mission that lets the party go into the 3rd domain.
@@ -34,7 +34,7 @@ This document will contain details and summaries of the planned action happening
 
 
 - Meeting person 1 - Salina
-	- Upon arriving in the 3rd domain, they are allowed to read the [[../Letters and Props/Mission Instructions no.1|message]]
+	- Upon arriving in the 3rd domain, they are allowed to read the [[Mission Instructions no.1|message]]]]
 	- Verdant gave them, that contains instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
 	- This section will be very roleplay and insight heavy and lets the party exeplore the Third Domain. They will need to go through several areas to get to Salina and gives them a chance to explore the world and for me to see how they play when they are given limited instructions and implications.
 		- This will need to be properly thought out by means of some sort of map containing several points of interest.
@@ -47,7 +47,7 @@ This document will contain details and summaries of the planned action happening
 
 - Meeting Person 2 - Marcus
 	- Marcus is currently an Overlord and is also hostile against the party. This will be the main combat event.
-	- [[../Marcus vs. Party]]
+	- [[Marcus vs. Party]]
 	- Wether Marcus lives or dies, they need to bring him to the research group.
 
 --end session 1:
@@ -68,7 +68,6 @@ DM:
 - may need to rewrite most of my planning and define plot points.
 - ---
 ## Session 2
-[[Gentle Death]], [[../../../../World Notes/PCs/Cynthia/Marilyne]], [[Salina]]
 
 SESSION RECAP
 
@@ -87,7 +86,6 @@ SESSION RECAP
 		- If the party ask Salina about Gentle Death or Parting Gifts, she will reveal some information about this since she's a member of the Sanctum of Death.
 	- The party will most likely take Frederic with them. Frederic will simply mumble "The water must not stop" or something along these lines
 
-[[Verdant Selemno]], [[Martin Isla]], [[Semyon Voltaire]], [[Reggi Buer]], [[Sasha Regis]], [[Telas Muses.pdf]]
 ###### Returning to research group
 - All previously present NPCs are still there. Telas is still singing, Reggi is now at the bar chatting up Martin, and Sasha is just walking out of the kitchen, curerntly taking the shape of a female halfling with short, blonde hair.
 - Verdant will apologise for underestimation the severity of the mission and for wrongly anticipation their behaviour.
@@ -106,7 +104,6 @@ SESSION RECAP
 			- Verdant will give the party a Comet for fast messaging, just in case anything else like Rubae happens again, they can call in for help or pointers. This Comet needs to be activated, however.
 				- Chron already has a comet, and as such doesn't need to activate his.
 
-[[Badawi Hunter Tribe]], [[Janib'Rankhra]], [[Rankhra]], [[Centroscopia]], 
 ###### The filler
 Make a map of the entire map
 
@@ -128,11 +125,10 @@ POIs
 	- The foxglove is, unfortunately, located within the temple boundaries itself. This will serve as an in-game guide that the temple cannot be accessed by normal means.
 
 - Janib'Rankhra can be found when speaking to a merchant NPC who heard that there are four weird pillars to the west of the city.
-- To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the [[Bahath Animal Guide]] and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
+- To connect the dots for the Hunter Tribe and the Concept of Exploration, they see an image of the Bahath Animal Guide and Hunter will recognise this image after some history or investigation check. On failure, while he doesn't recall the name of this animal, he does know what it symbolises.
 - The party may choose where to go first.
 
-[[../Puzzle no.1]], [[God of Creation]]
-###### [[Janib'Rankhra]]
+###### Janib'Rankhra
 - Aki will recognise the environment. This is where she entered the material plane
 - The goal is to solve a puzzle in order to excavate the temple.
 	- The puzzle requires them to speak 4 words of a topic that only they are familiar with. Each spoken word will give them a key, which they will keep of course for future mission stuff tee hee.
@@ -183,23 +179,23 @@ might experiment with letting some events happen in the background and rolling s
 		- Criminal activity on the rise. Correlation with influx of merchants?
 			- Side-quest for unraveling a gang of bandits pickpocketing and robbing new merchants?
 			- article commissioned by an old potion shop owner who sells generic potions for some value.
-		- Biologist [[Cedar Zendikar]]: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
+		- Biologist Cedar Zendikar: "Although there are certainly some difficulties, the Auroch population is finally on the rise." (Wip)
 			- Foreshadowing for the Badawi Hunter tribe. Introducing a new NPC
 
 Free choice whether they visit Verdant to inform them on the current situation or explore more of the city. If they do so and report to Verdant with the information, they will receive part of the reward, let's say about 400 gp each.
 
 - City POIs are
-	- [[Great Acadamy of Arcane Arts|Magic school]] (inaccessible due to lessons) in centroscopia
+	- Great Acadamy of Arcane Arts (inaccessible due to lessons) in centroscopia
 		- Currently, Magic teacher of the school of enchantment present. Will coerce the party to leave.
-	- [[Distribution Center|newspaper agency]] (2nd domain)
+	- Distribution Cente (2nd domain)
 		- Populated by Raphaella Sophronia Galani
 			- She is a very shy dragonborn responsible for all of the news and distributions, and lead writer of the journal.
-	- [[../../../Generics/Merchants/Potion Merchant|Potion Store]] in first domain, selling an array of standard potions and such
+	- Potion store in first domain, selling an array of standard potions and such
 		- questgiver for bandit mission (SIDEQUEST)
 			- The owner, Benson is a slightly unhinged, bitter shopkeeper with a disdain for the change of population that has recently entered the city. He runs *'Benson's Brews'.* and is a Halfling.
 			- He will note that since the increase of traders and merchants, visitors of the city have been robbed by an aggressive group of bandits when they leave the city. This group is making use of the nocturnal lifestyle of the city and the non-nocturnal lifestyle of visitors to commit crime.
 			- Will ask if the party helps him and rewards the party for their efforts. [[A1 SQ1 - In 'Brewed' Daylight]] for further notes.
-	- [[../../../Generics/Merchants/Relic Merchant|Artifact and relic store]] in second domain
+	- Artifact and relic store in second domain
 		- questgiver for Hunter tribe (STORY QUEST)
 		- ran by former Badawi tribe member, Shiv, full name Parshiv. He is a regular ahh human
 			- Same guy as the one who was at the temple and who teld the party about Janib'Rankhra
@@ -246,7 +242,6 @@ If it looks like they will die, they get ex machina'd by the Hunter tribe that k
 
 If the party ends up not attacking the creatures and an animal handling commences, they may avoid combat altogether.
 
-[[Concept of Exploration]], [[Bahath Animal Guide]]
 
 ---
 some notes for minisession with Cynthis
@@ -260,7 +255,7 @@ some notes for minisession with Cynthis
 	- They were kind of waiting until they either got in trouble or actually acted and when they saw the auroch group run on, they knew enough.
 	- The person who killed the Auroch gets commendations, and compliments on their huntsmanship.
 - After a bit of bantering, the hunter tribesmen take the party to their camp and allow them limited access.
-###### [[Badawi Hunter Tribe]]
+###### Badawi Hunter Tribe
 - Upon arriving at the Hunter tribe, Hunter will feel a sense of recognition since he's been here before.
 - They are initially not allowed to enter the nomad outpost beyond the external resting tent due to traditional concerns.
 	- Some nomads will speak to them but some nomads will only speak if they have proven themselves worthy.
@@ -282,8 +277,6 @@ sells the following:
 	- He knows general history facts about the city if they ask for this, but knows no specifics about the temple exceot that the reason for its construction is secret knowledge (for unworthy people) and related to the Seven Concepts (for worthy people).
 	- He recommends the party to speak to others if they pass their test.
 - Diviner
-	- They are an alternative person enjoying weird trinkets and superstitious objects. Speaks in a stereotypical divine person way (floaty, soft, long words). Vaguely based on Terese. They imply to know the future of the people that enter their tent.
-	- For general visitors, they know about most common-knowledge myths and legends. Also knows the mythical origin of the Hunter Tribe but only taks about this after they have proven themselves.
 	 - Upon meeting them, they will give all party members a small trinket that may or may not be magical. An arcana roll indicates there are slight traces of something magical but nothing clear enough to define.
 		 - Aki: Dowsing rod
 		 - Hunter: Badawi feather
@@ -294,7 +287,7 @@ sells the following:
 
 When the party has finished looking around and is ready for their test, they are asked to assemble at the center of the camp. They feel the tension rising as the moon slowly climbs to the apex of the sky (perceptive individuals notice that there is a singular constellation present; the archer's), while the cold wind is softly howling through the dry desert sands. While the party sees a small owlcat perched on top of the central tent, keenly observing the party.
 
-- ensue combat [[../Badawi Hunters vs Party]]
+- ensue combat [[Badawi Hunters vs Party]]
 - When the party is worthy, they are also explained that their memories will vanish at the discretion of the Bahath, and that they would need to write down their information in order to retain this.
 
 ## Session 6
@@ -478,3 +471,4 @@ i will have PLENTY of time to come up with more lore and worldbuilding
 
 --this planning is a guideline and not actually what happened. Notes contain a more complete timeline
 
+[[Arc 2 - The City of Change]]

@@ -53,7 +53,7 @@ When they return to the research group, the party will notice the same customers
 
 # Session 10
 - [[A2MQ1 - Investigating the newspaper distributor]] - Investigate the newspaper agency. Semyon suspects them to be compromised by a third party (engineering collective). This will reveal lore about Hunter and what the Shoka Engineering Collective is up to. (what *are* they up to?)
-	- [[A2MQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude [[Marcus]] again
+	- [[A2MQ2 - Probably bandit investigation]] - Investigate the rising presence of criminality in the city. This will reveal lore about Ratronus, Mycelio and what the Concept of Flow is undergoing. Perhaps the utilisation of the book of Life by the Shoka Engineering Collective contributes to the distortion of the Concept of Flow. Something cool would be to reinclude Marcus again
 	- a mission that delves into marylines character more might be cool considering she is pretty much the only one who did not get any lore yet
 	- same kinda goes for aki tbh
 
@@ -86,11 +86,11 @@ key points
 		- "please roll an arcana check"
 	- Maybe "Rubae/Lady of River's Red" will appear again, and like tell them tsomething that might goad the party into going to the City of Change and subsequently being tricked by Marilyne.
 		- In reality, this is Marilyne who appears to them while she's away.
-		- [[Fredrick]]  will be standing normally and mumbling something in a certaing singsongy melody.
+		- Fredrick  will be standing normally and mumbling something in a certaing singsongy melody.
 			- This melody will represent the concepts in general, and when I make OST for my campaign, this melody will represent all of the concepts.
 			- "The songs are changing, ideas distorting" in a repetitive rhythm.
-			- This is spoken in [[Truecommon]], but only the party can understand it. Rubae cannot
-				- This means that by extension, Marilyne cannot understand it. She has not been in the temple, nor has she read the [[magic item)](The Book of Life (magic item|The Book of Life (magic item)]].md) in Janib'Rankhra, and has not received a key from the temple.
+			- This is spoken in Truecommon, but only the party can understand it. Rubae cannot
+				- This means that by extension, Marilyne cannot understand it. She has not been in the temple, nor has she read the Book of Life in Janib'Rankhra, and has not received a key from the temple.
 	- that guy will just be standing there, whatever direction they go. 
 		- IF they decide to kill him or shoot him on sight, he'll instantly die, but his corpse will start talking
 	- After the (hopefully) offputting interaction with him, they will feel a presence
@@ -124,7 +124,7 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 	- the party might spill the tea but if they are avoidant, verdant will have investigated the bosy of ferderic and perhaps note that this is the work of some concept-related ability
 		- que loredump of the concepts and perhaps an explanationfor why they want to know more about the concept of flow.
 	- perhaps, ask the party what their goal is for their character, this will be fulfilled by the research group as best as possible, IF the party fulfills this mission.
-- then, Semyon will tell the party about [[Yataghatay]], the City of Change.
+- then, Semyon will tell the party about Yataghatay, the City of Change.
 	- Cue some lore about Semyon as well.
 	- Semyon will not tell the party that he is a changeling directly
 	- Semyon will only insinuat ethat he's worked with poeple from yatagatay before.
