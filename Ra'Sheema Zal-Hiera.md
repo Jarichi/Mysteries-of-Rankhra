@@ -1,7 +1,8 @@
 #npc 
-Necromancer
+Necromancer and an anvoy of the [[Concept of Flow]]. She has recently been appointed to fulfil the urpose of protecting the concept from the Engineering collective. Despite the fact that the overlords are also working on protecting the concepts, the coming of Ratronus has made a change to this dynamic
+
+She is, at the moment, preparing a r
 knows a lotttt about the concepts of creation, and will somehow speak to the party.
 perhaps, she will send some acolytes to speak with the party and tell her about them, as an introduciton
 she will notoice that there seem to be someting weong with the concept of flow in the temple, and subsewuentyl most other concepts.
 
-buttt she will also loredump about the concepts of creation

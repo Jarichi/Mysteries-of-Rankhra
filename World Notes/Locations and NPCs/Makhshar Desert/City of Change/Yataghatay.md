@@ -12,3 +12,4 @@ Scholars are investigating whether these styles may be prophetic in nature, howe
 
 ## Culture
 Considering the everchanging anture of the city, a true, singular culture cannot be established. After every shift, the culture seems to completely reset, cycling through time periods. Despite this, certain red lines do remain after each shift, especially since the inhabitans retain their memories even though they change their demeanor.
+

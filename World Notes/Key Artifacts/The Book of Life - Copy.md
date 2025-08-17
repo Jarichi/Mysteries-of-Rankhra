@@ -1,12 +1,15 @@
-Magical book that, every minute while reading, it deals 1d10(?) necro damage. The time while reading may differ based on the target's intelligence score, which varies the information gains from the book.
+containing true lore because all of the lore that the party found during the exploration does not tell the whole story, matter of fcat, tells a completely wrong story.
 #object 
+the more the book is actively studied, the more the language is ingrained into the beings of the readers.
+ever-changing script but the meaning is constant. (combination of all of the concepts by the god of creation)
 
-*- This isn't what I meant with "a life's work"!*
+book is hidden in a secret room that is opened by the BBEG after the party kills them, in order to clarify that what they did was a huge mistake
 
 
-# Description
-While reading, this book will describe the entire life of the person currently in possession of the item. Every chapter will note down a significant event of the reader and contains a 1st person novel-like story. The story contains the absolute truth of the character, and the second-to-last chapter contains the most recent events (including a sentence of "I am reading a book about a person reading a book about a person reading a book...", repeating indefinitely and preventing a user from looking at the future pages.) This may be bypassed if magical trickery is used to perceive the contents of the pages beyond without actually turning the pages, allowing them to see their future, but as a cost dealing considerably more damage after one minute.
+insight roles every tme th ebook is studied
 
-While reading the book, it slowly drains the readers life force energy to fuel the book's energy, and deals 1d10 necrotic damage every minute without exception. If the reader dies while reading, their life energy gets fully absorbed and the final chapter of the Book of Life can be read, containing lore about [[Gentle Death]].
+do something, after obtaining the book, that the time is catching up. Everything that is foreign to the temple is slowly fading away and aging at an accelerating rate. BUT artifacts that the partyty may have that came from either inside the temple OR from the ancients, stay exactly the same. (maybe some magical glow), roll perception and arcana to increase check succes.
 
-A version of the book was hidden away within Janib'Rankhra. This has all of its pages ripped out. The book also has a warding spell against undeads
+for example, some necklace by a perty membert with an unclear backstory does not age to add depth
+
+the book contains the REAL telling of the history and not the unclear and subjective telling of the history dound by that research guild team.

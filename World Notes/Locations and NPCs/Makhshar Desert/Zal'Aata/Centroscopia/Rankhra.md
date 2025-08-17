@@ -16,7 +16,7 @@ Inside of the temple contains an ancient garden containing odd [[flowers]] from 
 
 It also contains an altar assigned to the God of Creation, it contains an ancient library containing information on old things, (which might be used in character lore) and contains a hallway towards the main temple room.
 ### Inside
-The main temple room is a giant altar that contains a strange object, representing the Concept of Flow, and a strangely dead-ended hallway, leading to a secret room containing a mysterious [[The Book of Life - Original|book]] and an unusable ancient scroll of the spell used to create the temple. The main temple room also contains a fast-travel portal to [[Janib'Rankhra]].
+The main temple room is a giant altar that contains a strange object, representing the Concept of Flow, and a strangely dead-ended hallway, leading to a secret room containing a mysterious [[The Book of Life - Copy|book]] and an unusable ancient scroll of the spell used to create the temple. The main temple room also contains a fast-travel portal to [[Janib'Rankhra]].
 
 ## Properties
 In the centuries after the city was founded, several research groups have attempted to breach the magical barriers of Rankhra with limited success. Instead, they focused on studying the architecture and construction of Rankhra, as well as researching its past and examining the nature of its magic. Religious groups have also claimed the temple to be built by an ancient civilisation worshipping either a singular God or several deities, and spread their respective gospel.
