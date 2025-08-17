@@ -2,10 +2,10 @@
   "collapse-filter": false,
   "search": "-tag:#hidden",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#location  ",
@@ -29,17 +29,10 @@
       }
     },
     {
-      "query": "tag:#biologics  ",
+      "query": "tag:#biologics  tag:#races  ",
       "color": {
         "a": 1,
         "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#races  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
       }
     },
     {
@@ -55,18 +48,32 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "tag:#event  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#object  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.50364583333333,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.532952182952183,
+  "lineSizeMultiplier": 0.716320166320166,
   "collapse-forces": false,
-  "centerStrength": 0.3004158004158,
-  "repelStrength": 7.92099792099792,
-  "linkStrength": 0.541580041580042,
-  "linkDistance": 261,
-  "scale": 0.17734196116474987,
-  "close": false
+  "centerStrength": 0.645530145530146,
+  "repelStrength": 12.4948024948025,
+  "linkStrength": 0.924116424116424,
+  "linkDistance": 30,
+  "scale": 0.15822891142697415,
+  "close": true
 }
