@@ -1,3 +1,4 @@
+#hidden 
 https://drive.google.com/file/d/1o7Y_8ce59ssy-kO00O5ExuJYGeQTtWX-/view
 
 Roll 3d5 for armor inventory and roll 2d4 for cosmetic inventory.

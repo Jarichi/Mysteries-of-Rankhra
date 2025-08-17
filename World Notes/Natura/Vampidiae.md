@@ -1,3 +1,4 @@
+#biologics 
 Vampidiae is a family of humanoid creatures commonly referred to as Vampires. Members of this species are commonly called Vampires. This species consists of three subspecies: Daywalkers, Duskstriders and Nightcrawlers, and consists of 2 distinct categories: Natural-born vampires, commonly called "Pureborn vampires"; and creatures-turned-vampire, commonly referred to as "Turned vampires".
 
 # Description

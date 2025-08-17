@@ -1,3 +1,4 @@
+#npc 
 Necromancer
 knows a lotttt about the concepts of creation, and will somehow speak to the party.
 perhaps, she will send some acolytes to speak with the party and tell her about them, as an introduciton

@@ -1,3 +1,4 @@
+#npc #deity 
 Rubae - the Lady of River's Red - is one of the [[Envoys of Creation]], specifically for the [[Concept of Reflection]].  She is the manifestation of [[Marilyne]]'s curse, split off by the Concept.
 
 

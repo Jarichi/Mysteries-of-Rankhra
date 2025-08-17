@@ -1,3 +1,4 @@
+#group 
 The Smiths of Makhshar are a guild of blacksmiths that are active all throughout Makhshar Desert. They govern both the development and supply of weaponry and armory to cities and tribes in the desert and are a headless organisation - more of a collective of individual bodies within the smithing world.
 The guild was created to combat unregulated distribution of weaponry and provide a more consistent means of determining the employment rights and workplace safety. To be allowed to receive materials for, and sell weapons, a vendor must be part of the Smiths of Makhshar - indirectly or directly. To supplement healthy competition and drive for development, the Smiths organise a [[Festival of Tenacity|quarterly tournament]] in which individual organisations may prove their superiority in arms against each other.
  

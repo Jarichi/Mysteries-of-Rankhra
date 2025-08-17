@@ -1,5 +1,4 @@
-[link to all places in zal'aata as well as a semi-detailed map and a brief summary]
-
+#hidden 
 # Centroscopia
 - [[Great Acadamy of Arcane Arts]] - Reasonably highly esteemed magic school, currently in the midst of the teaching season.
 	- Currently closed for visitors by magical systems, not much to do wt the moment

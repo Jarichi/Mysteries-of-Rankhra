@@ -1,3 +1,4 @@
+#npc 
 The first runaway informant of Verdant and former support character of Verdant's party. She stopped contacting the [[Research Group]] because she needed to go in hiding from [some group] until she personally got the information to Verdant and decided to vanish without a trace and full radio silence, expecting Verdant to be able to find her again. This group is chasing her to prevent this information from spreading to anyone else. She currently is located inside the Third Domain.
 
 ## Appearance and Personality.
