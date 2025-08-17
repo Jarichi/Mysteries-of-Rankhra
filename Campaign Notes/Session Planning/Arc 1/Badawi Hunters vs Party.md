@@ -5,7 +5,7 @@ Level 6 Rite of the Oracle, order of the Ghostslayer Blood Hunter. vampire
 As a Blood Hunter, Bleeder is responsible for tracking the Badawi. She is one of the only Bada'Sayaad to be in contact with the Concept of Exploration itself and determines who may access the Tribe.
 
 Frontliner, will be fighting with Aki and chrone possibly, adv against Hunter
-### [[https://chicken-dinner.com/5e/5e-point-buy.html#halforc&disabled&14&15&8&10&15&8&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4]]
+### https://chicken-dinner.com/5e/5e-point-buy.html#halforc&disabled&14&15&8&10&15&8&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4
 
 | STR   | DEX   | CON  | INT   | WIS   | CHA  |
 | ----- | ----- | ---- | ----- | ----- | ---- |
@@ -37,7 +37,7 @@ Diviner supports the main damage dealers in their combat endeavours. They won't 
 level 5 Lore bard, halfling
 
 support
-### [[https://chicken-dinner.com/5e/5e-point-buy.html#halfling&dragonmarkofhealing&8&12&12&11&14&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4]]
+### https://chicken-dinner.com/5e/5e-point-buy.html#halfling&dragonmarkofhealing&8&12&12&11&14&15&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&4&4&4&4&4
 
 | STR  | DEX   | CON  | INT   | WIS   | CHA   |
 | ---- | ----- | ---- | ----- | ----- | ----- |
@@ -94,7 +94,7 @@ She is an owlin moon druid who also came from the circle of the moon. She eventu
 Level 5 Stars druid, [owlin](https://dnd5e.wikidot.com/lineage:owlin), flex dps/support
 
 
-### [[https://chicken-dinner.com/5e/5e-point-buy.html#customrace&NA&8&14&14&10&15&10&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&5&4&4&6&4]]
+### https://chicken-dinner.com/5e/5e-point-buy.html#customrace&NA&8&14&14&10&15&10&0&0&27&15&8&19&15&12&9&7&5&4&3&2&1&0&1&2&4&6&9&4&5&4&4&6&4
 
 | [STR](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") | [DEX](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") | [CON](https://www.dandwiki.com/wiki/5e_SRD:Constitution "5e SRD:Constitution") | [INT](https://www.dandwiki.com/wiki/5e_SRD:Intelligence "5e SRD:Intelligence") | [WIS](https://www.dandwiki.com/wiki/5e_SRD:Wisdom "5e SRD:Wisdom") | [CHA](https://www.dandwiki.com/wiki/5e_SRD:Charisma "5e SRD:Charisma") |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |

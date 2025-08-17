@@ -514,7 +514,7 @@ hunter needs to reload
 - And ended up in an inbetween zone, filled with dark smoke
 - The perceptive Ratronus noticed a figure standing in the middle of it, and a dark presence who's attention was focused on them, but also partly focused on the party.
 - Upon interacting with this person using a clever mage hand combined with Aki's well-placed dancing lights, it was revealed that they were [[Fredrick]] - the person who had already been tortured and killed/pacified by an unknown shadow creature.
-- Fredrick attempted to speak, but the only words he could utter were "Ideas are corrupted, everything will change." in the same language as the [[magic item)](The Book of Life (magic item|The Book of Life (magic item)]].md), found in [[Janib'Rankhra]].
+- Fredrick attempted to speak, but the only words he could utter were "Ideas are corrupted, everything will change." in the same language as [[The Book of Life - Copy]] found in [[Janib'Rankhra]].
 	- The party does not know yet what this language is called.
 - Upon hearing this, Ratronus decided to whisper, and managed to communicate with Fredrick;
 	- While he heard the same words spoken by a magical influence, he could hear Fredrick say: "*The Lady* is here, save me."
