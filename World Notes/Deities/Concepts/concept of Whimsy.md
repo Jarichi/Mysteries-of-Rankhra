@@ -1,4 +1,5 @@
 
+#concept
 - this concept is inherently magical and has no physical form
 - it manifests in colors, music and movement
 - it is linked to creativity and joy

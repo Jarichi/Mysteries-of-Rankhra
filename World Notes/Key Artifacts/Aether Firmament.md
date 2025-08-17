@@ -1,4 +1,4 @@
-#object
+#artifact
 *- Scaramouche was right.*
 # Description
 Conceived by the [[Shoka Engineering Collective]], this dome was created as a means to limit the effects of light pollution due to the nocturnal lifestyle of Zal'Aata's denizens. It emulates the current position of the stars - with a few additions - and provides a serene and creative way of viewing the stards amidst the city's nocturnal glow.

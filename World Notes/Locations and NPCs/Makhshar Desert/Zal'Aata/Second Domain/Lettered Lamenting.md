@@ -1,5 +1,5 @@
 #location 
-Located in [[Second Domain]], contains [[ResearchGroup]].
+Located in [[Second Domain]], contains [[Research Group]].
 
 Lettered lamenting serves as the main hub of the Research Group. It consists of a small bar, kept by Martin Isla, a small stage for musicians to perform and a lounging area for long-term guests to sit in. Lettered Lamenting is located within the 2nd Domain, and is parnered with [[Hotel]], located in the 1st Domain and serving as a safe house for compromised or wanted research members.
 

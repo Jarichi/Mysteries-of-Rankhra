@@ -1,4 +1,5 @@
 
+#concept
 - unlike other concepts, this concept is ever-moving and cannot be stationary
 - this concept also has a physical form and can be stored and touched
 - the tribe that holds this concept currently is a nomad tribe that lets itself be leaded by the movement of the concept

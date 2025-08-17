@@ -1,4 +1,4 @@
-
+#group 
 - Known by the public as a sort of mythical bedtime stoty
 - Not specifically a defined circle per se, more like a red thread that connects individuals to one another
 - [This link](https://goblincoach.com/circle-of-death/) inspires

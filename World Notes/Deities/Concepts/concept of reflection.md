@@ -1,4 +1,5 @@
 
+#concept
 - (stolen from honkai :3 )
 - this concept is literal reflection and thus cannot be touched
 - when looking at this concept it appears as a mirror

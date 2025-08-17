@@ -1,3 +1,4 @@
+#deity 
 # Creation Mythos
 Eons ago, the God of Creation was caught up in some event, possibly the same event that caused the Wheel model to take place and split the original plane into all of the planes. THis event caused the God of Creation to split themselves up into material peices and metaphysical pieces. The material pieces collapsed upon the original Material Plane and formed the [[Concepts of Creation]], giving rise to reality-altering phenomena. The metaphysical pieces brought forth [[Gentle Death]] and [[Crafted Life]] - who dealt with the most primal law of nature - and some other minor deities idk.
 After the spawn of the Concepts of Creation, the remaining body parts of the God fell down to the Material Plane and created a network of Leylines that channel large currents of magic through the world. 

@@ -1,3 +1,4 @@
+#deity 
 # Discuss with cynthia
 some cool things might be possible with the Raven queen
 

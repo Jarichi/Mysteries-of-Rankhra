@@ -43,14 +43,14 @@
       }
     },
     {
-      "query": "path:\"World Notes/Deities\"  ",
+      "query": "tag:#deity  ",
       "color": {
         "a": 1,
         "rgb": 6053078
       }
     },
     {
-      "query": "path:\"World Notes/Deities/Concepts\"  ",
+      "query": "tag:#concept  ",
       "color": {
         "a": 1,
         "rgb": 11361494
@@ -68,5 +68,5 @@
   "linkStrength": 0.757796257796258,
   "linkDistance": 128,
   "scale": 0.17734196116474987,
-  "close": true
+  "close": false
 }

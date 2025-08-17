@@ -1,5 +1,5 @@
 #npc 
-The second runaway informant of the [[ResearchGroup]]. He left because he was fed up with Verdant and learned about some crucial and valuable information. He gave in to his greed and decided to go no-contact with the research group. After this, he fled to the Third Domain and decided to join one of the Big Groups that Also Have To Do with Joris' Backstory. The value of the information he has enabled him to advance to the position of Overlord. He has no  plans to return to the research group.
+The second runaway informant of the [[Research Group]]. He left because he was fed up with Verdant and learned about some crucial and valuable information. He gave in to his greed and decided to go no-contact with the research group. After this, he fled to the Third Domain and decided to join one of the Big Groups that Also Have To Do with Joris' Backstory. The value of the information he has enabled him to advance to the position of Overlord. He has no  plans to return to the research group.
 I guess I can make this guy one of the smaller BBEGs in the campaign for now.
 
 ## Personality and Appearance

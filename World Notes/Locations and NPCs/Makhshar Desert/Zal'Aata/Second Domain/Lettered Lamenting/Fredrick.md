@@ -1,3 +1,4 @@
+#npc 
 Sacrificial lamb that has kinda been saved by the party and was tempraarily memory spelled by ARubae. He will probably be a more recurring character.
 
 ### Information

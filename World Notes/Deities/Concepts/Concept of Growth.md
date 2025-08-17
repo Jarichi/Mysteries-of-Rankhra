@@ -1,3 +1,5 @@
+
+#concept
 Concept of Growth:
 - this manifests itself in plant growth, and literal tall creatures
 - But also self growth

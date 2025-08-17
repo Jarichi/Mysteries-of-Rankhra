@@ -1,3 +1,4 @@
+#group 
 posesses [[Concept of Growth]], in the mountain. concept of growth told them that there might be something going wrong at the concept of flow, and a chosen druid (birch elf) needs to inspect the ocncept of flow in the city
 
 they received a cryptic riddle from the Concept of Growth that told them to send Twan's character into the world.
