@@ -33,7 +33,7 @@
 - shops
 - as well as misc stuff
 
-- [[Distribution Center]] - Newspaper agency. Might be affiliated to [[Shoka Engineering Collective]] to spread the scientific journal, serves as a central point where all messaging from Comets is originated and handled from. 
+- [[The Sandy Sandwich]] - Newspaper agency. Might be affiliated to [[Shoka Engineering Collective]] to spread the scientific journal, serves as a central point where all messaging from Comets is originated and handled from. 
 	- Reasons for visiting might include simply getting more knowledge about howw to use the Comets they've been handed - maybe "jailbreaking" a comet to do interesting stuff assuming I still let Semyon spy.
 
 - definitely want to add more interesting stuff to here
