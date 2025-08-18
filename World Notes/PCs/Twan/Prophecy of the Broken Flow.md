@@ -36,3 +36,5 @@ So gather the **blessings**, one by one,
 For without them, this plane shall fall,  
 The fate of all beneath the sun  
 Depends on merging one and all.
+
+[[Chrone of the Woods]]

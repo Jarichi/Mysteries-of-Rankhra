@@ -1,6 +1,6 @@
 #npc 
 
-- Oath of the sea paladin ([[.md|Salazar Coldwindt]] (real name: reggi buer))
+- Oath of the sea paladin, named Salazar Coldwindt (real name: reggi buer))
 	- Always in the café with a glas of water/other light beverage
 	- when talked to he speaks of his adventures at the great sea but he exxagerates these stories
 		- i once defeated a kraken (it was a small squid).
