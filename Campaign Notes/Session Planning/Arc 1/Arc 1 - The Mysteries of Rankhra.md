@@ -34,7 +34,7 @@ This document will contain details and summaries of the planned action happening
 
 
 - Meeting person 1 - Salina
-	- Upon arriving in the 3rd domain, they are allowed to read the [[Mission Instructions no.1|message]]]]
+	- Upon arriving in the 3rd domain, they are allowed to read the [[Mission Instructions no.1|message]]
 	- Verdant gave them, that contains instructions on getting towards that person's current location. If the letter is read multiple times, the location changes dynamically.
 	- This section will be very roleplay and insight heavy and lets the party exeplore the Third Domain. They will need to go through several areas to get to Salina and gives them a chance to explore the world and for me to see how they play when they are given limited instructions and implications.
 		- This will need to be properly thought out by means of some sort of map containing several points of interest.
@@ -51,7 +51,6 @@ This document will contain details and summaries of the planned action happening
 	- Wether Marcus lives or dies, they need to bring him to the research group.
 
 --end session 1:
-[[Arc 1 - notes]]
 
 ###### Session conclusions
 Party:
@@ -141,7 +140,6 @@ POIs
 - After completing this mission, they will receive a message from Verdant asking if they have made progress with the exploration mission.
 
 --End session 2
-[[Arc 1 - notes]]
 
 ###### session conclusions
 - Chron likes to do his own thing, the party doesn't really trust each other fully yet

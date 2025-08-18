@@ -502,7 +502,7 @@ hunter needs to reload
 ### The Vision - parallel
 - The party started heading back to Lettered Lamenting, when Marilyne was hit with a vision and went to her house.
 	- Party offered to go with her however Marilyne insisted that they'd let her do this alone.
-	- The vision showed flashes of information about a person - known as the Lady of River's Red - heading to [[Makhshar Desert]] for unknown reasons.
+	- The vision showed flashes of information about a person - known as the Lady of River's Red - heading to Makhshar Desert for unknown reasons.
 	- Another flash showed the Lady arriving in an unusual location, where she interacted with some sort of divinity
 		- A shallow lake, perfectly level water, with a cave in the centre whose reflection is perfectly retained in the water. The atmospheric light seemed almost a steel blue.
 		- The divine presence spoke from the reflection itself, directly to the Lady.
@@ -513,8 +513,8 @@ hunter needs to reload
 - The party without Marilyne passed through the alley.............................................
 - And ended up in an inbetween zone, filled with dark smoke
 - The perceptive Ratronus noticed a figure standing in the middle of it, and a dark presence who's attention was focused on them, but also partly focused on the party.
-- Upon interacting with this person using a clever mage hand combined with Aki's well-placed dancing lights, it was revealed that they were [[Fredrick]] - the person who had already been tortured and killed/pacified by an unknown shadow creature.
-- Fredrick attempted to speak, but the only words he could utter were "Ideas are corrupted, everything will change." in the same language as [[The Book of Life - Copy]] found in [[Janib'Rankhra]].
+- Upon interacting with this person using a clever mage hand combined with Aki's well-placed dancing lights, it was revealed that they were Fredrick - the person who had already been tortured and killed/pacified by an unknown shadow creature.
+- Fredrick attempted to speak, but the only words he could utter were "Ideas are corrupted, everything will change." in the same language as The Book of Life - Copy found in Janib'Rankhra.
 	- The party does not know yet what this language is called.
 - Upon hearing this, Ratronus decided to whisper, and managed to communicate with Fredrick;
 	- While he heard the same words spoken by a magical influence, he could hear Fredrick say: "*The Lady* is here, save me."

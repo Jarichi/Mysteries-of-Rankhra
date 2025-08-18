@@ -1,1 +1,1 @@
-Burner comet 
+Burner [[Comet]] 
