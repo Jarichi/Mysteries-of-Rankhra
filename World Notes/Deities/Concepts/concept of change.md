@@ -15,3 +15,5 @@ It is represented by the Song of Shifting, as described in the [[Concepts of Cre
 
 The Concept is closely linked to [[Semyon Voltaire]], him being essentially unaffected to the concept's whim, which might be tied to him being born right as a change was happening, causing the bond he would have with the Concept to be strengthened - for the Concept itself paradoxically has a core identity of being the Concept - and leading to Semyon having a fixed identity.
 Due to this, Semyon is the only person who is able to locate the concept consistently.
+
+Semyon, therefore, is also among the [[Envoys of Creation]], though he is unaware of this fact.

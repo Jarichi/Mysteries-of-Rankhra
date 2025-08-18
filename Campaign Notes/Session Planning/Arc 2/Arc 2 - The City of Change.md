@@ -145,19 +145,11 @@ Semyon has a safehouse
 
 
 - The concept investigation mission will be issued and will have to do with visiting the library
-	- [[Great Library]]
 - then after this, perhaps make the party investigate the information available for the Concepts, and let them discover that apparently someone is actively censoring information (the engineering collecgive)
 
 
-- the party craves combat and easy sessions
-- Sooo perhaps I willl make next session a shopping sesh
-- 
-
 - after the interaciton with semyon and co, we will probably go into some sort of investigationoverarching mission for the engineering collective.
 - they are censoring information regarding the concepts, and specifically the concept of flow since this is used for a "reason" by the engineering collective.
-
-
-
 
 - thsi prepares for future prospects
 	- this will lead in a long sub/arc mission to investigate the shoka engineering collective
@@ -178,7 +170,6 @@ Semyon has a safehouse
 - this needs to be worked out tho but it does seem like a nice start for the continued story,
 
 
-
 - This event will lead the party to explore towards the City of Change.
 	- Perhaps some sort of Changeling is found unconscious or insane and rambling about some cryptic line that might reference the strange occurrences with the Concepts (maybe some lines like "The songs are changing", "The rhythms have gone weird" idk), Semyon will be there as well together with Verdant and will bring the Changeling in for questioning or something.
 	- Semyon will then point towards the City of Change for the party to head towards.
@@ -194,3 +185,4 @@ note that perhaps in a later moment, an dmaybe before the city of change is visi
 Thoughts; maybe Ra'Sheema wants to make a 10th level spell using the magic stored inside the flow artifact
 Also, there is an NPC who can feel the presence of the Weave/magical field like space-time
 Would be funny
+
