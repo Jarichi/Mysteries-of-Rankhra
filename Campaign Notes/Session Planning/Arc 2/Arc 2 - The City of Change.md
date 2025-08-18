@@ -134,8 +134,14 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 # Session 13
 
 - party got a shopping thing going so I'll make the hunter tribe available again which is funny
-- get a chance to speak to diviner and bleeder.
-Would be funny if the party, if they succeed on a roll, get to learn about yataghatay and where it is located
+	- get a chance to speak to diviner and bleeder.
+- When the party is finished with thhe shopping missions, they are most likely gonna return to Lettered Lamenting, upon which Semyon invites them to his office to speak about the currently available information of the Concepts and what they have discovered.
+- the main goal, being, to reorganise everyone's notes on the concepts and to stall for a little time before interrupting the scene with marcenaries from the Engineering Collective.
+	- This might be combat, and will probably be some sort of small protection objective to keep Semyon safe, in which case I will prepare [[A2C1 - Party vs Engineering Collective]]
+	- The scene will - if the party does not defeat them - result in them having to flee to a different place.
+	- 
+
+
 
 I also wanna plan stuff for Ratronus' Comet shenanigans, and it does feel like they have more of a desire to investigate the syndicate under the city, HOWEVER ratronus has had plenty of character moments for now, so I'd like to focus on Hunter and Aki
 
