@@ -139,7 +139,18 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 - the main goal, being, to reorganise everyone's notes on the concepts and to stall for a little time before interrupting the scene with marcenaries from the Engineering Collective.
 	- This might be combat, and will probably be some sort of small protection objective to keep Semyon safe, in which case I will prepare [[A2C1 - Party vs Engineering Collective]]
 	- The scene will - if the party does not defeat them - result in them having to flee to a different place.
-	- 
+	- Hmm but should I let this place be in the city or outside of the city?
+		- for pacing purposes it might be better toooooo let it be outsidfe of the city, but not entirely sure...
+- in any case, after the party has fleed or otherwise took steps to defeat the engineering collective, they are either tasked with taking steps against the engineering collective, or proceed on their research annd report back in a different location.
+- after getting a new debriefing from Semyon, I may wanna give them a choice between two story driven missions
+
+### Ideas that might be useful
+at the moment considering to let them pick between going to Yataghatay (furthering concept of change mission) or pressing the Engineering collective for further intel and possibly revenge (furthering concept of flow mission)
+not quite sure, since I wanna give Cynthia her bossfight as well. The current plan for that is to let the party go to yata and fail their instructions.
+
+I do wanna make sure that Elise could help with the investogation mission  because that is fun, soooo maybe I dont even want to give them a choince
+or I can just come up with a different idea. That is not quite a big dieal luckily so
+
 
 
 

@@ -11,8 +11,9 @@ the bar is small and short-range, so close-range combat spells are more effectiv
 there is flammable amterial behind the abr as well, so cover may be removed at any point during combat
 
 # Enemies
-## That one bitch manager
-- Enemy that Hunter has an advantage on and probably has pleasure to kill
+## That one manager from a while back
+- Enemy that Hunter has an advantage on and probably wants to kill her
+- 
 
 ## Random Goon 1
 - Dangerous Scafry enemy that Aki might wanna deal with
