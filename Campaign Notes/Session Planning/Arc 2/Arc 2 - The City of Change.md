@@ -136,13 +136,14 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 - party got a shopping thing going so I'll make the hunter tribe available again which is funny
 	- get a chance to speak to diviner and bleeder.
 - When the party is finished with thhe shopping missions, they are most likely gonna return to Lettered Lamenting, upon which Semyon invites them to his office to speak about the currently available information of the Concepts and what they have discovered.
-- the main goal, being, to reorganise everyone's notes on the concepts and to stall for a little time before interrupting the scene with marcenaries from the Engineering Collective.
-	- This might be combat, and will probably be some sort of small protection objective to keep Semyon safe, in which case I will prepare [[A2C1 - Party vs Engineering Collective]]
-	- The scene will - if the party does not defeat them - result in them having to flee to a different place.
-	- Hmm but should I let this place be in the city or outside of the city?
-		- for pacing purposes it might be better toooooo let it be outsidfe of the city, but not entirely sure...
-- in any case, after the party has fleed or otherwise took steps to defeat the engineering collective, they are either tasked with taking steps against the engineering collective, or proceed on their research annd report back in a different location.
-- after getting a new debriefing from Semyon, I may wanna give them a choice between two story driven missions
+- the main goal, being, to reorganise everyone's notes on the concepts and to stall for a little time before introducing a choice to be made
+- Semyon will reveal his side-task as being a member (not mentioning how high-rsnking) of the federal intelligence 
+- this will lead into a brief conversation about what they do and stand for, and will also prepare some general information and hopefully as some sort of note exchange to get everybody up to speed again.
+- After that conversation, Semyon will give 2 choiced which will lead to the same thing
+- either, they investigate the simic criminal gang for information about the Concepts (which will lead into both intel that they are related to the concept of flow and know about the city of change which Semyon will know about) [[A2MQ2 - Probably bandit investigation]]
+- or they do other things aye head back to Janib'Rankhra now that they have an artifact of the concept of exploration) [[A2MQ4 - Janib'Rankhra 2]]
+- this will eventually point them towards the city of change but more importantly, will give combat which is fun
+- In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
 
 ### Ideas that might be useful
 at the moment considering to let them pick between going to Yataghatay (furthering concept of change mission) or pressing the Engineering collective for further intel and possibly revenge (furthering concept of flow mission)
