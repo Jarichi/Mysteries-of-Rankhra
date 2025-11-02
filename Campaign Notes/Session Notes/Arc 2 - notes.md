@@ -712,3 +712,10 @@ aki attempts to signal ratronus
 
 aki not near
 
+bas en pjotr
+
+inspiration
+
+bas is invisible
+pjotr might die
+
