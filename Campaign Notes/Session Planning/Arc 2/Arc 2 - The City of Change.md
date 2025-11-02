@@ -143,7 +143,7 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 	- either, they investigate the simic criminal gang for information about the Concepts (which will lead into both intel that they are related to the concept of flow and know about the city of change which Semyon will know about) [[A2MQ2 - Probably bandit investigation]]
 	- or they do other things aye head back to Janib'Rankhra now that they have an artifact of the concept of exploration) [[A2MQ4 - Janib'Rankhra 2]]
 - this will eventually point them towards the city of change but more importantly, will give combat which is fun
-- In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
+	- In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
 
 ### Ideas that might be useful
 at the moment considering to let them pick between going to Yataghatay (furthering concept of change mission) or pressing the Engineering collective for further intel and possibly revenge (furthering concept of flow mission)
