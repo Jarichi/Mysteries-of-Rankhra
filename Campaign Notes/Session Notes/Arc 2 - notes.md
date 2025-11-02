@@ -686,4 +686,19 @@ reveal mural information
 
 small mission to go to janib'rankhra
 
-people
+raven sees the temple
+nat 20
+
+sees 2 scouts that are recognised as members of the engineering colletive around the temple
+might be combat tee hee
+
+2 scouts
+ac 15
+
+40hp
+
+magic scout
+ac 15
+35hp
+
+invisibility, 
