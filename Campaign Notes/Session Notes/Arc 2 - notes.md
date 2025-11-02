@@ -670,3 +670,11 @@ they meet up witht he hunter creq
 dave
 demoven
 
+silly attempt to rob the trinket
+ratronus runs the fuck away
+
+THE PARTY can share noteworthy info ton give the temple for 150gp per pop
+
+67
+
+marilyn revelas the concept of flow and growith
