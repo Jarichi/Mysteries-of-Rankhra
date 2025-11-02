@@ -666,3 +666,5 @@ aki reveals that she is from the feywild
 ---
 - recap
 - 
+they meet up witht he hunter creq
+dave
