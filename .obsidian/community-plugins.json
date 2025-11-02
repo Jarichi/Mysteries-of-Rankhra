@@ -1,5 +1,6 @@
 [
   "obsidian-link-converter",
   "metadata-extractor",
-  "sync-graph-settings"
+  "sync-graph-settings",
+  "obsidian-git"
 ]
