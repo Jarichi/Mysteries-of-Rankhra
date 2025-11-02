@@ -678,3 +678,6 @@ THE PARTY can share noteworthy info ton give the temple for 150gp per pop
 67
 
 marilyn revelas the concept of flow and growith
+concept of whimsy is not on this plane reveals diviner
+
+300gp pp
