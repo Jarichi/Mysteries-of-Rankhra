@@ -760,4 +760,13 @@ combvat end
 zone of truth
 
 engineering collective has a forcing way of contract
-6
+
+they persuade bas to become an ally
+and kill pjotr
+
+- bas is now an ally from within the engineering collective, as a double spy
+- pjotr must die
+
+(sending stones can be combined)
+
+---
