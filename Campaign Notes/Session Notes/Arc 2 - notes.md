@@ -742,3 +742,18 @@ bonus action bite -5hp
 bas 15
 
 puppet!!!
+
+bas 10hp
+bas 6hp
+
+rat dash action and ivisible bells
+
+pjotr hp 5
+11hp
+
+2hp
+
+BAS 1 HP
+
+combvat end
+
