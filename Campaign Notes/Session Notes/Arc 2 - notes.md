@@ -719,3 +719,6 @@ inspiration
 bas is invisible
 pjotr might die
 
+bas casts magic missile
+
+-4dmg bas
