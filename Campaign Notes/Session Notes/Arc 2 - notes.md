@@ -681,3 +681,9 @@ marilyn revelas the concept of flow and growith
 concept of whimsy is not on this plane reveals diviner
 
 300gp pp
+
+reveal mural information
+
+small mission to go to janib'rankhra
+
+people
