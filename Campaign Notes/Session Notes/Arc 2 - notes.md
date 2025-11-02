@@ -758,3 +758,6 @@ BAS 1 HP
 combvat end
 
 zone of truth
+
+engineering collective has a forcing way of contract
+6
