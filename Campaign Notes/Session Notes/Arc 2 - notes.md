@@ -741,3 +741,4 @@ bas 20hp
 bonus action bite -5hp
 bas 15
 
+puppet!!!
