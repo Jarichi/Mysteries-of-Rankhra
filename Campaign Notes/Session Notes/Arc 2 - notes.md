@@ -728,5 +728,16 @@ bas casts magic missile
 mari intercepts the guy
 bite damage
 1 piercing + 4 necro
-25hp
-healing
+35hp
+healing +7 pjotr
+6hp
+
+
+bas 30hp
+pjotd 6hp + bind
+
+bas 20hp
+
+bonus action bite -5hp
+bas 15
+
