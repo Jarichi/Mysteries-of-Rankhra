@@ -383,7 +383,7 @@ after speaking to the final NPC, Bleeder will tell them that their spiritual lea
 
 - when the party nears the concept of exploration, everybody gets a sense of divine energy from the concept. It is immediately friendly with Hunter, intrigued by Marilyne, Chrone and Rat. It will look very puzzled at Aki, like she comes from a place that has yet to be explored.
 - After observing the party, the owlcat will attempt to make contact with the party ]
-- preface the ceonversation that unbeknownst to most badawi hunters, leaving the camp will let memories of his choosing fade to the background of your mind. I will tell them that if they want to remember what will be said here, they will have to roll a n appropriate check or save, unless they write down or otherwise link the memory to something in a creative way.
+- preface the ceonversation that unbeknownst to most badawi hunters, leaving the camp will let memories of his choosing fade to the background of your mind. I will tell them that if they want to remember what will be said here, they will have to roll a n appropriate check or save, unless they write down or otherwise link the memory to something in a creative way.unorganised
 
 - talking points for the concept:
 	- Seven Divine Concepts, 5 are currently related to the people in the party either known or unknown, which are the concepts of Flow, Growth, Reflection, Exploration and Whimsy.
