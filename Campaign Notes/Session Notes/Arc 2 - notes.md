@@ -662,3 +662,7 @@ aki reveals that she is from the feywild
 - Aki revealed she is from the Feywild, to at least Marilyne.
 - Hunter received an inspiration
 - Speaking with the Alchemists indicated that Ra'Sheema seems to be hosting a shamanic ritual in 7 days, which caused the Necrotic Resistance potions to be widely sold out.
+
+---
+- recap
+- 

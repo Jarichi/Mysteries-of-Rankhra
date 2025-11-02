@@ -137,11 +137,11 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 	- get a chance to speak to diviner and bleeder.
 - When the party is finished with thhe shopping missions, they are most likely gonna return to Lettered Lamenting, upon which Semyon invites them to his office to speak about the currently available information of the Concepts and what they have discovered.
 - the main goal, being, to reorganise everyone's notes on the concepts and to stall for a little time before introducing a choice to be made
-- Semyon will reveal his side-task as being a member (not mentioning how high-rsnking) of the federal intelligence 
+- Semyon will reveal his side-task as being a member (not mentioning how high-ranking) of the federal intelligence 
 - this will lead into a brief conversation about what they do and stand for, and will also prepare some general information and hopefully as some sort of note exchange to get everybody up to speed again.
 - After that conversation, Semyon will give 2 choiced which will lead to the same thing
-- either, they investigate the simic criminal gang for information about the Concepts (which will lead into both intel that they are related to the concept of flow and know about the city of change which Semyon will know about) [[A2MQ2 - Probably bandit investigation]]
-- or they do other things aye head back to Janib'Rankhra now that they have an artifact of the concept of exploration) [[A2MQ4 - Janib'Rankhra 2]]
+	- either, they investigate the simic criminal gang for information about the Concepts (which will lead into both intel that they are related to the concept of flow and know about the city of change which Semyon will know about) [[A2MQ2 - Probably bandit investigation]]
+	- or they do other things aye head back to Janib'Rankhra now that they have an artifact of the concept of exploration) [[A2MQ4 - Janib'Rankhra 2]]
 - this will eventually point them towards the city of change but more importantly, will give combat which is fun
 - In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
 
