@@ -6,7 +6,7 @@
 - Support Spellcaster
 - Heals 15 HP
 
-- 720gp
+- 995gp
 
 Significant inventory:
 - Sentinel Shield - adv on initiative and perception, +2AC
@@ -45,23 +45,25 @@ Significant inventory:
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-	- 704gp
+	- 2033gp
 
 Significant inventory
 - Pipes of the Sewers - Summons 1x swam of rats, maximum of 3. Recharges every 2 long rests
 - Cloak of Stealth
+- whip - +5ft range, bludgeoinoing 1d6 + 2
 - Burner comet
 ## Marilyne
 31hp (effective) -  13 AC
 warlock with fuckery
 
-- 300gp
+- 1330gp
 
 Significant inventory:
 - Ring of bravery  - Advantage on saves against being frightned or charmed
 - PERIAPT OF WOUNDED CLOSURE - Sturdy
 - mirror of pespective
-- Blood potion
+- Blood potion x2
+- bone
 
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
