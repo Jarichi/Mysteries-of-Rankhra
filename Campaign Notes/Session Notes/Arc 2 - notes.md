@@ -699,7 +699,7 @@ ac 15
 
 magic scout
 ac 15
-35hp
+25hp
 
 invisibility, 
 
@@ -722,3 +722,11 @@ pjotr might die
 bas casts magic missile
 
 -4dmg bas
+
+12hp
+
+mari intercepts the guy
+bite damage
+1 piercing + 4 necro
+25hp
+healing
