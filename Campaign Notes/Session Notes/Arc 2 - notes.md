@@ -702,3 +702,12 @@ ac 15
 35hp
 
 invisibility, 
+
+
+readies weapons
+but the scouts are not immediately
+
+aki attempts to signal ratronus
+- pointing and sending
+
+aki not near
