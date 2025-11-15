@@ -30,7 +30,7 @@ Significant inventory:
 - Dizzying = disadv on atk rolls (CON)
 - Wimgshot = prone (STR)
 
-- 295 gp
+- 695 gp
 
 Significant inventory:
 - revolver of the war mage - 2d8 damage, close range
@@ -45,7 +45,7 @@ Significant inventory:
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
-	- 2033gp
+	- 2133gp
 
 Significant inventory
 - Pipes of the Sewers - Summons 1x swam of rats, maximum of 3. Recharges every 2 long rests
@@ -68,3 +68,4 @@ Significant inventory:
 AVERAGE AC: 55/4 ≈ 13, median 13
 AVERAGE HP: 109/4 ≈ 27, median 25
 Average optimal party dmg per turn: 46
+

@@ -865,3 +865,18 @@ hunter takes an auroch
 - mari takes a horn
 
 news papaer
+they wanna sell the aurich
+
+article about the entrance
+
++100gp rat
++100gp hunt
+
+goint o research group
+
+and finally  go to the semyon scene
+
+first to the changeling abr
+
+wine on dog kettle thing
+
