@@ -770,3 +770,13 @@ and kill pjotr
 (sending stones can be combined)
 
 ---
+hp bonuses
+- aki 
+
+- rat 3+3
+- aki 3+1
+- mari 4+1
+- hunter 4+1
+
+---
+# Session 14

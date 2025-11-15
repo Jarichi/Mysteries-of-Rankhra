@@ -1,6 +1,6 @@
 ### Party Stats - lvl 5
 ## Aki
-- 40 HP, 18 AC
+- 44 HP, 18+2 AC
 - Close-range Paladin avg 6 dmg
 - Support Interception, reduce incoming dmg with 1d10+prof (2)
 - Support Spellcaster
@@ -24,7 +24,7 @@ Significant inventory:
 
 - 514gp
 ## Hunter
-- 39 HP, 14 AC
+- 44 HP, 14 AC
 - Ranged Fighter dealing base avg 7 dmg
 - Attack Roll adv and +3 (?) dmg bonus against cattle beasts (rule 0)
 - Dizzying = disadv on atk rolls (CON)
@@ -41,7 +41,7 @@ Significant inventory:
 
 
 ## Ratronus
-- 44 HP, 13 AC
+- 50 HP, 13 AC
 - Melee Rogue, base avg 5 dmg, 9 dmg (sneak)
 - Cunning action
 
@@ -53,7 +53,7 @@ Significant inventory
 - whip - +5ft range, bludgeoinoing 1d6 + 2
 - Burner comet
 ## Marilyne
-31hp (effective) -  13 AC
+36hp (effective) -  13 AC
 warlock with fuckery
 
 - 1330gp
