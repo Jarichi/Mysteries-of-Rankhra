@@ -932,3 +932,6 @@ amateur thieves' cant
 
 - further information is a draft
 
+- seomyon shares the spying allegations
+- mari borowed the draft book
+
