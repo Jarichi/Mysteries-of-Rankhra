@@ -853,5 +853,15 @@ hunter looks outside and sees the sharpened symbols, tell severyone
 
 
 necro spell on the book grows stronger
-ratronus has the book and takes it ouside of the temple
+ratronus has the book and takes it ouside of the templ
 
+
+symbols are more defined and in an unknown language
+- party has the book of life
+
+vampiric corvis language order
+
+hunter takes an auroch
+- mari takes a horn
+
+news papaer
