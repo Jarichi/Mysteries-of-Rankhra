@@ -941,4 +941,10 @@ semyon was not here to investigate
 
 - marilyne tells group that she suspects that the engineering collective would like
 
-smeyon suspects that 
+smeyon suspects tunnels leading ont
+
+INVESTIGATE the city of change from 650gp and one favour.
+
+"go to the city of change, and investifate concept affairs".
+
+---
