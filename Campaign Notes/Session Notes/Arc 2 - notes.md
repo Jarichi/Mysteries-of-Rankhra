@@ -822,3 +822,10 @@ aki checks the book
 
 book has the tongues effect
 
+rat readies shortbow
+
+detect magic on the book as ritual
+- necromancy and divination
+
+marilyn opens the book
+
