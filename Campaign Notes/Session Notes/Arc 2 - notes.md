@@ -925,5 +925,10 @@ amateur thieves' cant
 - and leaves
 
 - mari goes to the library
-- attemps to find info
+- attemps to find info about the reflection (rolls a 25)
+
+- concept of reflection drainage lake
+- possible link
+
+- further information is a draft
 
