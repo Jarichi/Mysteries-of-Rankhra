@@ -880,3 +880,22 @@ first to the changeling abr
 
 wine on dog kettle thing
 
+extra bloody mari
+klokje
+melk
+wine
+
+
+donald macbeth
+
+puts it on the tab
+
+- martin will donsome small talk
+- 
+
+- semyon does some small talk 
+- but will introduce the bandit mission
+	- this will have te party go to the 3rd domain first, and then will have them escape to the city of change
+	- this is due to the fact that - based on the info that th engineering ccollective has (that the party will hopefully tell them) - the party kind of has to go out of the city and to a new location of intertest
+	- the city of change (which must only be visited after clearing the trail)
+- to clear the trail, the party must first go to the f.i.z hq in the 3rd domain, while in the meantime 
