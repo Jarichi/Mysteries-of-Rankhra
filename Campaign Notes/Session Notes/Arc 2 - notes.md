@@ -935,3 +935,10 @@ amateur thieves' cant
 - seomyon shares the spying allegations
 - mari borowed the draft book
 
+semyon was not here to investigate 
+
+- engineering collective is using the hunter garage as an informant/spy place
+
+- marilyne tells group that she suspects that the engineering collective would like
+
+smeyon suspects that 

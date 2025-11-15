@@ -10,3 +10,5 @@ While reading, this book will describe the entire life of the person currently i
 While reading the book, it slowly drains the readers life force energy to fuel the book's energy, and deals 1d10 necrotic damage every minute without exception. If the reader dies while reading, their life energy gets fully absorbed and the final chapter of the Book of Life can be read, containing lore about [[Gentle Death]].
 
 A version of the book was hidden away within Janib'Rankhra. This has all of its pages ripped out. The book also has a warding spell against undeads
+
+
