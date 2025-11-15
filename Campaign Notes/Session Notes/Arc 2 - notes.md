@@ -832,3 +832,18 @@ and reading
 
 mariylne 4 necro damage
 
+7 necro
+total of 11
+max hp 25
+
+
+aki closes the book
+mari WANTS to read on.
+
+aki opens the book and wants
+
+wis save
+
+aki 13 necro damage and should reopen book
+rat tries and takes the book
+
