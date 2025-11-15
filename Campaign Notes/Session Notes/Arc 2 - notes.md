@@ -899,3 +899,4 @@ puts it on the tab
 	- this is due to the fact that - based on the info that th engineering ccollective has (that the party will hopefully tell them) - the party kind of has to go out of the city and to a new location of intertest
 	- the city of change (which must only be visited after clearing the trail)
 - to clear the trail, the party must first go to the f.i.z hq in the 3rd domain, while in the meantime 
+
