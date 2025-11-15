@@ -819,3 +819,6 @@ mari touchie
 aki checks the book
 
 - wis save
+
+book has the tongues effect
+
