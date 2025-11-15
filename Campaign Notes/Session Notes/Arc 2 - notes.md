@@ -911,3 +911,19 @@ so are semyon and verdant
 -- ratronus goes to his onformants
 
 sorta side mission
+
+amateur thieves' cant
+
+- leaves message
+- "be more clear in emeting, and I know somehting that is interesting"
+
+- he leaves a message behind
+- wears invisibility cloak
+- plays flute
+
+- village is empty
+- and leaves
+
+- mari goes to the library
+- attemps to find info
+
