@@ -9,3 +9,5 @@
 - the book will start to loop if they read to a certain point, and this book will indicate that they can read the past of the person who is touching the book, at the cost of everyone's life force.
 - the mural will also look more detailed and looks like the map I drew earlier
 - someone with 
+
+
