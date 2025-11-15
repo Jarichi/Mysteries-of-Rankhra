@@ -847,3 +847,11 @@ wis save
 aki 13 necro damage and should reopen book
 rat tries and takes the book
 
+retronus rolls deception
+
+hunter looks outside and sees the sharpened symbols, tell severyone
+
+
+necro spell on the book grows stronger
+ratronus has the book and takes it ouside of the temple
+
