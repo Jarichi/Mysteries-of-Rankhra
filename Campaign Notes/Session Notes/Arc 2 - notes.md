@@ -809,3 +809,13 @@ aki = porpol
 rat =  dark blue
 mari = light blue
 chron = green
+
+mari touchie
+(arcana roll for recognised energy)
+- fails
+- inspo
+- ancient magi creachign out
+
+aki checks the book
+
+- wis save
