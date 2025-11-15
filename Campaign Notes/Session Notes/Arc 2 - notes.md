@@ -800,3 +800,12 @@ aki 17
 mari 21
 hunt 5
 
+mural is a map
+
+testing the burghness of the gems
+
+hunter = red
+aki = porpol
+rat =  dark blue
+mari = light blue
+chron = green
