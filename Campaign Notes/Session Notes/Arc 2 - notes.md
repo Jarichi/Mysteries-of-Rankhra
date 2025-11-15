@@ -828,4 +828,7 @@ detect magic on the book as ritual
 - necromancy and divination
 
 marilyn opens the book
+and reading
+
+mariylne 4 necro damage
 
