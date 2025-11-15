@@ -891,7 +891,6 @@ donald macbeth
 puts it on the tab
 
 - martin will donsome small talk
-- 
 
 - semyon does some small talk 
 - but will introduce the bandit mission
@@ -900,3 +899,15 @@ puts it on the tab
 	- the city of change (which must only be visited after clearing the trail)
 - to clear the trail, the party must first go to the f.i.z hq in the 3rd domain, while in the meantime 
 
+salazar is gone
+so are semyon and verdant
+
+
+- mari to the library
+- aki sleep
+- hunter goes to sleep (make cool stuff for him)
+- ratronus sleep later
+
+-- ratronus goes to his onformants
+
+sorta side mission
