@@ -780,3 +780,23 @@ hp bonuses
 
 ---
 # Session 14
+
+bas is an insider
+ratronus info
+- why is there a private network
+- has hunter paid his taxes
+- why are the engineering collective interested in the temple (and by extension in the temple)
+
+bas leaves
+
+they bury the corpse in the sand
+ratronus unarmed strike
+
+"veel zuigplezier"
+
+perception
+rat 22
+aki 17
+mari 21
+hunt 5
+
