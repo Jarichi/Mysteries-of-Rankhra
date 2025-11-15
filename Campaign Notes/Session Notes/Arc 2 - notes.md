@@ -770,7 +770,9 @@ and kill pjotr
 (sending stones can be combined)
 
 ---
+
 hp bonuses
+
 - aki 
 
 - rat 3+3
