@@ -950,3 +950,4 @@ INVESTIGATE the city of change from 650gp and one favour.
 "go to the city of change, and investifate concept affairs".
 
 ---
+![[Pasted image 20251115214653.png]]
