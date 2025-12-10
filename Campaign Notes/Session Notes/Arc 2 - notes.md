@@ -951,3 +951,7 @@ INVESTIGATE the city of change from 650gp and one favour.
 
 ---
 ![[Pasted image 20251115214653.png]]
+
+
+
+---
