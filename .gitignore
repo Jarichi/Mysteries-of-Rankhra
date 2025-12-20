@@ -4,7 +4,7 @@
 .obsidian/workspace-mobile.json
 .obsidian/plugins/metadata-extractor/allExceptMd.json
 .obsidian/plugins/metadata-extractor/tags.json
-
+.obsidian/community-plugins.json
 
 # Add below lines to exclude OS settings and caches
 .trash/
