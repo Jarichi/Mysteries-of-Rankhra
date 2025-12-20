@@ -146,6 +146,21 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 - this will eventually point them towards the city of change but more importantly, will give combat which is fun
 	- In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
 
+
+# Session 14
+After Semyon revealed what he was working for, the party was tasked with going down to the 3rd 
+
+This will probably lead into some sort of chase scene in which the party must escape the domain from either some very powerful overlords, an event triggered by the concept of flow, an event triggered by the engineering collective or something else
+
+How will they transition into the chase scene?
+Perhaps they are supposed to go to the safehouse first...
+Some assurance that the safehouse is actually safe
+And then, like, a breach occurring because Hunter has his Comet (which traces him maybe)
+I don't want the breach to happen when they just arrive because that's cringe
+
+There also has to be a mission that may need fulfilling
+Perhaps some.worldbiildinf is in order
+
 ### Ideas that might be useful
 at the moment considering to let them pick between going to Yataghatay (furthering concept of change mission) or pressing the Engineering collective for further intel and possibly revenge (furthering concept of flow mission)
 not quite sure, since I wanna give Cynthia her bossfight as well. The current plan for that is to let the party go to yata and fail their instructions.
@@ -205,3 +220,11 @@ Thoughts; maybe Ra'Sheema wants to make a 10th level spell using the magic store
 Also, there is an NPC who can feel the presence of the Weave/magical field like space-time
 Would be funny
 
+# bpssfoght
+
+Marilyee bpssfoght
+She is lol 15
+Fighting against curse 
+She unlocks full powers and curse as well
+1v1
+Party protects her 
