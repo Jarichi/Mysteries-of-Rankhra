@@ -9,7 +9,47 @@ Essentially, what do I want to let this tie into? It seems that Marcus' letter i
 
 ## Storyline
 
+After receiving word form Semyon to head to the third domain to further their investigation into the City of Change, they are med with the mazel-like nature of the gloomspark district.
+This district contains a set of confusing alleyways (ofhwich I will giv eno cues for where they need to go, and of which I will definitely make sure to check if anyone on the party has cartography skills), which lead to specific places in the district.
+each of these rooms contains a key to unlock the final room. 
+This final rom caintains the non-binary (this time really) half-Simic [[Dako]] who is in the process of ascending to the position of Overlord, but who must prove herself worthy of the position fulfilling the requirements: Being able to turn a trickle of info into a stream, being able to control this stream and essentially proving herself to be capable of controlling the flow of information.
+	- When the party meets her, she will be in the process of fulfilling the last requirement of becoming an Overlord, unlock powers and most likely end up in combat.
+	- Ideally, the party should not want to kill her because she has information or the likes.
 
+The room is effecively closed off and needs to be accessed in a stealthy way to avoid detection. The room has thick, aluminium walls which make magic tricks unsuitable and sctying also impossible.
+Furthermore, the heavy-ass door is locked and cannot be opened from he outside when locked from the inside.
+- This implies a different method of entry - which is only known by some simics in part, which the party must find.
+The goal of the story, therefore is the following:
+- *Find a way to access the closed room in a stealthy way, to gather information on Dako and report back.*
+
+#### How to access the room
+- Under a certain tile is a small pond of water. Standing in it does not do anything. To make it do something and become sort  of a trapdoor, someone must hit a target 30ft away, whose position can only be seen when standing directly on the tiling. When the target is hit, a trapdoor opens which leads to a submerged section of water. This must be traversed by a small creature first ( a fox, for example) who needs to press a specific button (pressing the wrong button does somethign funny and dangerous, or trips an alarm idk), make their way back and swim through the tunnel. On the other side of the tunnel, the room can be entered from the ceilng, where the party enters a cutscene.
+#### The Cutscene
+Dako is speaking wiht an unkown figure (possible Zendikar, maybe someone else, but definitely affiliated to the engineering collective). They briefly speak about the mission to become an Overlord, as desired by the concept of flow. Some activity is done by Dako, and the party might be able to intervene.
+The speaker will alos talk compliment Dako that they have read the collection of books regarding the concepts stored in the atelrier (the party ca split to check this out tee hee, andthe books wil contain lore about the Feywild, the concept of refleciton and the concept of change)
+The party is therefore faced with a choice; who will visit the library to gather information about the concepts and will naybody attempt to interveen with the ritual?
+(performed by the speaker, Dako will protect him, so this is a tactical fight)
+
+There might be a battle which is unwinnable and the art MUST flee the city in a chase scene initiated by Dako - who has now become a powerful warlock - Fathomless (aquatic warlock - but it's flow-based).
+
+## Activities and POIs.
+- Gloomspark Mantle - the starting point of the maze, and the location of hte safehouse.
+	- They can enter the maze from one main hallway leadin gfrom it.
+- Ocreatic Hearth - Submerged village populated by some amount of simics.
+	- A suspiciously young and knowledgeable simic (who might have wanted to run for Overlord and knows about Ratronus) who lives in a submerged house all the way at the bottom (the party may be able to spot some simics heading to a house to provide information - perception if they so choose :3) is in possession of the location of the secret entry point
+	- To access this locaiton, the village must be drained. THis is achieved by some actions which specific party members can do. **Think about this**
+- Gunsmith's house
+	- The simic who lives here is responsible for weapon trade in the 3rd domain and has made a number of secret inventions regarding weaponry. They also want to join the [[Festival of Tenacity]] (the shooting part) and only reveals the informasiton for the secret activation point after someone who is capable with guns outskills him in a gun-focused 1v1 combat (the party can support Hunter in a number of creative ways) **Make a gunslinger character sheet**. When Hunter wins, they receive the information for the secret entryway
+- A third location which provides the party with the informationfor the trpped button and how to get there
+- The maze itself
+	- Contains the unmarked and shifting hallways, which lead to the various locations. They are patroleld by Simics, creatures and other smalll challenges to make the travelling not boring. Maybe there are small pzzles as well idrk
+- The FInal Room
+	- See cutscene
+
+
+**IN ESSENCE, THIS SESSION/COUPLE OF SESSIONS WILL BE A CLASSIC DUNGEON ADVENTURE, BECAUSE THIS IS EASY STRUCTURE AND A LITTLE MORE ENTERTAINING FOR THEM THAN ANOTHE RLORE DUO**
+
+### Broader story ties
 - apparently, individual simics are willing to put everything on the line to become an Overlord
 	- Why?
 		- Most likely has something to do with the concept of Flow, where the third domain (which is now where the concept is located, when entering the temple)

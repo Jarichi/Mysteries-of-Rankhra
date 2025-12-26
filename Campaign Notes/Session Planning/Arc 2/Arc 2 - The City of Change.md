@@ -147,8 +147,23 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 	- In any case, heading back in arc 3 will see that lettered lamenting got raided for drama and tea, and will also lead into more tension perhaps even relying on the traders and criminals to get around the city
 
 
-# Session 14
-After Semyon revealed what he was working for, the party was tasked with going down to the 3rd 
+# Session 15
+After Semyon revealed what he was working for, the party is tasked with going down to the 3rd and go further into the thord odmain in order to reach a safehouse.
+the safehouse is located in a sort-of easy-to-access location with a singular old simic lady. The precise location of the safehouse is in the [[Gloomspark District]], specifically in one of the houses which the party has already checked out before.
+(the house which used otfly the white flag, is a safehouse form the FIZ.)
+- [[Code Name Cloak]]
+- this simic lady knows a little about the overlords, recognises Ratronus as one of the old poor simic families who she used to give resources and wisdom to so that they were able to stay afloat
+
+Before being allowed to enter the safgehouse, they need to prove to Hannah that htey are actually sent by the FIZ and not by some other method. this is done by refusing  to accept the cookies before seeing the recipe, Upon which Hannah invites the party to the cllar.
+In the cellar, comunicatondoes not work and the party has a safe space to rest.
+
+Then, when they are ready to leave the safehouse, the party needs to traverse a maze to a specific location in which they run into Dako - an immensely powerfuloverlord-in-the-making who is tasked by the engineering collectove to kill all spies which are found in the third domain, to prevent stuff.
+[[A2MQ2 - Probably bandit investigation]]
+
+After this mission, the party will need to flee the third domain and head on out into the desert, after knowing about he city of change.
+Somehow need to make sure that the engineering collective makes the city unsafe enough for them to leave into the desert, unprepared and during the day.
+
+
 
 This will probably lead into some sort of chase scene in which the party must escape the domain from either some very powerful overlords, an event triggered by the concept of flow, an event triggered by the engineering collective or something else
 
