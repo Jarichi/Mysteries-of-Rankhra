@@ -14,4 +14,6 @@ This district contains a collection of small towns in which people live, entrywa
 - Gloomspark Mantle -  A Small collection of houses which have been abandoned as per the occurences of the first session. This location serves as the main entry point into the network of tunnels and as an intel transition location for informants.
 - Ocreatic Hearth - a submerged village, populated by Simics, whose exit is hidden under the waves. This means that in order to exit this location, one must solve a puzzle to temporarily drain the water.
 	- the puzzle involves locating a series of switches in a location. One is a riddle, one is a shooting skill test, one is an alchemical puzzle and one is something else
-- 
+- Gloomhearth - the room in which Dako is getting conveted
+- Mantled Crucible - smithery in which most weapons are made
+
