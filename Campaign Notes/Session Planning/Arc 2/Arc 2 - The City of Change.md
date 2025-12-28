@@ -149,15 +149,17 @@ or, I will not even give the party a chance to avoid thus and kind of railroad e
 
 # Session 15
 After Semyon revealed what he was working for, the party is tasked with going down to the 3rd and go further into the thord odmain in order to reach a safehouse.
-the safehouse is located in a sort-of easy-to-access location with a singular old simic lady. The precise location of the safehouse is in the [[Gloomspark District]], specifically in one of the houses which the party has already checked out before.
+the safehouse is located in a sort-of easy-to-access location with a singular old simic lady [[Enra]]. The precise location of the safehouse is in the [[Gloomspark District]], specifically in one of the houses which the party has already checked out before.
 (the house which used otfly the white flag, is a safehouse form the FIZ.)
-- [[Code Name Cloak]]
+- [[Code Name Cloak]] - the name of the safe house
 - this simic lady knows a little about the overlords, recognises Ratronus as one of the old poor simic families who she used to give resources and wisdom to so that they were able to stay afloat
+	- The reason she recognises Ratronus, is due to the EYE ARMKGIN O HER SHOULDER, indicating that she also used to be a target for the overlords and as such got marked by them (link to rat's backstory)
 
-Before being allowed to enter the safgehouse, they need to prove to Hannah that htey are actually sent by the FIZ and not by some other method. this is done by refusing  to accept the cookies before seeing the recipe, Upon which Hannah invites the party to the cllar.
-In the cellar, comunicatondoes not work and the party has a safe space to rest.
 
-Then, when they are ready to leave the safehouse, the party needs to traverse a maze to a specific location in which they run into Dako - an immensely powerfuloverlord-in-the-making who is tasked by the engineering collectove to kill all spies which are found in the third domain, to prevent stuff.
+Before being allowed to enter the safgehouse, they need to prove to her that htey are actually sent by the FIZ and not by some other method. this is done by refusing  to accept the cookies before seeing the recipe, Upon which Hannah invites the party to the  cellar.
+In the cellar, meteor comms do not work and the party has a safe space to rest. This cut from the communication devices will have a roll each time they enter to see if the collective discovers their locaiton due to this. - DC 15
+
+Then, when they are ready to leave the safehouse, the party needs to traverse a maze to a specific location in which they run into Dako - an immensely powerfuloverlord-in-the-making who is tasked by the engineering collectove to kill all spies which are found in the third domain.
 [[A2MQ2 - Probably bandit investigation]]
 
 After this mission, the party will need to flee the third domain and head on out into the desert, after knowing about he city of change.

@@ -1,3 +1,1 @@
-One of th safehouses set up by the [[F.I.Z.]] in the [[Gloomspark District]]. It is protected by [[Hannah]] - an elder Simic female who used to take care of starving Simic families by providing information and food for starving children.
-
-
+One of th safehouses set up by the [[F.I.Z.]] in the [[Gloomspark District]]. It is protected by [[Enra]], an elder Simic female who used to take care of starving Simic families by providing information and food for starving children, and used to be a part of one of the suppressed simic families as well.

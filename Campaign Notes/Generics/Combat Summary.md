@@ -10,6 +10,7 @@
 
 Significant inventory:
 - Sentinel Shield - adv on initiative and perception, +2AC
+- 
 
 ## Chron
 - 27 HP, 13 AC (base)
@@ -36,7 +37,7 @@ Significant inventory:
 - revolver of the war mage - 2d8 damage, close range
 - shotgun
 - deagle
-- magazine
+- magazine extension
 
 
 
