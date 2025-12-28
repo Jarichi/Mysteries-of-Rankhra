@@ -39,9 +39,9 @@ There might be a battle which is unwinnable and the art MUST flee the city in a 
 - fey magic or powerfulentity prescent - marilyne and Aki recognises old magic pulses when in the chapel of death or in the gloomhearth
 - 
 ## Activities and POIs.
-- Gloomspark Mantle - the starting point of the maze, and the location of hte safehouse.
+- **Gloomspark Mantle** - the starting point of the maze, and the location of hte safehouse.
 	- They can enter the maze from one main hallway leadin gfrom it. They are given a small map from the known paths which need to be taken wth.
-- Ocreatic Hearth - Submerged village populated by some amount of simics - this is TEAM FOCUSED
+- **Ocreatic Hearth** - Submerged village populated by some amount of simics - this is TEAM FOCUSED
 	- A suspiciously young and knowledgeable human (who might have wanted to run for Overlord and knows about Ratronus) who lives in a submerged house all the way at the bottom (the party may be able to spot some simics heading to a house to provide information - perception if they so choose :3) is in possession of the location of the secret entry point
 	- To access this knowledge and th ehouse, the village must be drained. THis is achieved by some actions which specific party members can do.
 		- They must find a series of pressure plates to drain the village and open the doors, the person living at the bottom of the village does not brathe air like most simics, and is a simple human who knows thins
@@ -54,12 +54,30 @@ There might be a battle which is unwinnable and the art MUST flee the city in a 
 		- Every time a plate is hit, the water level drains and one of the airlock doors opens.
 	- When the village is drained, the party has 5 minutes to get the intel from the guy and maybe ask other questions - [[Blake]] is here.
 		- Blake tells them about the location of the hidden trapdoor
-- Mantled Crucible - this is HUNTER FOCUSED and TEAM FOCUSED
+- **Mantled Crucible** - this is HUNTER FOCUSED and TEAM FOCUSED
 	- The simic who lives here is responsible for weapon trade in the 3rd domain and has made a number of secret inventions regarding weaponry. They also want to join the [[Festival of Tenacity]] (the shooting part) and only reveals the information for the secret activation point after someone who is capable with guns outskills him in a gun-focused 1v1 combat (the party can support Hunter in a number of creative ways) **Make a gunslinger character sheet**. 
+	- the challenge consists of pre-duel segment which mostly just has some introducitons, weapon maintenance and explanation of te combat rules
+		- This segment will have the gunsmith lightly sabotage Hunter's gun and lets reloading cost an action once instead of a bonus action, or makes Daan roll on the misfire table
+			- If the party catches this, this won't happen and he notices.
+		- The rules will be a forced 1v1 between Hunter and [[Brendon]], and if the party wins they get info and modificaiton and if the party loses theyget nothing
+			- Of course, they still get the information due to recognityion of tenacity however they need to locate an underwater modification themselves or create a createive wyay of dealing with this.
+	- then the duel begins
+		- the party can sabotage Brendon by spellcasting or material sabotage, silvery barbs etc etc
+		- hunter just needs to protect against incoming attacks first, then transition into actual combat.
+			- combat is two-phased, on first phase is heavily dodge-focused for Brendon until a certian HP level, when he will directly attack Hunter while still dodging
 	- When Hunter wins, they receive the information for the secret entryway 
 		- The entryway is opened by means of a shotgun shell at the wall of a specific wall point - the gun needs an underwater mod which is given after the combat.
-- A third location - this is MARI FOCUSED and TEAM FOCUSED
-	- This location is 
+- **Chapel of Death** - this is MARI FOCUSED and TEAM FOCUSED
+	- This location is a remnant of an old religious faction who worship [[Gentle Death]]
+		- Party rolls history to see if they remeber thet one girl from the 1st arc to be a part of this faction
+	- This remnant contains one book which contains the names of the deceased simics (Victor, Cupine, Elizabeth), some names appear to be highlighted
+	- There is also a prayer table
+		- Marilyne will need to meditate in this location and concentrate
+	- when she concentrates here, undead skeletons are then created which attempt to break mari's concentration
+		- some combat, about 6 skeletons
+	- After her ritual finished, an image of Gentle Death will appear who will explain her mechanics, will briefly explain that there appears to be 2 precenses in the gloomhearth, one of which is very powerful and is successfully blocking her out of the room from scrying and one of which seem spotationally powerful yet needs to complete a ceremony first
+		- if mari fails, the image will still appear but conversion is not possible.
+	- 
 - The maze itself
 	- Contains the unmarked and shifting hallways, which lead to the various locations. They are patrolled by Simic bandits, creatures and other smalll challenges to make the travelling not boring. Maybe there are small puzzles as well idrk
 - Gloomhearth - END
