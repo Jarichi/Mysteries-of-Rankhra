@@ -156,10 +156,12 @@ the safehouse is located in a sort-of easy-to-access location with a singular ol
 	- The reason she recognises Ratronus, is due to the EYE ARMKGIN O HER SHOULDER, indicating that she also used to be a target for the overlords and as such got marked by them (link to rat's backstory)
 
 
+
 Before being allowed to enter the safgehouse, they need to prove to her that htey are actually sent by the FIZ and not by some other method. this is done by refusing  to accept the cookies before seeing the recipe, Upon which Hannah invites the party to the  cellar.
 In the cellar, meteor comms do not work and the party has a safe space to rest. This cut from the communication devices will have a roll each time they enter to see if the collective discovers their locaiton due to this. - DC 15
 
 Then, when they are ready to leave the safehouse, the party needs to traverse a maze to a specific location in which they run into Dako - an immensely powerfuloverlord-in-the-making who is tasked by the engineering collectove to kill all spies which are found in the third domain.
+
 [[A2MQ2 - Probably bandit investigation]]
 
 After this mission, the party will need to flee the third domain and head on out into the desert, after knowing about he city of change.
@@ -184,8 +186,6 @@ not quite sure, since I wanna give Cynthia her bossfight as well. The current pl
 
 I do wanna make sure that Elise could help with the investogation mission  because that is fun, soooo maybe I dont even want to give them a choince
 or I can just come up with a different idea. That is not quite a big dieal luckily so
-
-
 
 
 I also wanna plan stuff for Ratronus' Comet shenanigans, and it does feel like they have more of a desire to investigate the syndicate under the city, HOWEVER ratronus has had plenty of character moments for now, so I'd like to focus on Hunter and Aki

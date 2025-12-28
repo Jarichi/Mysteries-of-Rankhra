@@ -956,3 +956,99 @@ INVESTIGATE the city of change from 650gp and one favour.
 
 ---
 # Session 15
+bismilleh
+
+small summary
+semyon directs themt o the safe house
+
+perception
+
+hunter rat nmat 1
+
+old lady
+
+aki: "is that yo mama"
+
+hunter: nah yourt grandma
+- 6 dmg
+- total 38 hp
+
+mari puke spell
+
+baking cookies
+HUNTER IS VOMITINGN LOWKEYT
+HIGHKEY
+he vomits in the couch
+
+pittoresk home
+
+simic cookie
+
+she fogures out
+
+munchies
+
+they go to the cellar
+	insulated from magic to prevent tracking
+
+ROOM LINED WITH aluminium
+
+ratronus fake ID
+hunter herbert
+aki and marilyne
+
+ratronus knows about her
+
+side quest
+
+ratronus for free
+the reward is onformation
+
+marcus reveal
+
+go to the ??? first
+- entered the district
+
+hunter shoots the wall
+
+they are in fact destroying the wall
+
+thre wall is an opening to the desert
+
+the smaller and more convenient hallway is collapsed - this is significant
+
+THEY GO TO THE mantled crucible
+
+bultus
+hunter got caught
+
+they wanna sabotage thee fighrttt
+
+they send Bultus to the end of the room
+dAAN FIRST 
+then Bultus
+party reacts the things
+
+6 DMG
+49 hp
+extra attack misses
+bonus action
+
+source if fear double disadv
+
+half cover
+
+hunter turn
+half cover
+action surge
+
+bultus combat
+in the middle of fuckwhere
+
+
+hunter turn
+hits for
+8 dmg
+41 hp'
+
+---
