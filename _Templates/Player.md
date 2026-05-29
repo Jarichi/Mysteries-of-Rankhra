@@ -16,8 +16,6 @@ tags: <% campaignTag %>
 
 ---
 
-# [<% tp.file.title %>](<% tp.file.title %>)
-
 ![](./Templates-attachments/npc-placeholder.png)
 
 ## Background

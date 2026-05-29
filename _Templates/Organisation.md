@@ -6,13 +6,10 @@ const campaignTag = tp.user.toKebabCase(campaign);
 type: organisation
 description:
 campaign: <% campaign %>
-creation_date: <% tp.date.now("YYYY-MM-DD") %>
 tags: <% campaignTag %>
 
 ---
 
-
-# [<% tp.file.title %>](<% tp.file.title %>)
 
 ## Description
 

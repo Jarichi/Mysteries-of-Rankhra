@@ -1,8 +1,53 @@
-#location 
-[[Rankhra]] is located within, as well as the main governing body of Zal;Aata.
-https://nl.pinterest.com/jarichionline/centroscopia/
+---
+type: location
+description: "Central district of Zal'Aata"
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
 
-## Overview
+---
+```leaflet
+id: Untitled-location-map
+image: ./Templates-attachments/location-placeholder.jpg
+lat: 50%
+long: 50%
+minZoom: 5
+maxZoom: 10
+defaultZoom: 9
+scale: 1
+lock: true
+```
+
+## Description
 Centroscopia is a living space fir the wealthy citizens and contains the more governmental structures, like the courthouse and the bank etc. It also has loads of security guards.
 
 Naming theme: ancient egypt and ancient sounding names
+[[Rankhra]] is located within, as well as the main governing body of Zal;Aata.
+https://nl.pinterest.com/jarichionline/centroscopia/
+
+
+## Environment
+## NPCs
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+SORT file.cday DESC
+```
+
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(locations, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

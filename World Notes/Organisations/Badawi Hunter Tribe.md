@@ -1,4 +1,13 @@
-#group 
+---
+type: organisation
+description:
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
+
+---
+
+
+## Description
 [[Hunter]] was part of this group. They have a signature symbol or something. Base of ops is withing [[Badawi Hunter Settlement]].  They have been known for following some sort of [[Bahath Animal Guide]], who is the Concept of Exploration
 
 The tribe is not lead by anybody and exists as an anarchist body. It mainly takes care of its own benefits and does not allow outsiders to enter without accompaniment of one of the members. The tribe only talks to its members, and visitors need to direct their questions to the guide in order to talk to them
@@ -18,3 +27,22 @@ The memories you make while staying in the tribe will not leave the tribe. As su
 owlcat
 
 A noteable fact about the hunter tribe is that Bleeder - One of the important figures of the tribe - is a Dawnwalker vampire.
+## Facts
+
+-  
+
+## Members
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

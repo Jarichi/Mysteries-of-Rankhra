@@ -1,7 +1,17 @@
-#npc #deity 
+---
+type: NPC
+locations:
+organisation: Envoys of Creation
+campaign: Campaign 1 - Mysteries of Rankhra
+race: Vampire
+gender: Female
+aliases:
+  - The Lady of River's Red
+tags: campaign-1---mysteries-of-rankhra
+---
+![](./Templates-attachments/npc-placeholder.png)
+## Description
 Rubae - the Lady of River's Red - is one of the [[Envoys of Creation]], specifically for the [[concept of reflection]].  She is the manifestation of [[Marilyne]]'s curse, split off by the Concept.
-
-
 
 BBEG for the first arc. (maybe)
 
@@ -31,3 +41,23 @@ Powerful, weak during the day, responsible for killing and torturing Frederic, w
 
 #### Summary
 vampiric warlock that wants to get the artifact in the temple, and wants to use the party to get access to the temple and fulfilll her own agenda.
+## Skills
+
+-  
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(questGivers, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

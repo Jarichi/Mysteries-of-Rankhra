@@ -6,12 +6,9 @@ const campaignTag = tp.user.toKebabCase(campaign);
 type: location
 description: ""
 campaign: <% campaign %>
-creation_date: <% tp.date.now("YYYY-MM-DD") %>
 tags: <% campaignTag %>
 
 ---
-# [<% tp.file.title %>](<% tp.file.title %>)
-
 ```leaflet
 id: <% tp.file.title %>-location-map
 image: ./Templates-attachments/location-placeholder.jpg
@@ -26,10 +23,7 @@ lock: true
 
 ## Description
 
-## Facts
-
--
-
+## Environment
 ## NPCs
 
 ```dataview

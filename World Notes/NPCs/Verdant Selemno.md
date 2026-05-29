@@ -1,10 +1,22 @@
-#npc 
+---
+type: NPC
+locations:
+organisation:
+  - - Research Group
+campaign: Campaign 1 - Mysteries of Rankhra
+race:
+gender: Non-binary
+aliases:
+tags: campaign-1---mysteries-of-rankhra
+---
+![](./Templates-attachments/npc-placeholder.png)
+## Description
 Verdant Selemno (cg) is a summer Eladrin warlock with a particular connection to the beginnings of Zal'Aata (perhaps some forefather was the original founder of Zal'Aata) and a particular drive to uncover the secrets of Rankhra. They have an impressive posture and are quite powerful, and are very passionate for [[Research Group]], willing to go far - perhaps too far - to achieve their goal of uncovering the secrets of Zal'Aata. Their patron is an Archfey.
 ## History
 ### Birth and Childhood
 Verdant was born in the Feywild, their parents being a member of the [[Feywild Merchants]], more specifically being a subgroup called the [[Nomadic Feywild Collective]]. Being raised in a plane-hopping and trade-driven culture, they always felt a connection to both the Mortal Plane and the Feywild. They often accompanied their parents on their various trips throughout the world, always trading and never lingering in one spot, though they always returned to the Cornucopia Streak (and its Feywild alternative). Initially believing that this was simply due to a preference, Verdant did not pay this much mind.
 
-After a number of centuries of trading and travelling, Verdant eventually decided to look more into the culture of the mortal plane and read about Zal'Aata. They found out the city was founded due to the presence of a mysterious temple, which had been built by the [[Ancients]]. Feeling that there must be more to this story, they decided to investigate this more closely and eventually discovered that one of the significant spellcasters who were responsible for the construction of the temple turned out to be one of their ancestors. This prompted them to split off from the Nomadic Feywild Collective and move to Zal'Aata in the hopes of uncovering more about the temple.
+After a number of centuries of trading and travelling, Verdant eventually decided to look more into the culture of the mortal plane and read about Zal'Aata. They found out the city was founded due to the presence of a mysterious temple, which had been built by the [[World Notes/Lore/Ancients]]. Feeling that there must be more to this story, they decided to investigate this more closely and eventually discovered that one of the significant spellcasters who were responsible for the construction of the temple turned out to be one of their ancestors. This prompted them to split off from the Nomadic Feywild Collective and move to Zal'Aata in the hopes of uncovering more about the temple.
 ### Creation of the Research Organisation
 #### Arriving in the city
 After moving to the city, they managed to purchase a small, tucked away cafe in the Second Domain that was only accessible through the sewers and through a small alleyway with the money earned from centuries of trading. Knowing they had to earn money somehow, they dubbed the cafe [[Lettered Lamenting]] and rented rooms for weary traders and tourists to stay. 
@@ -27,3 +39,24 @@ They can be described as a charismatic and intense person, willing to stand up f
 Personality trait and flaw: You stand tall and strong so that others can lean on you. The best option is one that is swift, unexpected, and overwhelming.
 
 
+
+## Skills
+
+-  
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(questGivers, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

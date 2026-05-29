@@ -1,15 +1,34 @@
-#location 
+---
+type: location
+description: "Mysterious temple located within Zal'Aata."
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
 
-### Etymology
-The name Rankhra is a derivation of the words 'Ankh' and 'Ra', signifying Life and Sun/Beginning
-## Origin Mythos
- It is said that this temple was a gift from the heavens from one of the many deities residing in this plane and they inspired the ancient civilisation of [[Ancients]], who built the temple in their name. Legends speak of residents of this ancient civilisation still dwelling inside of the temple. However, this tale cannot be confirmed due to a powerful magical barrier preventing anyone from accessing the temple.
+---
+```leaflet
+id: Untitled-location-map
+image: ./Templates-attachments/location-placeholder.jpg
+lat: 50%
+long: 50%
+minZoom: 5
+maxZoom: 10
+defaultZoom: 9
+scale: 1
+lock: true
+```
+
+## Description
+### Origin Mythos
+ It is said that this temple was a gift from the heavens from one of the many deities residing in this plane and they inspired the ancient civilisation of [[World Notes/Lore/Ancients]], who built the temple in their name. Legends speak of residents of this ancient civilisation still dwelling inside of the temple. However, this tale cannot be confirmed due to a powerful magical barrier preventing anyone from accessing the temple.
  Mysteriously, this temple seems to infinitely dispel water directly from inside, flowing outward and into the cardinal directions of the temple base, and as such became the center point of [[Zal'Aata]].
 The temple has been built on one of the sites where the God of Creation dispelled themselves, and the [[Concept of Flow]] lies. This causes the infinite flow of water, but also the altered flow of time.
 
 Note: temple was made by [this](http://dnd5e.wikidot.com/spell:temple-of-the-gods) spell.
+### Etymology
+The name Rankhra is a derivation of the words 'Ankh' and 'Ra', signifying Life and Sun/Beginning
 
-## Layout
+
+## Environment
 ### Outside
 Outside of the temple is a regular temple ground with some channels with water and generic temple stuff
 Inside of the temple contains an ancient garden containing odd [[flowers]] from a time long forgotten. One of these flowers is [[Foxglove]], a drug origination from the feywild.
@@ -24,3 +43,28 @@ In the centuries after the city was founded, several research groups have attemp
 Within the temple barriers, mysterious magic slows down the flow of time by a large factor, preventing the temple from decaying. While most of the magic is kept inside by its powerful barriers, a small amount of it leaks directly outside the barriers, causing the civilians living near it to age at a slower rate.
 
 Further properties are determined by that spell.
+## NPCs
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+SORT file.cday DESC
+```
+
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(locations, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

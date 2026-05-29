@@ -7,14 +7,11 @@ type: quest
 locations:
 questGivers:
 campaign: <% campaign %>
-creation_date: <% tp.date.now("YYYY-MM-DD") %>
 description: ""
 tags: <% campaignTag %>
 completed: false
 
 ---
-# [<% tp.file.title %>](<% tp.file.title %>)
-
 ## description
 
 ## content

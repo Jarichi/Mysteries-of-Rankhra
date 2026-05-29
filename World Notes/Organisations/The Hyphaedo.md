@@ -1,6 +1,31 @@
-#group 
+---
+type: organisation
+description: Small bandit collective
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
+---
+## Description
 The Small Bandits are a collection of minor groups that just do their own thing and indiscriminately attacks targets within the Third and Second domain. They are just causing a ruckus everywhere and aren't anything serious for now.
 
 All smaller groups have a symbol that is based on the symbol for the Large Criminal Organisation. Most of them run hideouts and such.
 
 Seeral of these groups of small bandits are responsible for suppressing several Simic families, and 
+## Facts
+
+-  
+
+## Members
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

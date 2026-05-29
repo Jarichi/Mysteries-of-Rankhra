@@ -1,4 +1,16 @@
-#npc 
+---
+type: NPC
+locations:
+organisation:
+  - - F.I.Z.
+campaign: Campaign 1 - Mysteries of Rankhra
+race: Changeling
+gender: Non-binary
+aliases:
+tags: campaign-1---mysteries-of-rankhra
+---
+![](./Templates-attachments/npc-placeholder.png)
+## Description
 Semyon Voltaire is a human (?) wizard who specialises in the school of divination. He is the current leader of [[F.I.Z.]] and mostly operates outside of the public view. Despite not originally being from the city, he possesses a large amount of knowledge on everything going on within the city, going as far back as its beginnings. He is [[Verdant Selemno]] partner in both senses of the word, and currently lives within the [[Third Domain]]. Semyon is also able to locate the Concept of Change, being the only person to do so, due to being an [[Envoys of Creation|Envoy of Creation]]
 .
 ## History
@@ -21,3 +33,24 @@ Realising that this information was only worth so much, he made the beginnings o
 This is when he found out about Verdant and observed them, and interlinks with their backstory. Kinda want him to be in love with Verdant as well, and might let the party decide if they wanna romance them hmm
 
 I dont want him to be of high descent, so He did not enter the first or second domain, and I think I want him to kind of enter the third domain where he learned what he knows now. I don't really know how I want to write him further tho. Might need to look into this later... He is a changeling tho, who took on the form of a human and ascended to leader of the agency. He obv came from the ciry of change which he fled for reasons, and ended up in zal aata. He probably wasnt as successful in his career which caused him to go to the 3rd domain. here, he was more successful due to what the 3rd means. (in the sense that information has avlue and money doesnt exist). He mightve been an elusive criminal once, who eventually got caught by the former leader of the agency and got enlisted.
+
+## Skills
+
+-  
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(questGivers, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

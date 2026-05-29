@@ -1,22 +1,40 @@
-#location 
+---
+type: location
+description: "Ancient city with a mysterious temple"
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
 
-## Basic Info
-### Etymology
-The name Zal'Aata comes from somewhere. Most likely, Zal is derived from "flow" and Aata is the general word for City.
-### Origin and general information
+---
+```leaflet
+id: Untitled-location-map
+image: ./Templates-attachments/location-placeholder.jpg
+lat: 50%
+long: 50%
+minZoom: 5
+maxZoom: 10
+defaultZoom: 9
+scale: 1
+lock: true
+```
+
+## Description
 Ancient texts and legends speak of a mysterious temple, shrouded in the mists of time and whispered to be the wellspring of life itself. This enigmatic landmark mysteriously provides a limitless supply of water within certain bounds. Within these limits, the city Zal'Aata was founded, making use of the mysterious powers of the temple - dubbed [[Rankhra]] by its denizens, signifying the life-giving properties of the temple - and developing into a stable and prosperous metropolis, brimming with people and community.
-
 
 Founded around 500 years ago, Zal'Aata quickly evolved from a humble farming settlement to a bustling metropolis, harnessing the mystical powers of Rankhra. The city has been a major part in the production of flax and hemp which aided its development into the industrial steampunk age. This also boosted the economy and as such turned it into a major export trade centre. Considering Zal'Aata is relatively close to the [[Phiaro Channel]], this allowed for sea trading to happen easily. Generally throughout the city, a steady burst of magical energy can be detected, coming from the temple itself. This aided the religious groups in their story writing and may be regarded as a possible explanation for divine influence.
 
 Due to the relentless desert heat, the denizens of Zal'Aata adapted to a nocturnal lifestyle. The city's architecture, designed with this in mind, allowed for a harmonious blend of both day and night activities, with intricate canal systems enabling the sustenance of life in the arid environment. Due to the heavy light pollution caused by nocturnal lifestyle, the mages of the city crafted an artificial magical [[Aether Firmament|Dome]] to simulate the night sky, among other reasons.
+### Etymology
+The name Zal'Aata comes from somewhere. Most likely, Zal is derived from "flow" and Aata is the general word for City.
 ## History
 Some five centuries past, a modest farming settlement took root on the arid soil surrounding a mysterious temple known as Rankhra. The enigmatic sanctuary, a source of life-giving waters within defined bounds, bestowed upon the settlers an unspoken promise of prosperity, which was haughtily made use of by the farmers. Recognising the need for protection against the intense desert sun, they began farming crops useful for the creation of fabrics and ropes, namely flax, to protect themselves against the intense desert sun by way of shade.
 When more discoveries were made, the village shifted its focus on developing suitable ways of generating energy. Due to the presence of unlimited water flow, they could use water mills for milling flax, for example. 
 The strategic proximity to the [[Phiaro Channel]] allows for maritime trade routes, furthering Zal'Aata's influence on the world. 
-## Structure
 
-Zal'Aata is a city divided into distinct domains, each reflecting the social and economic stratification of its populace.![[zal'aata.jpg]]These domains encompass dedicated neighbourhoods, catering to specific races and trades, contributing to the city's diverse tapestry.
+## Environment
+Zal'Aata is a city divided into distinct domains, each reflecting the social and economic stratification of its populace.
+![[zal'aata.jpg]]
+These domains encompass dedicated neighbourhoods, catering to specific races and trades, contributing to the city's diverse tapestry.
+## Districts
 ### [[Centroscopia]] - Temple area
 At the heart of Zal'Aata lies Centroscopia, the temple area, where the ruling and elite classes reside. Cloaked in the magical aura of Rankhra, this region benefits from a slowed passage of time, extending the lifespans of its fortunate denizens. The central square serves as a melting pot of races, and it houses the city's governing body. Exclusive places of worship for various religious groups surround the temple, adding to the spiritual aura.
 ### [[First Domain]] - Circle around temple area
@@ -37,3 +55,29 @@ Due to the presence of the Concept of Flow in Rankhra, the city's main method of
 ### Energy generation
 The infinite supply of water from Rankhra naturally leads to water-powered energy generation. Due to the abundance of water, the main means of power is steam. Steampunk is a thing here.
 
+
+## NPCs
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+SORT file.cday DESC
+```
+
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(locations, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

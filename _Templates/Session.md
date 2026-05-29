@@ -9,13 +9,10 @@ type: session
 campaign: <% campaign %>
 sessionNum: <% sessionNum %>
 location: 
-date: <% tp.date.now("YYYY-MM-DD") %>
 summary: ""
 tags: <% campaignTag %>
 
 ---
-# [<% tp.file.title %>](<% tp.file.title %>)
-
 ## Session Summary
 
  > [!tldr] [<% tp.file.title %>](<% tp.file.title %>)

@@ -5,7 +5,7 @@ Born into the quaint settlement of Foxglove Grove within the Feywild, the female
 
 ## Family
 
-Aki was born in [[Foxglove Grove]] her parents being [[Father]] and [[Mother]]. And has a younger sibling called [[Sibling]].
+Aki was born in [[_Foxglove Grove]] her parents being [[Father]] and [[Mother]]. And has a younger sibling called [[Sibling]].
 
 ## Desire
 

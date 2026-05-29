@@ -18,13 +18,13 @@ aliases:
 tags: <% campaignTag %>
 
 ---
+
 ![](./Templates-attachments/npc-placeholder.png)
 
 ## Description
 
-## Skills
+## Properties
 
--  
 ## Quests
 
 ```dataview

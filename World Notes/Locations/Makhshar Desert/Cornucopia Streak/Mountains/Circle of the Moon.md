@@ -1,15 +1,49 @@
-#group 
-posesses [[Concept of Growth]], in the mountain. concept of growth told them that there might be something going wrong at the concept of flow, and a chosen druid (birch elf) needs to inspect the ocncept of flow in the city
+---
+type: location
+description: "Druid circle located in the Conru Mountains"
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
 
-they received a cryptic riddle from the Concept of Growth that told them to send Twan's character into the world.
+---
+```leaflet
+id: Untitled-location-map
+image: ./Templates-attachments/location-placeholder.jpg
+lat: 50%
+long: 50%
+minZoom: 5
+maxZoom: 10
+defaultZoom: 9
+scale: 1
+lock: true
+```
 
-
-circle is in contact with the tree and this allows them to keep an eye on the entire cornucopia streak.
-
-
-The circle of the Moon is a druid circle in the [[Conru Mountains]], and they possess the [[Concept of Growth]]. They have been around for millennia. 
-
-
-The Circle of the Moon, located in a difficult-to-access valley in the midst of the [[Conru Mountains]] is a community of Druids of a large variety of races, who protect the Concept of Growth. While its existence is known in the public lore of the continent, what the Circle protects, what secrets they hide and what their history is is not known to outsiders.
+## Description
+The Circle of the Moon, located in a difficult-to-access valley in the midst of the [[Conru Mountains]] is a community of Druids of a large variety of races, who protect the [[Concept of Growth]]. While its existence is known in the public lore of the continent, what the Circle protects, what secrets they hide and what their history is is not known to outsiders.
 The Circle was created when the First Druid came across the Concept of Growth, and spoke with it. The concept asked them to create a circle to protect them and to make sure thei evergrowing influence could be transferred someplace else, lest the Cornucopia Streak and its growth run wild and engulf the desert.
 
+## Environment
+## NPCs
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+SORT file.cday DESC
+```
+
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(locations, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

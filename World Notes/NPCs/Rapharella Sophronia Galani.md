@@ -1,4 +1,16 @@
-#npc 
+---
+type: NPC
+locations:
+organisation:
+campaign: Campaign 1 - Mysteries of Rankhra
+race: Dragonborn
+gender: Female
+aliases:
+tags: campaign-1---mysteries-of-rankhra
+---
+![](./Templates-attachments/npc-placeholder.png)
+
+## Description
 Timid but intelligent dragonborn, lead publisher of the [[The Sandy Sandwich]].
 
 Originally being from the [[Conru Mountains]], Rapharella used to partake in the local news outlet as assistant writer. Since she is an artificer by trade, and did the news outlet as a passion project and is unable to channel magic through herself or a focus, she always needed magical glasses - attuned to her - to perceive magic, and mainly used he rmagical energy to channel into small trinkets useful for exploration and news reporting.
@@ -11,3 +23,23 @@ She is among the only people with the knowledge and expertise needed for creatin
 Rapharella is currently investigation the appearance of a new set of constellations, that have appeared within the city. At the moment, she has discovered that the F.I.Z has their own, separate network from the rest of the city - for intelligence purposes, obviously - and that there appears to be an uptick in spontaneous bursts of intensive communication, that immediately subsides whenever it is directly observed, and does not appear to trace back to a sensible location. This appears to be the way that [[Meteor]]s communicate with targets and remain untracable.
 
 She is also investigating a strange uptick in magical energy fluctuations surrounding the temple, specifically directly under the temple. This relates back to the shenanigans that the Engineering Collective is pulling with regards to the Concept of Flow, and the temple.
+## Skills
+
+-  
+## Quests
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+contains(type, "quest") AND
+contains(questGivers, this.file.link)
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```
