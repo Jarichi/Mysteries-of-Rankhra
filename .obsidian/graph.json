@@ -6,74 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#location  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#group  ",
-      "color": {
-        "a": 1,
-        "rgb": 11523676
-      }
-    },
-    {
-      "query": "tag:#npc tag:#pc ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:#biologics  tag:#races  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#deity  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "tag:#concept  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#event  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#object  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 0.532952182952183,
-  "lineSizeMultiplier": 0.716320166320166,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 1.42708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.645530145530146,
-  "repelStrength": 12.4948024948025,
-  "linkStrength": 0.924116424116424,
+  "centerStrength": 0,
+  "repelStrength": 18.5416666666667,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.916436380546322,
-  "close": true
+  "scale": 0.12068298015424718,
+  "close": false
 }
