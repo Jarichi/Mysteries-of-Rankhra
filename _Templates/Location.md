@@ -1,9 +1,14 @@
+<%*
+const campaign = await tp.user.selectCampaign(tp);
+const campaignTag = tp.user.toKebabCase(campaign);
+%>
 ---
 type: location
 description: ""
-campaign: <% tp.user.getThisCampaign(tp) %>
+campaign: <% campaign %>
 creation_date: <% tp.date.now("YYYY-MM-DD") %>
-tags: <% tp.user.toKebabCase(tp.user.getThisCampaign(tp)) %>
+tags: <% campaignTag %>
+
 ---
 # [<% tp.file.title %>](<% tp.file.title %>)
 
@@ -29,7 +34,7 @@ lock: true
 
 ```dataview
 TABLE file.cday as Created
-FROM "DND/<% tp.user.getThisCampaign(tp) %>" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+FROM "Campaigns/<% campaign %>" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
 SORT file.cday DESC
 ```
 
@@ -37,7 +42,7 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "DND/<% tp.user.getThisCampaign(tp) %>" where file.name != this.file.name AND 
+FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND 
 contains(type, "quest") AND
 contains(locations, this.file.link)
 SORT file.cday DESC
@@ -47,6 +52,6 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "DND/<% tp.user.getThisCampaign(tp) %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```

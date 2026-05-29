@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "_Templates",
   "templates_pairs": [
     [
       "",
@@ -11,12 +11,20 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "_Templates/Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "World Notes/NPCs",
+      "template": "_Templates/NPC.md"
+    },
+    {
+      "folder": "World Notes/Organisations",
+      "template": "_Templates/Organisation.md"
+    },
+    {
+      "folder": "World Notes/Locations",
+      "template": "_Templates/Location.md"
     }
   ],
   "enable_file_templates": false,

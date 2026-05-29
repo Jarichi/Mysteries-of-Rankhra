@@ -3,5 +3,6 @@
   "promptDelete": false,
   "readableLineLength": false,
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheck": false
 }

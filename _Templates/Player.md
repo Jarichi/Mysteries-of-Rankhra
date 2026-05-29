@@ -1,6 +1,10 @@
+<%*
+const campaign = await tp.user.selectCampaign(tp);
+const campaignTag = tp.user.toKebabCase(campaign);
+%>
 ---
 type: player
-campaign: <% tp.user.getThisCampaign(tp) %>
+campaign: <% campaign %>
 description: ""
 race: 
 gender: 
@@ -8,7 +12,8 @@ class:
 status: alive
 skills: 
 aliases: 
-tags: <% tp.user.toKebabCase(tp.user.getThisCampaign(tp)) %>
+tags: <% campaignTag %>
+
 ---
 
 # [<% tp.file.title %>](<% tp.file.title %>)
@@ -26,6 +31,6 @@ tags: <% tp.user.toKebabCase(tp.user.getThisCampaign(tp)) %>
 
 ```dataview
 TABLE file.cday as Created
-FROM "DND/<% tp.user.getThisCampaign(tp) %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```
