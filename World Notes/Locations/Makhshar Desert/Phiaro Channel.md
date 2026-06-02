@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "Large river heading through"

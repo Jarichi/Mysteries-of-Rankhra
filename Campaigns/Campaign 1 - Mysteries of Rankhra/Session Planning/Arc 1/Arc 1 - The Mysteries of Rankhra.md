@@ -1,4 +1,3 @@
-#story
 
 This document will contain details and summaries of the planned action happening in the first arc.
 ## Session 1

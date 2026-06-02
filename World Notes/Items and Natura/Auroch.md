@@ -1,4 +1,3 @@
-#biologics 
 An auroch is a beast-like, large cow creature with very large horns. They generally only graze desert plants but occasionally hunt for smaller animals.
 
 ### General Living area

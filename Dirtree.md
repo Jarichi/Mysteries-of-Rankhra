@@ -1,3 +1,4 @@
+#hidden 
 # Management and Git
 Contains homebrew content, media, and draft space
 # Campaigns

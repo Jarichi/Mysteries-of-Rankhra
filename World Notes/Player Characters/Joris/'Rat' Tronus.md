@@ -1,6 +1,5 @@
-#pc 
 
-[[The Hyphaedo]], [[Overlord]], 
+[[The Hyphaedo]]
 ## Rulings
 Mage Hand ruling:
 

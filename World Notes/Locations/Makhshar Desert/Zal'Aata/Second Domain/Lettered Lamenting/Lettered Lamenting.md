@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "Main hub of the Research Group"

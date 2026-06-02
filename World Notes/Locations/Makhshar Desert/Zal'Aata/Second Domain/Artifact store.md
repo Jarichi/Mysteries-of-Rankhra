@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "Sells artifact"

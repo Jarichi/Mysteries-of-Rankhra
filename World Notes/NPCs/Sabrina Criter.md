@@ -1,4 +1,3 @@
-
 ---
 type: NPC
 locations:

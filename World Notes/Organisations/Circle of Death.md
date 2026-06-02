@@ -1,4 +1,11 @@
-#group 
+---
+type: organisation
+description:
+campaign: Campaign 2 - Strixhaven
+tags:
+  - campaign-2---strixhaven
+---
+## Description
 - Known by the public as a sort of mythical bedtime stoty
 - Not specifically a defined circle per se, more like a red thread that connects individuals to one another
 - [This link](https://goblincoach.com/circle-of-death/) inspires
@@ -16,7 +23,7 @@ When a member is chosen they begin to experience a series of events, that are de
 Perhaps it's cool as well to let the events be ranging from generic, simple or funny things and ranging from suspiciously specific to very general.
 THis is probably best discussed with Elise.
 
-## Impact with A'luna's village
+### Impact with A'luna's village
 Perhaps the creaton of the Circle happened just before her survival
 A'luna didnt want to take part in this and decided to not take part in this event, causing her to survuve as the only person in the village
 Since she did get some knowledge about this, oerhaos this is the reason why she is so familiar wiht the soul types?
@@ -35,3 +42,23 @@ but in any case
 - My character has joined the school based on a personal recommendation of the teacher, who has suspicions of what ia the deal with this, since it is related to a massive national mystery
 	- This may lead to a greater sense of communnity and s a step for progression
 	- this manifests as a tattoo apprearing, or some event happening
+
+## Facts
+
+-  
+
+## Members
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/0. STRIXHAVEN" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/0. STRIXHAVEN" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

@@ -1,3 +1,4 @@
+#hidden 
 ## Feywild trader entry point
 
 In makhshar desert is a place with natural magic, that serves as the original travel point for feywild beings to travel to and from the feywild

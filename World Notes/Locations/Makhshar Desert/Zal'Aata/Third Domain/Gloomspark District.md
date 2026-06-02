@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "District in the Third Domain"

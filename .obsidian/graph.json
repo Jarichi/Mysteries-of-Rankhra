@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#hidden",
+  "search": "-tag:#hidden -path:_Templates ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"type\":\"location\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"type\":\"organisation\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "[\"type\":\"NPC\"]",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#deity OR tag:#concept  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.325,
-  "lineSizeMultiplier": 1.42708333333333,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 18.5416666666667,
+  "centerStrength": 0.151041666666667,
+  "repelStrength": 10.9375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12068298015424718,
-  "close": false
+  "scale": 0.3213363860503571,
+  "close": true
 }

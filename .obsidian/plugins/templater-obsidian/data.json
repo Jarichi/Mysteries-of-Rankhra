@@ -25,6 +25,14 @@
     {
       "folder": "World Notes/Locations",
       "template": "_Templates/Location.md"
+    },
+    {
+      "folder": "World Notes/Items",
+      "template": "_Templates/Item.md"
+    },
+    {
+      "folder": "World Notes/Items and Natura",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

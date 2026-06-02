@@ -1,5 +1,3 @@
-
-#artifact
 Originally designed by the Engineering Collective, the first Asteroid was created by the Newspaper Agency by [[Rapharella Sophronia Galani]].
 
 Large XL comet responsible for maintaining a [[Constellation]]

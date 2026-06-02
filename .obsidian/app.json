@@ -1,10 +1,11 @@
 {
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "promptDelete": false,
   "readableLineLength": false,
   "vimMode": true,
   "showLineNumber": true,
   "spellcheck": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true
 }

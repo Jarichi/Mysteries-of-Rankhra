@@ -1,20 +1,17 @@
 ---
 type: NPC
-locations: [[Gloomspark District]]
+locations:
 organisation:
+  - - Feywild Merchants
 campaign: Campaign 1 - Mysteries of Rankhra
-race:
+race: Kitsune
 gender: Male
 aliases:
 tags: campaign-1---mysteries-of-rankhra
-
 ---
 ![](./Templates-attachments/npc-placeholder.png)
 
 ## Description
-GUnsmith who deals with black market gunnage and also runs a cklosed marked gunshop
-[[Gloomspark District]]
-
 
 ## Skills
 

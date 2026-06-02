@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "Historical city centra of Zal'Aata"

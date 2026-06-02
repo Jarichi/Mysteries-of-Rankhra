@@ -11,7 +11,7 @@ tags: campaign-1---mysteries-of-rankhra
 ---
 ![](./Templates-attachments/npc-placeholder.png)
 ## Description
-Rubae - the Lady of River's Red - is one of the [[Envoys of Creation]], specifically for the [[concept of reflection]].  She is the manifestation of [[Marilyne]]'s curse, split off by the Concept.
+Rubae - the Lady of River's Red - is one of the [[Envoys of Creation]], specifically for the [[Concept of Reflection]].  She is the manifestation of [[Marilyne]]'s curse, split off by the Concept.
 
 BBEG for the first arc. (maybe)
 

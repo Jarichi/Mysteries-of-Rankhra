@@ -1,5 +1,4 @@
 Magical book that, every minute while reading, it deals 1d10(?) necro damage. The time while reading may differ based on the target's intelligence score, which varies the information gains from the book.
-#object 
 
 *- This isn't what I meant with "a life's work"!*
 

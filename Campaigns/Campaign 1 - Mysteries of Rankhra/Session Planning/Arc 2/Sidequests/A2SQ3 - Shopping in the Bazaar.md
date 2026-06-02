@@ -16,7 +16,7 @@
 ### Feywild Merchants
 ![[Feywild Merchants]]
 ### Weaponsmiths
- ![[Smiths of Makhshar]]
+ ![[Homebrew Content/Shops and Statblocks/Smiths of Makhshar]]
 ### Alchemists
  ![[Alchemist]]
 ![[TailorArmorer]]

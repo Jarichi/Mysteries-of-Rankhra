@@ -1,4 +1,13 @@
-#group 
+---
+type: organisation
+description:
+campaign: Campaign 1 - Mysteries of Rankhra
+tags: campaign-1---mysteries-of-rankhra
+
+---
+
+
+## Description
 **This** title is assigned to those who have essentially been chosen by the [[Concept of Flow]] to control and manage the flow of information, by any means possible. They are willing to make their own people suffer and marginalised to fulfill their duty
 Becoming an overlord subjects the participant to memory loss, that removes their goals and replaces it with the Concept's sacred direction, namely controlling the flow of information.
 
@@ -23,3 +32,18 @@ Overlords are a noteable feature of the [[Third Domain]], essentially acting as 
 - An overlord is generally some form of Warlock - they made a pact with a higher power.
 - They  are allowed to mlulticlass
 - 
+## Members
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
+SORT file.cday DESC
+```
+
+## References
+
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

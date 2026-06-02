@@ -1,4 +1,3 @@
-
 ---
 type: location
 description: "Library containing loads of knowledge about the world"

@@ -5,29 +5,25 @@ const campaign = typeof tp.user.selectCampaign === "function"
 const campaignTag = tp.user.toKebabCase(campaign);
 %>
 ---
-type: item
-locations:
+type: race
 campaign: <% campaign %>
 tags: <% campaignTag %>
 
 ---
-
-![](./Templates-attachments/npc-placeholder.png)
-
 ## Description
+
 ### History
 
-## Properties
+## Abilities
 
-## Quests
+## NPCs
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND 
-contains(type, "quest") AND
-contains(questGivers, this.file.link)
+FROM "Campaigns/<% campaign %>" where type="NPC" AND file.name != this.file.name AND (contains(race, this.file.link) OR contains(faction, this.file.link))
 SORT file.cday DESC
 ```
+
 
 ## References
 
