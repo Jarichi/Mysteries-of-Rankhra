@@ -1,6 +1,6 @@
 ---
 type: location
-description: "Safehouse in Gloomspark District"
+description: ""
 campaign: Campaign 1 - Mysteries of Rankhra
 tags: campaign-1---mysteries-of-rankhra
 
@@ -18,7 +18,7 @@ lock: true
 ```
 
 ## Description
-One of th safehouses set up by the [[F.I.Z.]] in the [[Gloomspark District]]. It is protected by [[Enra]], an elder Simic female who used to take care of starving Simic families by providing information and food for starving children, and used to be a part of one of the suppressed simic families as well.
+Gloomspark Mantle is a village located in the [[Gloomspark District]], located reasonably close to [[The Seam]].
 ## Environment
 ## NPCs
 
