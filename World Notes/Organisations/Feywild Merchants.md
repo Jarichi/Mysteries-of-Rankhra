@@ -35,7 +35,7 @@ This guise not only shields her true identity from the prying eyes of outsiders 
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
+FROM "World Notes" where type="NPC" AND file.name != this.file.name AND (contains(organisation, this.file.link) OR contains(faction, this.file.link))
 SORT file.cday DESC
 ```
 
@@ -43,6 +43,6 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "World Notes" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```

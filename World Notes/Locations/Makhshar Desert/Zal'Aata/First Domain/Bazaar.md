@@ -33,7 +33,7 @@ At the end of the cardinal pathways, a bulletin board containing advertisements 
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
+FROM "World Notes" where type="NPC" AND file.name != this.file.name AND (contains(locations, this.file.link) OR contains(location, this.file.link))
 SORT file.cday DESC
 ```
 
@@ -41,7 +41,7 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+FROM "World Notes" where file.name != this.file.name AND
 contains(type, "quest") AND
 contains(locations, this.file.link)
 SORT file.cday DESC
@@ -51,6 +51,6 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "World Notes" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```

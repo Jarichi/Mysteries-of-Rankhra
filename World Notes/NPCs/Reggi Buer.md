@@ -31,7 +31,7 @@ Fan-favourite character.
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND 
+FROM "World Notes" where file.name != this.file.name AND
 contains(type, "quest") AND
 contains(questGivers, this.file.link)
 SORT file.cday DESC
@@ -41,6 +41,6 @@ SORT file.cday DESC
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/Campaign 1 - Mysteries of Rankhra" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "World Notes" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```
