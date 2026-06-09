@@ -33,7 +33,8 @@ This district contains a collection of small towns in which people live, entrywa
 - [[Mantled Crucible]] - smithery in which most weapons are made
 
 
-
+## History
+During the construction of the sewer network, the location at which the gloomspark District is currently located, was the main sewage drain for the Eastern part of Zal'Aata. This meant that numerous people actually are familiar with
 ## Environment
 ## NPCs
 
