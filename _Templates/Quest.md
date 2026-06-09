@@ -12,18 +12,18 @@ tags: <% campaignTag %>
 completed: false
 
 ---
-## description
+## Description
 
-## content
+## Content
 
-## completion rewards
+## Completion rewards
 
 - [ ]
 
-## references
+## References
 
 ```dataview
 TABLE file.cday as Created
-FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
+FROM "World Notes" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
 SORT file.cday DESC
 ```
