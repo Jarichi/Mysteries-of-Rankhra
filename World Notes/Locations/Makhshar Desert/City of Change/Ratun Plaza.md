@@ -18,9 +18,16 @@ lock: true
 ```
 
 ## Description
-As one of the few spots in [[Yataghatay]] that remains consistent throughout Cycles, the Ratun Plaza is a reasonably small park near the entrance of the city. It consists of a single, red tree with what appears to be a small door hidden beneath the trunk
+As one of the few spots in [[Yataghatay]] that remains consistent throughout Cycles, the Ratun Plaza is a reasonably small park near the entrance of the city. It consists of a single, red tree with what appears to be a small door hidden beneath the trunk. It is one of the few places in Yataghatay that does not change throughout Cycles.
+
+## History
+When the city was founded, this plaza was the place at which [[Yael|the Concept of Change]] had made the deal with the Ancients (described in lore for yata), underneath this very tree. As such, the plaza (and consequently the city) got moulded into the Glyph for the Hold Person spell.
+Yataghatay was constructed using the shape of this glyph around it
 
 ## Environment
+[The tree](https://pin.it/2nqlM4pmW)
+The trap door only leads to something on a specific date/during a specific time window, which is hinted by 
+
 ## NPCs
 
 ```dataview
