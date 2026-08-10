@@ -34,8 +34,39 @@ The deal was struck, and all within the borders of the city - From this moment o
 Derived from the Arabic word of change and mirrored because I enjoy stealing lore from pepople who write better than I do. The cyclical nature of the name represents the "infinite" containment.
 In Zal'Aata, this city is known as Yatag'Aata.
 Formerly known as the City of Change.
+
+## A [[Cycle]]
+The natur of the deal makes the city change once per arbitrary cycle. The time delta between each cycle appears to be totally random, but there appears to be a pattern when you spell out the historical dates of when a cycle occured in seconds/minutes 
+The city keeps track of t's Cycles in the central Post house and this can serve as a nice plotpoint
 ## Environment
 Considering the everchanging nature of the city, a true, singular culture cannot be established. After every shift, the culture seems to completely reset, cycling through time periods. Despite this, certain red lines do remain after each shift, especially since the inhabitans retain their memories even though they change their demeanor.
+
+The city is divided into several different districts, which - despite the changing nature - do fulfill their original purposes.
+
+## Layout
+
+### [[Ratun Plaza]]
+- Unchanging origin plaza of the city
+- has a red tree
+### [[Gardens of Elysia (temporary name)]]
+- botanical garden which varies it's contents per cycle, with different climates, biology, etc
+- contains a teahouse which makes use.of.these contents to brew tea with various effects (or none), run by a changeling 
+-
+
+### Neighbourhood district
+- neighborhood of inhabitants for the city, the street names change once in a while, and it is styled as one time period, with appropriate materials per Cycle.
+- due to this, the locations of houses and their addresses are referred to using marked notation, with signs made inside the Ratun Plaza or.something
+- it also contains some.shops, some of which actually change their location and are only encountered when needed
+
+### Trade District
+- near the edge of the city
+- contains an outpost which facilitates trade with the outside.
+	- changelings have no issue with crossing the desert, so a changeling is generally speaking the most suitable to be a trader
+- in the city of change, mostly export occurs
+
+### Entertainment or Leisure district
+- generally themed in the theme of self-improvement and change, and contains gyms, esotericism, others 
+
 The changes can even be regarded as prophetic when they occasionally shift to a point in the future. This has been documented by scholars.
 ## NPCs
 

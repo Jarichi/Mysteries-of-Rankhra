@@ -7,5 +7,15 @@
   "spellcheck": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "app:open-settings"
+  ]
 }
