@@ -29,4 +29,10 @@ contains(questGivers, this.file.link)
 SORT file.cday DESC
 ```
 
-## References ```dataview TABLE file.cday as Created FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name) SORT file.cday DESC ```
+## References
+```dataview
+TABLE file.cday as Created
+FROM "Campaigns/<% campaign %>" where file.name != this.file.name AND
+contains(file.outlinks.file.name, this.file.name)
+SORT file.cday DESC
+```

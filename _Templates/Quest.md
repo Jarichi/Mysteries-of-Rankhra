@@ -12,15 +12,15 @@ tags: <% campaignTag %>
 completed: false
 
 ---
-## description
+## Description
 
-## content
+## Content
 
-## completion rewards
+## Completion rewards
 
 - [ ]
 
-## references
+## References
 
 ```dataview
 TABLE file.cday as Created
