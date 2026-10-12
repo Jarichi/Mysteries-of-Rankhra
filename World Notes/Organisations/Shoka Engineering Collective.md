@@ -3,14 +3,12 @@ type: organisation
 description:
 campaign: Campaign 1 - Mysteries of Rankhra
 tags: campaign-1---mysteries-of-rankhra
-
+alignment: Neutral Evil
 ---
 ## Description
-### Etymology and General Info
-Sheikah :3
-
-Alignment: probably some shade of neutral evil, since they are willing to bend laws to fulfill their own needs - being at the top of developement.
-Located within the center of Zal'Aata and lead by [[Everon Lunares]], they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[Research Group]]
+Founded by [[Someone]], the Shoka Engineering Collective aims to propel Zal'Aata to the very top of technological advancement. 
+Located within the center of Zal'Aata and lead by [[Everon Lunares]], they guide the city to the forefront of technological advancement. Within its legions dwell the region's most prominent scientists, artificers, wizards and artisans, willing to push the boundaries of what may be possible when uniting arcane magic with Steampunk technology. They also sponsor the [[Research Group]]. 
+By means of study, they also intend to make use of divine artifacts to further their knowledge.
 ## Goals
 The Shoka Engineering Collective stands as a beacon of innovation and a breeding ground for advanced technologies. Its primary goal is to propel Zal'Aata to the top of technological discoveries, ensuring that the city remains a beacon of progress and prosperity. Through exhaustive research and experimentation, the organisation continuously develops new technologies.
 

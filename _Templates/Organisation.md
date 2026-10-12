@@ -5,6 +5,7 @@ const campaignTag = tp.user.toKebabCase(campaign);
 ---
 type: organisation
 description:
+alignment:
 campaign: <% campaign %>
 tags: <% campaignTag %>
 

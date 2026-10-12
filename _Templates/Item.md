@@ -30,7 +30,6 @@ SORT file.cday DESC
 ```
 
 ## References
-
 ```dataview
 TABLE file.cday as Created
 FROM "World Notes" where file.name != this.file.name AND contains(file.outlinks.file.name, this.file.name)
