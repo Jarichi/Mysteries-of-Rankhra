@@ -1,0 +1,21 @@
+{
+  "id": "map-1792011816847-ocw8bo",
+  "name": "makshar desert",
+  "mapFilePath": "atlas-vtt/assets/makshar_desert_1792011816842_62bdvv.png",
+  "tags": [],
+  "collection": "Default",
+  "createdAt": 1792011816847,
+  "modifiedAt": 1792011816847,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "makshar desert",
+    "mapFilePath": "atlas-vtt/assets/makshar_desert_1792011816842_62bdvv.png",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/makshar_desert_1792011816842_62bdvv-9295c6f6.webp",
+    "id": "map-1792011816847-ocw8bo",
+    "createdAt": 1792011816847,
+    "modifiedAt": 1792011816847
+  }
+}

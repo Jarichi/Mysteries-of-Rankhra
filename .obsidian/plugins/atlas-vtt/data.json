@@ -1,0 +1,36 @@
+{
+  "showChangelogOnUpdate": true,
+  "changelogMajorUpdatesOnly": false,
+  "hotkeys": {},
+  "onboarding": {
+    "enabled": false,
+    "completed": {
+      "assets": true,
+      "lootSettings": true,
+      "palette": true
+    },
+    "tokenImported": true
+  },
+  "starterTokensAdded": false,
+  "laserPointer": {
+    "color": "#ff0059",
+    "size": 16
+  },
+  "diceDisplay": "full",
+  "diceColour": "light",
+  "diceFont": "medieval",
+  "experimental": {},
+  "statblockPane": {
+    "hintDismissed": false
+  },
+  "toolbar": {},
+  "localPlayerView": {
+    "showToolbar": false,
+    "showTokenNameplates": false,
+    "showNotePreviews": false,
+    "showWidgets": true,
+    "showInitiative": true,
+    "showDiceRolls": false,
+    "showCommandPalette": false
+  }
+}

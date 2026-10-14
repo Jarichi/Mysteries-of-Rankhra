@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Rye",
+    "imagePath": "atlas-vtt/assets/83ff86e0ef559ff48b6400b2626495cd_1791913894100_w14r31.webp",
+    "collection": "Default",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/83ff86e0ef559ff48b6400b2626495cd_1791913894100_w14r31-5e0ab894.webp",
+    "id": "token-1791913894104-qr2t03",
+    "createdAt": 1791913894104,
+    "modifiedAt": 1791914235762
+  }
+}

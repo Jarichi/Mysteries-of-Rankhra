@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "uid": "collection-2faaveaf735",
+  "version": 1,
+  "description": "Default collection",
+  "tags": {
+    "tokens:class": {
+      "id": "class",
+      "name": "Class",
+      "group": "tokens"
+    }
+  },
+  "settings": {
+    "conditions": [
+      {
+        "id": "dnd5e-blinded",
+        "name": "Blinded",
+        "color": "#475569",
+        "icon": "blindfold",
+        "effect": "blinded"
+      },
+      {
+        "id": "dnd5e-charmed",
+        "name": "Charmed",
+        "color": "#db2777",
+        "icon": "heart"
+      },
+      {
+        "id": "dnd5e-deafened",
+        "name": "Deafened",
+        "color": "#0891b2",
+        "icon": "hearing-disabled"
+      },
+      {
+        "id": "dnd5e-exhaustion",
+        "name": "Exhaustion",
+        "color": "#92400e",
+        "icon": "tired-eye",
+        "valued": true
+      },
+      {
+        "id": "dnd5e-frightened",
+        "name": "Frightened",
+        "color": "#7c3aed",
+        "icon": "terror"
+      },
+      {
+        "id": "dnd5e-grappled",
+        "name": "Grappled",
+        "color": "#ea580c",
+        "icon": "grab"
+      },
+      {
+        "id": "dnd5e-incapacitated",
+        "name": "Incapacitated",
+        "color": "#b91c1c",
+        "icon": "knockout"
+      },
+      {
+        "id": "dnd5e-invisible",
+        "name": "Invisible",
+        "color": "#c7d2fe",
+        "icon": "invisible",
+        "effect": "invisible"
+      },
+      {
+        "id": "dnd5e-paralyzed",
+        "name": "Paralyzed",
+        "color": "#38bdf8",
+        "icon": "frozen-body"
+      },
+      {
+        "id": "dnd5e-petrified",
+        "name": "Petrified",
+        "color": "#78716c",
+        "icon": "stoned-skull"
+      },
+      {
+        "id": "dnd5e-poisoned",
+        "name": "Poisoned",
+        "color": "#16a34a",
+        "icon": "poison"
+      },
+      {
+        "id": "dnd5e-prone",
+        "name": "Prone",
+        "color": "#d97706",
+        "icon": "foot-trip"
+      },
+      {
+        "id": "dnd5e-restrained",
+        "name": "Restrained",
+        "color": "#0d9488",
+        "icon": "imprisoned"
+      },
+      {
+        "id": "dnd5e-stunned",
+        "name": "Stunned",
+        "color": "#facc15",
+        "icon": "knocked-out-stars"
+      },
+      {
+        "id": "dnd5e-unconscious",
+        "name": "Unconscious",
+        "color": "#1e3a8a",
+        "icon": "sleepy"
+      }
+    ],
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ],
+    "gridDefaults": {
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "diagonalRule": "equidistant",
+      "coneAngle": 53.13,
+      "abstractRangeBands": []
+    },
+    "defaultWidgets": {
+      "hpBar": true,
+      "stressBar": false
+    },
+    "dice": {
+      "defaultRoll": "1d20",
+      "crit": "natural"
+    },
+    "customCreatureFilters": [],
+    "hiddenCreatureFilters": [],
+    "systemPresetId": "builtin:dnd5e",
+    "lootBases": []
+  },
+  "createdAt": 0,
+  "modifiedAt": 1791840418111
+}
