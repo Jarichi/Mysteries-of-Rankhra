@@ -5,12 +5,12 @@
       "relativePath": "/"
     },
     {
-      "name": "1 Management and Git",
-      "relativePath": "1 Management and Git"
-    },
-    {
       "name": "Campaign Notes",
       "relativePath": "Campaign Notes"
+    },
+    {
+      "name": "1 Management and Git",
+      "relativePath": "1 Management and Git"
     },
     {
       "name": "World Notes",
@@ -41,10 +41,6 @@
       "relativePath": "World Notes/Deities"
     },
     {
-      "name": "PCs",
-      "relativePath": "World Notes/PCs"
-    },
-    {
       "name": "Locations and NPCs",
       "relativePath": "World Notes/Locations and NPCs"
     },
@@ -53,12 +49,16 @@
       "relativePath": "World Notes/Natura"
     },
     {
-      "name": "Templates",
-      "relativePath": "Campaign Notes/Character Sheets/Templates"
+      "name": "PCs",
+      "relativePath": "World Notes/PCs"
     },
     {
       "name": "Merchants",
       "relativePath": "Campaign Notes/Generics/Merchants"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Campaign Notes/Character Sheets/Templates"
     },
     {
       "name": "Arc 1",
@@ -77,24 +77,24 @@
       "relativePath": "World Notes/Deities/Concepts"
     },
     {
-      "name": "Makhshar Desert",
-      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert"
-    },
-    {
       "name": "Feywild",
       "relativePath": "World Notes/Locations and NPCs/Feywild"
+    },
+    {
+      "name": "Makhshar Desert",
+      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert"
     },
     {
       "name": "Cynthia",
       "relativePath": "World Notes/PCs/Cynthia"
     },
     {
-      "name": "Joris",
-      "relativePath": "World Notes/PCs/Joris"
-    },
-    {
       "name": "Daan",
       "relativePath": "World Notes/PCs/Daan"
+    },
+    {
+      "name": "Joris",
+      "relativePath": "World Notes/PCs/Joris"
     },
     {
       "name": "Robin",
@@ -121,6 +121,14 @@
       "relativePath": "Campaign Notes/Session Planning/Arc 1/Quests"
     },
     {
+      "name": "Foxglove Grove",
+      "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove"
+    },
+    {
+      "name": "Cornucopia Streak",
+      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak"
+    },
+    {
       "name": "City of Change",
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/City of Change"
     },
@@ -129,20 +137,16 @@
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Hunter Settlement"
     },
     {
-      "name": "Cornucopia Streak",
-      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak"
-    },
-    {
       "name": "Zal'Aata",
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata"
     },
     {
-      "name": "Foxglove Grove",
-      "relativePath": "World Notes/Locations and NPCs/Feywild/Foxglove Grove"
-    },
-    {
       "name": "her files",
       "relativePath": "World Notes/PCs/Cynthia/her files"
+    },
+    {
+      "name": "Mountains",
+      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains"
     },
     {
       "name": "Centroscopia",
@@ -161,10 +165,6 @@
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Third Domain"
     },
     {
-      "name": "Mountains",
-      "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Cornucopia Streak/Mountains"
-    },
-    {
       "name": "Lettered Lamenting",
       "relativePath": "World Notes/Locations and NPCs/Makhshar Desert/Zal'Aata/Second Domain/Lettered Lamenting"
     },
@@ -180,6 +180,11 @@
       "relativePath": "metadata.json"
     },
     {
+      "name": "Marcus.pdf",
+      "basename": "Marcus",
+      "relativePath": "Campaign Notes/Character Sheets/Marcus.pdf"
+    },
+    {
       "name": "Telas Muses.pdf",
       "basename": "Telas Muses",
       "relativePath": "Campaign Notes/Character Sheets/Telas Muses.pdf"
@@ -190,19 +195,14 @@
       "relativePath": "Campaign Notes/Character Sheets/Salina Clerice.pdf"
     },
     {
-      "name": "Marcus.pdf",
-      "basename": "Marcus",
-      "relativePath": "Campaign Notes/Character Sheets/Marcus.pdf"
+      "name": "Reggi Buer.pdf",
+      "basename": "Reggi Buer",
+      "relativePath": "Campaign Notes/Character Sheets/Reggi Buer.pdf"
     },
     {
       "name": "Verdant Selemno.pdf",
       "basename": "Verdant Selemno",
       "relativePath": "Campaign Notes/Character Sheets/Verdant Selemno.pdf"
-    },
-    {
-      "name": "Reggi Buer.pdf",
-      "basename": "Reggi Buer",
-      "relativePath": "Campaign Notes/Character Sheets/Reggi Buer.pdf"
     },
     {
       "name": "session 9 - hoem.png",
@@ -225,9 +225,9 @@
       "relativePath": "1 Management and Git/Images/zal'aata.jpg"
     },
     {
-      "name": "auroch_oasis_bmap.jpg",
-      "basename": "auroch_oasis_bmap",
-      "relativePath": "1 Management and Git/Images/Bttlemaps/auroch_oasis_bmap.jpg"
+      "name": "Story board.canvas",
+      "basename": "Story board",
+      "relativePath": "Campaign Notes/Session Planning/Arc 1/Story board.canvas"
     },
     {
       "name": "badawi_tribe_bmap.jpg",
@@ -235,9 +235,9 @@
       "relativePath": "1 Management and Git/Images/Bttlemaps/badawi_tribe_bmap.jpg"
     },
     {
-      "name": "Story board.canvas",
-      "basename": "Story board",
-      "relativePath": "Campaign Notes/Session Planning/Arc 1/Story board.canvas"
+      "name": "auroch_oasis_bmap.jpg",
+      "basename": "auroch_oasis_bmap",
+      "relativePath": "1 Management and Git/Images/Bttlemaps/auroch_oasis_bmap.jpg"
     },
     {
       "name": "Hunter Back.pdf",
@@ -250,24 +250,24 @@
       "relativePath": "World Notes/PCs/Daan/Hunter_Front.pdf"
     },
     {
-      "name": "Aki Back.pdf",
-      "basename": "Aki Back",
-      "relativePath": "World Notes/PCs/Robin/Aki Back.pdf"
-    },
-    {
       "name": "Ratronus Front.pdf",
       "basename": "Ratronus Front",
       "relativePath": "World Notes/PCs/Joris/Ratronus Front.pdf"
     },
     {
-      "name": "Aki Front.pdf",
-      "basename": "Aki Front",
-      "relativePath": "World Notes/PCs/Robin/Aki Front.pdf"
+      "name": "Aki Back.pdf",
+      "basename": "Aki Back",
+      "relativePath": "World Notes/PCs/Robin/Aki Back.pdf"
     },
     {
       "name": "Character Sheet_BACK_EDITABLE.pdf",
       "basename": "Character Sheet_BACK_EDITABLE",
       "relativePath": "World Notes/PCs/Joris/Character Sheet_BACK_EDITABLE.pdf"
+    },
+    {
+      "name": "Aki Front.pdf",
+      "basename": "Aki Front",
+      "relativePath": "World Notes/PCs/Robin/Aki Front.pdf"
     },
     {
       "name": "Chrone Front.pdf",
@@ -280,24 +280,24 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_ARTIFICER_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_BACK-RANGER-BM_EDITABLE.pdf",
-      "basename": "Character Sheet_BACK-RANGER-BM_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK-RANGER-BM_EDITABLE.pdf"
-    },
-    {
       "name": "Character Sheet_BACK-COMPANION_EDITABLE.pdf",
       "basename": "Character Sheet_BACK-COMPANION_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK-COMPANION_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_BACK-FAMILIAR_EDITABLE.pdf",
-      "basename": "Character Sheet_BACK-FAMILIAR_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK-FAMILIAR_EDITABLE.pdf"
+      "name": "Character Sheet_BACK-RANGER-BM_EDITABLE.pdf",
+      "basename": "Character Sheet_BACK-RANGER-BM_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK-RANGER-BM_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_BACK_EDITABLE.pdf",
       "basename": "Character Sheet_BACK_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_BACK-FAMILIAR_EDITABLE.pdf",
+      "basename": "Character Sheet_BACK-FAMILIAR_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BACK-FAMILIAR_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_BARBARIAN_EDITABLE.pdf",
@@ -315,14 +315,14 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CASTER B-MULTICLASS_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_BLOOD HUNTER_EDITABLE.pdf",
-      "basename": "Character Sheet_BLOOD HUNTER_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BLOOD HUNTER_EDITABLE.pdf"
-    },
-    {
       "name": "Character Sheet_CASTER A_EDITABLE.pdf",
       "basename": "Character Sheet_CASTER A_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CASTER A_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_BLOOD HUNTER_EDITABLE.pdf",
+      "basename": "Character Sheet_BLOOD HUNTER_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_BLOOD HUNTER_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_CASTER A-MULTICLASS_EDITABLE.pdf",
@@ -335,21 +335,6 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CASTER B_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_COOK_EDITABLE.pdf",
-      "basename": "Character Sheet_COOK_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_COOK_EDITABLE.pdf"
-    },
-    {
-      "name": "Character Sheet_CLERIC_EDITABLE.pdf",
-      "basename": "Character Sheet_CLERIC_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CLERIC_EDITABLE.pdf"
-    },
-    {
-      "name": "Character Sheet_FIGHTER-BM_EDITABLE.pdf",
-      "basename": "Character Sheet_FIGHTER-BM_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_FIGHTER-BM_EDITABLE.pdf"
-    },
-    {
       "name": "Character Sheet_CASTER C-MULTICLASS_EDITABLE.pdf",
       "basename": "Character Sheet_CASTER C-MULTICLASS_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CASTER C-MULTICLASS_EDITABLE.pdf"
@@ -358,6 +343,21 @@
       "name": "Character Sheet_CASTER C_EDITABLE.pdf",
       "basename": "Character Sheet_CASTER C_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CASTER C_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_CLERIC_EDITABLE.pdf",
+      "basename": "Character Sheet_CLERIC_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_CLERIC_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_COOK_EDITABLE.pdf",
+      "basename": "Character Sheet_COOK_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_COOK_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_FIGHTER-BM_EDITABLE.pdf",
+      "basename": "Character Sheet_FIGHTER-BM_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_FIGHTER-BM_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_FIGHTER-EK_EDITABLE.pdf",
@@ -370,11 +370,6 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_FIGHTER-GS_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_HALF CASTER-MULTICLASS_EDITABLE.pdf",
-      "basename": "Character Sheet_HALF CASTER-MULTICLASS_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_HALF CASTER-MULTICLASS_EDITABLE.pdf"
-    },
-    {
       "name": "Character Sheet_FIGHTER_EDITABLE.pdf",
       "basename": "Character Sheet_FIGHTER_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_FIGHTER_EDITABLE.pdf"
@@ -385,19 +380,19 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_DRUID_EDITABLE.pdf"
     },
     {
+      "name": "Character Sheet_HALF CASTER-MULTICLASS_EDITABLE.pdf",
+      "basename": "Character Sheet_HALF CASTER-MULTICLASS_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_HALF CASTER-MULTICLASS_EDITABLE.pdf"
+    },
+    {
       "name": "Character Sheet_HALF CASTER_EDITABLE.pdf",
       "basename": "Character Sheet_HALF CASTER_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_HALF CASTER_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_PALADIN_EDITABLE.pdf",
-      "basename": "Character Sheet_PALADIN_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_PALADIN_EDITABLE.pdf"
-    },
-    {
-      "name": "Character Sheet_MONK_EDITABLE.pdf",
-      "basename": "Character Sheet_MONK_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_MONK_EDITABLE.pdf"
+      "name": "Character Sheet_MARTIAL_EDITABLE.pdf",
+      "basename": "Character Sheet_MARTIAL_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_MARTIAL_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_PUGILIST_EDITABLE.pdf",
@@ -405,9 +400,9 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_PUGILIST_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_MARTIAL_EDITABLE.pdf",
-      "basename": "Character Sheet_MARTIAL_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_MARTIAL_EDITABLE.pdf"
+      "name": "Character Sheet_MONK_EDITABLE.pdf",
+      "basename": "Character Sheet_MONK_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_MONK_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_MARTIAL-MULTICLASS_EDITABLE.pdf",
@@ -420,19 +415,9 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_ROGUE-AT_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_SORCERER_EDITABLE.pdf",
-      "basename": "Character Sheet_SORCERER_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_SORCERER_EDITABLE.pdf"
-    },
-    {
-      "name": "Character sheet_RANGER_EDITABLE.pdf",
-      "basename": "Character sheet_RANGER_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character sheet_RANGER_EDITABLE.pdf"
-    },
-    {
-      "name": "Character Sheet_UA_MYSTIC_EDITABLE.pdf",
-      "basename": "Character Sheet_UA_MYSTIC_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_UA_MYSTIC_EDITABLE.pdf"
+      "name": "Character Sheet_PALADIN_EDITABLE.pdf",
+      "basename": "Character Sheet_PALADIN_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_PALADIN_EDITABLE.pdf"
     },
     {
       "name": "Character sheet_RANGER-BM_EDITABLE.pdf",
@@ -440,9 +425,24 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character sheet_RANGER-BM_EDITABLE.pdf"
     },
     {
+      "name": "Character sheet_RANGER_EDITABLE.pdf",
+      "basename": "Character sheet_RANGER_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character sheet_RANGER_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_SORCERER_EDITABLE.pdf",
+      "basename": "Character Sheet_SORCERER_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_SORCERER_EDITABLE.pdf"
+    },
+    {
       "name": "Character Sheet_ROGUE_EDITABLE.pdf",
       "basename": "Character Sheet_ROGUE_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_ROGUE_EDITABLE.pdf"
+    },
+    {
+      "name": "Character Sheet_UA_MYSTIC_EDITABLE.pdf",
+      "basename": "Character Sheet_UA_MYSTIC_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_UA_MYSTIC_EDITABLE.pdf"
     },
     {
       "name": "Character Sheet_UA_REVISED RANGER_EDITABLE.pdf",
@@ -450,19 +450,14 @@
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_UA_REVISED RANGER_EDITABLE.pdf"
     },
     {
-      "name": "Character Sheet_UA_REVISED RANGER-BM_EDITABLE.pdf",
-      "basename": "Character Sheet_UA_REVISED RANGER-BM_EDITABLE",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_UA_REVISED RANGER-BM_EDITABLE.pdf"
-    },
-    {
       "name": "Character Sheet_WARLOCK_EDITABLE.pdf",
       "basename": "Character Sheet_WARLOCK_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_WARLOCK_EDITABLE.pdf"
     },
     {
-      "name": "One Download - EDITABLE SHEETS.rar",
-      "basename": "One Download - EDITABLE SHEETS",
-      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/One Download - EDITABLE SHEETS.rar"
+      "name": "Character Sheet_UA_REVISED RANGER-BM_EDITABLE.pdf",
+      "basename": "Character Sheet_UA_REVISED RANGER-BM_EDITABLE",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_UA_REVISED RANGER-BM_EDITABLE.pdf"
     },
     {
       "name": "Optional Sheet_ABILITY SHEET_EDITABLE.pdf",
@@ -473,6 +468,11 @@
       "name": "Character Sheet_WIZARD_EDITABLE.pdf",
       "basename": "Character Sheet_WIZARD_EDITABLE",
       "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/Character Sheet_WIZARD_EDITABLE.pdf"
+    },
+    {
+      "name": "One Download - EDITABLE SHEETS.rar",
+      "basename": "One Download - EDITABLE SHEETS",
+      "relativePath": "Campaign Notes/Character Sheets/Templates/456029-One_Download_-_EDITABLE_SHEETS/One Download - EDITABLE SHEETS.rar"
     },
     {
       "name": "Optional Sheet_SPELL SHEET-A_EDITABLE.pdf",
